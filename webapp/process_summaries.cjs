@@ -105,7 +105,7 @@ const processFiles = async () => {
                 content,
                 description,
                 readingTime,
-                epubPath: `/data/epubs/${file.id}.epub`
+                epubPath: `data/epubs/${file.id}.epub`
             });
         } catch (error) {
             console.error(`Error processing ${file.path}:`, error.message);

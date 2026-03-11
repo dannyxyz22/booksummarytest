@@ -10,7 +10,7 @@ function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/data/summaries.json')
+    fetch('data/summaries.json')
       .then(res => res.json())
       .then(data => {
         setSummaries(data);

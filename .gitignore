@@ -1,24 +1,34 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
-
-node_modules
-dist
-dist-ssr
+# Node
+node_modules/
+dist/
+dist-ssr/
 *.local
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
+# IDE
+.vscode/
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+/webapp/node_modules/
+/webapp/dist/
+/webapp/public/data/epubs/
+/webapp/public/data/summaries.json
+
+# Archive/Temp files
+/batches/
+/books/
+*1.md
+*2.md
+*3.md
+*4.md
+*5.md
+7403-full-summary.md

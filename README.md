@@ -1,6 +1,14 @@
-# Book Summarizer Web App
+# Book Summarizer & Library
 
-Uma plataforma elegante e minimalista para leitura de resumos de livros, com suporte a exportação em PDF e EPUB.
+Um projeto completo de curadoria literária e plataforma de leitura. Este repositório contém os resumos originais misticos e a aplicação web para leitura imersiva.
+
+## Estrutura do Projeto
+
+- `/webapp`: Aplicação React/Vite (o leitor imersivo).
+- `/*Summary.md`: Resumos consolidados prontos para processamento.
+- `/summaries`: Versões finais e refinadas dos textos.
+- `/archive`: Histórico de processamento e arquivos temporários.
+- `.gemini/skills`: Instruções e regras de estilo para a IA.
 
 ## Funcionalidades
 - **Design Editorial**: Estética refinada com fontes Cinzel e Crimson Text.
