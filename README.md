@@ -18,9 +18,16 @@ Um projeto completo de curadoria literária e plataforma de leitura. Este reposi
 
 ## Desenvolvimento
 
+**Importante**: Todos os comandos de desenvolvimento e deploy devem ser executados dentro da pasta `/webapp`.
+
 Para rodar o projeto localmente:
 
-1. Instale as dependências:
+1. Entre na pasta da aplicação:
+   ```bash
+   cd webapp
+   ```
+
+2. Instale as dependências:
    ```bash
    npm install
    ```
