@@ -31,6 +31,13 @@ const summaryFiles = [
         title: 'Diálogo (Versão Blink)',
         author: 'Santa Catarina de Sena',
         cover: 'https://images.unsplash.com/photo-1474932430478-3a7fb9065ba0?auto=format&fit=crop&q=80&w=800'
+    },
+    {
+        id: 'crescimento-santidade',
+        path: '../summaries/Faber_Progress_Summary.md',
+        title: 'O Crescimento em Santidade',
+        author: 'Frederick William Faber',
+        cover: 'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&q=80&w=800'
     }
 ];
 
