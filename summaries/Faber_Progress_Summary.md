@@ -200,15 +200,21 @@ A segunda arma é o repouso na "Graça Presente". Isso significa aceitar as circ
 
 
 
-A ociosidade espiritual é o oposto da perseverança e uma das maiores ameaças à vida devota. Ela se manifesta de sete formas principais: 1) Dissipação: a tendência de adiar deveres, agir com precipitação e fracionar o tempo sem propósito, o que destrói a paz e a presença de Deus. 2) Tristeza e Mau Humor: muitas vezes confundida com sofrimento piedoso, a tristeza é geralmente fruto do amor-próprio ferido ou da falta de mortificação exterior. Ela torna a alma covarde, amargura os sacramentos e dá ao demônio um poder imenso sobre nós.
+A ociosidade espiritual é o oposto da perseverança e uma das maiores ameaças à vida devota. Ela se manifesta de sete formas principais:
 
-O remédio contra a tristeza não é a busca por consolações mundanas, mas a fidelidade estrita aos pequenos deveres e às comunhões, mesmo na aridez. A alegria espiritual é fruto da indústria em evitar pecados veniais e da aceitação humilde das próprias falhas. Faber alerta que a tristeza espiritual é um caminho perigoso que, se não for combatido com a gratidão e a devoção a Maria ("Causa da nossa alegria"), pode levar à impenitência final, como nos casos de Caim e Judas.
+1) **Dissipação**: a tendência de adiar deveres, agir com precipitação e fracionar o tempo sem propósito, o que destrói a paz e a presença de Deus.
 
+2) **Tristeza e Mau Humor**: muitas vezes confundida com sofrimento piedoso, a tristeza é geralmente fruto do amor-próprio ferido ou da falta de mortificação exterior. Ela torna a alma covarde, amargura os sacramentos e dá ao demônio um poder imenso sobre nós. O remédio contra a tristeza não é a busca por consolações mundanas, mas a fidelidade estrita aos pequenos deveres e às comunhões, mesmo na aridez. A alegria espiritual é fruto da indústria em evitar pecados veniais e da aceitação humilde das próprias falhas. Faber alerta que a tristeza espiritual é um caminho perigoso que, se não for combatido com a gratidão e a devoção a Maria ("Causa da nossa alegria"), pode levar à impenitência final, como nos casos de Caim e Judas.
 
+3) **Preguiça ou Languidez**: um estado de entorpecimento em que resoluções são feitas e quebradas instantaneamente, gerando uma náusea de coisas espirituais.
 
-A ociosidade espiritual continua através de outras formas sutis: 3) Preguiça ou Languidez: um estado de entorpecimento em que resoluções são feitas e quebradas instantaneamente, gerando uma náusea de coisas espirituais. 4) Indústria Inútil: perder tempo com leituras dissipantes, correspondência excessiva (que alimenta laços mundanos e irrealidade) e o perigoso hábito de "construir castelos no ar". Esses sonhos de grandeza espiritual apenas desvam o coração, deixando-o fraco e vaidoso.
+4) **Indústria Inútil**: perder tempo com leituras dissipantes, correspondência excessiva (que alimenta laços mundanos e irrealidade) e o perigoso hábito de "construir castelos no ar". Esses sonhos de grandeza espiritual apenas desvam o coração, deixando-o fraco e vaidoso.
 
-5) Má gestão das recreações: a recreação é indispensável ("o arco não pode estar sempre tenso"), mas deve ser moderada e oportuna. Uma boa recreação consolida a graça e prepara a alma para novos esforços, enquanto uma má recreação dissipa o espírito. 6) Indiferença pelo uso do tempo: o tempo é a matéria-prima da eternidade e sua perda é irreparável. 7) Loquacidade: o falar excessivo enfraquece a alma. Faber nota que os santos raramente se arrependiam de silenciar, mas frequentemente de falar. A efusão do coração deve ser guardada para Deus, pois o falatório inútil é um dos maiores entraves para que a alma se torne semelhante aos santos.
+5) **Má gestão das recreações**: a recreação é indispensável ("o arco não pode estar sempre tenso"), mas deve ser moderada e oportuna. Uma boa recreação consolida a graça e prepara a alma para novos esforços, enquanto uma má recreação dissipa o espírito.
+
+6) **Indiferença pelo uso do tempo**: o tempo é a matéria-prima da eternidade e sua perda é irreparável.
+
+7) **Loquacidade**: o falar excessivo enfraquece a alma. Faber nota que os santos raramente se arrependiam de silenciar, mas frequentemente de falar. A efusão do coração deve ser guardada para Deus, pois o falatório inútil é um dos maiores entraves para que a alma se torne semelhante aos santos.
 
 
 
