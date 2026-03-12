@@ -38,6 +38,13 @@ const summaryFiles = [
         title: 'O Crescimento em Santidade',
         author: 'Frederick William Faber',
         cover: 'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&q=80&w=800'
+    },
+    {
+        id: 'crescimento-santidade-analitico',
+        path: '../summaries/resumo_crescimento_na_santidade_faber.md',
+        title: 'Crescimento na Santidade (Analítico)',
+        author: 'Frederick William Faber',
+        cover: 'https://images.unsplash.com/photo-1506784911079-509843ad660a?auto=format&fit=crop&q=80&w=800'
     }
 ];
 
