@@ -1,9 +1,15 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState, useMemo } from 'react';
 import { motion, AnimatePresence, useScroll, useSpring, useTransform } from 'framer-motion';
 import ReactMarkdown from 'react-markdown';
-import { X, ArrowLeft, Sun } from 'lucide-react';
+import remarkGfm from 'remark-gfm';
+import { X, ArrowLeft, Sun, Type } from 'lucide-react';
 
-const SummaryViewer = ({ book, onClose }) => {
+const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
+    const [book, setBook] = useState(null);
+    const [loading, setLoading] = useState(true);
+    const [error, setError] = useState(null);
+    const [fontSizeScale, setFontSizeScale] = useState(1);
+
     const containerRef = useRef(null);
     const { scrollYProgress } = useScroll({
         container: containerRef
@@ -16,6 +22,32 @@ const SummaryViewer = ({ book, onClose }) => {
     });
 
     const [percentage, setPercentage] = useState(0);
+
+    // Fetch full book data on mount
+    useEffect(() => {
+        setLoading(true);
+        fetch(`data/books/${initialBookMetadata.id}.json`)
+            .then(res => {
+                if (!res.ok) throw new Error('Não foi possível carregar o conteúdo do livro.');
+                return res.json();
+            })
+            .then(data => {
+                setBook(data);
+                setLoading(false);
+            })
+            .catch(err => {
+                console.error(err);
+                setError(err.message);
+                setLoading(false);
+            });
+    }, [initialBookMetadata.id]);
+
+    const processedContent = useMemo(() => {
+        if (!book?.content) return '';
+        return book.content
+            .replace(/---/g, '—') // em dash
+            .replace(/--/g, '–');  // en dash
+    }, [book?.content]);
 
     useEffect(() => {
         const unsubscribe = scrollYProgress.on("change", (latest) => {
@@ -32,12 +64,12 @@ const SummaryViewer = ({ book, onClose }) => {
     }, []);
 
     const getMotivation = (p) => {
-        if (p === 0) return "Iniciando a jornada...";
-        if (p < 30) return "Os primeiros passos na luz...";
-        if (p < 60) return "Aprofundando na sabedoria...";
-        if (p < 90) return "Quase ao fim da travessia...";
-        if (p < 100) return "A iluminação se aproxima...";
-        return "Jornada completa.";
+        if (p === 0) return "Início do Volume";
+        if (p < 30) return "Primeiros Capítulos";
+        if (p < 60) return "Metade da Obra";
+        if (p < 90) return "Retas Finais";
+        if (p < 100) return "Conclusão Próxima";
+        return "Fim do Volume";
     };
 
     return (
@@ -56,51 +88,75 @@ const SummaryViewer = ({ book, onClose }) => {
                 background: 'var(--bg-color)',
                 zIndex: 2000,
                 overflowY: 'auto',
-                padding: '2rem'
+                paddingTop: 'min(5vw, 2rem)',
+                paddingBottom: 'min(5vw, 2rem)',
+                paddingLeft: 'calc(min(3vw, 1rem) + 5px)',
+                paddingRight: 'calc(min(3vw, 1rem) - 5px)',
+                boxSizing: 'border-box'
             }}
         >
             {/* Progress Bar */}
-            <motion.div
-                className="no-print"
-                style={{
-                    position: 'fixed',
-                    top: 0,
-                    left: 0,
-                    right: 0,
-                    height: '3px',
-                    background: 'var(--accent-color)',
-                    transformOrigin: '0%',
-                    scaleX,
-                    zIndex: 2001,
-                    boxShadow: '0 0 10px var(--accent-glow)'
-                }}
-            />
+            {!loading && (
+                <motion.div
+                    className="no-print"
+                    style={{
+                        position: 'fixed',
+                        top: 0,
+                        left: 0,
+                        right: 0,
+                        height: '4px',
+                        background: 'var(--accent-color)',
+                        transformOrigin: '0%',
+                        scaleX,
+                        zIndex: 2001
+                    }}
+                />
+            )}
 
-            {/* Motivational Indicator */}
-            <motion.div
-                className="no-print"
-                initial={{ opacity: 0, y: -10 }}
-                animate={{ opacity: 1, y: 0 }}
-                style={{
-                    position: 'fixed',
-                    top: '12px',
-                    right: '2rem',
-                    fontSize: '0.75rem',
-                    color: 'var(--accent-color)',
-                    fontFamily: 'var(--font-header)',
-                    zIndex: 2001,
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '10px'
-                }}
-            >
-                <span style={{ opacity: 0.7 }}>{percentage}%</span>
-                <span style={{ letterSpacing: '0.1rem' }}>{getMotivation(percentage)}</span>
-                <Sun size={12} strokeWidth={3} />
-            </motion.div>
+            {/* Motivational Indicator - Desktop only */}
+            {!loading && (
+                <motion.div
+                    className="no-print motivation-indicator"
+                    initial={{ opacity: 0, y: -10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    style={{
+                        position: 'fixed',
+                        top: '12px',
+                        right: '1rem',
+                        fontSize: '0.8rem',
+                        color: 'var(--accent-color)',
+                        fontFamily: 'var(--font-sans)',
+                        fontWeight: 600,
+                        zIndex: 2001,
+                        display: 'none', // Overridden by CSS media query below
+                        alignItems: 'center',
+                        gap: '10px',
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.05rem',
+                        backgroundColor: 'rgba(247, 244, 240, 0.9)',
+                        padding: '4px 12px',
+                        borderRadius: '20px',
+                        boxShadow: '0 2px 8px rgba(0,0,0,0.05)',
+                        backdropFilter: 'blur(4px)'
+                    }}
+                >
+                    <span style={{ opacity: 0.7 }}>{percentage}%</span>
+                    <span>{getMotivation(percentage)}</span>
+                </motion.div>
+            )}
 
-            <div className="container" style={{ position: 'relative' }}>
-                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '4rem', marginTop: '1rem' }}>
+            <style>
+                {`
+                @media (min-width: 768px) {
+                    .motivation-indicator {
+                        display: flex !important;
+                    }
+                }
+                `}
+            </style>
+
+            <div className="container" style={{ position: 'relative', background: 'white', padding: 'min(8vw, 4rem)', boxShadow: '0 10px 40px rgba(0,0,0,0.05)', borderRadius: '8px', marginTop: 'min(4vw, 2rem)', marginBottom: '4rem' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 'min(6vw, 4rem)', paddingBottom: '1rem', borderBottom: '1px solid #f0f0f0', flexWrap: 'wrap', gap: '1rem' }}>
                     <motion.button
                         onClick={onClose}
                         initial={{ x: -20, opacity: 0 }}
@@ -111,112 +167,137 @@ const SummaryViewer = ({ book, onClose }) => {
                             display: 'flex',
                             alignItems: 'center',
                             gap: '8px',
-                            color: 'var(--accent-color)',
+                            color: 'var(--text-secondary)',
                             padding: '8px 0',
-                            borderBottom: '1px solid transparent'
+                            fontSize: '0.9rem',
+                            fontWeight: 600
                         }}
-                        onMouseEnter={(e) => e.target.style.borderBottom = '1px solid var(--accent-color)'}
-                        onMouseLeave={(e) => e.target.style.borderBottom = '1px solid transparent'}
                     >
-                        <ArrowLeft size={20} />
-                        <span>VOLTAR</span>
+                        <ArrowLeft size={18} />
+                        <span>VOLTAR À BIBLIOTECA</span>
                     </motion.button>
 
-                    <div style={{ display: 'flex', gap: '1rem' }} className="no-print">
-                        <motion.button
-                            onClick={() => window.print()}
-                            initial={{ x: 20, opacity: 0 }}
-                            animate={{ x: 0, opacity: 1 }}
-                            transition={{ delay: 0.2 }}
-                            style={{
-                                display: 'flex',
-                                alignItems: 'center',
-                                gap: '8px',
-                                color: 'var(--accent-color)',
-                                padding: '8px 16px',
-                                border: '1px solid var(--border-color)',
-                                borderRadius: '4px',
-                                fontSize: '0.9rem',
-                                letterSpacing: '0.1rem'
-                            }}
-                            onMouseEnter={(e) => {
-                                e.target.style.background = 'var(--accent-color)';
-                                e.target.style.color = 'var(--bg-color)';
-                            }}
-                            onMouseLeave={(e) => {
-                                e.target.style.background = 'transparent';
-                                e.target.style.color = 'var(--accent-color)';
-                            }}
-                        >
-                            <span>BAIXAR .PDF</span>
-                        </motion.button>
+                    {!loading && book && (
+                        <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'center', flexWrap: 'wrap' }} className="no-print">
+                            <div style={{ display: 'flex', alignItems: 'center', border: '1px solid #e0e0e0', borderRadius: '6px', marginRight: '0.5rem', overflow: 'hidden' }}>
+                                <button
+                                    onClick={() => setFontSizeScale(s => Math.max(0.8, s - 0.1))}
+                                    style={{ padding: '6px 10px', background: '#f9f9f9', borderRight: '1px solid #e0e0e0', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+                                    title="Diminuir fonte"
+                                >
+                                    <Type size={14} color="var(--text-secondary)" />
+                                    <span style={{ fontSize: '0.7rem', marginLeft: '2px', color: 'var(--text-secondary)', fontWeight: 'bold' }}>-</span>
+                                </button>
+                                <button
+                                    onClick={() => setFontSizeScale(s => Math.min(1.4, s + 0.1))}
+                                    style={{ padding: '6px 10px', background: '#f9f9f9', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+                                    title="Aumentar fonte"
+                                >
+                                    <Type size={16} color="var(--text-secondary)" />
+                                    <span style={{ fontSize: '0.8rem', marginLeft: '2px', color: 'var(--text-secondary)', fontWeight: 'bold' }}>+</span>
+                                </button>
+                            </div>
 
-                        <motion.a
-                            href={book.epubPath}
-                            download={`${book.title}.epub`}
-                            initial={{ x: 20, opacity: 0 }}
-                            animate={{ x: 0, opacity: 1 }}
-                            transition={{ delay: 0.3 }}
-                            style={{
-                                display: 'flex',
-                                alignItems: 'center',
-                                gap: '8px',
-                                color: 'var(--accent-color)',
-                                padding: '8px 16px',
-                                border: '1px solid var(--border-color)',
-                                borderRadius: '4px',
-                                fontSize: '0.9rem',
-                                letterSpacing: '0.1rem',
-                                textDecoration: 'none'
-                            }}
-                            onMouseEnter={(e) => {
-                                e.target.style.background = 'var(--accent-color)';
-                                e.target.style.color = 'var(--bg-color)';
-                            }}
-                            onMouseLeave={(e) => {
-                                e.target.style.background = 'transparent';
-                                e.target.style.color = 'var(--accent-color)';
-                            }}
-                        >
-                            <span>BAIXAR .EPUB</span>
-                        </motion.a>
-                    </div>
+                            <motion.button
+                                onClick={() => window.print()}
+                                initial={{ opacity: 0 }}
+                                animate={{ opacity: 1 }}
+                                style={{
+                                    padding: '8px 16px',
+                                    border: '1px solid #e0e0e0',
+                                    borderRadius: '6px',
+                                    fontSize: '0.75rem',
+                                    fontWeight: 600,
+                                    color: 'var(--text-secondary)'
+                                }}
+                            >
+                                PDF
+                            </motion.button>
+
+                            <motion.a
+                                href={book.epubPath}
+                                download={`${book.title}.epub`}
+                                initial={{ opacity: 0 }}
+                                animate={{ opacity: 1 }}
+                                style={{
+                                    padding: '8px 16px',
+                                    border: '1px solid #e0e0e0',
+                                    borderRadius: '6px',
+                                    fontSize: '0.75rem',
+                                    fontWeight: 600,
+                                    color: 'var(--text-secondary)',
+                                    textDecoration: 'none'
+                                }}
+                            >
+                                EPUB
+                            </motion.a>
+                        </div>
+                    )}
                 </div>
 
-                <motion.div
-                    initial={{ y: 20, opacity: 0 }}
-                    animate={{ y: 0, opacity: 1 }}
-                    transition={{ delay: 0.3 }}
-                    className="markdown-content"
-                    style={{
-                        maxWidth: '800px',
-                        margin: '0 auto',
-                        paddingBottom: '5rem'
-                    }}
-                >
-                    <div style={{ textAlign: 'center', marginBottom: '4rem' }}>
-                        <h1 style={{ fontSize: '3rem', marginBottom: '1rem', lineHeight: 1.1 }}>{book.title}</h1>
-                        <p style={{ color: 'var(--accent-color)', fontSize: '1.2rem', letterSpacing: '0.2rem', marginBottom: '0.5rem' }}>{book.author}</p>
-                        {book.readingTime && (
-                            <p style={{ color: 'var(--text-secondary)', fontSize: '0.9rem', opacity: 0.8 }}>
-                                Estimativa de leitura: {book.readingTime} minutos
-                            </p>
-                        )}
-                        <div style={{ width: '60px', height: '2px', background: 'var(--accent-color)', margin: '2rem auto' }} />
+                {loading ? (
+                    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '50vh', gap: '2rem' }}>
+                        <motion.div
+                            animate={{ rotate: 360 }}
+                            transition={{ repeat: Infinity, duration: 2, ease: "linear" }}
+                            style={{ 
+                                width: '40px', 
+                                height: '40px', 
+                                border: '2px solid #f0f0f0', 
+                                borderTopColor: 'var(--accent-color)', 
+                                borderRadius: '50%' 
+                            }}
+                        />
+                        <p style={{ color: 'var(--text-secondary)', fontFamily: 'var(--font-sans)', fontSize: '0.9rem', fontWeight: 500, letterSpacing: '0.1rem' }}>
+                            ABRINDO VOLUME...
+                        </p>
                     </div>
-
-                    <ReactMarkdown
-                        components={{
-                            h2: ({ node, ...props }) => <h2 style={{ marginTop: '3rem', marginBottom: '1.5rem', borderBottom: '1px solid var(--border-color)', paddingBottom: '0.5rem' }} {...props} />,
-                            p: ({ node, ...props }) => <p style={{ marginBottom: '1.5rem', fontSize: '1.15rem', color: 'rgba(232, 230, 227, 0.9)' }} {...props} />,
-                            li: ({ node, ...props }) => <li style={{ marginBottom: '0.5rem', marginLeft: '1.5rem' }} {...props} />,
-                            strong: ({ node, ...props }) => <strong style={{ color: 'var(--accent-color)', fontWeight: '600' }} {...props} />
+                ) : error ? (
+                    <div style={{ textAlign: 'center', padding: '5rem 0' }}>
+                        <p style={{ color: '#d32f2f', marginBottom: '2rem' }}>{error}</p>
+                        <button onClick={onClose} style={{ color: 'var(--accent-color)', textDecoration: 'underline' }}>Voltar para a biblioteca</button>
+                    </div>
+                ) : (
+                    <motion.div
+                        initial={{ y: 15, opacity: 0 }}
+                        animate={{ y: 0, opacity: 1 }}
+                        transition={{ delay: 0.3 }}
+                        className="markdown-content"
+                        style={{
+                            maxWidth: '750px',
+                            margin: '0 auto',
                         }}
                     >
-                        {book.content}
-                    </ReactMarkdown>
-                </motion.div>
+                        <div style={{ textAlign: 'center', marginBottom: 'min(8vw, 5rem)' }}>
+                            <h1 style={{ fontSize: `calc(2rem * ${Math.max(1, fontSizeScale * 0.9)} + 2vw)`, marginBottom: '1.5rem', lineHeight: 1.1, color: 'var(--text-primary)', wordBreak: 'break-word' }}>{book.title}</h1>
+                            <p style={{ color: 'var(--accent-color)', fontSize: `calc(1rem * ${Math.max(1, fontSizeScale * 0.9)} + 0.5vw)`, marginBottom: '1rem', fontStyle: 'italic' }}>
+                                {book.author}{book.year && <span style={{ fontStyle: 'normal', fontWeight: 800, color: 'var(--accent-gold)' }}> • {book.year}</span>}
+                            </p>
+                            {book.readingTime && (
+                                <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', fontWeight: 500, textTransform: 'uppercase', letterSpacing: '0.1rem' }}>
+                                    Estudo de {book.readingTime} minutos
+                                </p>
+                            )}
+                            <div style={{ width: '40px', height: '1px', background: 'var(--border-color)', margin: '3rem auto' }} />
+                        </div>
+
+                        <ReactMarkdown
+                            remarkPlugins={[remarkGfm]}
+                            components={{
+                                h2: ({ node, ...props }) => <h2 style={{ marginTop: '4rem', marginBottom: '1.5rem', borderBottom: '1px solid #f0f0f0', paddingBottom: '0.5rem', fontSize: `calc(1.5rem * ${fontSizeScale} + 0.5vw)`, lineHeight: 1.3 }} {...props} />,
+                                p: ({ node, ...props }) => <p style={{ marginBottom: '1.8rem', fontSize: `calc(1.1rem * ${fontSizeScale})`, color: '#333', textAlign: 'justify', lineHeight: 1.7 }} {...props} />,
+                                li: ({ node, ...props }) => <li style={{ marginBottom: '0.8rem', marginLeft: '1.5rem', fontSize: `calc(1.1rem * ${fontSizeScale})`, color: '#444', lineHeight: 1.6 }} {...props} />,
+                                strong: ({ node, ...props }) => <strong style={{ color: 'var(--text-primary)', fontWeight: '700' }} {...props} />
+                            }}
+                        >
+                            {processedContent}
+                        </ReactMarkdown>
+                    </motion.div>
+                )}
             </div>
+            <footer className="no-print" style={{ textAlign: 'center', paddingBottom: '4rem', color: 'var(--text-secondary)', fontSize: '0.9rem', opacity: 0.6 }}>
+                Fim do Volume • Summa Brevis
+            </footer>
         </motion.div>
     );
 };

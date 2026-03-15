@@ -12,6 +12,10 @@ Use this skill for summarizing large books (>100,000 words) where a single-pass 
 - **Batch Input**: ~2,500 to 3,000 words per iteration.
 - **Batch Output**: 20% to 30% of the input batch (e.g., 500 - 900 words).
 - **Format**: Portuguese (pt-BR) with standard accents.
+- **Orthography**: 
+    - Faça o resumo e depois revise a ortografia cuidadosamente.
+    - Não invente termos.
+    - Use ortografia padrão do português brasileiro.
 - **Continuity**: Process all batches without asking for user confirmation until the final result is ready.
 - **Fluidity**: Remove all technical references to the process. No mentions of "Batch", "Lote", "Compression", or "Ratio". The final text must be a cohesive, flowing narrative.
 - **Structure**:

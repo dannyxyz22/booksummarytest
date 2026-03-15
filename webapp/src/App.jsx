@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import BookCard from './components/BookCard';
 import SummaryViewer from './components/SummaryViewer';
-import { Feather, Search, X, User } from 'lucide-react';
+import { Book, Search, X, User } from 'lucide-react';
 
 // Utility to parse the URL hash
 const parseRoute = () => {
@@ -16,7 +16,7 @@ const parseRoute = () => {
   };
 };
 
-function App() {
+const App = () => {
   const [summaries, setSummaries] = useState([]);
   const [loading, setLoading] = useState(true);
   const [route, setRoute] = useState(parseRoute());
@@ -96,25 +96,25 @@ function App() {
       <div className="vintage-overlay" />
 
       <header style={{
-        padding: '3rem 2rem 2rem',
+        padding: '4rem 2rem 3rem',
         textAlign: 'center',
+        background: 'var(--header-bg)',
         borderBottom: '1px solid var(--border-color)',
-        background: 'linear-gradient(to bottom, #151515, #0d0d0d)',
         position: 'relative'
       }}>
         <motion.div
-          initial={{ opacity: 0, scale: 0.9 }}
-          animate={{ opacity: 1, scale: 1 }}
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           onClick={() => navigate('home')}
           style={{ cursor: 'pointer' }}
         >
-          <Feather size={40} color="var(--accent-color)" style={{ marginBottom: '1rem' }} />
-          <h1 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }} className="gold-gradient">
-            Sena & Cruz
+          <Book size={40} color="var(--accent-color)" style={{ marginBottom: '1rem' }} />
+          <h1 style={{ fontSize: '3.5rem', marginBottom: '0.2rem', color: 'var(--accent-color)', fontWeight: 700 }}>
+            Summa Brevis
           </h1>
-          <p style={{ letterSpacing: '0.3rem', color: 'var(--text-secondary)', fontSize: '0.7rem' }}>
-            BIBLIOTECA DE RESUMOS MÍSTICOS
+          <p style={{ letterSpacing: '0.2rem', color: 'var(--text-secondary)', fontSize: '0.85rem', fontWeight: 500, textTransform: 'uppercase' }}>
+            A Essência da Literatura Católica
           </p>
         </motion.div>
 
@@ -122,20 +122,20 @@ function App() {
           <form onSubmit={handleSearch} style={{ position: 'relative' }}>
             <input 
               type="text"
-              placeholder="Buscar por sabedoria..."
+              placeholder="Pesquisar por título, autor, assunto..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               style={{
                 width: '100%',
-                background: 'var(--panel-color)',
+                background: '#fff',
                 border: '1px solid var(--border-color)',
-                borderRadius: '25px',
+                borderRadius: '8px',
                 padding: '0.8rem 1.5rem 0.8rem 3rem',
                 color: 'var(--text-primary)',
-                fontFamily: 'var(--font-body)',
-                fontSize: '1rem',
+                fontFamily: 'var(--font-sans)',
+                fontSize: '0.95rem',
                 outline: 'none',
-                boxShadow: '0 4px 15px rgba(0,0,0,0.3)'
+                boxShadow: '0 2px 10px rgba(0,0,0,0.05)'
               }}
             />
             <Search 

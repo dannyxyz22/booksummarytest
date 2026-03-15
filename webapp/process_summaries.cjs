@@ -7,54 +7,45 @@ const summaryFiles = [
     {
         id: 'dialogo-sena',
         path: '../DialogoSenaSummary.md',
-        title: 'Diálogos de Santa Catarina de Sena',
+        title: 'Diálogos',
         author: 'Santa Catarina de Sena',
-        cover: 'https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800'
+        year: 1378,
+        cover: 'assets/covers/dialogo.png'
     },
     {
         id: 'cartas-sena',
         path: '../LetterSenaSummary.md',
-        title: 'Cartas de Santa Catarina de Sena',
+        title: 'Cartas',
         author: 'Santa Catarina de Sena',
-        cover: 'https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80&w=800'
+        year: 1380,
+        cover: 'assets/covers/cartas.png'
     },
     {
         id: 'noite-escura',
         path: '../summaries/DarkNightofSoul_RESUMO_FINAL.md',
         title: 'A Noite Escura da Alma',
         author: 'São João da Cruz',
-        cover: 'https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&q=80&w=800'
-    },
-    {
-        id: 'dialogo-blink',
-        path: '../cath-blink-DIalogo.md',
-        title: 'Diálogo (Versão Blink)',
-        author: 'Santa Catarina de Sena',
-        cover: 'https://images.unsplash.com/photo-1474932430478-3a7fb9065ba0?auto=format&fit=crop&q=80&w=800'
-    },
-    {
-        id: 'crescimento-santidade',
-        path: '../summaries/Faber_Progress_Summary.md',
-        title: 'O Crescimento em Santidade',
-        author: 'Frederick William Faber',
-        cover: 'https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&q=80&w=800'
+        year: 1579,
+        cover: 'assets/covers/noite-escura.png'
     },
     {
         id: 'crescimento-santidade-analitico',
         path: '../summaries/resumo_crescimento_na_santidade_faber.md',
-        title: 'Crescimento na Santidade (Analítico)',
-        author: 'Frederick William Faber',
-        cover: 'https://images.unsplash.com/photo-1506784911079-509843ad660a?auto=format&fit=crop&q=80&w=800'
+        title: 'Crescimento na Santidade',
+        author: 'William Faber',
+        year: 1854,
+        cover: 'assets/covers/crescimento.png'
     }
 ];
 
 const epubDir = path.join(__dirname, 'public/data/epubs');
-if (!fs.existsSync(epubDir)) {
-    fs.mkdirSync(epubDir, { recursive: true });
-}
+const booksDir = path.join(__dirname, 'public/data/books');
+
+if (!fs.existsSync(epubDir)) fs.mkdirSync(epubDir, { recursive: true });
+if (!fs.existsSync(booksDir)) fs.mkdirSync(booksDir, { recursive: true });
 
 const processFiles = async () => {
-    const summaries = [];
+    const summaryIndex = [];
 
     for (const file of summaryFiles) {
         try {
@@ -73,12 +64,10 @@ const processFiles = async () => {
                 if (line.startsWith('#')) continue;
                 if (/^[\-\*_]{3,}$/.test(line)) continue;
                 if (line.startsWith('*(') || (line.startsWith('(') && line.endsWith(')'))) continue;
-                if (line.length < 30) continue;
+                if (line.length < 150) continue;
 
-                // Take up to 400 chars for a better card preview
                 description = line.replace(/[\*_]{1,2}/g, '').substring(0, 400).trim();
 
-                // Ensure it ends nicely
                 if (line.length > 400) {
                     const lastSpace = description.lastIndexOf(' ');
                     if (lastSpace > 350) {
@@ -114,21 +103,33 @@ const processFiles = async () => {
                 });
             });
 
-            summaries.push({
+            const fullBookData = {
                 ...file,
                 content,
                 description,
                 readingTime,
                 epubPath: `data/epubs/${file.id}.epub`
-            });
+            };
+
+            // Save individual book data
+            const bookOutputPath = path.join(booksDir, `${file.id}.json`);
+            fs.writeFileSync(bookOutputPath, JSON.stringify(fullBookData, null, 2));
+
+            // Add to lightweight index (exclude content)
+            const { content: _, ...metadata } = fullBookData;
+            summaryIndex.push(metadata);
+
         } catch (error) {
             console.error(`Error processing ${file.path}:`, error.message);
         }
     }
 
-    const outputPath = path.join(__dirname, 'public/data/summaries.json');
-    fs.writeFileSync(outputPath, JSON.stringify(summaries, null, 2));
-    console.log(`Processed ${summaries.length} summaries to ${outputPath}`);
+    // Sort alphabetically by title
+    summaryIndex.sort((a, b) => a.title.localeCompare(b.title));
+
+    const indexOutputPath = path.join(__dirname, 'public/data/summaries.json');
+    fs.writeFileSync(indexOutputPath, JSON.stringify(summaryIndex, null, 2));
+    console.log(`Processed ${summaryIndex.length} summaries to index and individual files.`);
 };
 
 processFiles();

@@ -11,10 +11,44 @@ Um projeto completo de curadoria literária e plataforma de leitura. Este reposi
 - `.gemini/skills`: Instruções e regras de estilo para a IA.
 
 ## Funcionalidades
-- **Design Editorial**: Estética refinada com fontes Cinzel e Crimson Text.
-- **Progresso de Leitura**: Barra de progresso horizontal e mensagens motivacionais dinâmicas.
+- **Design Editorial**: Estética refinada de Biblioteca Clássica inspirada em encadernações de couro e tipografia de alto padrão (Cormorant Garamond e Inter).
+- **Progresso de Leitura**: Barra de progresso horizontal adaptável (mobile/desktop).
 - **Exportação**: Download de resumos em formato .PDF (via print) e .EPUB (pré-gerado).
 - **Tempo de Leitura**: Estimativa automática baseada no volume de texto.
+
+## Como Adicionar um Novo Resumo
+
+> **💡 Dica Rápida:** A forma mais fácil, rápida e recomendada de adicionar um novo volume é pedindo para mim (a Inteligência Artificial) usar a skill `PublishSummary`. Basta dizer: **"Use a skill PublishSummary para publicar um novo livro"** e eu cuidarei da capa, do código e do processamento automaticamente para você!
+
+Se preferir fazer o processo **manualmente**, para disponibilizar um novo livro no catálogo da Summa Brevis, siga estes passos:
+
+1. **Adicione o Arquivo de Texto**: 
+   - Coloque o markdown do resumo na pasta raiz do projeto ou em `/summaries` (ex: `MeuNovoResumo.md`).
+
+2. **Gere a Capa com Inteligência Artificial**:
+   - Peça ao Assistente para gerar uma imagem seguindo o prompt padrão do projeto:
+     > *"A classic Catholic theological book cover. [Cor] leather binding, gold foil stamping. Title: '[Título do Livro]'. Author: '[Nome do Autor]'. Minimalist [Símbolo] symbol in the center. Elegant, sacred, antique library aesthetic. Centered text."*
+   - Após a geração, salve a imagem na pasta `webapp/public/assets/covers/` com um nome simples (ex: `meulivro.png`).
+
+3. **Registre o Livro no Sistema**:
+   - Abra o arquivo `webapp/process_summaries.cjs`.
+   - Adicione um novo objeto na array `summaryFiles` preenchendo as informações:
+     ```javascript
+     {
+         id: 'meu-livro', // ID único para a URL e o EPUB
+         path: '../summaries/MeuNovoResumo.md', // Caminho relativo do arquivo MD
+         title: 'Título do Livro',
+         author: 'Autor do Livro',
+         cover: 'assets/covers/meulivro.png' // Caminho da capa gerada
+     }
+     ```
+
+4. **Processe as Modificações**:
+   - Dentro da pasta `webapp`, rode o comando:
+     ```bash
+     node process_summaries.cjs
+     ```
+   - Isso irá atualizar o `summaries.json` e gerar automaticamente o arquivo .EPUB para download!
 
 ## Desenvolvimento
 
@@ -63,6 +97,8 @@ Se você ainda não configurou o Git, siga estes passos no terminal:
    ```
 
 ## Deploy (GitHub Pages)
+
+**Importante**: É necessário executar os comandos dentro da pasta `/webapp`.
 
 O projeto está configurado para deploy simples via GitHub Pages.
 
