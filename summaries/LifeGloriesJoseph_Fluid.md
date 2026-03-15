@@ -79,7 +79,7 @@ O autor continua o paralelo com José do Egito, destacando que a submissão dos 
 - **Pureza e Esquecimento:** Assim como o primeiro José foi preso injustamente após provar sua castidade, o segundo José permaneceu "escondido" e quase esquecido nos primeiros séculos da Igreja. Isso ocorreu por desígnio divino, para que a divindade de Jesus e a virgindade de Maria brilhassem primeiro antes que a glória de seu protetor fosse revelada.
 - **Sabedoria e Autoridade:** Enquanto o primeiro José interpretava sonhos, o segundo participava dos próprios mistérios divinos. Pharao deu ao primeiro o anel (autoridade), o manto (glória) e a corrente de ouro (caridade), símbolos que em São José representam seu poder sobre a Igreja, seus dons espirituais e seu amor ardente.
 
-### O Comando Divino: "Ide a José" (*Ite ad José*)
+### O Comando Divino: "Ide a José" (*Ite ad Joseph*)
 1. **O Verdadeiro Pão:** Se o José do Gênesis deu pão material ao Egito, São José deu ao mundo o "Pão do Céu" (Jesus).
 2. **Clemência com os Pecadores:** Assim como José perdoou e alimentou seus irmãos que o venderam, o Santo Patriarca acolhe os pecadores arrependidos, preparando para eles um "banquete de graças" e apresentando-os ao trono de Deus.
 

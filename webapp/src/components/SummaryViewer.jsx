@@ -198,8 +198,9 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                                 </button>
                             </div>
 
-                            <motion.button
-                                onClick={() => window.print()}
+                            <motion.a
+                                href={book.pdfPath}
+                                download={`${book.title}.pdf`}
                                 initial={{ opacity: 0 }}
                                 animate={{ opacity: 1 }}
                                 style={{
@@ -208,11 +209,12 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                                     borderRadius: '6px',
                                     fontSize: '0.75rem',
                                     fontWeight: 600,
-                                    color: 'var(--text-secondary)'
+                                    color: 'var(--text-secondary)',
+                                    textDecoration: 'none'
                                 }}
                             >
                                 PDF
-                            </motion.button>
+                            </motion.a>
 
                             <motion.a
                                 href={book.epubPath}
