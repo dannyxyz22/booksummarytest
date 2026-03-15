@@ -6,7 +6,7 @@ const { marked } = require('marked');
 const summaryFiles = [
     {
         id: 'dialogo-sena',
-        path: '../DialogoSenaSummary.md',
+        path: '../CathBlinkDialogo.md',
         title: 'Diálogos',
         author: 'Santa Catarina de Sena',
         year: 1378,
@@ -35,6 +35,14 @@ const summaryFiles = [
         author: 'William Faber',
         year: 1854,
         cover: 'assets/covers/crescimento.png'
+    },
+    {
+        id: 'life-glories-joseph',
+        path: '../summaries/LifeGloriesJoseph_Fluid.md',
+        title: 'Vida e Glórias de São José',
+        author: 'Edward Healy Thompson',
+        year: 1888,
+        cover: 'assets/covers/life-glories-joseph.png'
     }
 ];
 
