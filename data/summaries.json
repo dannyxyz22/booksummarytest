@@ -42,5 +42,16 @@
     "description": "A obra se inicia descrevendo o estado de uma alma que, ansiosa pelo imenso desejo de honrar a Deus e salvar as almas, exercita-se na \"cela do autoconhecimento\". Nesse estado de introspecção espiritual, a alma reconhece a bondade de Deus em si mesma. Catarina de Sena relata que esse autoconhecimento é o princípio do amor, e que a verdadeira iluminação se dá por meio da oração humilde e contínua....",
     "readingTime": 50,
     "epubPath": "data/epubs/dialogo-sena.epub"
+  },
+  {
+    "id": "life-glories-joseph",
+    "path": "../summaries/LifeGloriesJoseph_Fluid.md",
+    "title": "Vida e Glórias de São José",
+    "author": "Edward Healy Thompson",
+    "year": 1888,
+    "cover": "assets/covers/LifeGlories.png",
+    "description": "O autor argumenta que a devoção a São José não é uma inovação moderna, mas algo cujas \"sementes\" e declarações explícitas já se encontravam nos Padres da Igreja. Embora a devoção tenha se expandido subitamente nos últimos séculos por impulso do Espírito Santo, ela repousa na posição única de José na \"economia da redenção\". O prefácio enfatiza que, como Jesus permanece Homem no Céu, os laços...",
+    "readingTime": 117,
+    "epubPath": "data/epubs/life-glories-joseph.epub"
   }
 ]
