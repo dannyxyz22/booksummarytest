@@ -1,4 +1,4 @@
-# Resumo das Cartas de Santa Catarina de Sena - Parte 1
+# Cartas de Santa Catarina de Sena
 
 ## Introdução por Vida D. Scudder
 As cartas de Santa Catarina de Sena são consideradas clássicos italianos, mas destacam-se por seu caráter não literário. Diferente de contemporâneos como Dante ou Boccaccio, Catarina não buscava a expressão estética, mas a eficácia da mensagem. Suas cartas eram ditadas, muitas vezes várias ao mesmo tempo, a secretários. Elas funcionam como uma autobiografia que revela uma mulher de vitalidade intensa, oscilando entre o apelo terno, o lamento pelos pecados do mundo e a profecia de restauração da Igreja.
@@ -40,8 +40,6 @@ Catarina descreve a "comida dos anjos" como o desejo de Deus que atrai o desejo 
 ### Para a pequena Nanna (sua sobrinha)
 Em um tom lúdico e autoritário, Catarina compara o coração a uma lâmpada: larga no topo (pensamentos celestiais) e estreita na base (desejo por coisas terrenas). O óleo é a humildade, e a luz é a fé viva. Ela adverte a menina a não buscar o louvor dos homens, que é o "óleo falso" vendido por lisonjeadores.
 
-# Resumo das Cartas de Santa Catarina de Sena - Parte 2
-
 ## Ensinamentos sobre a Vida Consagrada
 Catarina aprofunda a análise da perfeição espiritual, enfatizando que a verdadeira santidade não reside na maceração externa do corpo (penitências físicas), mas na morte da vontade própria perversa. Ela alerta que colocar a penitência como fundamento pode levar à irritação e ao julgamento dos outros. O foco deve ser o "Desejo Santo" infinito, pois Deus, sendo infinito, exige um desejo infinito, não apenas obras finitas.
 
@@ -80,8 +78,6 @@ Catarina dirige-se ao Papa com uma mistura de reverência e autoridade profétic
 
 ### O Torneio da Cruz
 Ela incentiva Gregório a retornar a Roma e a iniciar a Cruzada, usando a metáfora de um torneio onde Cristo venceu a morte pela morte. Catarina insiste que a benignidade e o amor são as únicas armas capazes de reconquistar as cidades italianas rebeladas, em vez da guerra e do rigor excessivo. Ela o chama carinhosamente de "Babbo" (Papai), encorajando-o a seguir o exemplo de Gregório Magno.
-
-# Resumo das Cartas de Santa Catarina de Sena - Parte 3
 
 ## Diplomacia e Apelos ao Papa Gregório XI
 Catarina intensifica seus esforços para reconciliar o Papa com as cidades italianas rebeldes. Ela argumenta que o coração humano é movido pelo amor e que Deus "lançou o livro do amor" ao homem através de Cristo. Portanto, o Papa deve agir com benignidade para reconquistar seus filhos, reconhecendo que muitos se rebelaram devido à conduta iníqua de governantes e pastores que ela descreve duramente como "demônios encarnados".
@@ -123,8 +119,6 @@ Escrevendo de Gênova (durante o retorno de Avignon), Catarina tenta consolar a 
 ### Para Monna Giovanna Maconi
 Catarina escreve à mãe de seu secretário, Stefano Maconi, pedindo que ela não se entristeça por "perder" o filho para o serviço de Deus. Ela afirma que Stefano agora pertence a uma família maior e que sua dedicação à causa da Igreja trará mais honra e alegria do que qualquer carreira mundana.
 
-# Resumo das Cartas de Santa Catarina de Sena - Parte 4
-
 ## Orientações para a Vida no Mundo
 Catarina dedica cartas a leigos devotos, como Messer Ristoro Canigiani, delineando um caminho de santidade possível mesmo para quem possui cargos e família.
 
@@ -164,8 +158,6 @@ Catarina relata a Fra Raimondo um tumulto em Florença onde sua vida foi ameaça
 
 ### O Desapego Materno
 Catarina continua sua pedagogia com as mães de seus discípulos, como Monna Giovanna Maconi, ensinando-as que os filhos são "empréstimos de Deus" e que a verdadeira mãe deve desejar a salvação da alma do filho acima do convívio físico.
-
-# Resumo das Cartas de Santa Catarina de Sena - Parte 5
 
 ## O Grande Cisma e a Defesa de Urbano VI
 Com a eclosão do Grande Cisma, as cartas de Catarina tornam-se documentos de defesa apaixonada da legitimidade de Urbano VI. Ela confronta os três cardeais italianos que aderiram ao antipapa, chamando-os de "flores que não exalam perfume, mas mau cheiro". Catarina argumenta que eles mesmos anunciaram a eleição canônica de Urbano e que agora, por medo ou desejo de uma vida mais fácil, abraçam uma mentira.
