@@ -1,12 +1,11 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { BookOpen } from 'lucide-react';
+import { BookOpen, User } from 'lucide-react';
 
-const BookCard = ({ book, onClick }) => {
+const BookCard = ({ book, onClick, onAuthorClick }) => {
     return (
         <motion.div
             layoutId={`card-${book.id}`}
-            onClick={() => onClick(book)}
             className="book-card"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -15,7 +14,6 @@ const BookCard = ({ book, onClick }) => {
                 background: 'var(--panel-color)',
                 borderRadius: '12px',
                 padding: '1.5rem',
-                cursor: 'pointer',
                 border: '1px solid var(--border-color)',
                 position: 'relative',
                 overflow: 'hidden'
@@ -35,16 +33,44 @@ const BookCard = ({ book, onClick }) => {
             }} />
 
             <div style={{ position: 'relative', zIndex: 1 }}>
-                <h3 style={{ fontSize: '1.25rem', marginBottom: '0.5rem' }}>{book.title}</h3>
-                <p style={{ color: 'var(--accent-color)', fontSize: '0.9rem', marginBottom: '1rem', fontStyle: 'italic' }}>
-                    {book.author}
-                </p>
+                <h3 
+                    style={{ fontSize: '1.25rem', marginBottom: '0.5rem', cursor: 'pointer' }}
+                    onClick={() => onClick(book)}
+                >
+                    {book.title}
+                </h3>
+                
+                <div 
+                    onClick={(e) => {
+                        e.stopPropagation();
+                        onAuthorClick(book.author);
+                    }}
+                    style={{ 
+                        color: 'var(--accent-color)', 
+                        fontSize: '0.9rem', 
+                        marginBottom: '1rem', 
+                        fontStyle: 'italic',
+                        cursor: 'pointer',
+                        display: 'flex',
+                        alignItems: 'center',
+                        gap: '4px',
+                        width: 'fit-content'
+                    }}
+                    className="author-link"
+                >
+                    <User size={14} />
+                    <span>{book.author}</span>
+                </div>
+
                 <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', marginBottom: '1.5rem', display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
                     {book.description}
                 </p>
 
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: 'var(--accent-color)', fontWeight: 'bold' }}>
+                    <div 
+                        onClick={() => onClick(book)}
+                        style={{ display: 'flex', alignItems: 'center', gap: '8px', color: 'var(--accent-color)', fontWeight: 'bold', cursor: 'pointer' }}
+                    >
                         <BookOpen size={18} />
                         <span>LER RESUMO</span>
                     </div>

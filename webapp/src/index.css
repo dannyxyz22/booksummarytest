@@ -107,7 +107,16 @@ button {
   }
 }
 
-/* Print Styles */
+.author-link:hover {
+  text-decoration: underline !important;
+  opacity: 0.8;
+}
+
+input:focus {
+  border-color: var(--accent-color) !important;
+  box-shadow: 0 0 15px var(--accent-glow) !important;
+}
+
 @media print {
   body {
     background: white !important;
