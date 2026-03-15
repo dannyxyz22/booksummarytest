@@ -1,7 +1,7 @@
-# Vida e Glórias de São José: Resumo Integral e Fluido
+# Vida e Glórias de São José
 
 ### O Propósito da Obra e a Devoção a São José
-O autor argumenta que a devoção a São José não é uma inovação moderna, mas algo cujas "sementes" e declarações explícitas já se encontravam nos Padres da Igreja. Embora a devoção tenha se expandido subitamente nos últimos séculos por impulso do Espírito Santo, ela repousa na posição única de José na "economia da redenção". O prefácio enfatiza que, como Jesus permanece Homem no Céu, os laços humanos estabelecidos na Terra — Maria como Sua Mãe e José como Seu Pai (adotivo/legal) — permanecem eternamente. Joseph é o esposo predestinado da Virgem, ministro nos conselhos do Altíssimo e companheiro habitual de Jesus em Nazaré.
+O autor argumenta que a devoção a São José não é uma inovação moderna, mas algo cujas "sementes" e declarações explícitas já se encontravam nos Padres da Igreja. Embora a devoção tenha se expandido subitamente nos últimos séculos por impulso do Espírito Santo, ela repousa na posição única de José na "economia da redenção". O prefácio enfatiza que, como Jesus permanece Homem no Céu, os laços humanos estabelecidos na Terra — Maria como Sua Mãe e José como Seu Pai (adotivo/legal) — permanecem eternamente. José é o esposo predestinado da Virgem, ministro nos conselhos do Altíssimo e companheiro habitual de Jesus em Nazaré.
 
 ### Capítulo I: O Decreto da Encarnação
 O primeiro capítulo situa José indissociavelmente ligado a Jesus e Maria no decreto eterno da Encarnação. Ele não foi um acréscimo posterior ao plano divino, mas parte integrante do modo como Deus escolheu vir ao mundo. Sua missão foi predestinada desde a eternidade, sendo este o fundamento de toda a sua grandeza.
@@ -16,7 +16,7 @@ A obra utiliza a tipologia bíblica para mostrar como José foi prenunciado nas 
 Os capítulos seguintes tratam da identidade histórica e espiritual de José:
 - **Linhagem Real (Cap. V e VI):** Defende-se que José era de linhagem nobre e real, o último elo na genealogia messiânica. O autor reconcilia as genealogias de Mateus e Lucas, identificando Heli com Joaquim (pai de Maria), unindo as linhas de descendência de forma gloriosa.
 - **Santificação (Cap. VII e VIII):** O autor discute a doutrina de que José foi santificado antes do nascimento e preservado da concupiscência. Sua pureza deveria refletir a dignidade daquele que tocaria e carregaria o Filho de Deus.
-- **Nascimento (Cap. IX a XI):** Joseph é visto como o arauto da Redenção, pertencendo mais ao Novo do que ao Antigo Testamento. Seu nascimento em Belém é descrito como um evento de alegria cósmica, celebrado por anjos e aguardado com esperança pelas almas no Limbo, pois sinalizava a proximidade do Messias.
+- **Nascimento (Cap. IX a XI):** José é visto como o arauto da Redenção, pertencendo mais ao Novo do que ao Antigo Testamento. Seu nascimento em Belém é descrito como um evento de alegria cósmica, celebrado por anjos e aguardado com esperança pelas almas no Limbo, pois sinalizava a proximidade do Messias.
 
 ### Desenvolvimento da Vida e Votos Sacerdotais
 - **Infância e Voto (Cap. XII a XIV):** O autor descreve a infância de José em Jerusalém e Belém, destacando que seu nome não foi acidental, mas dado por Deus com um significado profundo. Um ponto central é o **Voto de Virgindade**. Thompson sustenta que José foi o primeiro homem na história a fazer um voto de virgindade perfeita, antecipando o ideal evangélico.
@@ -29,12 +29,12 @@ Os capítulos seguintes tratam da identidade histórica e espiritual de José:
 ### Os Grandes Mistérios da Redenção
 - **Anunciação e Visitação (Cap. XXI a XXV):** Detalha-se a vida em Nazaré, a Anunciação e a posterior Visitação de Maria a Isabel. O autor argumenta que José acompanhou Maria até a casa de Zacarias e lá permaneceu até o nascimento de João Batista.
 - **A Provação e a Visão (Cap. XXVI e XXVII):** Expõe-se o sofrimento de José ao descobrir a gravidez de Maria — uma angústia baseada no respeito sagrado e na sensação de indignidade, não na dúvida. A intervenção angélica resolve o conflito, revelando a José sua missão como pai legal.
-- **A Teologia da Paternidade (Cap. XXVIII):** Este é um dos tópicos mais densos, explicando como Joseph recebeu do Pai Eterno a delegação de Seus direitos sobre o Verbo Encarnado.
+- **A Teologia da Paternidade (Cap. XXVIII):** Este é um dos tópicos mais densos, explicando como José recebeu do Pai Eterno a delegação de Seus direitos sobre o Verbo Encarnado.
 
 ### Da Manjedoura ao Egito e o Retorno a Nazaré
 - **Nascimento e Infância de Jesus (Cap. XXIX a XXXIV):** Cobre a jornada para Belém, o nascimento na gruta, a adoração dos pastores e magos, e a Apresentação no Templo. O autor discute questões cronológicas para harmonizar os Evangelhos.
 - **O Exílio (Cap. XXXV a XXXVIII):** A fuga para o Egito é vista como uma missão apostólica; onde José passa, os ídolos caem. Ele é o provedor, preceptor e guardião do Salvador no exílio.
-- **Vida Oculta e a Perda no Templo (Cap. XXXIX a XLI):** O retorno a Nazaré e os dezoito anos de submissão de Jesus a José. O autor ressalta a dignidade incomparável de Joseph ao exercer autoridade sobre o Filho de Deus.
+- **Vida Oculta e a Perda no Templo (Cap. XXXIX a XLI):** O retorno a Nazaré e os dezoito anos de submissão de Jesus a José. O autor ressalta a dignidade incomparável de José ao exercer autoridade sobre o Filho de Deus.
 
 ### Vida Interior, Morte e Glória
 - **Espiritualidade e Morte (Cap. XLII a XLV):** A vida interior de José é descrita como um estado de oração contínua e êxtase. Sua morte é apresentada como o "martírio de amor", ocorrendo no abraço de Jesus e Maria. Ele é o embaixador do Messias junto às almas no Limbo.
@@ -52,7 +52,7 @@ Deus determinou que o Verbo Encarnado nascesse de uma virgem desposada por dois 
 - **Ordens Preparatórias:** Incluem os Patriarcas (como Abraão e Davi), a ordem Levítica (que prefigurou o sacrifício de Cristo) e os Profetas. João Batista é o maior desta ordem por ser o precursor imediato.
 - **Ordens Posteriores:** Incluem a ordem Apostólica e os ministérios da Igreja. Os Apóstolos receberam graças maiores do que qualquer outro santo da dispensação cristã devido à sua proximidade com Jesus.
 
-No entanto, acima de todas essas ordens (Patriarcas, Profetas e Apóstolos) está a Ordem da União Hipostática. Esta ordem é composta exclusivamente por apenas três pessoas: **Jesus (o autor da Encarnação), Maria (a cooperadora imediata) e José (o depositário fiel)**. Joseph foi predestinado para assegurar que o mistério da Redenção ocorresse com a maior "congruidade" e decência possível.
+No entanto, acima de todas essas ordens (Patriarcas, Profetas e Apóstolos) está a Ordem da União Hipostática. Esta ordem é composta exclusivamente por apenas três pessoas: **Jesus (o autor da Encarnação), Maria (a cooperadora imediata) e José (o depositário fiel)**. José foi predestinado para assegurar que o mistério da Redenção ocorresse com a maior "congruidade" e decência possível.
 
 ### A Primazia de José sobre os Apóstolos
 O autor cita o eminente teólogo Suarez para sustentar que, embora o ministério de José seja o "menor" dentro da Ordem da União Hipostática, ele ainda assim **supera todos os outros santos e anjos** de ordens inferiores. Mesmo o ministério dos Apóstolos, que é o mais elevado na ordem da Igreja, é superado pelo de José, pois este último pertence a uma esfera superior de proximidade ministerial com o Verbo Encarnado. Como quem se aproxima mais do fogo recebe mais calor, José, por sua união íntima com Jesus e Maria em Nazaré, participou de uma abundância de graça que o coloca em um patamar de santidade e dignidade sem paralelo na Igreja.
@@ -63,7 +63,7 @@ As consequências dessa doutrina são:
 1. **Honra Excedente:** José goza de uma intimidade e confiança com Jesus e Maria que supera qualquer nobreza terrena.
 2. **Primazia sobre os Santos:** Pertencer a uma ordem superior significa que, mesmo no seu grau mais baixo, José supera os maiores santos das ordens inferiores (incluindo os Profetas e Apóstolos).
 3. **Superioridade sobre os Anjos:** Em termos de dignidade e cargo, os anjos estão sujeitos a ele como ministros. Eles o servem, consolam e obedecem prontamente, como visto nas mensagens sobre a fuga para o Egito e o retorno a Israel.
-4. **Chefe da Família Divina:** Jesus, embora Deus, escolheu submeter-se à autoridade de José. Por ser o guardião da Família original, Joseph torna-se, por extensão, o Patrono e Guardião da Igreja (o Corpo Místico de Cristo).
+4. **Chefe da Família Divina:** Jesus, embora Deus, escolheu submeter-se à autoridade de José. Por ser o guardião da Família original, José torna-se, por extensão, o Patrono e Guardião da Igreja (o Corpo Místico de Cristo).
 
 ### O Representante do Pai Eterno
 Um ponto de extrema importância é que José é o **representante visível da Paternidade Divina**. O Deus que "não divide sua glória com ninguém" comunicou seu nome e autoridade paternal a José de modo putativo. Jesus chama José de "pai", tornando a Sagrada Família uma "Trindade na Terra" (segundo São Francisco de Sales): José representa o Pai, Jesus é o Verbo e Maria representa o Amor/Espírito Santo. O autor enfatiza que Deus, na Sua perfeição, não falharia ao escolher o protetor do Seu Filho, dotando José de todas as virtudes necessárias para tão alto encargo.
@@ -79,7 +79,7 @@ O autor continua o paralelo com José do Egito, destacando que a submissão dos 
 - **Pureza e Esquecimento:** Assim como o primeiro José foi preso injustamente após provar sua castidade, o segundo José permaneceu "escondido" e quase esquecido nos primeiros séculos da Igreja. Isso ocorreu por desígnio divino, para que a divindade de Jesus e a virgindade de Maria brilhassem primeiro antes que a glória de seu protetor fosse revelada.
 - **Sabedoria e Autoridade:** Enquanto o primeiro José interpretava sonhos, o segundo participava dos próprios mistérios divinos. Pharao deu ao primeiro o anel (autoridade), o manto (glória) e a corrente de ouro (caridade), símbolos que em São José representam seu poder sobre a Igreja, seus dons espirituais e seu amor ardente.
 
-### O Comando Divino: "Ide a José" (*Ite ad Joseph*)
+### O Comando Divino: "Ide a José" (*Ite ad José*)
 1. **O Verdadeiro Pão:** Se o José do Gênesis deu pão material ao Egito, São José deu ao mundo o "Pão do Céu" (Jesus).
 2. **Clemência com os Pecadores:** Assim como José perdoou e alimentou seus irmãos que o venderam, o Santo Patriarca acolhe os pecadores arrependidos, preparando para eles um "banquete de graças" e apresentando-os ao trono de Deus.
 
@@ -98,14 +98,14 @@ O autor encerra o estudo das prefigurações citando Isaías e o Cântico dos C�
 ### A Nobreza Real de São José
 1. **Ancestralidade Ilustre:** Como herdeiro direto de Abraão, Davi e Salomão, José possuía o sangue dos maiores reis e legisladores de Judá.
 2. **Herdeiro do Trono:** Embora o sceptro tivesse sido usurpado por Herodes, José permanecia como o sucessor legítimo do trono de Davi. Sua pobreza material não diminuía sua nobreza de sangue.
-3. **Fonte da Nobreza de Jesus e Maria:** A genealogia de José serve como prova jurídica da linhagem de Maria e Jesus, conforme o costume hebraico de registrar apenas os chefes de família. Assim, Joseph "conferiu nobreza temporal ao próprio Deus" ao permitir que o Verbo Encarnado fosse reconhecido legalmente como Filho de Davi.
+3. **Fonte da Nobreza de Jesus e Maria:** A genealogia de José serve como prova jurídica da linhagem de Maria e Jesus, conforme o costume hebraico de registrar apenas os chefes de família. Assim, José "conferiu nobreza temporal ao próprio Deus" ao permitir que o Verbo Encarnado fosse reconhecido legalmente como Filho de Davi.
 
 ### Reconciliação das Genealogias (Mateus vs. Lucas)
 - **Diferença de Perspectiva:** Mateus fornece a **Genealogia Natural** (linhagem biológica). Lucas fornece a **Genealogia Legal ou por Afinidade**.
 - **Linguagem Bíblica:** Enquanto Mateus usa o termo "gerou" (*begat*), Lucas usa a expressão "era de", indicando uma relação de parentesco mais ampla.
 - **A Lei do Levirato:** Uma opinião comum entre os Doutores (como Júlio Africano) é que Jacó e Heli eram irmãos uterinos. Heli teria morrido sem filhos, e Jacó, seguindo a Lei de Moisés, teria se casado com a viúva para "dar descendência" ao irmão. Assim, José seria filho natural de Jacó, mas filho legal de Heli.
 
-O autor prepara o terreno para uma segunda opinião, considerada mais adequada para explicar a importância teológica de Maria e Jesus nessas linhagens, reforçando que Joseph é o garante jurídico da identidade messiânica de Cristo perante a nação de Israel.
+O autor prepara o terreno para uma segunda opinião, considerada mais adequada para explicar a importância teológica de Maria e Jesus nessas linhagens, reforçando que José é o garante jurídico da identidade messiânica de Cristo perante a nação de Israel.
 
 ### A Reconciliação Definitiva: Heli é Joaquim
 O autor analisa as falhas da primeira opinião (Lei do Levirato) e defende com vigor uma segunda tese, sustentada por Melchior Cano e Cornélio a Lápide. Segundo esta visão, o **Heli** mencionado por São Lucas é, na verdade, **São Joaquim**, o pai da Virgem Maria.
@@ -124,7 +124,7 @@ O autor analisa as falhas da primeira opinião (Lei do Levirato) e defende com v
 - **Pureza Incomparável:** Se Jesus quis nascer de uma Virgem (Maria), quis também ser nutrido por um guardião cuja pureza fosse imaculada (José). O autor cita Echius e Gerson para afirmar que José superou até o Apóstolo João na virtude da virgindade, tendo o "fogo carnal" completamente apagado pela graça divina.
 
 ### Superioridade sobre Anjos e Santos
-A obra reforça que Joseph ocupa o primeiro lugar na hierarquia da santidade, logo após Maria.
+A obra reforça que José ocupa o primeiro lugar na hierarquia da santidade, logo após Maria.
 - **Mais que os Anjos:** Enquanto os anjos são guardiões de homens comuns, José foi o guardião do próprio Deus e da Rainha do Céu. Giovanni di Cartagena e São Francisco de Sales afirmam que José supera os querubins em dignidade e pureza.
 - **Superioridade Apostólica:** Citando Suarez, o autor explica que o ministério de José (na Ordem da União Hipostática) é intrinsecamente superior ao ministério dos Apóstolos. Enquanto os Apóstolos conduzem os homens a Cristo, José preservou e protegeu o próprio Cristo para a humanidade. Portanto, em dignidade ministerial, José precede até mesmo São Pedro.
 - **Confirmação na Graça:** É opinião comum (sustentada por Segneri e Suarez) que José foi confirmado na graça e dotado do uso da razão ainda no ventre materno. Sua proximidade com a "Fonte de toda a Santidade" (Jesus e Maria) exigia que ele participasse dessa santidade de forma mais plena do que qualquer outro profeta ou precursor (como Jeremias ou João Batista).
@@ -133,22 +133,22 @@ A obra reforça que Joseph ocupa o primeiro lugar na hierarquia da santidade, lo
 - **Santo Afonso de Ligório:** A submissão de Jesus a José prova que a dignidade deste último é superior à de todos os santos.
 - **Isidoro Isolano:** Previu que chegaria o tempo em que o mundo reconheceria as riquezas celestiais ocultas em José, com festas magníficas e templos dedicados à sua glória.
 
-Em suma, Joseph não é apenas um "santo entre outros", mas o **Corifeu dos Patriarcas** e o protetor supremo cuja santidade é o reflexo mais próximo da perfeição de Maria e da divindade de Jesus.
+Em suma, José não é apenas um "santo entre outros", mas o **Corifeu dos Patriarcas** e o protetor supremo cuja santidade é o reflexo mais próximo da perfeição de Maria e da divindade de Jesus.
 
-### Joseph e o Louvor a João Batista
+### José e o Louvor a João Batista
 O autor resolve a questão sobre o louvor de Jesus a João Batista ("entre os nascidos de mulher não surgiu ninguém maior"). Citando Bento XIV e São Jerônimo, explica-se que este louvor era comparativo aos profetas do Antigo Testamento.
 1. **Pertença à Nova Aliança:** José pertence essencialmente ao Novo Testamento e à Ordem da União Hipostática, que é superior à ordem profética.
 2. **A Métrica da Humildade:** Jesus afirmou que o "menor no Reino dos Céus" é maior que João. O autor interpreta "menor" como "mais humilde". Sendo José superado em humildade apenas por Maria, ele é, portanto, maior que o Batista.
 
 ### O Alvorecer da Nova Era (Capítulo IX)
-São José é descrito como a **Alba** (o primeiro clarão da manhã), Maria como a **Aurora** (o brilho rosado que precede o sol) e Jesus como o **Sol de Justiça**. Joseph é o sinal de que a longa noite do erro e do pecado terminou.
-- **Transição de Leis:** Isolano e Santo Tomás afirmam que Joseph está no limite entre a Sinagoga e a Igreja. Embora nascido sob a Lei Antiga, ele pertence plenamente à Igreja Católica por sua fé, ministério e cooperação direta na Encarnação.
+São José é descrito como a **Alba** (o primeiro clarão da manhã), Maria como a **Aurora** (o brilho rosado que precede o sol) e Jesus como o **Sol de Justiça**. José é o sinal de que a longa noite do erro e do pecado terminou.
+- **Transição de Leis:** Isolano e Santo Tomás afirmam que José está no limite entre a Sinagoga e a Igreja. Embora nascido sob a Lei Antiga, ele pertence plenamente à Igreja Católica por sua fé, ministério e cooperação direta na Encarnação.
 - **Salvador da Igreja:** Ao salvar Jesus da ira de Herodes, José salvou mística e fisicamente a própria Igreja, adquirindo o direito de ser seu Patrono Universal.
 
 ### O Corifeu dos Patriarcas (Capítulo X)
 A genealogia de José não é apenas uma lista de nomes, mas a consumação de todas as virtudes e esperanças de Israel. O autor faz um paralelo entre José e seus antepassados, mostrando que ele os superou em cada aspecto:
 - **Síntese de Virtudes:** Mais obediente que Abraão, mais piedoso que Isaque, mais laborioso que Jacó, mais paciente que Jó, mais casto que o José do Egito e mais manso que Davi.
-- **O Herdeiro das Promessas:** Enquanto os outros patriarcas saudaram o Messias de longe, Joseph o recebeu nos braços. Nele, as promessas feitas a Abraão e Davi foram plenamente verificadas e comprimidas. Ele é o último dos patriarcas em cronologia, mas o primeiro em dignidade.
+- **O Herdeiro das Promessas:** Enquanto os outros patriarcas saudaram o Messias de longe, José o recebeu nos braços. Nele, as promessas feitas a Abraão e Davi foram plenamente verificadas e comprimidas. Ele é o último dos patriarcas em cronologia, mas o primeiro em dignidade.
 - **Nobreza na Pobreza:** Apesar de ser o herdeiro legítimo do trono de Judá, José nasceu pobre devido às vicissitudes do exílio e usurpações estrangeiras. Sua nobreza era de espírito e de sangue, não de riquezas materiais, tornando-o o modelo perfeito de dignidade no trabalho e na humildade.
 
 ### O Modelo para os Humildes
@@ -216,7 +216,7 @@ A obra rebate a ideia de que o trabalho de José era desprezível. Na sociedade 
 
 ### José, Modelo do Operário Cristão
 O autor consolida a tradição de que José era marceneiro (*Trabalhador em Madeira*), citando São Justino Mártir, que afirmava que Jesus fabricava arados e jugos na oficina de José. Esta tradição foi reforçada por grandes teólogos como São Tomás de Aquino e São João Crisóstomo.
-- **Provedor e Patrono:** A escolha de um termo abrangente para sua profissão permite que todos os artesãos (de metal, madeira ou pedra) o vejam como padroeiro. Em tempos de agitação social, Joseph é apresentado como o antídoto contra os "maus mestres" da luta de classes, ensinando que a verdadeira dignidade do trabalhador reside na imitação das virtudes divinas e no sustento honesto da família.
+- **Provedor e Patrono:** A escolha de um termo abrangente para sua profissão permite que todos os artesãos (de metal, madeira ou pedra) o vejam como padroeiro. Em tempos de agitação social, José é apresentado como o antídoto contra os "maus mestres" da luta de classes, ensinando que a verdadeira dignidade do trabalhador reside na imitação das virtudes divinas e no sustento honesto da família.
 
 ### O Nascimento da Aurora: Maria (Capítulo XVI)
 A providência preparou José para Maria através de sua vida oculta. A obra narra a história de Joaquim e Ana, que após décadas de esterilidade e humilhações públicas (como o repúdio do sacerdote Issacar no Templo), receberam a promessa angélica de uma descendência.
@@ -235,7 +235,7 @@ Embora dedicada à oração, Maria não vivia exclusivamente na contemplação. 
 
 ### O Matrimônio como Plano Divino
 O desposório entre Maria e José não foi um acaso histórico, mas um decreto eterno da Trindade.
-- **A Semelhança Necessária:** Para que o matrimônio fosse perfeito, era preciso haver uma profunda conformidade entre os cônjuges. Joseph foi enriquecido com dons sobrenaturais para ser o par à altura de Maria, sendo inferior apenas a ela e superior a todas as outras criaturas humanas e angélicas.
+- **A Semelhança Necessária:** Para que o matrimônio fosse perfeito, era preciso haver uma profunda conformidade entre os cônjuges. José foi enriquecido com dons sobrenaturais para ser o par à altura de Maria, sendo inferior apenas a ela e superior a todas as outras criaturas humanas e angélicas.
 - **A Voz de Maria:** Ao dizer "Teu pai e eu te procurávamos", a própria Virgem reconhece a união de seus corações e a dor compartilhada no amor por Jesus, elevando o status de José como parceiro místico em sua missão.
 
 ### A Intervenção da Sinagoga (Capítulo XVIII)
@@ -248,7 +248,7 @@ O autor explica por que os sumos sacerdotes intervieram no casamento de Maria.
 ### A Escolha de um Esposo à Altura
 Após 11 ou 12 anos de uma vida de perfeição angélica no Templo — onde alguns Padres sugerem que ela tinha acesso ao Santo dos Santos — os sacerdotes decidiram que era tempo de Maria se casar.
 - **O Silêncio de Maria:** Embora tivesse feito um voto de virgindade, Maria submeteu-se à autoridade dos sacerdotes por obediência a Deus, confiando que Ele guardaria sua pureza. O autor defende que o segredo de seu voto ficou entre ela e seu Diretor Interno (Espírito Santo), sendo confirmado por revelação que sua virgindade estaria segura no matrimônio.
-- **Joseph, o Candidato Improvável:** Ocupado em sua oficina e vivendo em total renúncia, José não buscava o casamento e considerava-se indigno de Maria, sua parente próxima. No entanto, sua santidade interior transparecia em seu semblante, chamando a atenção dos guardiões de Maria.
+- **José, o Candidato Improvável:** Ocupado em sua oficina e vivendo em total renúncia, José não buscava o casamento e considerava-se indigno de Maria, sua parente próxima. No entanto, sua santidade interior transparecia em seu semblante, chamando a atenção dos guardiões de Maria.
 
 ### O Sinal do Céu: O Cajado Florido (Capítulo XIX)
 O autor descreve a tradição do desposório, sustentada por Santo Epifânio, Alberto o Magno e Gregório Nazianzeno.
@@ -263,7 +263,7 @@ O casamento não foi apenas um arranjo formal, mas um encontro de almas consagra
 ### Dois em um Só Espírito
 O autor descreve a união de Maria e José como o contrato matrimonial mais admirável da história. O consentimento de Maria foi o maior panegírico de José, pois declarou que ele era o único homem digno de sua companhia.
 - **O Dote de Maria:** São Bernardino de Siena afirma que Maria deu a José não apenas seu afeto, mas seu próprio coração como posse. Eles eram "dois em um só espírito" (Santo Ambrósio), compartilhando uma vida divina comum.
-- **Sincronia na Missão:** O Evangelho os mostra sempre unidos: na adoração ao presépio, na apresentação no Templo e na recepção da bênção de Simeão. O Anjo Gabriel serviu como embaixador para ambos, tratando Joseph com a mesma dignidade reservada a Maria.
+- **Sincronia na Missão:** O Evangelho os mostra sempre unidos: na adoração ao presépio, na apresentação no Templo e na recepção da bênção de Simeão. O Anjo Gabriel serviu como embaixador para ambos, tratando José com a mesma dignidade reservada a Maria.
 
 ### O Debate sobre a Idade de José (Capítulo XX)
 O autor analisa as três correntes principais sobre a idade do santo:
@@ -275,7 +275,7 @@ O autor analisa as três correntes principais sobre a idade do santo:
 O autor justifica por que a arte posterior preferiu representar José como um homem idoso:
 - **Representação do Pai Eterno:** Como pai putativo, ele representa o "Antigo de Dias", exigindo uma fisionomia venerável.
 - **Sinal de Prudência:** A velhice simboliza a posse das virtudes (prudência, santidade, pureza), conforme o Livro da Sabedoria ("uma vida imaculada é a verdadeira velhice").
-- **Defesa da Virgindade:** O autor reafirma que, independentemente da idade física, Joseph viveu e morreu virgem, e a juventude nas pinturas primitivas era um protesto contra os apócrifos que negavam essa glória ao santo.
+- **Defesa da Virgindade:** O autor reafirma que, independentemente da idade física, José viveu e morreu virgem, e a juventude nas pinturas primitivas era um protesto contra os apócrifos que negavam essa glória ao santo.
 
 ### A Beleza de José e Mary
 O autor recorre à tradição e às visões de santos para descrever a aparência do Santo Patriarca.
@@ -299,25 +299,25 @@ O autor resolve a aparente contradição entre casamento e virgindade:
 O autor, seguindo Santo Tomás de Aquino, apresenta razões fundamentais para a união entre Maria e José:
 1. **Legalidade e Genealogia:** Para estabelecer a linhagem messiânica de Jesus através de Davi, contada pelo lado paterno segundo o costume hebreu.
 2. **Proteção e Apoio:** Para resguardar a honra de Maria contra calúnias e prover sustento e segurança, especialmente na futura fuga para o Egito.
-3. **Testemunho e Mistério:** Joseph serviu como testemunha irreprochável da concepção virginal. O casamento também serviu para ocultar o mistério do demônio e dos profanos até o momento oportuno.
+3. **Testemunho e Mistério:** José serviu como testemunha irreprochável da concepção virginal. O casamento também serviu para ocultar o mistério do demônio e dos profanos até o momento oportuno.
 4. **Exemplo de Humilde:** São Francisco de Sales destaca que Maria e José quiseram esconder a "pérola da virgindade" sob o véu da vida comum para evitar a vanglória.
 
 ### A Mudança para Nazaré (Capítulo XXII)
 O casal deixou Jerusalém, possivelmente fugindo da corrupção da cidade e da vigilância de Herodes, estabelecendo-se na pequena casa herdada por Maria em Nazaré.
 - **Pobreza por Escolha:** Eles dividiram a herança de Maria em três partes: uma para o Templo, uma para os pobres e apenas uma parte mínima para a administração de José.
-- **Divisão de Tarefas:** Maria encarregou-se dos trabalhos domésticos (buscando água na fonte, lavando roupas e costurando), enquanto José trabalhava em sua oficina. O autor nota que Maria nunca tocava em dinheiro; Joseph era o administrador e provedor.
+- **Divisão de Tarefas:** Maria encarregou-se dos trabalhos domésticos (buscando água na fonte, lavando roupas e costurando), enquanto José trabalhava em sua oficina. O autor nota que Maria nunca tocava em dinheiro; José era o administrador e provedor.
 
 ### O "Combate" de Humildade
-- **Joseph:** Em sua humildade, queria ser o servo de Maria.
+- **José:** Em sua humildade, queria ser o servo de Maria.
 - **Maria:** Insistiu que, pela ordem natural, o homem deveria ser o cabeça da família.
-- **Conclusão:** Joseph aceitou a liderança como um ato de obediência a Deus, e Maria submeteu-se a ele em tudo, cumprindo ambos os conselhos evangélicos de pobreza, castidade e obediência.
+- **Conclusão:** José aceitou a liderança como um ato de obediência a Deus, e Maria submeteu-se a ele em tudo, cumprindo ambos os conselhos evangélicos de pobreza, castidade e obediência.
 
 ### A Santa Casa
-O texto descreve a casa (hoje em Loreto) como uma morada simples construída contra a rocha, mantida com extrema limpeza e ordem pelas mãos de Maria. Joseph sofria ao ver a "filha de reis" realizando tarefas pesadas, mas ambos encontravam no trabalho manual um meio de santificação e união com Deus.
+O texto descreve a casa (hoje em Loreto) como uma morada simples construída contra a rocha, mantida com extrema limpeza e ordem pelas mãos de Maria. José sofria ao ver a "filha de reis" realizando tarefas pesadas, mas ambos encontravam no trabalho manual um meio de santificação e união com Deus.
 
 ### O Convívio dos Anjos na Terra
 A vida em Nazaré era marcada pela simplicidade e por uma caridade sem paralelos. O autor descreve a mesa da Santa Família como o "jantar de ervas" dos Provérbios, onde reinava a paz e a presença de espíritos celestiais.
-- **Respeito Místico:** Joseph falava pouco e com extrema doçura. Ele nutria por Maria um respeito tão profundo que mal conseguia dirigir-se a ela sem inclinar a cabeça, reconhecendo nela sua rainha, apesar de ser, por lei, o seu cabeça.
+- **Respeito Místico:** José falava pouco e com extrema doçura. Ele nutria por Maria um respeito tão profundo que mal conseguia dirigir-se a ela sem inclinar a cabeça, reconhecendo nela sua rainha, apesar de ser, por lei, o seu cabeça.
 - **O Testemunho de Maria sobre José:** Segundo Santa Brígida, Maria descreveu José como um homem de silêncio santo, paciente no trabalho, manso ante as injúrias e totalmente morto para o mundo, vivendo em constante colóquio com Deus.
 - **Espelho da Graça:** São Francisco de Sales usa a imagem dos espelhos: Maria recebia os raios do "Sol de Justiça" (Deus) e os refletia em José com tamanha perfeição que o Santo parecia possuir o mesmo grau de sublimidade da Virgem.
 
@@ -364,7 +364,7 @@ Após a Anunciação, Maria manteve o segredo, inclusive para José.
 Maria informou a José sobre o milagre de Isabel e sua intenção de ajudá-la.
 - **José como Companheiro e Guia:** O autor rejeita veementemente a ideia de que Maria viajou sozinha. Seguindo São Bernardino, São Bernardo e São Francisco de Sales, afirma-se que José a acompanhou como seu guardião e guia necessário na jornada de três dias até Hebron.
 - **A Pressa da Graça:** O termo "com pressa" no Evangelho refere-se ao fervor do Espírito Santo. São Francisco de Sales nota poeticamente que o Infante Divino, no seio de Maria, lançava raios secretos ao coração de José durante o caminho, conferindo-lhe uma alegria e força inexplicáveis.
-- **A Chegada:** Ao chegarem, Joseph ocupou-se em cuidar do animal de viagem e procurar Zacarias, enquanto Maria entrava na casa. Isso explica por que, inicialmente, José não teria ouvido a saudação profética de Isabel.
+- **A Chegada:** Ao chegarem, José ocupou-se em cuidar do animal de viagem e procurar Zacarias, enquanto Maria entrava na casa. Isso explica por que, inicialmente, José não teria ouvido a saudação profética de Isabel.
 
 ### Hebron: A Cidade dos Patriarcas
 O autor identifica a "Cidade de Judá" citada no Evangelho como Hebron, lugar de profunda importância bíblica e sacerdotal.
@@ -387,14 +387,14 @@ O casal retornou à sua vida de trabalho silencioso e caridade.
 - **A Alegria de José:** Para José, Nazaré era um céu particular. Ele sentia-se o homem mais rico do mundo apenas por contemplar o semblante de Maria, que irradiava uma paz e caridade capazes de inflamar sua alma com amor seráfico.
 
 ### A Descoberta (Capítulo XXVI cont.)
-Ao retornarem de Hebron, Joseph percebeu unmistakably a gravidez de sua esposa. O autor, baseando-se em São Jerônimo, enfatiza que apenas Joseph poderia ter feito essa descoberta inicial, pois viviam sob o mesmo teto.
+Ao retornarem de Hebron, José percebeu unmistakably a gravidez de sua esposa. O autor, baseando-se em São Jerônimo, enfatiza que apenas José poderia ter feito essa descoberta inicial, pois viviam sob o mesmo teto.
 - **A Certeza da Inocência:** Diferente do que sugerem alguns oradores piedosos, o autor defende que José **nunca duvidou** da fidelidade de Maria. Ele conhecia sua santidade angélica e o voto de virgindade que ambos compartilhavam.
 - **A Conclusão Teológica:** Sendo José sábio nas Escrituras e tendo testemunhado os prodígios na casa de Zacarias, ele concluiu que Maria era a Virgem de Isaías, a Mãe do Messias (o Emanuel).
 
 ### O Conflito da Humildade
-Longe de sentir orgulho por ser o esposo da Mãe de Deus, Joseph foi tomado por um "temor sagrado" e consternação.
+Longe de sentir orgulho por ser o esposo da Mãe de Deus, José foi tomado por um "temor sagrado" e consternação.
 - **Sentimento de Indignidade:** Ele se via como um pecador indigno de viver sob o mesmo teto que a Majestade Divina. "O Filho do Altíssimo nascido em minha casa!" era o pensamento que o esmagava.
-- **Dilema Ético:** Joseph sentia que continuar agindo como pai e marido seria uma "piedade falsa" ou uma mentira perante o mundo, pois ele não era o pai daquela Criança Sagrada.
+- **Dilema Ético:** José sentia que continuar agindo como pai e marido seria uma "piedade falsa" ou uma mentira perante o mundo, pois ele não era o pai daquela Criança Sagrada.
 
 ### A Decisão de Partir (Estudo do Texto de São Mateus)
 O autor analisa o versículo "José, sendo justo, quis deixá-la secretamente":
@@ -404,7 +404,7 @@ O autor analisa o versículo "José, sendo justo, quis deixá-la secretamente":
 ### Apoio dos Padres da Igreja
 A interpretação de que o plano de José nasceu da **reverência** (e não da dúvida) é sustentada por São Bernardo, Orígenes, São Jerônimo e São Basílio.
 - **Semelhança com os Apóstolos:** José sentiu o mesmo que São Pedro ("Afasta-te de mim, Senhor, que sou um homem pecador") e o centurião ("Senhor, eu não sou digno de que entreis em minha casa").
-- **Espelhamento com Isabel:** Assim como Isabel exclamou com temor "De onde me vem que a mãe do meu Senhor venha a mim?", Joseph sentiu que seu lugar não era ao lado da Rainha do Céu, mas na obscuridade do deserto.
+- **Espelhamento com Isabel:** Assim como Isabel exclamou com temor "De onde me vem que a mãe do meu Senhor venha a mim?", José sentiu que seu lugar não era ao lado da Rainha do Céu, mas na obscuridade do deserto.
 
 ### O Silêncio Heroico de Maria (Capítulo XXVII)
 Enquanto José planejava sua partida em segredo, Maria percebia interiormente o sofrimento de seu esposo.
@@ -420,7 +420,7 @@ A resposta divina veio através de um sonho. O Arcanjo Gabriel apareceu a José.
 
 ### O Encontro do Amanhecer
 Ao acordar, José prostrou-se em adoração. O reencontro com Maria foi marcado por uma nova camada de santidade.
-- **A Nova Hierarquia:** Joseph agora via Maria como sua Imperatriz e o Filho de Deus como seu pupilo. Iniciou-se uma nova e piedosa "disputa" de humildade: Joseph querendo servir a Mãe de Deus e Maria insistindo em lhe obedecer como cabeça da família.
+- **A Nova Hierarquia:** José agora via Maria como sua Imperatriz e o Filho de Deus como seu pupilo. Iniciou-se uma nova e piedosa "disputa" de humildade: José querendo servir a Mãe de Deus e Maria insistindo em lhe obedecer como cabeça da família.
 - **A Revelação de Santa Brígida:** Segundo a santa, a partir desse momento, José serviu Maria como sua rainha, enquanto ela se humilhava nas menores tarefas para demonstrar submissão ao seu esposo.
 
 ### A Paternidade Divinamente Decretada (Capítulo XXVIII)
@@ -456,7 +456,7 @@ O autor explora argumentos de Gérson e Santo Agostinho sobre a legitimidade da 
 
 ### A Vida Íntima em Nazaré (Capítulo XXIX)
 O cotidiano da Santa Casa era um intercâmbio constante de humildade e maravilhas.
-- **A Disputa do Serviço:** Joseph desejava estar sempre de joelhos diante de Maria, o Tabernáculo Vivo. No entanto, um anjo o instruiu a permitir que Maria o servisse nas tarefas externas, para que se cumprisse o exemplo de humildade que Cristo desejava dar ao mundo. No interior de seu coração, porém, José deveria manter uma adoração perpétua.
+- **A Disputa do Serviço:** José desejava estar sempre de joelhos diante de Maria, o Tabernáculo Vivo. No entanto, um anjo o instruiu a permitir que Maria o servisse nas tarefas externas, para que se cumprisse o exemplo de humildade que Cristo desejava dar ao mundo. No interior de seu coração, porém, José deveria manter uma adoração perpétua.
 - **A Harmonia com a Criação:** Relatos místicos descrevem como pássaros de rara beleza visitavam Maria, trazendo-lhe flores no bico e unindo seus cantos aos dela em louvor a Deus. José assistia a essas cenas com assombro, vendo toda a natureza reconhecer sua Rainha.
 
 ### Pobreza e Providência
@@ -479,18 +479,18 @@ José enfrentou o dilema de levar Maria, em estágio avançado de gravidez, em u
 
 ### A Rejeição em Belém
 Ao chegarem, as hospedarias estavam lotadas e os corações, fechados.
-- **Sem Lugar na Estalagem:** Joseph buscou abrigo em inúmeras casas (segundo Maria de Ágreda, em cinquenta lugares), mas em todos encontrou indiferença. "Ele veio para os seus, e os seus não o receberam".
-- **A Dor do Protetor:** Joseph sentiu uma angústia inexpressível ao ver-se incapaz de prover o mínimo de conforto para sua esposa. Maria, por sua vez, mantinha uma serenidade doce, aceitando a vontade divina mesmo diante da dureza dos homens.
+- **Sem Lugar na Estalagem:** José buscou abrigo em inúmeras casas (segundo Maria de Ágreda, em cinquenta lugares), mas em todos encontrou indiferença. "Ele veio para os seus, e os seus não o receberam".
+- **A Dor do Protetor:** José sentiu uma angústia inexpressível ao ver-se incapaz de prover o mínimo de conforto para sua esposa. Maria, por sua vez, mantinha uma serenidade doce, aceitando a vontade divina mesmo diante da dureza dos homens.
 
 ### O Refúgio na Gruta (Capítulo XXX)
-Sem opção na cidade, Joseph lembrou-se de uma caverna/estábulo na encosta leste, fora dos muros.
+Sem opção na cidade, José lembrou-se de uma caverna/estábulo na encosta leste, fora dos muros.
 - **A Escolha do Menor Lugar:** O fato de a gruta estar vazia, apesar da lotação da cidade, prova que era um lugar rude e desprezado. Cristo, que veio para ocupar o último lugar, reservou-o para Si.
 - **O Local Sagrado:** O autor cita São Justino Mártir e a tradição de Santa Helena para confirmar que o nascimento ocorreu fora da cidade, em uma caverna — um símbolo de Jesus sendo expulso pelos homens, mas acolhido pela própria terra que Ele criou.
 
 ### Preparação do Palácio Real (Capítulo XXX cont.)
 Ao entrarem na gruta rude, Maria e José transformaram o estábulo em um santuário.
-- **Limpeza Angélica:** Maria começou a varrer o local, mas Joseph, em reverência, insistiu em fazer o trabalho. Anjos uniram-se a eles, limpando e perfumando o ambiente com fragrâncias celestiais para receber o Rei da Pureza.
-- **O Êxtase de José:** Antes do parto, Joseph entrou em um "sono profundo" que foi, na verdade, um êxtase sublime. Nele, sua alma foi arrebatada e ele pôde testemunhar intelectualmente todo o mistério que estava prestes a ocorrer, acordando apenas após o nascimento.
+- **Limpeza Angélica:** Maria começou a varrer o local, mas José, em reverência, insistiu em fazer o trabalho. Anjos uniram-se a eles, limpando e perfumando o ambiente com fragrâncias celestiais para receber o Rei da Pureza.
+- **O Êxtase de José:** Antes do parto, José entrou em um "sono profundo" que foi, na verdade, um êxtase sublime. Nele, sua alma foi arrebatada e ele pôde testemunhar intelectualmente todo o mistério que estava prestes a ocorrer, acordando apenas após o nascimento.
 
 ### O Nascimento Milagroso
 Maria foi elevada a um êxtase altíssimo, contemplando a essência divina.
@@ -500,7 +500,7 @@ Maria foi elevada a um êxtase altíssimo, contemplando a essência divina.
 
 ### O Despertar de José e a Homenagem das Criaturas
 Ao chamado de Maria, José acordou e viu o Salvador nos braços da Mãe.
-- **Adoração do Pai Adotivo:** Joseph beijou os pés de Jesus com tal intensidade de amor que quase desfaleceu. Ele ajudou a colocar o Menino na manjedoura, forrando-a com a palha que trouxera.
+- **Adoração do Pai Adotivo:** José beijou os pés de Jesus com tal intensidade de amor que quase desfaleceu. Ele ajudou a colocar o Menino na manjedoura, forrando-a com a palha que trouxera.
 - **O Boi e o Jumento:** Cumprindo a profecia de Isaías, os animais ajoelharam-se diante da manjedoura e aqueceram o Recém-nascido com seu hálito, prestando o serviço que os homens de Belém negaram.
 
 ### Prodígios do Natal
@@ -513,7 +513,7 @@ O autor lista várias maravilhas ocorridas naquela noite:
 Baseado no teólogo Pedro Canísio, o autor define a paternidade de José através de três prerrogativas principais infundidas por Deus:
 1. **Afeto:** O Espírito Santo e o Pai Eterno infundiram no coração de José uma centelha do amor infinito que Deus tem por Seu Filho, tornando José o homem que mais amou Jesus no mundo, superado apenas por Maria.
 2. **Cuidado:** Uma solicitude inexpressível, levando José a trabalhar e sofrer pelo Menino mais do que qualquer pai terreno jamais fez por seus filhos.
-3. **Autoridade:** Jesus, sendo o Rei dos Reis, quis ser submisso a José, e Joseph exerceu essa autoridade paterna com uma sabedoria que o tornou "o despenseiro fiel e prudente" posto sobre a família de Deus.
+3. **Autoridade:** Jesus, sendo o Rei dos Reis, quis ser submisso a José, e José exerceu essa autoridade paterna com uma sabedoria que o tornou "o despenseiro fiel e prudente" posto sobre a família de Deus.
 
 ### José como Vigário e Patrono da Igreja
 Citando Santo Atanásio, a gruta de Belém é vista como a primeira figura da Igreja:
@@ -533,8 +533,8 @@ O autor menciona que José usou sua habilidade de carpinteiro para construir um 
 No oitavo dia, seguindo rigorosamente a Lei, o Menino Deus foi submetido à circuncisão.
 - **Exemplo de Obediência:** Embora Jesus fosse a própria Santidade e não precisasse do rito (que era um remédio para o pecado), submeteu-se a ele para provar Sua verdadeira natureza humana contra futuras heresias e para honrar a promessa feita a Abraão.
 - **José como Ministro:** O autor defende, com base em Santo Efrém e São Bernardo, que foi o próprio **José** quem realizou o rito. Como cabeça da família, era seu direito e dever.
-- **O Triplo Sacrifício:** Jesus ofereceu Suas primeiras gotas de sangue; Maria ofereceu seu sofrimento e resignação; e Joseph ofereceu sua heróica fortaleza ao ter que ferir o Menino que tanto amava. Joseph foi, nesse momento, "mais que um mártir".
-- **A Imposição do Nome:** Joseph pronunciou solenemente o nome **JESUS**. O Pai Eterno delegou a José o direito divino de nomear o Seu Filho, confirmando sua autoridade paterna.
+- **O Triplo Sacrifício:** Jesus ofereceu Suas primeiras gotas de sangue; Maria ofereceu seu sofrimento e resignação; e José ofereceu sua heróica fortaleza ao ter que ferir o Menino que tanto amava. José foi, nesse momento, "mais que um mártir".
+- **A Imposição do Nome:** José pronunciou solenemente o nome **JESUS**. O Pai Eterno delegou a José o direito divino de nomear o Seu Filho, confirmando sua autoridade paterna.
 
 ### A Adoração dos Magos (Capítulo XXXII)
 Após os humildes pastores, o Messias manifestou-Se aos gentios nobres.
@@ -546,7 +546,7 @@ Após os humildes pastores, o Messias manifestou-Se aos gentios nobres.
 Os reis dirigiram-se primeiro à capital, Jerusalém, onde a estrela desapareceu temporariamente.
 - **A Cegueira dos Judeus:** Enquanto os Magos viajavam de longe, os habitantes de Jerusalém estavam mergulhados no sono e no temor de Herodes. Os sacerdotes sabiam o local (Belém) pelas Escrituras, mas nenhum deles se dispôs a acompanhar os estrangeiros para adorar o Rei.
 - **O Reaparecimento da Estrela:** Após deixarem Herodes, a estrela reapareceu no caminho para Belém (no lugar hoje chamado Poço da Estrela ou dos Reis). Ela parou exatamente sobre o local onde estava a Sagrada Família.
-- **O Encontro na Gruta:** Os Magos encontraram o Menino nos braços de Maria. Embora o Evangelho destaque a Mãe para confirmar a humanidade de Cristo, Joseph estava presente, acolhendo os primeiros fiéis vindos do mundo pagão.
+- **O Encontro na Gruta:** Os Magos encontraram o Menino nos braços de Maria. Embora o Evangelho destaque a Mãe para confirmar a humanidade de Cristo, José estava presente, acolhendo os primeiros fiéis vindos do mundo pagão.
 
 ### A Confirmada Pobreza da Gruta
 O autor reforça, citando São Jerônimo e Francisco Suárez, que os Magos adoraram Jesus na mesma gruta onde Ele nasceu, e não em uma casa alugada.
@@ -573,8 +573,8 @@ A caminhada de Belém a Jerusalém é descrita como a procissão mais sublime da
 ### O Encontro com Simeão
 Simeão, um homem justo e movido pelo Espírito Santo, reconheceu Jesus não por sinais externos, mas por uma revelação interior direta.
 - **O Nunc Dimittis:** Ao tomar o Menino nos braços, proclamou que seus olhos finalmente tinham visto a Salvação.
-- **Maravilha de José e Maria:** Embora soubessem da divindade do Filho, Joseph e Maria admiraram-se ao ver o mistério ser proclamado publicamente pela primeira vez no Templo.
-- **A Profecia da Espada:** Simeão profetizou a Maria que uma espada de dor traspassaria sua alma. O autor observa que Simeão falou apenas a Maria sobre a Paixão, pois Joseph morreria antes da crucificação. No entanto, Joseph compartilhou intensamente dessa dor por antecipação, tornando-se o companheiro de sofrimento da "Mãe das Dores".
+- **Maravilha de José e Maria:** Embora soubessem da divindade do Filho, José e Maria admiraram-se ao ver o mistério ser proclamado publicamente pela primeira vez no Templo.
+- **A Profecia da Espada:** Simeão profetizou a Maria que uma espada de dor traspassaria sua alma. O autor observa que Simeão falou apenas a Maria sobre a Paixão, pois José morreria antes da crucificação. No entanto, José compartilhou intensamente dessa dor por antecipação, tornando-se o companheiro de sofrimento da "Mãe das Dores".
 
 ### Ana, a Profetisa
 A idosa Ana, que vivia no Templo em jejum e oração, também deu testemunho de Jesus como o Messias esperado, confirmando a revelação para todos os que aguardavam a redenção de Israel.
@@ -582,11 +582,11 @@ A idosa Ana, que vivia no Templo em jejum e oração, também deu testemunho de 
 ### Os Atos de Religião no Templo
 A Sagrada Família cumpriu três exigências da Lei:
 1. **Purificação de Maria:** A Virgem, embora puríssima, ajoelhou-se para ser purificada pelo sacerdote, dando um exemplo máximo de humildade.
-2. **Apresentação de Jesus:** Como as mulheres não podiam entrar no Pátio dos Sacerdotes, foi **Joseph** quem carregou Jesus nos braços para apresentá-Lo diante do altar. O autor destaca a cegueira dos sacerdotes levitas, que não reconheceram o Senhor do Templo devido à sua própria ganância e soberba.
-3. **Resgate do Salvador:** Joseph cumpriu o rito de "resgatar" o Menino por cinco siclos de prata. Por esse ato, os Doutores da Igreja chamam José de "o resgatador do Resgatador". Ele também entregou as duas rolas para o sacrifício.
+2. **Apresentação de Jesus:** Como as mulheres não podiam entrar no Pátio dos Sacerdotes, foi **José** quem carregou Jesus nos braços para apresentá-Lo diante do altar. O autor destaca a cegueira dos sacerdotes levitas, que não reconheceram o Senhor do Templo devido à sua própria ganância e soberba.
+3. **Resgate do Salvador:** José cumpriu o rito de "resgatar" o Menino por cinco siclos de prata. Por esse ato, os Doutores da Igreja chamam José de "o resgatador do Resgatador". Ele também entregou as duas rolas para o sacrifício.
 
 ### Humildade e Prudência
-Joseph entregou o restante do ouro dos Magos ao tesouro do Templo de forma secreta e silenciosa, para não atrair a atenção de Herodes. Terminados os ritos, a Sagrada Família partiu imediatamente de Jerusalém por segurança.
+José entregou o restante do ouro dos Magos ao tesouro do Templo de forma secreta e silenciosa, para não atrair a atenção de Herodes. Terminados os ritos, a Sagrada Família partiu imediatamente de Jerusalém por segurança.
 
 ### Questão de Datas (Capítulo XXXIV)
 
@@ -596,15 +596,15 @@ O autor explica o "silêncio" de São Lucas sobre a fuga para o Egito. Embora Lu
 - **A Idade dos Inocentes:** O fato de Herodes matar crianças de até dois anos não significa que Jesus tivesse essa idade. Segundo São João Crisóstomo, foi um "excesso de cautela" do tirano para garantir que o Recém-nascido não escapasse, independentemente de quando a estrela surgira.
 
 ### A Intenção de se Estabelecer em Belém
-Uma teoria central do autor é que Joseph e Maria **pretendiam morar permanentemente em Belém** após a Apresentação.
-- **Sinais Divinos:** Joseph teria visto nos eventos do Natal (Anjos, Pastores, Magos) um sinal de que a "Cidade de Davi" era o lugar certo para o Messias.
-- **Evidência Bíblica:** Ao retornar do Egito anos depois, Joseph pretendia ir para a Judeia (Belém), mas mudou-se para a Galileia (Nazaré) apenas por medo de Arquelau, filho de Herodes, cumprindo então a profecia de que Jesus seria chamado "Nazareno".
+Uma teoria central do autor é que José e Maria **pretendiam morar permanentemente em Belém** após a Apresentação.
+- **Sinais Divinos:** José teria visto nos eventos do Natal (Anjos, Pastores, Magos) um sinal de que a "Cidade de Davi" era o lugar certo para o Messias.
+- **Evidência Bíblica:** Ao retornar do Egito anos depois, José pretendia ir para a Judeia (Belém), mas mudou-se para a Galileia (Nazaré) apenas por medo de Arquelau, filho de Herodes, cumprindo então a profecia de que Jesus seria chamado "Nazareno".
 
 ### A Ordem da Fuga (Capítulo XXXV)
-Ainda em Belém, no silêncio da noite, Joseph recebeu a segunda mensagem do Arcanjo Gabriel em sonho: "Levanta-te, toma o Menino e sua Mãe, e foge para o Egito".
-- **O Salvador do Salvador:** Deus poderia ter salvo Seu Filho por um milagre, mas escolheu depender da proteção de um homem. Por preservar a Vida do Verbo, José recebeu o título glorioso de "salvador do Salvador". Orígenes afirma que Joseph é chamado de pai justamente por essa proteção dedicada durante a jornada.
+Ainda em Belém, no silêncio da noite, José recebeu a segunda mensagem do Arcanjo Gabriel em sonho: "Levanta-te, toma o Menino e sua Mãe, e foge para o Egito".
+- **O Salvador do Salvador:** Deus poderia ter salvo Seu Filho por um milagre, mas escolheu depender da proteção de um homem. Por preservar a Vida do Verbo, José recebeu o título glorioso de "salvador do Salvador". Orígenes afirma que José é chamado de pai justamente por essa proteção dedicada durante a jornada.
 - **A Primazia de José:** O anjo foi enviado a José, e não a Maria, para confirmar publicamente que ele era o cabeça, tutor e guia da Sagrada Família, responsável por todas as decisões de segurança.
-- **José Acima dos Anjos:** Embora milhares de anjos estivessem prontos para servir, a Joseph foi confiado o encargo físico e direto de carregar o Deus-Homem. Sua glória em salvar Jesus supera a de Moisés ao libertar o povo de Israel.
+- **José Acima dos Anjos:** Embora milhares de anjos estivessem prontos para servir, a José foi confiado o encargo físico e direto de carregar o Deus-Homem. Sua glória em salvar Jesus supera a de Moisés ao libertar o povo de Israel.
 
 ### A Obediência Perfeita de José (Capítulo XXXV cont.)
 São Francisco de Sales destaca que o anjo tratou José como um "perfeito religioso". Diferente de Moisés, que apresentou muitas dificuldades antes de aceitar sua missão no Egito, José não fez uma única pergunta.
@@ -658,27 +658,27 @@ O autor explica por que José preferiu uma cabana pobre à luxuosa casa do sumo-
 
 2. **O Preceptor e Mestre (da Infância):**
    - Jesus, a Sabedoria Incriada, quis "crescer em sabedoria e idade" de forma experimental humana.
-   - José teve a honra inaudita de ensinar a Verdade a falar, ouvindo os primeiros balbucios do Verbo. Como a instrução é uma forma de "geração espiritual", Joseph adquiriu um direito ainda maior ao título de pai por ser o professor de Deus.
+   - José teve a honra inaudita de ensinar a Verdade a falar, ouvindo os primeiros balbucios do Verbo. Como a instrução é uma forma de "geração espiritual", José adquiriu um direito ainda maior ao título de pai por ser o professor de Deus.
 
 3. **O Tutor e Guardião (da Orfandade):**
    - Jesus era um "órfão por escolha", tendo Pai no céu e Mãe na terra. Ele escolheu José para ser seu tutor legal perante o mundo.
-   - O comando do anjo "Toma o Menino" conferiu a José todos os direitos de tutela. A partir de então, Joseph falava por Jesus e geria todos os seus assuntos terrenos.
+   - O comando do anjo "Toma o Menino" conferiu a José todos os direitos de tutela. A partir de então, José falava por Jesus e geria todos os seus assuntos terrenos.
 
 ### A Paternidade Sobrenatural de José (Capítulo XXXVII cont.)
 Grandes Doutores como Alberto o Magno e Santo Agostinho defendem que José merece o título de "Pai" de forma mais excelente que os pais naturais.
-- **A Tese de Santo Agostinho:** A castidade confirma a justiça da paternidade. Como Joseph foi o pai virginal de Jesus, sua união com Maria, puramente espiritual e casta, o assemelha mais ao Pai Eterno do que qualquer união carnal.
-- **Encargo Pessoal e Inalienável:** Diferente de pais comuns que podem delegar a educação de seus filhos, Joseph recebeu uma missão divina e pessoal. Ele não podia delegar a proteção ou o sustento de Jesus; ele mesmo deveria suar para alimentar o Verbo, tornando sua paternidade um ofício de sacrifício contínuo.
+- **A Tese de Santo Agostinho:** A castidade confirma a justiça da paternidade. Como José foi o pai virginal de Jesus, sua união com Maria, puramente espiritual e casta, o assemelha mais ao Pai Eterno do que qualquer união carnal.
+- **Encargo Pessoal e Inalienável:** Diferente de pais comuns que podem delegar a educação de seus filhos, José recebeu uma missão divina e pessoal. Ele não podia delegar a proteção ou o sustento de Jesus; ele mesmo deveria suar para alimentar o Verbo, tornando sua paternidade um ofício de sacrifício contínuo.
 
 ### O Cotidiano em Matarieh (Capítulo XXXVIII)
 A vida no Egito era uma fusão perfeita de ação e contemplação.
 - **Solidão e Saudade:** O autor descreve a dor do exílio — estar longe do Templo, da língua pátria e das festas litúrgicas de Jerusalém. Para os judeus da época, o banimento era pior que a morte.
-- **Trabalho Santificado:** Joseph trabalhava como carpinteiro, cobrando preços modestos e nunca comendo o pão da ociosidade. Maria fiava e costurava. Juntos, partilhavam o pouco que tinham com os pobres locais.
+- **Trabalho Santificado:** José trabalhava como carpinteiro, cobrando preços modestos e nunca comendo o pão da ociosidade. Maria fiava e costurava. Juntos, partilhavam o pouco que tinham com os pobres locais.
 - **A Túnica Inconsútil:** Uma tradição narra que, aos doze meses, Jesus indicou a Maria que desejava usar apenas uma túnica simples de lã, tecida por ela, que cresceria com Ele durante toda a vida — a mesma que seria sorteada pelos soldados no Calvário.
 
 ### Notícias da Judeia e a Morte de Herodes
 Embora isolados, a Sagrada Família sentia as dores de seu povo.
 - **Compassão pelos Inocentes:** O relato do massacre em Belém causou profundas lágrimas em Maria e José. A morte de santos como Simeão, Ana e o martírio de Zacarias (pai de João Batista) também marcaram este período.
-- **O Fim do Tirano:** Herodes morreu de uma doença repugnante após assassinar o próprio filho, Antípater. Contudo, Joseph não se apressou em voltar; ele esperou pacientemente pela ordem divina, conforme as instruções do anjo ("Fica lá até que eu te avise").
+- **O Fim do Tirano:** Herodes morreu de uma doença repugnante após assassinar o próprio filho, Antípater. Contudo, José não se apressou em voltar; ele esperou pacientemente pela ordem divina, conforme as instruções do anjo ("Fica lá até que eu te avise").
 
 ### A Duração do Exílio e o Retorno
 A tradição comum da Igreja sustenta que a permanência no Egito durou **sete anos**.
@@ -688,16 +688,16 @@ A tradição comum da Igreja sustenta que a permanência no Egito durou **sete a
 ### A Missão Cumprida no Egito (Capítulo XXXVIII cont.)
 O autor destaca que a estadia de Jesus no Egito foi um prelúdio da evangelização universal.
 - **Preparação do Terreno:** A presença física do Salvador, Maria e José preparou o solo egípcio para a futura eclosão de santidade dos Padres do Deserto (como Santo Antão e São Paulo Eremita).
-- **Os Primeiros Apóstolos:** Joseph e Maria atuaram como os primeiros pregadores. Joseph, através de seu ofício de carpinteiro, e Maria, através de sua doçura e caridade com as mulheres locais, semearam as verdades sobre o Deus verdadeiro. O Cardeal de Cambrai chega a chamar José de o "primeiro Evangelista" por sua pregação pública.
+- **Os Primeiros Apóstolos:** José e Maria atuaram como os primeiros pregadores. José, através de seu ofício de carpinteiro, e Maria, através de sua doçura e caridade com as mulheres locais, semearam as verdades sobre o Deus verdadeiro. O Cardeal de Cambrai chega a chamar José de o "primeiro Evangelista" por sua pregação pública.
 
 ### O Chamado para o Retorno
 Após a morte de Herodes e seus cúmplices (o anjo usa o plural "eles morreram"), a Sagrada Família foi convocada a retornar.
-- **Partida à Luz do Dia:** Diferente da fuga apressada à noite, o retorno ocorreu calmamente sob o sol, simbolizando a futura iluminação de Israel. Maria e Joseph despediram-se cordialmente dos vizinhos que aprenderam a amá-los.
+- **Partida à Luz do Dia:** Diferente da fuga apressada à noite, o retorno ocorreu calmamente sob o sol, simbolizando a futura iluminação de Israel. Maria e José despediram-se cordialmente dos vizinhos que aprenderam a amá-los.
 - **O Encontro no Deserto:** Uma piedosa tradição sugere que, no caminho de volta, eles podem ter se encontrado brevemente com o jovem João Batista, que já vivia em solidão.
 
 ### O Desvio de Belém para Nazaré
-Joseph pretendia originalmente estabelecer-se em Belém, a cidade real de Davi.
-- **O Terror de Arquelau:** Ao chegar na Judeia, Joseph soube que Arquelau, filho de Herodes, governava. Sabendo que ele herdara a crueldade do pai, Joseph hesitou.
+José pretendia originalmente estabelecer-se em Belém, a cidade real de Davi.
+- **O Terror de Arquelau:** Ao chegar na Judeia, José soube que Arquelau, filho de Herodes, governava. Sabendo que ele herdara a crueldade do pai, José hesitou.
 - **A Quarta Intervenção Angélica:** Pela quarta vez, um anjo orientou José em sonho a desviar-se para a Galileia, para a cidade de Nazaré.
 
 ### O Mistério do "Nazareno" (Capítulo XXXIX)
@@ -714,11 +714,11 @@ São Lucas resume a infância de Jesus com a frase: "O Menino crescia... cheio d
 
 ### A Peregrinação Pascal (Capítulo XL)
 A Lei de Moisés exigia que os homens comparecessem ao Templo três vezes por ano. Embora mulheres e crianças estivessem isentas, a Sagrada Família, por uma devoção perfeita, ia junta todos os anos.
-- **Aos Doze Anos:** Nesta idade, os meninos judeus começavam a ser iniciados como "filhos do preceito". Ao final da semana da Páscoa, após cumprirem todos os ritos, Joseph e Maria iniciaram a viagem de volta para Nazaré.
+- **Aos Doze Anos:** Nesta idade, os meninos judeus começavam a ser iniciados como "filhos do preceito". Ao final da semana da Páscoa, após cumprirem todos os ritos, José e Maria iniciaram a viagem de volta para Nazaré.
 
 ### A Perda de Jesus
 - **Caravanas Separadas:** Naquela época, por ordem e decência, homens e mulheres viajavam em grupos separados, reunindo-se apenas ao anoitecer.
-- **O Equívoco Divinamente Disposto:** Joseph acreditava que Jesus estava com Maria; Maria acreditava que Ele estava com Joseph. O autor enfatiza que Jesus usou Seu poder divino para ocultar Sua ausência da vista deles. Ambos estavam em um estado de profunda contemplação após as festas, e Jesus permitiu esse "esquecimento" momentâneo para cumprir uma missão maior: manifestar a glória de Seu Pai Celestial.
+- **O Equívoco Divinamente Disposto:** José acreditava que Jesus estava com Maria; Maria acreditava que Ele estava com José. O autor enfatiza que Jesus usou Seu poder divino para ocultar Sua ausência da vista deles. Ambos estavam em um estado de profunda contemplação após as festas, e Jesus permitiu esse "esquecimento" momentâneo para cumprir uma missão maior: manifestar a glória de Seu Pai Celestial.
 
 ### A Descoberta da Perda e a Dor Incomensurável
 Após o primeiro dia de caminhada, ao chegarem à cidade de Machmas (El Bir), a verdade veio à tona: Jesus não estava em nenhum dos dois grupos.
@@ -727,7 +727,7 @@ Após o primeiro dia de caminhada, ao chegarem à cidade de Machmas (El Bir), a 
 
 ### O Mistério dos Três Dias (Capítulo XL cont.)
 Os três dias de perda são interpretados não como três dias inteiros de busca em Jerusalém, mas englobando a jornada de ida (um dia), a volta e busca angustiante (segundo dia), e o encontro no Templo (terceiro dia), num paralelo com os três dias de Jesus no túmulo.
-- **Sustento Místico na Dor:** Revelações privadas, como as prestadas à Irmã Jeanne Benigne Gojos, indicam que a aflição de Maria e Joseph foi tão severa que eles não teriam sobrevivido sem a assistência mística do próprio Jesus atuando ocultamente para sustentá-los. Para Maria, esta foi, de longe, uma de suas maiores dores, rivalizando com o Calvário, pois suportou tudo numa privação temporária da clareza profética ("Eles não compreenderam a palavra que Ele lhes disse").
+- **Sustento Místico na Dor:** Revelações privadas, como as prestadas à Irmã Jeanne Benigne Gojos, indicam que a aflição de Maria e José foi tão severa que eles não teriam sobrevivido sem a assistência mística do próprio Jesus atuando ocultamente para sustentá-los. Para Maria, esta foi, de longe, uma de suas maiores dores, rivalizando com o Calvário, pois suportou tudo numa privação temporária da clareza profética ("Eles não compreenderam a palavra que Ele lhes disse").
 
 ### O Encontro no Templo
 Movidos por intuição angélica, eles se dirigiram ao Templo e encontraram o Menino sentado entre os Doutores da Lei. Ele não estava apenas ouvindo; Ele tomara a posição de mestre, interrogando-os e causando espanto com Suas respostas.
@@ -771,7 +771,7 @@ O autor aprofunda o conceito da grandeza inigualável de São José com base na 
 ### O Êxtase Constante (Capítulo XLII cont.)
 Sustenta-se que a alegria e o sofrimento perfeitos podem coexistir na mesma alma, semelhante à Visão Beatífica que a alma humana de Cristo experimentou simultaneamente aos Seus padecimentos físicos.
 - **A Suspensão Mística, Não Física:** A tradição mística argumenta que, diante das palavras sábias do Menino ao ser encontrado, Maria e José experimentaram um êxtase supremo. Diferente de iniciantes na vida espiritual que desmaiam diante de revelações, eles, almas perfeitíssimas, permaneciam absortos em Deus no alto de seus espíritos sem jamais perder o pleno controle das funções do corpo.
-- **Na Oficina e na Estrada:** Enquanto Joseph serrava madeira ou guiava Maria e Jesus pelas estradas do Egito ou da Galileia, seu espírito estava num constante transe de amor e adoração.
+- **Na Oficina e na Estrada:** Enquanto José serrava madeira ou guiava Maria e Jesus pelas estradas do Egito ou da Galileia, seu espírito estava num constante transe de amor e adoração.
 - **O Sono Estático:** Os antigos doutores, como São João Crisóstomo e Gerson, opinam que o próprio sono físico de José não interrompia sua oração; como o sono de Adão na criação de Eva, o sono de José era uma elevação mística. Ele não precisou ir ao deserto como os ermitões; ele experimentava a mais alta solidão interior no meio das oficinas e das praças, sendo por isso sempre visitado em sonho pelo Anjo.
 
 ### A Comunicação além das Palavras
@@ -944,7 +944,7 @@ O texto compara o crescimento da devoção a José com a formulação de dogmas.
 
 ### O Triunfo Litúrgico (Séculos XV a XIX)
 - **Festas e Obrigações:** Sisto IV (1481) estendeu a festa de 19 de março a toda a Igreja; Gregório XV (1621) tornou-a festa de preceito.
-- **Hinos e Ofícios:** Clemente X e Clemente XI compuseram hinos e lessons para o Ofício de São José, elevando-o à dignidade de "Duplo de Segunda Classe". O hino *Te Joseph Celebrent* data desta época.
+- **Hinos e Ofícios:** Clemente X e Clemente XI compuseram hinos e lessons para o Ofício de São José, elevando-o à dignidade de "Duplo de Segunda Classe". O hino *Te José Celebrent* data desta época.
 - **O Despertar da Patrocínio:** Os Carmelitas Descalços escolheram José como "Pai e Patrono" da Ordem em 1621. O conceito de "Patrocínio de São José" (festa no 3º Domingo após a Páscoa) espalhou-se rapidamente da Espanha para o México e, finalmente, para o mundo. O autor destaca que o México foi pioneiro em escolher José como patrono geral de suas províncias ainda no século XVI.
 - **Pio IX e o Ápice:** Logo após assumir o Pontificado, Pio IX (1847) estendeu a festa do Patrocínio de São José a toda a Igreja como um Duplo de Primeira Classe, colocando José em um patamar de honra único, compartilhado universalmente apenas com a Virgem Maria.
 
