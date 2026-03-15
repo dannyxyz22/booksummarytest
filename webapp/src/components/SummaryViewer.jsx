@@ -199,7 +199,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                             </div>
 
                             <motion.a
-                                href={book.pdfPath}
+                                href={book.pdfPath ? `${import.meta.env.BASE_URL}${book.pdfPath}` : '#'}
                                 download={`${book.title}.pdf`}
                                 initial={{ opacity: 0 }}
                                 animate={{ opacity: 1 }}
@@ -210,14 +210,16 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                                     fontSize: '0.75rem',
                                     fontWeight: 600,
                                     color: 'var(--text-secondary)',
-                                    textDecoration: 'none'
+                                    textDecoration: 'none',
+                                    pointerEvents: book.pdfPath ? 'auto' : 'none',
+                                    opacity: book.pdfPath ? 1 : 0.5
                                 }}
                             >
                                 PDF
                             </motion.a>
 
                             <motion.a
-                                href={book.epubPath}
+                                href={book.epubPath ? `${import.meta.env.BASE_URL}${book.epubPath}` : '#'}
                                 download={`${book.title}.epub`}
                                 initial={{ opacity: 0 }}
                                 animate={{ opacity: 1 }}
@@ -228,7 +230,9 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                                     fontSize: '0.75rem',
                                     fontWeight: 600,
                                     color: 'var(--text-secondary)',
-                                    textDecoration: 'none'
+                                    textDecoration: 'none',
+                                    pointerEvents: book.epubPath ? 'auto' : 'none',
+                                    opacity: book.epubPath ? 1 : 0.5
                                 }}
                             >
                                 EPUB
