@@ -8,7 +8,8 @@
     "cover": "assets/covers/noite-escura.png",
     "description": "\"A Noite Escura da Alma\" é, entre todas as obras de São João da Cruz, a que penetra mais fundo no coração do mistério cristão da purificação. Escrita logo após a fuga do Santo do cativeiro em Toledo em 1578, ela se apresenta como comentário de um poema de oito estrofes — o mesmo poema que, ao que parece, brotou da experiência vivida naquela prisão, onde o Santo foi confinado por meses pelos seus...",
     "readingTime": 33,
-    "epubPath": "data/epubs/noite-escura.epub"
+    "epubPath": "data/epubs/noite-escura.epub",
+    "pdfPath": "data/pdfs/noite-escura.pdf"
   },
   {
     "id": "cartas-sena",
@@ -19,7 +20,8 @@
     "cover": "assets/covers/cartas.png",
     "description": "As cartas de Santa Catarina de Sena são consideradas clássicos italianos, mas destacam-se por seu caráter não literário. Diferente de contemporâneos como Dante ou Boccaccio, Catarina não buscava a expressão estética, mas a eficácia da mensagem. Suas cartas eram ditadas, muitas vezes várias ao mesmo tempo, a secretários. Elas funcionam como uma autobiografia que revela uma mulher de vitalidade...",
     "readingTime": 16,
-    "epubPath": "data/epubs/cartas-sena.epub"
+    "epubPath": "data/epubs/cartas-sena.epub",
+    "pdfPath": "data/pdfs/cartas-sena.pdf"
   },
   {
     "id": "crescimento-santidade-analitico",
@@ -30,7 +32,8 @@
     "cover": "assets/covers/crescimento.png",
     "description": "\"Growth in Holiness; or, The Progress of the Spiritual Life\" (Crescimento na Santidade, ou o Progresso da Vida Espiritual), de Frederick William Faber (1814--1863), é, sem dúvida alguma, um dos mais abrangentes, profundos e duradouros tratados de ascética já escritos em língua inglesa. Faber, filho intelectual de John Henry Newman e, como ele, convertido do anglicanismo ao catolicismo romano,...",
     "readingTime": 82,
-    "epubPath": "data/epubs/crescimento-santidade-analitico.epub"
+    "epubPath": "data/epubs/crescimento-santidade-analitico.epub",
+    "pdfPath": "data/pdfs/crescimento-santidade-analitico.pdf"
   },
   {
     "id": "dialogo-sena",
@@ -41,7 +44,8 @@
     "cover": "assets/covers/dialogo.png",
     "description": "A obra se inicia descrevendo o estado de uma alma que, ansiosa pelo imenso desejo de honrar a Deus e salvar as almas, exercita-se na \"cela do autoconhecimento\". Nesse estado de introspecção espiritual, a alma reconhece a bondade de Deus em si mesma. Catarina de Sena relata que esse autoconhecimento é o princípio do amor, e que a verdadeira iluminação se dá por meio da oração humilde e contínua....",
     "readingTime": 50,
-    "epubPath": "data/epubs/dialogo-sena.epub"
+    "epubPath": "data/epubs/dialogo-sena.epub",
+    "pdfPath": "data/pdfs/dialogo-sena.pdf"
   },
   {
     "id": "life-glories-joseph",
@@ -52,6 +56,7 @@
     "cover": "assets/covers/LifeGlories.png",
     "description": "O autor argumenta que a devoção a São José não é uma inovação moderna, mas algo cujas \"sementes\" e declarações explícitas já se encontravam nos Padres da Igreja. Embora a devoção tenha se expandido subitamente nos últimos séculos por impulso do Espírito Santo, ela repousa na posição única de José na \"economia da redenção\". O prefácio enfatiza que, como Jesus permanece Homem no Céu, os laços...",
     "readingTime": 117,
-    "epubPath": "data/epubs/life-glories-joseph.epub"
+    "epubPath": "data/epubs/life-glories-joseph.epub",
+    "pdfPath": "data/pdfs/life-glories-joseph.pdf"
   }
 ]
