@@ -2,9 +2,9 @@
   {
     "id": "dialogo-sena",
     "path": "../DialogoSenaSummary.md",
-    "title": "Diálogos de Santa Catarina de Sena",
+    "title": "Diálogos",
     "author": "Santa Catarina de Sena",
-    "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800",
+    "cover": "assets/covers/dialogo.png",
     "description": "A obra inicia com a alma de Catarina elevada em contemplação, exercitando-se na \"cela do autoconhecimento\" para melhor compreender a bondade de Deus. O conhecimento de si leva ao amor, e o amor busca a verdade através da oração humilde e contínua. Deus revela que a alma, pelo afeto do amor, torna-se \"outro Ele\", unindo sua vontade à divina.",
     "readingTime": 17,
     "epubPath": "data/epubs/dialogo-sena.epub"
@@ -12,9 +12,9 @@
   {
     "id": "cartas-sena",
     "path": "../LetterSenaSummary.md",
-    "title": "Cartas de Santa Catarina de Sena",
+    "title": "Cartas",
     "author": "Santa Catarina de Sena",
-    "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80&w=800",
+    "cover": "assets/covers/cartas.png",
     "description": "As cartas de Santa Catarina de Sena são consideradas clássicos italianos, mas destacam-se por seu caráter não literário. Diferente de contemporâneos como Dante ou Boccaccio, Catarina não buscava a expressão estética, mas a eficácia da mensagem. Suas cartas eram ditadas, muitas vezes várias ao mesmo tempo, a secretários. Elas funcionam como uma autobiografia que revela uma mulher de vitalidade...",
     "readingTime": 16,
     "epubPath": "data/epubs/cartas-sena.epub"
@@ -24,37 +24,17 @@
     "path": "../summaries/DarkNightofSoul_RESUMO_FINAL.md",
     "title": "A Noite Escura da Alma",
     "author": "São João da Cruz",
-    "cover": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&q=80&w=800",
+    "cover": "assets/covers/noite-escura.png",
     "description": "\"A Noite Escura da Alma\" é, entre todas as obras de São João da Cruz, a que penetra mais fundo no coração do mistério cristão da purificação. Escrita logo após a fuga do Santo do cativeiro em Toledo em 1578, ela se apresenta como comentário de um poema de oito estrofes — o mesmo poema que, ao que parece, brotou da experiência vivida naquela prisão, onde o Santo foi confinado por meses pelos seus...",
     "readingTime": 33,
     "epubPath": "data/epubs/noite-escura.epub"
   },
   {
-    "id": "dialogo-blink",
-    "path": "../cath-blink-DIalogo.md",
-    "title": "Diálogo (Versão Blink)",
-    "author": "Santa Catarina de Sena",
-    "cover": "https://images.unsplash.com/photo-1474932430478-3a7fb9065ba0?auto=format&fit=crop&q=80&w=800",
-    "description": "A obra se inicia descrevendo o estado de uma alma que, ansiosa pelo imenso desejo de honrar a Deus e salvar as almas, exercita-se na \"cela do autoconhecimento\". Nesse estado de introspecção espiritual, a alma reconhece a bondade de Deus em si mesma. Catarina de Sena relata que esse autoconhecimento é o princípio do amor, e que a verdadeira iluminação se dá por meio da oração humilde e contínua....",
-    "readingTime": 50,
-    "epubPath": "data/epubs/dialogo-blink.epub"
-  },
-  {
-    "id": "crescimento-santidade",
-    "path": "../summaries/Faber_Progress_Summary.md",
-    "title": "O Crescimento em Santidade",
-    "author": "Frederick William Faber",
-    "cover": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&q=80&w=800",
-    "description": "Esta obra é um tratado magistral sobre a \"ciência dos santos\" aplicada aos cristãos que vivem no mundo. Frederick William Faber conduz o leitor através das complexidades do progresso espiritual, focando especialmente na fase crítica do \"deserto\" — aquele estágio após os primeiros fervores onde a alma deve aprender a caminhar pela fé nua, sem o sustento das consolações sensíveis.",
-    "readingTime": 53,
-    "epubPath": "data/epubs/crescimento-santidade.epub"
-  },
-  {
     "id": "crescimento-santidade-analitico",
     "path": "../summaries/resumo_crescimento_na_santidade_faber.md",
-    "title": "Crescimento na Santidade (Analítico)",
-    "author": "Frederick William Faber",
-    "cover": "https://images.unsplash.com/photo-1506784911079-509843ad660a?auto=format&fit=crop&q=80&w=800",
+    "title": "Crescimento na Santidade",
+    "author": "William Faber",
+    "cover": "assets/covers/crescimento.png",
     "description": "ou, O Progresso da Vida Espiritual",
     "readingTime": 82,
     "epubPath": "data/epubs/crescimento-santidade-analitico.epub"
