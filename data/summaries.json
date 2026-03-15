@@ -1,42 +1,46 @@
 [
   {
-    "id": "dialogo-sena",
-    "path": "../DialogoSenaSummary.md",
-    "title": "Diálogos",
-    "author": "Santa Catarina de Sena",
-    "cover": "assets/covers/dialogo.png",
-    "description": "A obra inicia com a alma de Catarina elevada em contemplação, exercitando-se na \"cela do autoconhecimento\" para melhor compreender a bondade de Deus. O conhecimento de si leva ao amor, e o amor busca a verdade através da oração humilde e contínua. Deus revela que a alma, pelo afeto do amor, torna-se \"outro Ele\", unindo sua vontade à divina.",
-    "readingTime": 17,
-    "epubPath": "data/epubs/dialogo-sena.epub"
-  },
-  {
-    "id": "cartas-sena",
-    "path": "../LetterSenaSummary.md",
-    "title": "Cartas",
-    "author": "Santa Catarina de Sena",
-    "cover": "assets/covers/cartas.png",
-    "description": "As cartas de Santa Catarina de Sena são consideradas clássicos italianos, mas destacam-se por seu caráter não literário. Diferente de contemporâneos como Dante ou Boccaccio, Catarina não buscava a expressão estética, mas a eficácia da mensagem. Suas cartas eram ditadas, muitas vezes várias ao mesmo tempo, a secretários. Elas funcionam como uma autobiografia que revela uma mulher de vitalidade...",
-    "readingTime": 16,
-    "epubPath": "data/epubs/cartas-sena.epub"
-  },
-  {
     "id": "noite-escura",
     "path": "../summaries/DarkNightofSoul_RESUMO_FINAL.md",
     "title": "A Noite Escura da Alma",
     "author": "São João da Cruz",
+    "year": 1579,
     "cover": "assets/covers/noite-escura.png",
     "description": "\"A Noite Escura da Alma\" é, entre todas as obras de São João da Cruz, a que penetra mais fundo no coração do mistério cristão da purificação. Escrita logo após a fuga do Santo do cativeiro em Toledo em 1578, ela se apresenta como comentário de um poema de oito estrofes — o mesmo poema que, ao que parece, brotou da experiência vivida naquela prisão, onde o Santo foi confinado por meses pelos seus...",
     "readingTime": 33,
     "epubPath": "data/epubs/noite-escura.epub"
   },
   {
+    "id": "cartas-sena",
+    "path": "../LetterSenaSummary.md",
+    "title": "Cartas",
+    "author": "Santa Catarina de Sena",
+    "year": 1380,
+    "cover": "assets/covers/cartas.png",
+    "description": "As cartas de Santa Catarina de Sena são consideradas clássicos italianos, mas destacam-se por seu caráter não literário. Diferente de contemporâneos como Dante ou Boccaccio, Catarina não buscava a expressão estética, mas a eficácia da mensagem. Suas cartas eram ditadas, muitas vezes várias ao mesmo tempo, a secretários. Elas funcionam como uma autobiografia que revela uma mulher de vitalidade...",
+    "readingTime": 16,
+    "epubPath": "data/epubs/cartas-sena.epub"
+  },
+  {
     "id": "crescimento-santidade-analitico",
     "path": "../summaries/resumo_crescimento_na_santidade_faber.md",
     "title": "Crescimento na Santidade",
     "author": "William Faber",
+    "year": 1854,
     "cover": "assets/covers/crescimento.png",
     "description": "\\\"Growth in Holiness; or, The Progress of the Spiritual Life\\\" (Crescimento na Santidade, ou o Progresso da Vida Espiritual), de Frederick William Faber (1814--1863), é, sem dúvida alguma, um dos mais abrangentes, profundos e duradouros tratados de ascética já escritos em língua inglesa. Faber, filho intelectual de John Henry Newman e, como ele, convertido do anglicanismo ao catolicismo romano,...",
     "readingTime": 82,
     "epubPath": "data/epubs/crescimento-santidade-analitico.epub"
+  },
+  {
+    "id": "dialogo-sena",
+    "path": "../DialogoSenaSummary.md",
+    "title": "Diálogos",
+    "author": "Santa Catarina de Sena",
+    "year": 1378,
+    "cover": "assets/covers/dialogo.png",
+    "description": "A obra inicia com a alma de Catarina elevada em contemplação, exercitando-se na \"cela do autoconhecimento\" para melhor compreender a bondade de Deus. O conhecimento de si leva ao amor, e o amor busca a verdade através da oração humilde e contínua. Deus revela que a alma, pelo afeto do amor, torna-se \"outro Ele\", unindo sua vontade à divina.",
+    "readingTime": 17,
+    "epubPath": "data/epubs/dialogo-sena.epub"
   }
 ]
