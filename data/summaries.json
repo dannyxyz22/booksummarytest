@@ -34,13 +34,13 @@
   },
   {
     "id": "dialogo-sena",
-    "path": "../DialogoSenaSummary.md",
+    "path": "../CathBlinkDialogo.md",
     "title": "Diálogos",
     "author": "Santa Catarina de Sena",
     "year": 1378,
     "cover": "assets/covers/dialogo.png",
-    "description": "A obra inicia com a alma de Catarina elevada em contemplação, exercitando-se na \"cela do autoconhecimento\" para melhor compreender a bondade de Deus. O conhecimento de si leva ao amor, e o amor busca a verdade através da oração humilde e contínua. Deus revela que a alma, pelo afeto do amor, torna-se \"outro Ele\", unindo sua vontade à divina.",
-    "readingTime": 17,
+    "description": "A obra se inicia descrevendo o estado de uma alma que, ansiosa pelo imenso desejo de honrar a Deus e salvar as almas, exercita-se na \"cela do autoconhecimento\". Nesse estado de introspecção espiritual, a alma reconhece a bondade de Deus em si mesma. Catarina de Sena relata que esse autoconhecimento é o princípio do amor, e que a verdadeira iluminação se dá por meio da oração humilde e contínua....",
+    "readingTime": 50,
     "epubPath": "data/epubs/dialogo-sena.epub"
   }
 ]
