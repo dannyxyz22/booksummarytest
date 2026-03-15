@@ -42,7 +42,7 @@ const summaryFiles = [
         title: 'Vida e Glórias de São José',
         author: 'Edward Healy Thompson',
         year: 1888,
-        cover: 'assets/covers/life-glories-joseph.png'
+        cover: 'assets/covers/LifeGlories.png'
     }
 ];
 

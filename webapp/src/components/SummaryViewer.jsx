@@ -284,10 +284,13 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                         <ReactMarkdown
                             remarkPlugins={[remarkGfm]}
                             components={{
-                                h2: ({ node, ...props }) => <h2 style={{ marginTop: '4rem', marginBottom: '1.5rem', borderBottom: '1px solid #f0f0f0', paddingBottom: '0.5rem', fontSize: `calc(1.5rem * ${fontSizeScale} + 0.5vw)`, lineHeight: 1.3 }} {...props} />,
-                                p: ({ node, ...props }) => <p style={{ marginBottom: '1.8rem', fontSize: `calc(1.1rem * ${fontSizeScale})`, color: '#333', textAlign: 'justify', lineHeight: 1.7 }} {...props} />,
-                                li: ({ node, ...props }) => <li style={{ marginBottom: '0.8rem', marginLeft: '1.5rem', fontSize: `calc(1.1rem * ${fontSizeScale})`, color: '#444', lineHeight: 1.6 }} {...props} />,
-                                strong: ({ node, ...props }) => <strong style={{ color: 'var(--text-primary)', fontWeight: '700' }} {...props} />
+                                h1: ({ node, ...props }) => <h1 style={{ fontFamily: 'var(--font-header)', fontSize: `calc(2rem * ${Math.max(1, fontSizeScale * 0.9)} + 2vw)`, marginBottom: '1.5rem', lineHeight: 1.1, color: 'var(--text-primary)', wordBreak: 'break-word' }} {...props} />,
+                                h2: ({ node, ...props }) => <h2 style={{ fontFamily: 'var(--font-header)', marginTop: '3.5rem', marginBottom: '1.2rem', borderBottom: '1px solid #f0f0f0', paddingBottom: '0.4rem', fontSize: `calc(1.55rem * ${fontSizeScale})`, lineHeight: 1.3 }} {...props} />,
+                                h3: ({ node, ...props }) => <h3 style={{ fontFamily: 'var(--font-header)', marginTop: '2.5rem', marginBottom: '1rem', fontSize: `calc(1.25rem * ${fontSizeScale})`, lineHeight: 1.35, color: 'var(--accent-color)' }} {...props} />,
+                                p: ({ node, ...props }) => <p style={{ fontFamily: 'var(--font-body)', marginBottom: '1.6rem', fontSize: `calc(1rem * ${fontSizeScale})`, color: '#2a2a2a', textAlign: 'justify', lineHeight: 1.85, letterSpacing: '0.01em', hyphens: 'auto' }} {...props} />,
+                                li: ({ node, ...props }) => <li style={{ fontFamily: 'var(--font-body)', marginBottom: '0.7rem', marginLeft: '1.5rem', fontSize: `calc(1rem * ${fontSizeScale})`, color: '#333', lineHeight: 1.75, letterSpacing: '0.01em' }} {...props} />,
+                                strong: ({ node, ...props }) => <strong style={{ color: 'var(--text-primary)', fontWeight: '600' }} {...props} />,
+                                em: ({ node, ...props }) => <em style={{ fontStyle: 'italic', color: '#444' }} {...props} />,
                             }}
                         >
                             {processedContent}
