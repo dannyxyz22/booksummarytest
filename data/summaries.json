@@ -48,6 +48,18 @@
     "pdfPath": "data/pdfs/dialogo-sena.pdf"
   },
   {
+    "id": "grande-meio-oracao",
+    "path": "../summaries/GreatMeansLiguori/FinalSummary_GreatMeans_Liguori.md",
+    "title": "O Grande Meio da Oração",
+    "author": "Santo Afonso Maria de Ligório",
+    "year": 1759,
+    "cover": "assets/covers/grande-meio-oracao.png",
+    "description": "Santo Afonso Maria de Ligório inicia sua obra \"O Grande Meio da Oração\" (Del Gran Mezzo della Preghiera) com uma afirmação categórica: ele a considera a mais útil e necessária de todas as suas numerosas publicações espirituais. Para o santo Doutor, a oração não é apenas um simples exercício de devoção ou uma prática recomendável entre tantas outras, mas um meio indispensável e infalível para que...",
+    "readingTime": 21,
+    "epubPath": "data/epubs/grande-meio-oracao.epub",
+    "pdfPath": "data/pdfs/grande-meio-oracao.pdf"
+  },
+  {
     "id": "life-glories-joseph",
     "path": "../summaries/LifeGloriesJoseph_Fluid.md",
     "title": "Vida e Glórias de São José",
