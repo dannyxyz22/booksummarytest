@@ -75,12 +75,29 @@ const App = () => {
     return summaries;
   }, [summaries, route]);
 
+  // Add state to keep track of the active book context
+  const [activeBookId, setActiveBookId] = useState(null);
+
+  useEffect(() => {
+    if (route.page === 'book' && route.param) {
+      setActiveBookId(route.param);
+    } else if (route.page === 'home' || route.page === 'author' || route.page === 'search') {
+      setActiveBookId(null);
+    }
+  }, [route]);
+
   const selectedBook = useMemo(() => {
+    // 1. Direct match: #book/id
     if (route.page === 'book' && route.param) {
       return summaries.find(s => s.id === route.param);
     }
+    // 2. Fragment match: If we have an active book and the new hash is just an ID 
+    // (not home/author/search), keep the book open.
+    if (activeBookId && !['home', 'author', 'search'].includes(route.page)) {
+      return summaries.find(s => s.id === activeBookId);
+    }
     return null;
-  }, [summaries, route]);
+  }, [summaries, route, activeBookId]);
 
   const handleSearch = (e) => {
     e.preventDefault();

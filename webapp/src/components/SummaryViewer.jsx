@@ -49,6 +49,75 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
             .replace(/--/g, '–');  // en dash
     }, [book?.content]);
 
+    // Helper to extract text from React children
+    const getText = (children) => {
+        return React.Children.toArray(children)
+            .map(child => {
+                if (typeof child === 'string') return child;
+                if (child.props && child.props.children) return getText(child.props.children);
+                return '';
+            })
+            .join('');
+    };
+
+    // Helper to generate slugs for headings
+    const generateId = (children) => {
+        const text = getText(children);
+        if (!text) return '';
+        return text.toString()
+            .toLowerCase()
+            .replace(/\./g, '') // Remove dots from "I. ", "II. "
+            .trim()
+            .replace(/\s+/g, '-')
+            .replace(/[^\p{L}\p{N}-]/gu, '') // Robustly keep letters (any language) and numbers
+            .replace(/-+/g, '-');
+    };
+
+    // Catch all clicks on hashes within the viewer to prevent route changes
+    useEffect(() => {
+        const handleGlobalClick = (e) => {
+            const link = e.target.closest('a');
+            if (link) {
+                const href = link.getAttribute('href');
+                if (href && href.startsWith('#') && href.length > 1) {
+                    const id = decodeURIComponent(href.slice(1));
+                    // Try to find the element by ID or Name
+                    const target = containerRef.current?.querySelector(`[id="${id}"], [id="${href.slice(1)}"]`);
+                    if (target) {
+                        // We NO LONGER preventDefault here. 
+                        // We let the hash change so the browser records history.
+                        // We just handle the scroll explicitly to ensure it works within the overlay.
+                        e.stopPropagation();
+                        target.scrollIntoView({ behavior: 'smooth' });
+                    }
+                }
+            }
+        };
+
+        const currentContainer = containerRef.current;
+        if (currentContainer) {
+            currentContainer.addEventListener('click', handleGlobalClick, true);
+        }
+        return () => {
+            if (currentContainer) {
+                currentContainer.removeEventListener('click', handleGlobalClick, true);
+            }
+        };
+    }, [loading, book]);
+
+    // Handle browser back button to scroll to top when returning to book root
+    useEffect(() => {
+        const handleHashScroll = () => {
+            // If the hash is exactly the book root (no extra fragments), scroll to top
+            if (window.location.hash.startsWith('#book/')) {
+                containerRef.current?.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        };
+
+        window.addEventListener('hashchange', handleHashScroll);
+        return () => window.removeEventListener('hashchange', handleHashScroll);
+    }, []);
+
     useEffect(() => {
         const unsubscribe = scrollYProgress.on("change", (latest) => {
             setPercentage(Math.round(latest * 100));
@@ -158,7 +227,13 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
             <div className="container" style={{ position: 'relative', background: 'white', padding: 'min(8vw, 4rem)', boxShadow: '0 10px 40px rgba(0,0,0,0.05)', borderRadius: '8px', marginTop: 'min(4vw, 2rem)', marginBottom: '4rem' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 'min(6vw, 4rem)', paddingBottom: '1rem', borderBottom: '1px solid #f0f0f0', flexWrap: 'wrap', gap: '1rem' }}>
                     <motion.button
-                        onClick={onClose}
+                        onClick={() => {
+                            onClose();
+                            // Double guarantee: if onClose failed, force hash home
+                            if (window.location.hash.startsWith('#book/')) {
+                                window.location.hash = 'home';
+                            }
+                        }}
                         initial={{ x: -20, opacity: 0 }}
                         animate={{ x: 0, opacity: 1 }}
                         transition={{ delay: 0.2 }}
@@ -168,6 +243,10 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                             alignItems: 'center',
                             gap: '8px',
                             color: 'var(--text-secondary)',
+                            background: 'none',
+                            border: 'none',
+                            cursor: 'pointer',
+                            outline: 'none',
                             padding: '8px 0',
                             fontSize: '0.9rem',
                             fontWeight: 600
@@ -290,13 +369,20 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                         <ReactMarkdown
                             remarkPlugins={[remarkGfm]}
                             components={{
-                                h1: ({ node, ...props }) => <h1 style={{ fontFamily: 'var(--font-header)', fontSize: `calc(2rem * ${Math.max(1, fontSizeScale * 0.9)} + 2vw)`, marginBottom: '1.5rem', lineHeight: 1.1, color: 'var(--text-primary)', wordBreak: 'break-word' }} {...props} />,
-                                h2: ({ node, ...props }) => <h2 style={{ fontFamily: 'var(--font-header)', marginTop: '3.5rem', marginBottom: '1.2rem', borderBottom: '1px solid #f0f0f0', paddingBottom: '0.4rem', fontSize: `calc(1.55rem * ${fontSizeScale})`, lineHeight: 1.3 }} {...props} />,
-                                h3: ({ node, ...props }) => <h3 style={{ fontFamily: 'var(--font-header)', marginTop: '2.5rem', marginBottom: '1rem', fontSize: `calc(1.25rem * ${fontSizeScale})`, lineHeight: 1.35, color: 'var(--accent-color)' }} {...props} />,
+                                h1: ({ node, children, ...props }) => (
+                                    <h1 id={generateId(children)} style={{ fontFamily: 'var(--font-header)', fontSize: `calc(2rem * ${Math.max(1, fontSizeScale * 0.9)} + 2vw)`, marginBottom: '1.5rem', lineHeight: 1.1, color: 'var(--text-primary)', wordBreak: 'break-word' }} {...props}>{children}</h1>
+                                ),
+                                h2: ({ node, children, ...props }) => (
+                                    <h2 id={generateId(children)} style={{ fontFamily: 'var(--font-header)', marginTop: '3.5rem', marginBottom: '1.2rem', borderBottom: '1px solid #f0f0f0', paddingBottom: '0.4rem', fontSize: `calc(1.55rem * ${fontSizeScale})`, lineHeight: 1.3 }} {...props}>{children}</h2>
+                                ),
+                                h3: ({ node, children, ...props }) => (
+                                    <h3 id={generateId(children)} style={{ fontFamily: 'var(--font-header)', marginTop: '2.5rem', marginBottom: '1rem', fontSize: `calc(1.25rem * ${fontSizeScale})`, lineHeight: 1.35, color: 'var(--accent-color)' }} {...props}>{children}</h3>
+                                ),
                                 p: ({ node, ...props }) => <p style={{ fontFamily: 'var(--font-body)', marginBottom: '1.6rem', fontSize: `calc(1rem * ${fontSizeScale})`, color: '#2a2a2a', textAlign: 'justify', lineHeight: 1.85, letterSpacing: '0.01em', hyphens: 'auto' }} {...props} />,
                                 li: ({ node, ...props }) => <li style={{ fontFamily: 'var(--font-body)', marginBottom: '0.7rem', marginLeft: '1.5rem', fontSize: `calc(1rem * ${fontSizeScale})`, color: '#333', lineHeight: 1.75, letterSpacing: '0.01em' }} {...props} />,
                                 strong: ({ node, ...props }) => <strong style={{ color: 'var(--text-primary)', fontWeight: '600' }} {...props} />,
                                 em: ({ node, ...props }) => <em style={{ fontStyle: 'italic', color: '#444' }} {...props} />,
+                                a: ({ node, ...props }) => <a style={{ color: 'var(--accent-color)', textDecoration: 'underline' }} {...props} />,
                             }}
                         >
                             {processedContent}

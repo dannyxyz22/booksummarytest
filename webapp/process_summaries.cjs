@@ -44,8 +44,17 @@ const summaryFiles = [
         author: 'Edward Healy Thompson',
         year: 1888,
         cover: 'assets/covers/LifeGlories.png'
+    },
+    {
+        id: 'grande-meio-oracao',
+        path: '../summaries/GreatMeansLiguori/FinalSummary_GreatMeans_Liguori.md',
+        title: 'O Grande Meio da Oração',
+        author: 'Santo Afonso Maria de Ligório',
+        year: 1759,
+        cover: 'assets/covers/grande-meio-oracao.png'
     }
 ];
+
 
 const epubDir = path.join(__dirname, 'public/data/epubs');
 const pdfDir  = path.join(__dirname, 'public/data/pdfs');
@@ -67,6 +76,7 @@ const C = {
 
 function stripInline(text) {
     return (text || '')
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove [text](#link) and [text](url)
         .replace(/\*\*([^*]+)\*\*/g, '$1')
         .replace(/\*([^*]+)\*/g,     '$1')
         .replace(/__([^_]+)__/g,     '$1')
@@ -168,8 +178,22 @@ function generatePdf(file, content, outputPath) {
 
             const tokens = Lexer.lex(content);
             let firstH1Done = false;
+            let skipSection = false;
 
             for (const token of tokens) {
+                // If it's an H1 with "Índice", skip until the next H1
+                if (token.type === 'heading' && token.depth === 1 && token.text.toLowerCase().includes('índice')) {
+                    skipSection = true;
+                    continue;
+                }
+                
+                // If we are skipping and find the next real heading, stop skipping
+                if (skipSection && token.type === 'heading' && token.depth === 1) {
+                    skipSection = false;
+                }
+
+                if (skipSection) continue;
+
                 switch (token.type) {
 
                     case 'heading': {
