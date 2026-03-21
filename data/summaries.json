@@ -60,6 +60,18 @@
     "pdfPath": "data/pdfs/grande-meio-oracao.pdf"
   },
   {
+    "id": "homem-eterno",
+    "path": "../summaries/EverlastingMan_FinalSummary_Portuguese.md",
+    "title": "O Homem Eterno",
+    "author": "G. K. Chesterton",
+    "year": 1925,
+    "cover": "assets/covers/homem-eterno.png",
+    "description": "Chesterton inicia esclarecendo que sua obra possui um escopo mais histórico do que puramente teológico. Ele não pretende escrever uma apologia católica convencional, mas sim um estudo que possa ser lido por pagãos e cristãos de várias vertentes. Sua tese central é um desafio à \"fórmula obsoleta\" que coloca Cristo lado a lado com mitos semelhantes e sua religião ao lado de outras religiões...",
+    "readingTime": 10,
+    "epubPath": "data/epubs/homem-eterno.epub",
+    "pdfPath": "data/pdfs/homem-eterno.pdf"
+  },
+  {
     "id": "life-glories-joseph",
     "path": "../summaries/LifeGloriesJoseph_Fluid.md",
     "title": "Vida e Glórias de São José",
