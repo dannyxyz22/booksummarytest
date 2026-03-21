@@ -140,7 +140,7 @@ input:focus {
     margin: 0 !important;
     color: black !important;
     text-align: justify !important;
-    hyphens: auto !important;
+    hyphens: none !important;
   }
 
   .markdown-content p {

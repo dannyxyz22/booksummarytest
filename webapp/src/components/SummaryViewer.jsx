@@ -378,7 +378,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                                 h3: ({ node, children, ...props }) => (
                                     <h3 id={generateId(children)} style={{ fontFamily: 'var(--font-header)', marginTop: '2.5rem', marginBottom: '1rem', fontSize: `calc(1.25rem * ${fontSizeScale})`, lineHeight: 1.35, color: 'var(--accent-color)' }} {...props}>{children}</h3>
                                 ),
-                                p: ({ node, ...props }) => <p style={{ fontFamily: 'var(--font-body)', marginBottom: '1.6rem', fontSize: `calc(1rem * ${fontSizeScale})`, color: '#2a2a2a', textAlign: 'justify', lineHeight: 1.85, letterSpacing: '0.01em', hyphens: 'auto' }} {...props} />,
+                                p: ({ node, ...props }) => <p style={{ fontFamily: 'var(--font-body)', marginBottom: '1.6rem', fontSize: `calc(1rem * ${fontSizeScale})`, color: '#2a2a2a', textAlign: 'justify', lineHeight: 1.85, letterSpacing: '0.01em', hyphens: 'none' }} {...props} />,
                                 li: ({ node, ...props }) => <li style={{ fontFamily: 'var(--font-body)', marginBottom: '0.7rem', marginLeft: '1.5rem', fontSize: `calc(1rem * ${fontSizeScale})`, color: '#333', lineHeight: 1.75, letterSpacing: '0.01em' }} {...props} />,
                                 strong: ({ node, ...props }) => <strong style={{ color: 'var(--text-primary)', fontWeight: '600' }} {...props} />,
                                 em: ({ node, ...props }) => <em style={{ fontStyle: 'italic', color: '#444' }} {...props} />,
