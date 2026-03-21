@@ -1,4 +1,4 @@
-**CRESCIMENTO NA SANTIDADE**
+# Crescimento Na Santidade
 
 ou, O Progresso da Vida Espiritual
 
@@ -6,8 +6,7 @@ por Frederick William Faber, D.D.
 
 Baltimore: Murphy & Co., 1864 --- Sétima Edição Americana
 
-**INTRODUÇÃO GERAL À OBRA**
-
+## Introdução Geral à Obra
 "Growth in Holiness; or, The Progress of the Spiritual Life" (Crescimento na Santidade, ou o Progresso da Vida Espiritual), de Frederick William Faber (1814--1863), é, sem dúvida alguma, um dos mais abrangentes, profundos e duradouros tratados de ascética já escritos em língua inglesa. Faber, filho intelectual de John Henry Newman e, como ele, convertido do anglicanismo ao catolicismo romano, tornou-se padre da Congregação do Oratório de São Filipe Neri em Londres, e dedicou sua prodigiosa energia criativa à produção de obras de espiritualidade e devoção destinadas ao público católico anglófono. "Crescimento na Santidade" é a sua obra de maior fôlego e maturidade, o resultado de mais de nove anos de acumulação de material e reflexão --- material que, como ele mesmo declara na epístola prefatória, observou fielmente o preceito horaciano de nonum premalur in annum (que seja retido por nove anos antes de ser publicado).
 
 A obra é dedicada, com ternura filial, ao Arcanjo Rafael --- médico, guia e alegria das almas, companheiro dos mortais peregrinos e anjo de suas vicissitudes, por quem a ternura do Pai, a cura do Filho e a alegria do Espírito Santo são ministradas aos homens errantes com o poder eficaz de um espírito angélico e o amor compassivo e patético de um coração humano bondoso. A escolha de Rafael como patrono da obra não é meramente sentimental --- é teológica: Rafael é, na tradição cristã, o guia das almas em sua peregrinação terrestre, e é exatamente essa função de guia prudente e compassivo que Faber quer que a sua obra exerça sobre o leitor.
@@ -20,8 +19,7 @@ No plano metodológico, Faber se propõe a harmonizar a espiritualidade antiga e
 
 Antes de entrar no exame dos capítulos individuais, vale notar a estrutura geral da obra. Os primeiros capítulos (I--III) estabelecem o diagnóstico da situação espiritual do leitor: o que são os verdadeiros sinais de progresso, quais são os falsos, e como cultivar os primeiros. Os capítulos IV--VII aprofundam-se nas condições e obstáculos do progresso. Os capítulos VIII--XI descrevem o estado normal da vida espiritual e as virtudes que ele requer. Os capítulos XII--XIV tratam dos três espíritos maus que ameaçam esse estado normal. Os capítulos XV--XVII abordam os três grandes instrumentos da vida espiritual --- oração, tentações e escrúpulos. Os capítulos XVIII--XXIV exploram dimensões específicas da vida interior: a direção espiritual, a tristeza pelo pecado, a visão das faltas, a questão dos irreligiosos, a devoção verdadeira, os favores espirituais e as distrações. Os capítulos finais XXV--XXVII culminam no diagnóstico e tratamento do maior perigo da vida espiritual --- a tibieza --- e na apresentação do seu oposto --- o fervor genuíno --- regulado pela virtude-chave da discrição.
 
-**CAPÍTULO I --- OS VERDADEIROS SINAIS DE PROGRESSO NA VIDA ESPIRITUAL**
-
+## Capítulo I — Os Verdadeiros Sinais de Progresso na Vida Espiritual
 A vida espiritual é constituída de contradições, e essa é apenas outra forma de dizer que a natureza humana é caída. Uma das maiores contradições, e praticamente uma das mais difíceis de administrar, é que na espiritualidade é muito importante conhecermos muito de nós mesmos e ao mesmo tempo igualmente importante pensar muito pouco de nós mesmos. Faber anuncia essa tensão no início porque o tratado obrigará o leitor a uma profunda introspecção, e esse mesmo processo corre o risco de produzir o segundo dano --- o excesso de auto-atenção --- em lugar do primeiro proveito.
 
 Nenhum conhecimento no mundo pode ser mais interessante para nós do que saber como estamos com Deus. Todo o resto depende disso. Se estamos bem com Ele, tudo está bem conosco, ainda que a mais espessa escuridão da adversidade nos rodee. Se não estamos bem com Ele, nada está bem conosco, ainda que o melhor e mais brilhante da terra esteja a nossos pés. É natural desejarmos saber se estamos progredindo na vida espiritual; nem há nada de errado, ou mesmo de imperfeito, no desejo, desde que não seja inordenado. O amor quer saber que é aceito e retribuído; e o temor está igualmente ansioso por esse conhecimento por causa dos interesses eternos nele envolvidos.
@@ -40,8 +38,7 @@ O capítulo encerra com a descrição da situação da alma que é o sujeito de 
 
 Os verdadeiros sinais de progresso nessa fase intermediária incluem: uma sensação crescente de nossa própria fraqueza e necessidade de graça; um aumento da humildade genuína --- não como sentimento mas como hábito prático; uma paz interior mais estável, menos dependente de consolações sensíveis; uma caridade mais efetiva e menos sentimental para com o próximo; uma fidelidade maior e mais constante às obrigações ordinárias; uma disposição mais dócil e obediente ao diretor espiritual; maior delicadeza de consciência ante as faltas veniais; e uma crescente indiferença aos juízos humanos. Faber insiste que esses sinais são mais seguros exatamente por serem menos espetaculares --- a ausência de consolações sensíveis, a aridez na oração, o sentimento subjetivo de estagnação podem coexistir com um progresso espiritual real e profundo.
 
-**CAPÍTULO II --- PRESUNÇÃO E DESÂNIMO**
-
+## Capítulo II — Presunção e Desânimo
 Faber apresenta neste capítulo sua imagem cartográfica da vida espiritual, dividida em três regiões de extensão muito desigual. Primeiro vem a região dos começos --- um tempo maravilhoso, tão maravilhoso que ninguém percebe o quanto é maravilhoso até estar fora dela e poder olhar para trás. Em seguida se estende uma vasta extensão de deserto, cheia de tentação, luta e fadiga --- um lugar de trabalho e sofrimento, com anjos bons e maus cruzando em todas as direções, os caminhos difíceis de encontrar e escorregadios sob os pés, e Jesus com a Cruz nos encontrando a cada curva. Este deserto é quatro ou cinco vezes o comprimento da primeira região. Em seguida vem uma região de belas montanhas arborizadas e regadas, mas também rochosas --- terrível a tempestades e a essas repentinas coberturas de nuvens que caracterizam os distritos montanhosos. Esta última é a terra da alta oração, das corajosas auto-crucificações, das provas místicas, e de alturas de desapego e abjeção sobre-humanos, cuja atmosfera rarefeita apenas almas escolhidas podem respirar.
 
 Faber une-se a uma alma que saiu da região dos começos e acabou de entrar no grande deserto central. Deus chama alguns a Si nos primeiros fervoures; outros amadurecem em graça nos altos das montanhas. Mas mais morrem no deserto, alguns em um ponto da peregrinação, outros em outro. Evidentemente, há apenas um bom tempo para cada um de nós morrer; e esse é o exato momento em que Deus quer que a morte nos encontre. Mas como o grande corpo dos homens devotos morre enquanto atravessa o deserto central, é desse deserto que Faber quer falar: o deserto da longa perseverança paciente nas práticas humilhantes da virtude sólida.
@@ -58,8 +55,7 @@ Uma superstição particularmente perigosa sobre a graça alimenta tanto o desâ
 
 O remédio contra o desânimo é a humildade genuína --- não a humildade sentimental que gosta de se descrever como miserável, mas a humildade prática que aceita a realidade de nossa fraqueza sem por isso se pertuba, que encontra na própria fraqueza um motivo de confiança ainda maior em Deus. O remédio contra a presunção é o autoconhecimento realista, especialmente o conhecimento de nossa paixão dominante e das formas específicas pelas quais o amor-próprio opera em nossa vida espiritual. Ambos os remédios convergem no mesmo ponto: a entrega de nós mesmos a Deus, de nosso progresso a Ele, de nossa avaliação a Ele, de nossos resultados a Ele --- a paz que vem de não tentar ser o árbitro de nossa própria vida espiritual.
 
-**CAPÍTULO III --- COMO TIRAR O MELHOR PROVEITO DOS SINAIS DE PROGRESSO**
-
+## Capítulo III — Como Tirar o Melhor Proveito dos Sinais de Progresso
 Supondo que a alma tenha alguns ou todos os sinais de progresso enumerados no primeiro capítulo, ela não pode contentar-se meramente em contemplá-los; deve pôr-se a cultivá-los. No início da vida devota, devemos ser cuidadosos para não tomar demasiado sobre nós, não voar muito alto, não prometer a Deus grandes austeridades nem sobrecarregar-nos com numerosas práticas. Devemos ser corajosos mas moderados e discretos. Ser gentil conosco mesmos não é necessariamente ser indulgente conosco mesmos. O castigo que não seria demasiado para um homem mataria ou aleijaria uma criança.
 
 Na vida espiritual há geralmente graças ou meios de graça atribuídos a determinadas épocas. Esta época tem seus dois perigos específicos --- presunção e desânimo --- e seus dois auxiliares: recolhimento e fidelidade. Durante os primeiros fervoures, essas coisas vinham por si mesmas; os impulsos da graça o faziam tudo, e a generosidade do amor jovem supria muito de uma penosa e seca auto-disciplina. Assim, éramos recolhidos sem o sentir, e fiéis sem o saber. Mas esses dias passaram.
@@ -72,8 +68,7 @@ A fidelidade --- o segundo grande meio desta época --- consiste em sermos fiéi
 
 Faber aborda também a questão dos exames de consciência. O exame particular --- o exame sobre uma falta específica escolhida de antemão --- deve preceder o exame geral. Segundo o método de Santo Inácio, o primeiro objeto de nossa santa perseguição deve ser, não a falta que mais nos perturba ou que parece de maior magnitude, mas a que mais incomoda nosso próximo e lhe dá mau exemplo. Essa orientação para fora de nós mesmos, para o efeito de nossa vida sobre os outros, é uma das características mais distintivas da espiritualidade de Faber: a vida interior sempre deve ser verificada e purificada pela referência à vida exterior, e vice-versa.
 
-**CAPÍTULO IV --- O ESPÍRITO EM QUE SERVIMOS A DEUS**
-
+## Capítulo IV — O Espírito em que Servimos a Deus
 Teoria sem prática vale pouco, mas sem boa teoria a prática também não vale muito --- não é frutífera nem duradoura. Se isso é verdade na maioria das coisas, é especialmente verdadeiro na vida espiritual. Deus é para nós muito o que somos para Ele: com o inocente serás inocente, e com o perverso te pervertirás. O que Faber pretende mostrar neste capítulo é que sem liberdade de espírito jamais poderemos ser perfeitos; que não há verdadeira nem segura liberdade de espírito senão a que decorre do espírito em que servimos a Deus; e que, portanto, o único espírito certo em que servi-Lo é o de autossacrifício e generosidade.
 
 Para compreender por que esse espírito é necessário, Faber começa pela análise do espírito em que a maioria dos homens serve a Deus --- um espírito de transação ou de medo. Lidar com Deus é uma necessidade tão terrível quanto indubitável e inevitável. Contraste a realidade Dele com a nossa inverdade, o Seu poder com a nossa fraqueza, a Sua lei com a nossa desobediência. Enumere as Suas perfeições conhecidas, lembrando que não há grande nem pequeno com Ele por causa de Sua imensidade e completude. Analise a Sua tremenda santidade e medite separadamente em cada elemento dela --- sua minutícia atroz, sua pureza insuportável, sua sensibilidade indizível, seu ciúme terrível. Do nosso lado, há uma fertilidade multitudinária, dia e noite, de pensamento, palavra, ação, omissão e intenção; do Seu lado, a anotação de tudo isso, a rigorosa exigência de uma intenção invariavelmente pura, a conta estrita, a severidade do castigo, a eternidade do destino e a inevitabilidade infalível de tudo isso.
@@ -86,8 +81,7 @@ A liberdade de espírito --- aquela qualidade preciosa que os santos possuíam e
 
 A implicação prática desse ensinamento é radical: não há nível de serviço a Deus que seja suficiente, nenhuma quantidade de práticas devocionais que seja adequada, enquanto o espírito que as anima for o do mínimo necessário. O que importa não é a quantidade ou a intensidade das práticas, mas o espírito que as permeia --- um espírito de entrega irrestrita, de generosidade sem cálculo, de amor que não mede os seus custos.
 
-**CAPÍTULO V --- O QUE NOS RETÉM**
-
+## Capítulo V — O que nos Retém
 Parece agora como se tivéssemos nosso curso claramente traçado e recebido as instruções quanto ao espírito em que devemos servir a Deus. Estamos fora do porto, mas como é que não avançamos? Há três deficiências que a alma sente: falta de poder para resistir às tentações, realizar as penitências e ser fiel às observâncias devocionais; falta de elasticidade nas surpresas que sobrevêm, nas mudanças, nos ensaios de temperamento; e uma deficiência de luz interior nos exames de consciência. Uma espécie de modorra sonolenta vai se apoderando de nós como a opressão de um sonho.
 
 Essas três deficiências --- poder, elasticidade e luz interior --- surgem de várias causas. Em parte resultam da atenção que fomos quase obrigados a prestar a nós mesmos e às experiências interiores de nossas almas nessas fases iniciais da vida espiritual. A auto-inspeção é sempre perigosa mesmo quando necessária; e, consequentemente, nunca deve ser praticada sem o seu antídoto próprio. O perigo está em nos conduzir à irrealidade, à sensibilidade, à afetação e àquilo que é o mais repugnante dos vícios na vida espiritual --- a sentimentalidade.
@@ -98,8 +92,7 @@ Faber lista cinco obstáculos secretos específicos que prendem a alma. O primei
 
 A cura para esses obstáculos é específica para cada um, mas tem como fundamento comum o mesmo princípio: uma entrega mais completa e mais consciente a Deus, que inclui a entrega das nossas resistências a Ele --- a resistência a certas práticas eclesiásticas que nos parecem humilhantes, a resistência a certas obras de caridade que perturbam nossa comodidade, a resistência às relações externas que exigem abnegação.
 
-**CAPÍTULO VI --- A CONDUTA EXTERNA**
-
+## Capítulo VI — A Conduta Externa
 Há uma necessidade especial de ter em mente a importância da conduta externa nas fases iniciais da vida devota. O principiante tem grandes tentações de menosprezar muito a sua conduta exterior. Recentemente aprendeu pela primeira vez a importância da intenção pura, do recolhimento habitual e da supremacia da vida interior. A moderação é difícil para a natureza humana; e o que é novo nunca dá jogo leal ao que é antigo e familiar. Daí que, embora ninguém ouse colocá-lo em palavras, um principiante preenchido com o pensamento verdadeiro mas para ele novíssimo de que a vida interior é muito superior à exterior, pense que esta última é positivamente sem valor, ou mesmo a considere uma tentação. A estima de uma, infelizmente, engendra nele um desprezo pela outra.
 
 O espírito de reformador é a contradição do espírito ascético. Uma cruzada contra nós mesmos pode ser adequada --- embora melhor nem isso, até termos aprendido a nos subjugar. Mas atacar as faltas dos outros é fazer o trabalho do diabo por ele; fazer o trabalho de Deus é atacar as nossas próprias. Quando praticamos o exame particular de consciência, Santo Inácio nos manda escolher para o primeiro objeto de nossa santa perseguição, não a falta que mais nos perturba ou que parece de maior magnitude, mas aquela que mais incomoda o nosso próximo e lhe dá mau exemplo.
@@ -108,8 +101,7 @@ Os principiantes ofendem os que os rodeiam de várias formas: por falta de discr
 
 Faber insiste que esses defeitos não são intrínsecos à vida devota --- são simplesmente o velho fermento do mundo ao qual ainda pertencem, não os seus novos princípios, os quais são responsáveis pelo que há de desgraciosos ou de errados no seu comportamento. O mundo os condena nesses defeitos com uma dureza que não leva em conta os enormes esforços que estão fazendo, as tentações interiores com que estão lutando, as graças com que correspondem pela primeira vez. Mas essa condescendência generosa de Faber não equivale a isentar os principiantes de todo esforço de melhora da conduta exterior. Pelo contrário --- a melhora da conduta exterior é precisamente o primeiro campo de batalha onde a vida interior deve se provar.
 
-**CAPÍTULO VII --- A PAIXÃO DOMINANTE**
-
+## Capítulo VII — A Paixão Dominante
 Chegamos agora ao último dos cinco obstáculos secretos que foram acusados de dificultar nosso progresso. Cada homem tem uma paixão dominante --- uma inclinação, hábito ou disposição que governa subconscientemente a maior parte de suas ações e que dá um tom e colorido a toda a sua vida. É causa de pelo menos dois terços dos pecados de um homem. As outras paixões são obrigadas a reconhecer o seu império; e como dominação, não mero pecado, é o objeto de sua ambição, ela na verdade nos ajudará a combater nossas outras paixões --- ao fazê-lo, estende a sua tirania e, além disso, cria uma diversão a seu próprio favor. Outras paixões nos cegam para nossos pecados. Mas a paixão dominante não se contenta com isso --- ela vai tão longe a ponto de fazer nossos vícios parecerem virtudes. Daí que seja um caminho direto para a impenitência final.
 
 A paixão dominante é perigosa exatamente porque é secreta. Enquanto existe na alma, dominante e não atacada, a sua influência pode ser chamada de universal. O fato de estar oculta dos seus possuidores não é prova em contrário; é de sua natureza ocultar-se. Com as nossas almas é como com um navio quando a corrente é mais forte do que o vento. Ele continua indo em direção aos rochedos, e se não conseguir que as suas âncoras segurem, está perdido. Pior ainda é com a alma, cujos meios de segurança são menores; pois não há tal coisa como uma ancoragem na vida espiritual.
@@ -118,8 +110,7 @@ Para descobrir a paixão dominante, há dois métodos que, perseguidos honestame
 
 Uma vez identificada a paixão dominante, é necessário travar uma guerra ativa e contínua contra ela. Faber adverte especialmente sobre o modo insidioso como a paixão dominante se alia com as virtudes aparentes da alma. A pessoa dominada pelo orgulho pode ser muito generosa precisamente porque a generosidade alimenta seu orgulho --- ela gosta de ser vista como generosa. A pessoa dominada pela vaidade pode ser muito assídua nas devoções externas precisamente porque elas satisfazem a sua necessidade de ser vista como religiosa. A pessoa dominada pela sensualidade pode ser muito dada à oração afetiva precisamente porque ela proporciona prazeres espirituais agradáveis. Em todos esses casos, a paixão dominante se camufla de virtude, e a única forma de desmascarar essa camuflagem é um exame de consciência rigoroso e honesto, conduzido sob a orientação de um diretor experiente.
 
-**CAPÍTULO VIII --- NOSSO ESTADO NORMAL**
-
+## Capítulo VIII — Nosso Estado Normal
 Tudo no mundo parece ter um começo peculiar e um fim peculiar, com um estado normal entre eles; e é sempre esse estado normal que dá o verdadeiro caráter de uma coisa. Mas os fenômenos da vida espiritual parecem ser de um tipo diferente. Parece à primeira vista como se a vida espiritual não pudesse ter estado normal, exceto o de ser um progresso perpetuamente insatisfeito, cujo ponto mais alto sempre seria uma decepção. A maior parte do seu tempo e atenção é tomada por meras preliminares; e nunca parece que entramos em um estado fixo que possamos chamar de normal ou habitual.
 
 Apesar de tudo isso, a vida espiritual tem uma espécie de estado normal; e o conhecimento deste nos será de ajuda. Consiste em uma perpétua alternância de três disposições, às vezes se sucedendo e reinando em turnos, às vezes duas delas ocupando o trono ao mesmo tempo, e às vezes as três ao mesmo tempo exercendo sua influência conjunta. Essas três disposições são luta, fadiga e repouso; e cada uma delas requer um satélite acompanhante para iluminá-las no momento noturno de suas revoluções. A luta requer paciência. A fadiga deve ser resistente ao respeito humano. O repouso deve se apoiar na mortificação.
@@ -130,8 +121,7 @@ A fadiga é igualmente universal e inevitável. Surgir dia após dia às mesmas 
 
 O repouso é o estado em que a alma, depois de um período de luta ou de fadiga intensa, encontra alguma paz e serenidade. Mas mesmo o repouso é perigoso sem mortificação, porque a natureza tem uma propensão a buscar repouso em meios naturais quando os sobrenaturais não estão mais disponíveis. O repouso que Faber tem em mente não é a relaxação das práticas, mas uma paz interior que coexiste com a fidelidade às obrigações --- uma paz que é o fruto da mortificação e não da sua ausência.
 
-**CAPÍTULO IX --- PACIÊNCIA**
-
+## Capítulo IX — Paciência
 As três disposições que compõem o estado normal da vida espiritual --- luta, fadiga e repouso --- são cada uma delas assediadas por uma escuridão e dificuldade próprias, requerendo virtudes acompanhantes para iluminá-las. A luta requer obviamente paciência; a fadiga só é suportada com segurança quando a singularidade de propósito nos garante contra o respeito humano; e o repouso precisa de mortificação corajosa.
 
 Não é verdade que ordinariamente não apreciamos a importância da paciência na vida espiritual? Prontamente admitimos a importância da oração, do exame, da mortificação e da leitura espiritual como meios de vida santa; mas é de se duvidar que atribuamos o seu lugar próprio ao exercício da paciência. Faber distingue várias formas desta virtude: a paciência para com as fraquezas e defeitos do próprio caráter; a paciência para com as fraquezas e defeitos dos outros; a paciência para com as circunstâncias adversas da vida exterior; a paciência para com as securas e aridez na oração; e a paciência para com a aparente ausência de progresso espiritual. Todas essas formas têm em comum o mesmo princípio fundamental: a aceitação da vontade de Deus tal como ela se manifesta no presente momento, sem queixa, sem pressa, sem desejo de que as coisas fossem de outro modo.
@@ -142,8 +132,7 @@ A paciência, como a entende Faber, é uma virtude ativamente exercida. Ela coex
 
 As grandes santidades que admiramos nos santos não foram alcançadas por saltos espetaculares, mas por uma paciência fidelíssima e ininterrupta nas pequenas práticas cotidianas. A paciência, portanto, não é apenas uma virtude de defesa, mas uma das mais positivas e construtivas virtudes da vida espiritual --- o fio invisível que tece os mil atos pequenos e imperfeitos do dia em um tecido contínuo de amor e de serviço a Deus.
 
-**CAPÍTULO X --- RESPEITO HUMANO**
-
+## Capítulo X — Respeito Humano
 Dar-nos à vida espiritual é colocarmo-nos em desarmonia com o mundo ao nosso redor. Fazemos um desacordo mesmo com muito do que é amável e afetivo, com o qual, como virtude natural, não podemos estar completamente sem simpatia. Vivemos em um mundo diferente, temos interesses diferentes e falamos uma linguagem diferente, e os dois mundos não se misturam. A graça nos mantém em um mundo, a natureza nos puxa de volta para o outro. Esse é o segredo do imenso poder que o respeito humano tem sobre nós; e das três disposições que compõem o estado normal da vida espiritual, a fadiga é a que mais nos expõe a seus ataques.
 
 O respeito humano é mais como uma atmosfera do que qualquer outra coisa, e dificilmente pode ser apanhado e punido em atos distintos. Destrói toda a liberdade e se torna o positivo tirano da vida de um homem. Para um homem que está completamente sob sua dominação, é como se a onipresença de Deus fosse apagada em torno dele, e algum outro olho poderoso estivesse fixo nele, governando-o com um poder como o da luz solar, causando nele em todos os momentos uma inquietação quase preternatural. É um espírito que recolhe toda a humanidade num único olho e lança sobre nossas almas sua fascinação portentosa.
@@ -154,8 +143,7 @@ O remédio para o respeito humano é a simplicidade, entendida como uma presenç
 
 Faber apresenta também os meios práticos para combater o respeito humano. O principal é a prática da presença de Deus, que substitui a onipresença intimidante dos homens pela onipresença amorosa de Deus. Outros meios incluem: a frequência na oração, que nos recorda continuamente da perspectiva de Deus sobre as coisas; a leitura das vidas dos santos, que nos mostra como eles enfrentaram a oposição e o ridículo do mundo; e acima de tudo, o exame particular de consciência especificamente sobre as manifestações do respeito humano em nossa vida --- as coisas que deixamos de fazer, as palavras que não dissemos, os atos de virtude que suprimimos por medo do que os outros pensariam.
 
-**CAPÍTULO XI --- A MORTIFICAÇÃO, NOSSA VERDADEIRA PERSEVERANÇA**
-
+## Capítulo XI — A Mortificação, Nossa Verdadeira Perseverança
 A verdadeira ideia da mortificação é que ela é o amor de Jesus, levado a essa forma em parte por imitação Dele, em parte para expressar a sua própria veemência, e em parte para garantir, por um instinto de autopreservação, a sua própria perseverança. Não pode haver amor verdadeiro ou duradouro sem ela, pois uma certa quantidade dela é necessária para evitar o pecado e guardar os mandamentos. Nem sem ela há qualquer perseverança respeitável na vida espiritual. A mortificação é tanto interior quanto exterior; e naturalmente a excelência superior da interior está além de qualquer questão. Mas se há uma doutrina mais importante do que outra neste assunto, é que não pode haver mortificação interior sem a exterior; e esta última deve vir primeiro. Em uma palavra, para ser espiritual, a mortificação corporal é indispensável.
 
 Alguns têm falado como se a mortificação corporal fosse menos necessária nos tempos modernos do que antes, e que as recomendações dos escritores espirituais neste campo devem ser tomadas com considerável abatimento. Faber combate vigorosamente esse erro. O grau de mortificação e sua ideia devem permanecer iguais em todas as eras da Igreja, pois a penitência é uma marca permanente da Igreja. Para obter a graça, para mantê-la e multiplicá-la, a penitência é necessária a cada passo. O exercício heroico da penitência deve ser provado à satisfação da Igreja antes que ela proceda à canonização de um santo; e as recentes beatificações de Paulo da Cruz e de Mariana de Jesus mostram como a mente da Igreja permanece completamente inalterada nesse ponto.
@@ -164,8 +152,7 @@ Faber refuta também o argumento de que a pouca saúde moderna justifica a atenu
 
 A mortificação interior é, em sua essência, a sujeição da vontade própria à vontade de Deus. Inclui a mortificação da curiosidade, da vaidade intelectual, do desejo de ser estimado e admirado, do apego aos próprios julgamentos e opiniões, do amor aos próprios confortos espirituais e consolações. A relação entre mortificação e perseverança é central para todo o argumento de Faber. Sem mortificação, o repouso que faz parte do estado normal da vida espiritual não é seguro, porque a natureza tem uma propensão a buscar repouso em meios naturais quando os sobrenaturais não estão mais disponíveis. A mortificação é o que mantém a alma acordada e vigilante mesmo durante os períodos de relativa paz. É também o meio pelo qual a alma demonstra a autenticidade do seu amor a Deus: não pela intensidade dos seus sentimentos, mas pela constância do seu sacrifício.
 
-**CAPÍTULO XII --- O ESPÍRITO HUMANO**
-
+## Capítulo XII — O Espírito Humano
 As três disposições normais da vida espiritual requerem paciência, mortificação e ausência de respeito humano para desempenhar corretamente as funções a elas atribuídas. Mas há também três espíritos maus que assombram essas disposições. No geral, a disposição de luta é responsável pelos ataques do que pode ser chamado de espírito humano; a fadiga, à ociosidade espiritual; e o repouso, ao espírito de não-oração.
 
 O reino das trevas, o poder e a astúcia de Satanás, a multidão de seus ministros subordinados, a incessância de sua guerra aberta ou oculta contra os servos de Deus, não podem ser demasiadas vezes o sujeito de nossas meditações mais graves. Contudo, seria desejável que as opiniões dos homens sobre essa agência de Satanás fossem sempre mantidas dentro dos limites devidos da teologia sã. Esquecemos que o diabo é apenas um dos três inimigos contra quem no batismo nos comprometemos a lutar --- a carne, o mundo e o diabo --- e assim transferimos para ele todos os fenômenos que pertencem mais à carne e ao mundo. O mesmo amor-próprio secreto que nos leva a uma visão supersticiosa da graça, como um talismã que deve agir sem a cooperação de nossa própria vontade resoluta, é a fonte dessas visões errôneas da agência do diabo.
@@ -176,8 +163,7 @@ O espírito humano é especialmente perigoso porque frequentemente usa linguagem
 
 Reconhecer a realidade do espírito humano não diminui a vigilância necessária contra o diabo, mas acrescenta a ela uma vigilância igualmente necessária contra nós mesmos. São Bernardo observou que uma alma que deixou de ser tentada pelo diabo pode tornar-se ela mesma um diabo para si mesma --- e é precisamente o espírito humano não mortificado que realiza essa triste transformação.
 
-**CAPÍTULO XIII --- O ESPÍRITO HUMANO DERROTADO**
-
+## Capítulo XIII — O Espírito Humano Derrotado
 Neste capítulo, Faber trata de um dos desenvolvimentos mais comuns do espírito humano --- a suscetibilidade excessiva a respeito da reputação --- e dos meios pelos quais o espírito humano em geral pode ser trazido à sujeição.
 
 A suscetibilidade excessiva a respeito da reputação é uma doença fatal para a vida espiritual, e uma das causas mais prolíficas de tibieza. A Terra pode ser um lugar infeliz; mas não é a pressão da providência de Deus que causa a maior parte da infelicidade, nem os rugidos do diabo que anda em derredor à procura de quem devorar. É o espírito humano operando em brigas, frieza, vaidade, rivalidade, inveja, lutas, ciúmes, mal-entendidos, e uma ideia exagerada de pequenas ofensas e erros. O sofrimento de todas essas coisas, que é muito agudo, vem de irritabilidade a respeito da reputação.
@@ -188,8 +174,7 @@ Os meios para derrotar o espírito humano são vários. O primeiro é o autoconh
 
 Faber acrescenta um ensinamento importante sobre a relação entre o espírito humano e a vida comunitária. Nas famílias, nas comunidades religiosas, nos grupos de amigos espirituais, o espírito humano é frequentemente a principal fonte de conflito e de sofrimento. A santificação do espírito humano --- a sua purificação progressiva através da mortificação e da graça --- é, portanto, não apenas uma questão de desenvolvimento individual, mas uma das contribuições mais importantes que cada pessoa pode fazer para o bem comum dos grupos em que vive.
 
-**CAPÍTULO XIV --- A OCIOSIDADE ESPIRITUAL**
-
+## Capítulo XIV — A Ociosidade Espiritual
 Se, de todas as graças, a da perseverança é a mais preciosa, por ser aquela que confere valor duradouro a todas as outras, certamente entre os vícios que assediam a vida devota, a ociosidade espiritual é um dos principais, pois é a contradição da perseverança. Todas as três disposições de nosso estado normal, especialmente a fadiga, são desoladas por ela. A luta é tentada a ceder à preguiça. A fadiga é terrivelmente atraída, em sua lassidão dolorida, a afastar-se da fé interior e a buscar consolação nas criaturas --- um passo quase tão fatal como adormecer na neve. E o repouso resmungan quando a trombeta soa para renovar a luta.
 
 Faber descreve sete desenvolvimentos específicos da ociosidade espiritual. O primeiro é a dissipação --- uma dispersão sutil do espírito que pode destruir em poucas horas as graças arduamente conquistadas de meses ou o fruto de todo um retiro. A dissipação é especialmente traiçoeira porque raramente é percebida no momento em que está acontecendo; só é reconhecida depois, pelos seus efeitos desoladores.
@@ -200,8 +185,7 @@ O quinto desenvolvimento é a procrastinação na correspondência às graças e
 
 A ociosidade espiritual é especialmente perigosa porque frequentemente se disfarça de seriedade espiritual. Uma pessoa pode parecer muito devota --- passando muito tempo em orações, leituras e devoções --- e ser ao mesmo tempo profundamente ociosa no sentido em que Faber emprega o termo: incapaz de perseverança, de constância, de fidelidade às obrigações concretas. O remédio principal é a ordem e a regularidade: um horário estabelecido de práticas devocionais, mantido com fidelidade independentemente do humor e das consolações; a execução fiel dos deveres do estado, que são o principal campo de santificação para a maioria das pessoas.
 
-**CAPÍTULO XV --- A ORAÇÃO**
-
+## Capítulo XV — A Oração
 A vida espiritual é uma coisa reconhecivelmente distinta da vida mundana; e a diferença vem da oração. Quando a graça amorosamente leva um homem a dedicar-se à oração, ele entra no poder da oração, e a oração faz um homem novo dele; e tão completamente ele descobre que sua vida é oração, que finalmente ora sempre. Sua vida mesma se torna uma oração ininterrupta. Ininterrupta, porque não reside totalmente nos métodos de oração mental ou formas de oração vocal; mas é uma atitude de coração pela qual todas as suas ações e sofrimentos se tornam orações vivas.
 
 A vida de oração, portanto, que é o distintivo do homem sobrenatural, é o orar sempre. Mas o que é orar sempre? Orar sempre é sempre sentir a doce urgência da oração e ter fome dela. A graça é palpável e tocada na oração; daí que ela fortalece a fé e inflama o amor. Em consequência dessa atração adquirimos hábitos de oração tendo horas certas para ela, seja mental seja vocal. Não que um mero hábito de rezar tornará alguém um homem de oração. Mas Deus não enviará o Seu fogo, se não colocarmos primeiro o sacrifício em ordem.
@@ -214,8 +198,7 @@ Para as almas no estágio médio da vida espiritual, a forma ordinária de oraç
 
 A oração transforma o homem que a pratica de modo profundo e permanente. O homem que ora sempre vive em um mundo diferente --- tem diferentes moradores ao seu redor como seus familiares: Deus, Jesus, Maria, Anjos e Santos. Eles são a subcorrente de sua mente, e frequentemente presidem à própria expressão de seus pensamentos. Não tem os mesmos interesses, esperanças e objetivos que os outros homens. Quando deseja fazer alguma coisa, vai ao trabalho de um modo diferente dos outros, e testa o seu sucesso diferentemente. Em nada ele está tão distante dos homens do mundo como em seus critérios de sucesso, que são totalmente sobrenaturais e cheios do espírito terreno da Encarnação.
 
-**CAPÍTULO XVI --- AS TENTAÇÕES**
-
+## Capítulo XVI — As Tentações
 As tentações são a matéria-prima da glória; e o manejo delas é uma obra tão grande quanto o governo de um império, e requer uma vigilância tão incessante e universal. São Tiago diz que devemos contar como toda alegria cair em diversas tentações. É claro, portanto, que ou não conhecemos ou nem sempre temos em mente a verdadeira natureza e o caráter das tentações. Elas são quase tão numerosas quanto os nossos pensamentos, e a nossa única vitória sobre elas é através da coragem persistente e de um espírito indomável de alegria.
 
 As tentações não são pecados --- esta é a primeira e mais importante verdade sobre elas. No entanto, em nove casos em dez nossa infelicidade vem de não discernir esse fato. As tentações revelam-nos a nossa extrema fraqueza e nossa constante necessidade de graça. Somos como homens que não sabem o quanto seus hematomas são doloridos até serem pressionados; e então exageramos o mal. Quando a tentação pressiona nossa natureza caída e enferma, a ternura é tão sensível e tão aguda que nos dá imediatamente a sensação de uma ferida ou de uma doença.
@@ -226,8 +209,7 @@ O manejo correto das tentações requer várias coisas. Primeiro, a distinção 
 
 Faber adverte especialmente contra dois erros opostos no manejo das tentações. O primeiro é o excessivo medo --- que trata toda tentação como se fosse já um pecado, que se pertuba excessivamente com a violência ou a persistência das tentações, que exige de Deus uma completa imunidade às tentações como condição de servir-Lhe. O segundo é a negligência imprudente --- que ignora as tentações quando deveria resistir a elas, que não foge das ocasiões próximas, que subestima o poder do inimigo. Entre esses dois extremos está o caminho real: vigilância serena, confiante em Deus, sem excessivo medo mas também sem imprudência.
 
-**CAPÍTULO XVII --- OS ESCRÚPULOS**
-
+## Capítulo XVII — Os Escrúpulos
 Um homem escrupuloso aborrece a Deus, irrita seu próximo, se atormenta a si mesmo e oprime seu diretor. Um escrúpulo é definido em teologia como um temor vão do pecado onde não há motivo nem fundamento razoável para suspeitar de pecado. Ele é como uma pedra no sapato de um homem que o faz andar manco e o fere a cada passo. Também podemos comparar um homem escrupuloso a um cavalo que recua diante de sombras, e assim faz pouco progresso, recua, desobedece às rédeas, frequentemente ameaça o cavaleiro, e sempre prova a sua paciência.
 
 Um escrúpulo pode quase ser definido como a ignorância culpável de distinguir uma tentação de um pecado. Outro homem pode discernir que meu escrúpulo não é um pecado; mas se eu mesmo o discernisse, não seria um escrúpulo; e se o aceitasse em fé quando meu diretor me dissesse, eu não seria um homem escrupuloso. Isso nos deixa entrever o segredo da malícia dos escrúpulos. Eles não são pecados, mas estão tão cheios de disposições erradas que podem se tornar pecados a qualquer momento, além de serem fontes de muitos pecados sob o pretexto do bem.
@@ -238,8 +220,7 @@ Faber faz uma distinção crucial entre escrúpulos naturais e escrúpulos sobre
 
 O remédio para os escrúpulos naturais é a obediência absoluta ao diretor espiritual --- não a obediência que consulta o diretor e depois permanece em dúvida, mas a obediência que age sobre o julgamento do diretor sem hesitação nem reserva, mesmo quando o sentimento interno continua perturbado. Faber insiste que o escrupuloso que não obedece ao seu diretor não merece compaixão; ele está escolhendo sua própria miséria. Os escrúpulos são alimentados precisamente pela atenção que lhes prestamos; privados dessa atenção pela obediência, eles se dissipam por si mesmos. Há também, nos casos mais sérios, uma mudança necessária na concepção de Deus: de um juiz implacável e meticulosamente exigente para um pai amoroso e misericordioso, que é o retrato verdadeiro que o Evangelho nos dá.
 
-**CAPÍTULO XVIII --- O OFÍCIO DO DIRETOR ESPIRITUAL**
-
+## Capítulo XVIII — O Ofício do Diretor Espiritual
 O presente capítulo nos traz à questão mais debatida de toda a vida espiritual, o ofício de um diretor espiritual. Há uma harmonioso consenso até certo ponto, e uma grande discrepância de opiniões conflitantes além desse ponto. Escritores que vivem em comunidades tendem a exagerar o ofício do diretor, a confundi-lo com o de um superior religioso e a torná-lo irreal para as pessoas que vivem no mundo. Por outro lado, se tomamos visões vagas ou laxas sobre o assunto, corremos o risco de cair nas proposições condenadas dos Iluminados e de Molinos.
 
 A importância de ter um diretor é fundamental para toda a vida espiritual. Podemos possivelmente estar seguros sem um diretor, se escolhermos sentar no pó e nas cinzas do baixo desempenho; mas não de outra forma. Não apenas pessoas muito boas vão erradas por falta de diretor, mas frequentemente parece como se a quantidade de sua bondade só aumentasse a extensão e o dano do seu erro. Isso acontece de duas formas: no primeiro caso, é o amor-próprio que continuamente faz um homem se afastar imperceptivelmente de princípios elevados; no segundo caso, é a falta de discrição que faz o mal, levando-o à singularidade e ao franco absurdo.
@@ -252,8 +233,7 @@ A escolha do diretor deve recair sobre alguém que seja douto, pio e prudente. F
 
 A verdadeira ideia católica do relacionamento com o diretor é de obediência humilde mas não servil ou acrítica. O dirigido deve ser completamente honesto e aberto com seu diretor, sem omitir coisas por vergonha ou por medo de ser mal compreendido. Deve agir sobre os conselhos recebidos sem excessiva deliberação. Deve persistir com o mesmo diretor através de períodos de seca e de aparente falta de progresso. Finalmente, Faber fala do sofrimento que o diretor causa --- as exigências que ele faz, as correções que dá, as práticas que prescreve e que a alma relutante não quer abraçar. Esse sofrimento é ele próprio um valioso meio de santificação, precisamente porque ataca o ponto mais sensível da alma: o amor-próprio espiritual.
 
-**CAPÍTULO XIX --- A TRISTEZA PERMANENTE PELO PECADO**
-
+## Capítulo XIX — A Tristeza Permanente pelo Pecado
 É um pensamento muito perturbador que tantas pessoas tenham aspirações elevadas e sinceras por coisas elevadas, e tão poucas as alcancem. Há uma causa comum para esse fenômeno universal; e se assim é, quanto importa descobri-la! Depois de examinar diversas causas potenciais --- falta de perseverança na oração, falta de mortificação corporal, falta de diretor espiritual --- Faber chega à sua conclusão: a causa mais comum do fracasso na busca da perfeição é a ausência de tristeza permanente e profunda pelo pecado.
 
 Não que a perseverança na oração seja irrelevante --- mas há muitos homens que não perderam nenhuma meditação por anos, e ainda assim parecem não ter crescimento algum. As suas orações parecem inoperativas e sem reforma. Isso sugere que elas são de alguma forma externas às suas almas, como um adjunto de sua vida espiritual e não o seu sangue vital. O defeito não está na oração em si, mas no estado da alma que a faz --- uma alma que não tem o ferimento aberto da tristeza pelo pecado, que é a condição para que a oração penetre até o fundo.
@@ -264,8 +244,7 @@ Esta tristeza permanente tem uma virtude purificadora específica: mantém a alm
 
 Faber apresenta também uma análise perspicaz dos meios de cultivar essa tristeza. O principal é a meditação frequente sobre a Paixão de Cristo --- não como exercício intelectual, mas como contemplação afetiva do sofrimento que os nossos pecados causaram. O segundo é o exame de consciência regular e honesto. O terceiro é a frequência aos sacramentos, especialmente a confissão, que não deve ser tratada como uma mera quitação de dívidas espirituais mas como um encontro de penitência real e profunda com a misericórdia divina. O quarto é a leitura das vidas dos santos, especialmente dos grandes penitentes como Santo Agostinho, São Pedro e Santa Maria Madalena, que exemplificam o que a tristeza genuína pelo pecado pode produzir em uma alma.
 
-**CAPÍTULO XX --- A VISÃO CORRETA DE NOSSAS FALTAS**
-
+## Capítulo XX — A Visão Correta de Nossas Faltas
 A mais doce de todas as doutrinas doces que São Francisco de Sales foi inspirado a nos ensinar foi aquela que diz respeito à visão correta de nossas próprias faltas. O que mais abundamos são certamente as faltas. Talvez uma visão correta delas possa ser um atalho para o céu. Ao menos nos ajudará a fazer uma estrada do que parece uma série de barreiras.
 
 Faber descreve o estado de uma pessoa boa com admirável exatidão psicológica: ela está constantemente fazendo coisas que são erradas em si mesmas, não de propósito ou com premeditação. Quando faz coisas que são externamente corretas, generosas e envolvem certo sacrifício, ela continuamente detecta algum motivo baixo nelas --- não consegue sacudir o respeito humano; o amor-próprio parece inseparável até dos seus próprios pensamentos e sacrifícios. Em oração ela é uma pessoa completamente diferente --- está à vontade e no espaço, as aspirações dos santos parecem ser as suas, desejos de sofrimento, apetite pela calúnia, tremendas penitências, resoluções ardentes, obras heróicas, tudo irrompe de uma vez. Mas quando volta ao nível de sua prática diária, sente que a sua oração foi tudo hipocrisia do começo ao fim. Não há nenhuma proporção entre a sua oração e a sua prática.
@@ -276,8 +255,7 @@ O ensinamento central de Faber neste capítulo é que devemos levar nossas falta
 
 Faber adverte também contra o erro oposto: a leveza na visão das faltas, que não produz tristeza real nem propósito de emenda. Há pessoas que confessam as mesmas faltas semana após semana, ano após ano, sem qualquer esforço sério de correção --- como se a confissão fosse uma espécie de higiene espiritual periódica, não um sacramento de conversão real. Para essas pessoas, a visão correta das faltas exige primeiro uma confrontação honesta com a realidade do que estão fazendo, e com a seriedade que as suas faltas têm perante Deus.
 
-**CAPÍTULO XXI --- OS IRRELIGIOSOS E OS ELEITOS**
-
+## Capítulo XXI — Os Irreligiosos e os Eleitos
 O progresso da espiritualidade é o crescimento do desapego do mundo; e há muito de imperfeito e deselegante de nossa parte em muitos dos processos. Não nos tornamos de uma vez odiadores do mundo com um ódio sobrenatural, quando cessamos de amá-lo. Trememos com nosso antigo respeito habitual por seus julgamentos, ou o contemplamos com o olho crítico de uma mera aversão natural. É quando estamos neste último estágio que a utter maldade do mundo é uma tentação para nos considerarmos santos.
 
 Há cinco visões da maldade do mundo que nos perturbam. Os homens endurecem os corações; ou passam Deus inteiramente; ou não são convertidos quando deveriam ser; ou positivamente odeiam a Deus; ou professam servi-Lo e são inconsistentes, como os devotos frequentemente são. A tentação de cada uma dessas visões é diferente: a primeira leva à presunção por comparação; a segunda ao desânimo pela consideração do número dos que se perdem; a terceira ao desânimo pela consideração de quantos começos promissores terminam em nada; a quarta ao desespero da misericórdia de Deus; a quinta à exasperação e ao julgamento severo.
@@ -286,8 +264,7 @@ Sobre a questão da exiguidade dos eleitos, Faber adota uma posição de sóbria
 
 A resolução de ambas as tentações está em uma sólida compreensão da graça. A graça é abundante, mas não é irresistível --- ela solicita e convida, mas não coage. Os que se perdem perdem-se por recusar livremente a graça que lhes foi dada. Os que se salvam se salvam pela cooperação fiel com uma graça igualmente gratuita. A reação correta diante da maldade do mundo não é nem a autocomplacência nem o desespero, mas a intercessão ativa pela conversão dos pecadores e o empenho renovado pela própria santificação.
 
-**CAPÍTULO XXII --- A VERDADEIRA IDEIA DA DEVOÇÃO**
-
+## Capítulo XXII — A Verdadeira Ideia da Devoção
 Devoção é uma palavra que tem muitos significados, e infelizmente raramente é usada no correto. Em teologia, devoção significa uma propensão particular da alma a Deus, pela qual ela se dedica, se compromete, se liga, se consagra ao culto e ao serviço de Deus. São Tomás de Aquino define-a mais precisamente como a vontade de fazer prontamente tudo o que pertence ao serviço de Deus. São Francisco de Sales define-a como uma espécie de caridade pela qual não apenas fazemos o bem, mas o fazemos cuidadosamente, frequentemente e prontamente. Ela é um ato da vontade, não um sentimento --- o que equivale a dizer que ela pode e deve estar presente mesmo quando não é sentida.
 
 A devoção, portanto, é uma coisa muito grave, sólida, de cabeça dura, de vontade firme, prática como os negócios, e de modo algum a coisa doce, ardente, heróica, graciosa, terna que frequentemente é tomada por ser. É bem quando tem todas as qualidades que esses últimos epítetos implicam. Mas quando estão presentes, elas acrescentam algo a ela, e não expressam apenas a sua própria natureza. Faber insiste que a verdadeira devoção é essencialmente uma disposição da vontade --- pronta, constante, firme --- e não uma emoção ou um sentimento.
@@ -298,8 +275,7 @@ Faber examina também a relação entre devoção e estado de vida. Não há uma
 
 Uma observação particularmente importante de Faber: a devoção não é uma virtude de elite, reservada para os que têm inclinação natural para a religião ou para os que têm tempo livre. É uma virtude universal, que cada cristão é chamado a exercer no campo específico de seu estado de vida. O comerciante pode ser perfeitamente devoto nos seus negócios, fazendo-os pela glória de Deus e com retidão e justiça. O pai de família pode ser perfeitamente devoto no exercício de suas obrigações familiares. A dificuldade não está na natureza da devoção, mas na pureza da intenção que a anima --- e é exatamente essa pureza de intenção que a prática das outras virtudes gradualmente produz.
 
-**CAPÍTULO XXIII --- O USO CORRETO DOS FAVORES ESPIRITUAIS**
-
+## Capítulo XXIII — O Uso Correto dos Favores Espirituais
 Não há assunto sobre o qual as tradições antigas e modernas da vida espiritual estejam mais aparentemente em desacordo do que concernente ao uso correto dos favores espirituais. Livros antigos nos mandam buscá-los, rezar por eles, dar muito valor a eles; enquanto livros modernos nos dizem para encolher deles, ter medo deles, ser nervosamente cautelosos quando os temos. Faber resolve essa aparente contradição mostrando que é a mesma tradição manifestando-se de forma diferente em circunstâncias alteradas --- a tradição antiga enfatizava os favores como estímulos ao fervor, enquanto a tradição moderna enfatiza os perigos do apego a eles; ambas têm razão, desde que compreendidas no seu contexto.
 
 Faber distingue duas classes de favores espirituais. A primeira inclui os êxtases, visões, locuções, toques, feridas, estigmas e transformações que pertencem aos santos --- e com essa classe, Faber declara não ter nada a ver neste tratado. A segunda classe inclui apenas duas coisas: doçuras espirituais e consolações espirituais, que são os dons frequentes e muitas vezes cotidianos dos cristãos de classe média --- aqueles que se elevam acima do mero preceito e caminham pelos conselhos, sem entrar no mundo místico superior dos santos.
@@ -310,8 +286,7 @@ Faber examina em detalhe os perigos dos favores espirituais: o perigo do orgulho
 
 O uso correto das consolações espirituais é utilizá-las para intensificar o amor de Deus, para fortalecer os propósitos de uma vida mais generosa, para avançar no conhecimento de Deus e de si mesmo, e para redobrar os esforços de caridade para com o próximo. Quando são retiradas, a alma que as usou corretamente tem apenas a perder o suporte sensível, mas não perde a orientação fundamental que elas ajudaram a consolidar.
 
-**CAPÍTULO XXIV --- AS DISTRAÇÕES E SEUS REMÉDIOS**
-
+## Capítulo XXIV — As Distrações e Seus Remédios
 É usualmente dito que a oração tem quatro inimigos: as distrações, os escrúpulos, a secura e a desolação. Resta agora dizer algo sobre as distrações, que a alma no progresso da vida espiritual encontra como um de seus mais obstinados e mais fatigantes impedimentos --- obstinados, porque parecem não reconhecer o poder de nenhum específico, mas ser irritadas e pioras pela própria aplicação de remédios.
 
 A doutrina fundamental sobre as distrações é a do Abade Moisés em Cassiano: é impossível para nós estarmos completamente livres de distrações; inútil tentá-lo; e tolo ficar abatido porque não realizamos essa impossibilidade. A aceitação consciente e deliberada das distrações é de nossa responsabilidade, pois está em nosso poder retê-las; mas a ocupação indeliberada de nossas mentes por elas não está em nosso poder prevenir.
@@ -322,8 +297,7 @@ As causas das distrações são múltiplas e Faber as analisa em detalhe. As ext
 
 Os remédios para as distrações incluem: a preparação remota, que é a vida de recolhimento habitual fora da oração; a preparação próxima, que é alguns minutos de silêncio antes de começar a rezar; a atitude durante a oração, que deve ser de calma perseverança e não de combate ansioso; e a aceitação serena das distrações involuntárias como uma forma de mortificação. Faber adverte particularmente contra a tentativa de forçar a atenção por um esforço tenso e violento --- isso geralmente piora o problema. A abordagem correta é gentil, tranquila, com retornos frequentes mas não ansiosos ao assunto da oração.
 
-**CAPÍTULO XXV --- A TIBIEZA**
-
+## Capítulo XXV — A Tibieza
 A tibieza não é de modo algum um começo. Podemos começar sendo frios, mas não sendo tépidos. Pois a tibieza implica que muito se passou antes, que uma altura foi escalada, e que por covardia, respeito humano ou cansaço descemos dela. Como certos fenômenos na geologia, ela é ao mesmo tempo uma evidência de um estado anterior de coisas e da catástrofe que o destruiu. Quem nunca foi fervoroso nunca pode ser tépido.
 
 A tibieza é descrita por Faber como um estado espiritual intermediário entre o fervor e o frio absoluto, com características muito específicas. As práticas devocionais são mantidas exteriormente, mas de modo mecânico e sem espírito. O exame de consciência se torna superficial e convencional. A confissão é feita com regularidade mas sem a profundidade de tristeza e de propósito de emenda que deveria ter. A oração mental é feita mas raramente com a concentração e o fervor de antes. As obrigações do estado são cumpridas mas sem o espírito sobrenatural que deveria animá-las.
@@ -334,8 +308,7 @@ Faber identifica as causas principais da tibieza: a procrastinação habitual na
 
 O remédio para a tibieza é o que Faber chama de renovação --- uma revisão sincera e honesta do estado espiritual da alma, seguida de um propósito renovado e concreto de conversão. Esta renovação deve ser feita em presença do diretor, que pode identificar com precisão os pontos específicos onde a alma cedeu. O remédio deve ser específico e concreto: retomar uma prática específica que foi abandonada, eliminar uma ocasião específica que causa dano, acrescentar uma mortificação específica que o diretor recomendou. Não é um sentimento renovado de fervor que cura a tibieza --- é um ato firme da vontade que se compromete a uma mudança concreta, independentemente do sentimento.
 
-**CAPÍTULO XXVI --- O FERVOR**
-
+## Capítulo XXVI — O Fervor
 O fervor é o estado dos santos na terra, e em certo sentido dos bem-aventurados no céu; e em seu grau, deve ser o estado normal de todos que aspiram à perfeição. É ao mesmo tempo o crescimento da santidade e a força pela qual a santidade cresce. Todo capítulo anterior tendeu a este ponto, pois o fervor genuíno é o destino para o qual todos os esforços e lutas da vida espiritual se orientam.
 
 O fervor, considerado como um estado, é uma similitude a Deus. É equânime como Deus. É moderado como Deus. É oculto como Deus, só escapando à vista por sua própria excelência irreprimível. É silencioso como Deus. O louvor de modo algum é seu alimento, nem é para ele desejável. Pensa longamente antes de agir. É despreocupado com os resultados, que é uma das maravilhas de Deus. E é ardente como Deus, consumindo obstáculos, e seu próprio poder fazendo com que não faça barulho.
@@ -346,8 +319,7 @@ Faber apresenta os falsos fervores com admirável precisão analítica. O primei
 
 Os frutos do fervor genuíno são: coragem para ir além da natureza; profunda desconfiança de si mesmo baseada no conhecimento da graça divina; a experiência da mortificação como alívio e necessidade, não como fardo; e a santa indiferença de Santo Inácio tornada hábito doméstico e majestoso da alma --- pedir nada e recusar nada, tomar as coisas como Deus as envia. O fervor verdadeiro combina com essa tranquilidade aparentemente passiva as duas qualidades contraditórias de ser imediato e ininterrupto --- é rápido como um raio em suas obrigações, e incansável como a terra que gira suavemente em seu eixo invisível.
 
-**CAPÍTULO XXVII --- A DISCRIÇÃO**
-
+## Capítulo XXVII — A Discrição
 Um pós-escrito sobre o leme de nosso navio espiritual, e a obra está concluída. Numa conferência de monges nos velhos tempos, quando diferentes homens santos haviam dito qual virtude pensavam ser a mais elevada e por quê, o grande Santo Antão decidiu em favor da discrição, porque ela moderava todas as outras virtudes. São José é o mais perfeito modelo desta virtude, e todos os escritores espirituais concordam que não seria fácil exagerar sua excelência. Ela pode ser brevemente definida como Amor Perseverante.
 
 Faber divide o tratamento em três partes: fazer demais, fazer de menos, e o modo de fazer.
@@ -360,8 +332,7 @@ Sobre o modo de nossas ações, a discrição tem cinco características essenci
 
 O que não é discrição, mas a mais temerária indiscrição, é ter medo de Deus e da santidade, desejar estar bem com o mundo, estar em um meio visível entre extremos --- um meio que todos podem ver e louvar --- temer comprometer-se com Deus, como regra geral dar a Deus um pouco menos do que o que Ele merece em vez de um pouco mais, por causa da segurança. E como belo é o contrário de tudo isso na vida de São José --- tão provada e marchetada pelas mais graves dúvidas, sonhos e mudanças, como se ele fosse posto para ser o esporte de todas as improváveis de graça e de todos os caminhos perplexos e sobrenaturais de Deus --- e no entanto quão tranquilo, quão dócil, quão todo para Deus, quão interior, quão nunca olhando antes que a luz e a graça fossem dadas, quão infantil e pronto no momento em que chegou! E qual foi o fim de tudo? Como São João, mas antes dele, ele deita finalmente no Sagrado Coração de Jesus, e a discrição morre de amor.
 
-**CONCLUSÃO: A SÍNTESE E O LEGADO DA OBRA**
-
+## Conclusão: a Síntese e o Legado da Obra
 "Crescimento na Santidade" é, em seu conjunto, um tratado de ascética sistemática sem paralelo em língua inglesa pelo alcance, profundidade e riqueza de suas análises. Faber escreve de uma posição de profunda simpatia com a luta cotidiana da alma cristã comum que tenta viver genuinamente para Deus no mundo. Sua abordagem é simultaneamente teológica e humana: ele conhece as grandes tradições da espiritualidade católica e cita profusamente os grandes mestres, mas sempre traduz suas perspectivas em linguagem acessível e concreta.
 
 Os grandes temas que percorrem toda a obra são: a necessidade de um conhecimento realista e humilde de si mesmo; a centralidade da mortificação como fundamento de toda vida espiritual genuína; a importância da paciência perseverante na longa jornada do deserto espiritual; o papel insubstituível da direção espiritual; a primazia da vontade sobre o sentimento como medida do progresso real; a necessidade de generosidade total e incondicional para com Deus como único fundamento de verdadeiro progresso; e a discrição como moderadora de todas as virtudes e como condição de perseverança genuína.
