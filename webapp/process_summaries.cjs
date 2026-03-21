@@ -41,6 +41,70 @@ function drawHRule(doc, x, y, w, color, thickness) {
        .restore();
 }
 
+// ─── TOC Utilities ───────────────────────────────────────────────────────────
+
+function generateSlug(text) {
+    return stripInline(text)
+        .toLowerCase()
+        .replace(/\./g, '')
+        .trim()
+        .replace(/\s+/g, '-')
+        .replace(/[^\p{L}\p{N}-]/gu, '')
+        .replace(/-+/g, '-');
+}
+
+function stripToc(content) {
+    return content.replace(
+        /^#{1,2}\s*Índice\s*\n(?:[\t ]*[-*]\s*\[.*?\]\(#[^)]*\)\s*\n|\s*\n)*(?:---\s*\n)?(?:\s*\n)*/m,
+        ''
+    );
+}
+
+function extractHeadings(content) {
+    const headings = [];
+    for (const line of content.split('\n')) {
+        const m = line.match(/^(#{1,3})\s+(.+)$/);
+        if (m) {
+            headings.push({
+                depth: m[1].length,
+                text:  stripInline(m[2].trim()),
+                slug:  generateSlug(m[2])
+            });
+        }
+    }
+    return headings;
+}
+
+function buildTocMarkdown(headings) {
+    // Skip the very first H1 (the book title)
+    const items = headings.slice(headings.length > 0 && headings[0].depth === 1 ? 1 : 0);
+    if (items.length === 0) return '';
+    const minDepth = Math.min(...items.map(h => h.depth));
+    let md = '## Índice\n\n';
+    for (const h of items) {
+        md += `${'  '.repeat(h.depth - minDepth)}- [${h.text}](#${h.slug})\n`;
+    }
+    return md;
+}
+
+function injectToc(content, tocMd) {
+    if (!tocMd) return content;
+    // Insert after the first H1 and any following blank lines / horizontal rule
+    const m = content.match(/^(#\s+.+\n(?:\s*\n)*(?:---\s*\n(?:\s*\n)*)?)/m);
+    if (m) {
+        const pos = m.index + m[0].length;
+        return content.slice(0, pos) + tocMd + '\n---\n\n' + content.slice(pos);
+    }
+    return tocMd + '\n---\n\n' + content;
+}
+
+function addHeadingIds(html) {
+    return html.replace(/<h([1-6])(?:\s+id="[^"]*")?>(.*?)<\/h\1>/gi, (_, level, inner) => {
+        const plain = inner.replace(/<[^>]+>/g, '');
+        return `<h${level} id="${generateSlug(plain)}">${inner}</h${level}>`;
+    });
+}
+
 function loadSummaryFiles() {
     const raw = fs.readFileSync(summaryConfigPath, 'utf8');
     const entries = JSON.parse(raw);
@@ -73,7 +137,7 @@ function cleanupOrphanedFiles(dirPath, expectedFileNames) {
     }
 }
 
-function generatePdf(file, content, outputPath) {
+function generatePdf(file, content, headings, outputPath) {
     return new Promise((resolve, reject) => {
         try {
             const doc = new PDFDocument({
@@ -152,6 +216,38 @@ function generatePdf(file, content, outputPath) {
                });
 
             // ══════════════════════════════════════════════════════════════
+            //  TABLE OF CONTENTS PAGE
+            // ══════════════════════════════════════════════════════════════
+            const tocItems = headings.slice(
+                headings.length > 0 && headings[0].depth === 1 ? 1 : 0
+            );
+            if (tocItems.length > 0) {
+                doc.addPage();
+                const tocMinDepth = Math.min(...tocItems.map(h => h.depth));
+
+                doc.fontSize(20).font('Times-Bold').fillColor(C.gold)
+                   .text('Índice', ML, MT, { width: pageW, align: 'center' });
+                doc.moveDown(0.5);
+                drawHRule(doc, ML + 40, doc.y, pageW - 80, C.gold, 1);
+                doc.moveDown(1.5);
+
+                for (const h of tocItems) {
+                    const indent = (h.depth - tocMinDepth) * 20;
+                    const fSize  = h.depth <= tocMinDepth ? 11.5
+                                 : h.depth <= tocMinDepth + 1 ? 10.5 : 9.5;
+                    const fFont  = h.depth <= tocMinDepth ? 'Times-Bold' : 'Times-Roman';
+                    const fColor = h.depth <= tocMinDepth ? C.crimson : C.body;
+
+                    doc.fontSize(fSize).font(fFont).fillColor(fColor)
+                       .text(h.text, ML + indent, doc.y, {
+                           width: pageW - indent,
+                           goTo: h.slug
+                       });
+                    doc.moveDown(h.depth <= tocMinDepth ? 0.4 : 0.2);
+                }
+            }
+
+            // ══════════════════════════════════════════════════════════════
             //  CONTENT PAGES
             // ══════════════════════════════════════════════════════════════
             doc.addPage();
@@ -166,6 +262,8 @@ function generatePdf(file, content, outputPath) {
                     case 'heading': {
                         const depth = token.depth;
                         const hText = stripInline(token.text);
+                        const hSlug = generateSlug(token.text);
+                        doc.addNamedDestination(hSlug);
 
                         if (depth === 1) {
                             if (firstH1Done) doc.addPage();
@@ -308,14 +406,20 @@ const processFiles = async () => {
     for (const file of summaryFiles) {
         try {
             const absolutePath = path.resolve(__dirname, file.path);
-            const content = fs.readFileSync(absolutePath, 'utf8');
+            const rawContent = fs.readFileSync(absolutePath, 'utf8').replace(/\r\n/g, '\n');
 
-            // Calculate reading time
-            const words = content.split(/\s+/).length;
+            // Strip existing TOC, generate a fresh one
+            const cleanContent = stripToc(rawContent);
+            const headings = extractHeadings(cleanContent);
+            const tocMd = buildTocMarkdown(headings);
+            const contentWithToc = injectToc(cleanContent, tocMd);
+
+            // Calculate reading time from clean content
+            const words = cleanContent.split(/\s+/).length;
             const readingTime = Math.ceil(words / 200);
 
             // Refined extraction: find the first real paragraph
-            const lines = content.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+            const lines = cleanContent.split('\n').map(l => l.trim()).filter(l => l.length > 0);
             let description = '';
             for (let i = 0; i < lines.length; i++) {
                 const line = lines[i];
@@ -338,7 +442,7 @@ const processFiles = async () => {
 
             // Generate EPUB
             const epubPath = path.join(epubDir, `${file.id}.epub`);
-            const htmlContent = marked(content);
+            const htmlContent = addHeadingIds(marked(contentWithToc));
 
             const option = {
                 title: file.title,
@@ -363,11 +467,11 @@ const processFiles = async () => {
 
             // Generate PDF
             const pdfPath = path.join(pdfDir, `${file.id}.pdf`);
-            await generatePdf(file, content, pdfPath);
+            await generatePdf(file, cleanContent, headings, pdfPath);
 
             const fullBookData = {
                 ...file,
-                content,
+                content: contentWithToc,
                 description,
                 readingTime,
                 epubPath: `data/epubs/${file.id}.epub`,
