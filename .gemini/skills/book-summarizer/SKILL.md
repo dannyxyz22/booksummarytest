@@ -27,9 +27,10 @@ Use this skill for requests like:
 2. Count the source words with `python scripts/book_tools.py count <original_file>`.
 3. Compute the target summary length with `python scripts/book_tools.py target <original_file> --ratio 0.20`.
 4. If the source is too large for one reply, split it with `python scripts/split_book.py <original_file> 3000`.
-5. Draft summary batches in order, preserving chronology and section fidelity.
-6. Merge the batches with `python scripts/book_tools.py aggregate <summary_file> <batch_files...>`.
-7. Validate the final ratio with `python scripts/verify_summary_ratio.py <original_file> <summary_file>`.
+5. Draft summary batches in order, preserving chronology and section fidelity. Write some notes in your memory to better accomplish this task.
+6. For each batch, write a summary that keeps the default target ratio. Check if it would be interesting to include a piece of the original text, or the translated original text, so the reader can get a feel for the author's style. If the ratio is not reached, iterate again on the text split and the output batch markdown, so that the target ratio is reached. Write the values in your memory so you can think if the text needs to be expanded or contracted.
+7. Merge the batches with `python scripts/book_tools.py aggregate <summary_file> <batch_files...>`.
+8. Validate the final ratio with `python scripts/verify_summary_ratio.py <original_file> <summary_file>`.
 
 ## Key Files
 

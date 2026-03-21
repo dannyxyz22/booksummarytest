@@ -52,6 +52,14 @@ const summaryFiles = [
         author: 'Santo Afonso Maria de Ligório',
         year: 1759,
         cover: 'assets/covers/grande-meio-oracao.png'
+    },
+    {
+        id: 'homem-eterno',
+        path: '../summaries/EverlastingMan_FinalSummary_Portuguese.md',
+        title: 'O Homem Eterno',
+        author: 'G. K. Chesterton',
+        year: 1925,
+        cover: 'assets/covers/homem-eterno.png'
     }
 ];
 
