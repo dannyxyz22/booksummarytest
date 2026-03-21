@@ -360,7 +360,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                             </p>
                             {book.readingTime && (
                                 <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', fontWeight: 500, textTransform: 'uppercase', letterSpacing: '0.1rem' }}>
-                                    Estudo de {book.readingTime} minutos
+                                        Leitura de {book.readingTime} minutos
                                 </p>
                             )}
                             <div style={{ width: '40px', height: '1px', background: 'var(--border-color)', margin: '3rem auto' }} />
