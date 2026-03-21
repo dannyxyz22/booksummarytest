@@ -19,6 +19,10 @@ Use this skill for requests like:
 - Output must be in user's language of choice (e.g., pt-BR)
 - If the ratio is outside the allowed range, do not import the summary
 - In chat-only mode, if the source is very large, generate the summary in multiple batches and merge them before validation
+- The final merged deliverable must read like a finished editorial text, not like a workflow artifact
+- Remove all references to process from the published output: batch or lote labels, compression targets, validation notes, merge status, next-step notes, target word counts, or similar pipeline metadata
+- If chunked drafting is used internally, normalize headings and transitions before final merge so the result does not expose the intermediate batching process
+- Prefer formal section titles in the published result; use headings such as `Seleção de Epigramas de Chesterton` instead of informal labels such as `Aperitivo`
 - All packaged helper scripts live in `scripts/` inside this skill folder
 
 ## Workflow

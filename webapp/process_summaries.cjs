@@ -4,65 +4,7 @@ const epub = require('epub-gen');
 const { marked, Lexer } = require('marked');
 const PDFDocument = require('pdfkit');
 
-const summaryFiles = [
-    {
-        id: 'dialogo-sena',
-        path: '../CathBlinkDialogo.md',
-        title: 'Diálogos',
-        author: 'Santa Catarina de Sena',
-        year: 1378,
-        cover: 'assets/covers/dialogo.png'
-    },
-    {
-        id: 'cartas-sena',
-        path: '../LetterSenaSummary.md',
-        title: 'Cartas',
-        author: 'Santa Catarina de Sena',
-        year: 1380,
-        cover: 'assets/covers/cartas.png'
-    },
-    {
-        id: 'noite-escura',
-        path: '../summaries/DarkNightofSoul_RESUMO_FINAL.md',
-        title: 'A Noite Escura da Alma',
-        author: 'São João da Cruz',
-        year: 1579,
-        cover: 'assets/covers/noite-escura.png'
-    },
-    {
-        id: 'crescimento-santidade-analitico',
-        path: '../summaries/resumo_crescimento_na_santidade_faber.md',
-        title: 'Crescimento na Santidade',
-        author: 'William Faber',
-        year: 1854,
-        cover: 'assets/covers/crescimento.png'
-    },
-    {
-        id: 'life-glories-joseph',
-        path: '../summaries/LifeGloriesJoseph_Fluid.md',
-        title: 'Vida e Glórias de São José',
-        author: 'Edward Healy Thompson',
-        year: 1888,
-        cover: 'assets/covers/LifeGlories.png'
-    },
-    {
-        id: 'grande-meio-oracao',
-        path: '../summaries/GreatMeansLiguori/FinalSummary_GreatMeans_Liguori.md',
-        title: 'O Grande Meio da Oração',
-        author: 'Santo Afonso Maria de Ligório',
-        year: 1759,
-        cover: 'assets/covers/grande-meio-oracao.png'
-    },
-    {
-        id: 'homem-eterno',
-        path: '../summaries/EverlastingMan_FinalSummary_Portuguese.md',
-        title: 'O Homem Eterno',
-        author: 'G. K. Chesterton',
-        year: 1925,
-        cover: 'assets/covers/homem-eterno.png'
-    }
-];
-
+const summaryConfigPath = path.join(__dirname, 'public/data/summaries.json');
 
 const epubDir = path.join(__dirname, 'public/data/epubs');
 const pdfDir  = path.join(__dirname, 'public/data/pdfs');
@@ -84,7 +26,6 @@ const C = {
 
 function stripInline(text) {
     return (text || '')
-        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove [text](#link) and [text](url)
         .replace(/\*\*([^*]+)\*\*/g, '$1')
         .replace(/\*([^*]+)\*/g,     '$1')
         .replace(/__([^_]+)__/g,     '$1')
@@ -98,6 +39,38 @@ function drawHRule(doc, x, y, w, color, thickness) {
        .moveTo(x, y).lineTo(x + w, y)
        .lineWidth(thickness).strokeColor(color).stroke()
        .restore();
+}
+
+function loadSummaryFiles() {
+    const raw = fs.readFileSync(summaryConfigPath, 'utf8');
+    const entries = JSON.parse(raw);
+
+    if (!Array.isArray(entries)) {
+        throw new Error('public/data/summaries.json must contain an array of book definitions.');
+    }
+
+    return entries.map((entry) => {
+        const { id, path: filePath, title, author, year, cover } = entry;
+
+        if (!id || !filePath || !title || !author || !cover) {
+            throw new Error(`Book entry is missing required fields: ${JSON.stringify({ id, path: filePath, title, author, cover })}`);
+        }
+
+        return { id, path: filePath, title, author, year, cover };
+    });
+}
+
+function cleanupOrphanedFiles(dirPath, expectedFileNames) {
+    const expected = new Set(expectedFileNames);
+
+    for (const entry of fs.readdirSync(dirPath, { withFileTypes: true })) {
+        if (!entry.isFile()) continue;
+        if (expected.has(entry.name)) continue;
+
+        const filePath = path.join(dirPath, entry.name);
+        fs.unlinkSync(filePath);
+        console.log(`Removed orphaned file ${path.relative(__dirname, filePath)}`);
+    }
 }
 
 function generatePdf(file, content, outputPath) {
@@ -186,22 +159,8 @@ function generatePdf(file, content, outputPath) {
 
             const tokens = Lexer.lex(content);
             let firstH1Done = false;
-            let skipSection = false;
 
             for (const token of tokens) {
-                // If it's an H1 with "Índice", skip until the next H1
-                if (token.type === 'heading' && token.depth === 1 && token.text.toLowerCase().includes('índice')) {
-                    skipSection = true;
-                    continue;
-                }
-                
-                // If we are skipping and find the next real heading, stop skipping
-                if (skipSection && token.type === 'heading' && token.depth === 1) {
-                    skipSection = false;
-                }
-
-                if (skipSection) continue;
-
                 switch (token.type) {
 
                     case 'heading': {
@@ -339,7 +298,12 @@ function generatePdf(file, content, outputPath) {
 }
 
 const processFiles = async () => {
+    const summaryFiles = loadSummaryFiles();
     const summaryIndex = [];
+
+    cleanupOrphanedFiles(booksDir, summaryFiles.map((file) => `${file.id}.json`));
+    cleanupOrphanedFiles(epubDir, summaryFiles.map((file) => `${file.id}.epub`));
+    cleanupOrphanedFiles(pdfDir, summaryFiles.map((file) => `${file.id}.pdf`));
 
     for (const file of summaryFiles) {
         try {
@@ -426,8 +390,7 @@ const processFiles = async () => {
     // Sort alphabetically by title
     summaryIndex.sort((a, b) => a.title.localeCompare(b.title));
 
-    const indexOutputPath = path.join(__dirname, 'public/data/summaries.json');
-    fs.writeFileSync(indexOutputPath, JSON.stringify(summaryIndex, null, 2));
+    fs.writeFileSync(summaryConfigPath, JSON.stringify(summaryIndex, null, 2));
     console.log(`Processed ${summaryIndex.length} summaries to index and individual files.`);
 };
 
