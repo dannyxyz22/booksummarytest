@@ -12,6 +12,18 @@
     "pdfPath": "data/pdfs/noite-escura.pdf"
   },
   {
+    "id": "pratica-presenca-deus",
+    "path": "../summaries/PraticaPresencaDeus_Resumo.md",
+    "title": "A Prática da Presença de Deus",
+    "author": "Irmão Lawrence",
+    "year": 1692,
+    "cover": "assets/covers/BrotherLawrance.png",
+    "description": "Irmão Lawrence nasceu Nicholas Herman por volta de 1610 em Hériménil, na Lorena, um ducado da França. Seus registros de nascimento foram destruídos num incêndio durante a Guerra dos Trinta Anos, conflito no qual serviu como jovem soldado. Durante a guerra, sofreu uma lesão quase fatal no nervo ciático, que o deixou aleijado e com dor crônica pelo resto da vida. Foi educado em casa e pelo pároco...",
+    "readingTime": 13,
+    "epubPath": "data/epubs/pratica-presenca-deus.epub",
+    "pdfPath": "data/pdfs/pratica-presenca-deus.pdf"
+  },
+  {
     "id": "cartas-sena",
     "path": "../LetterSenaSummary.md",
     "title": "Cartas",
