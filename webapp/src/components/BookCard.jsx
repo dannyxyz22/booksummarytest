@@ -48,8 +48,9 @@ const BookCard = ({ book, onClick, onAuthorClick }) => {
                     onClick={() => onClick(book)}
                     >
                         <img 
-                            src={book.cover} 
+                            src={book.cover.replace(/^(assets\/covers\/)(.+)\.(png|jpe?g)$/i, '$1thumbs/$2.webp')} 
                             alt={book.title} 
+                            loading="lazy"
                             style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '1px', border: '1px solid rgba(0,0,0,0.03)' }}
                         />
                     </div>
