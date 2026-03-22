@@ -355,6 +355,20 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                         }}
                     >
                         <div style={{ textAlign: 'center', marginBottom: 'min(8vw, 5rem)' }}>
+                            {initialBookMetadata.cover && (
+                                <div style={{ margin: '0 auto 2.5rem auto', maxWidth: '360px' }}>
+                                    <img
+                                        src={initialBookMetadata.cover}
+                                        alt={book.title}
+                                        style={{
+                                            width: '100%',
+                                            borderRadius: '4px',
+                                            boxShadow: '0 8px 24px rgba(0,0,0,0.12), 0 2px 6px rgba(0,0,0,0.06)',
+                                            border: '1px solid rgba(0,0,0,0.05)'
+                                        }}
+                                    />
+                                </div>
+                            )}
                             <h1 style={{ fontSize: `calc(2rem * ${Math.max(1, fontSizeScale * 0.9)} + 2vw)`, marginBottom: '1.5rem', lineHeight: 1.1, color: 'var(--text-primary)', wordBreak: 'break-word' }}>{book.title}</h1>
                             <p style={{ color: 'var(--accent-color)', fontSize: `calc(1rem * ${Math.max(1, fontSizeScale * 0.9)} + 0.5vw)`, marginBottom: '1rem', fontStyle: 'italic' }}>
                                 {book.author}{book.year && <span style={{ fontStyle: 'normal', fontWeight: 800, color: 'var(--accent-gold)' }}> • {book.year}</span>}
