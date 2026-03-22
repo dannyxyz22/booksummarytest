@@ -36,6 +36,18 @@
     "pdfPath": "data/pdfs/crescimento-santidade-analitico.pdf"
   },
   {
+    "id": "deus-caritas-est",
+    "path": "../summaries/DeusCaritasEst_Resumo.md",
+    "title": "Deus Caritas Est",
+    "author": "Papa Bento XVI",
+    "year": 2005,
+    "cover": "assets/covers/Deus-Caritas.jpg",
+    "description": "«Deus é amor, e quem permanece no amor permanece em Deus e Deus nele» (1 Jo 4, 16). Estas palavras da Primeira Carta de João exprimem, com singular clareza, o centro da fé cristã: a imagem cristã de Deus e também a consequente imagem do homem e do seu caminho. O crente pode exprimir a opção fundamental da sua vida numa fórmula sintética: «Nós conhecemos e cremos no amor que Deus nos tem.»",
+    "readingTime": 16,
+    "epubPath": "data/epubs/deus-caritas-est.epub",
+    "pdfPath": "data/pdfs/deus-caritas-est.pdf"
+  },
+  {
     "id": "dialogo-sena",
     "path": "../CathBlinkDialogo.md",
     "title": "Diálogos",
