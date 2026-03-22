@@ -45,6 +45,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
     const processedContent = useMemo(() => {
         if (!book?.content) return '';
         return book.content
+            .replace(/^#\s+.+\n+/, '') // remove first H1 (duplicate of metadata title)
             .replace(/---/g, '—') // em dash
             .replace(/--/g, '–');  // en dash
     }, [book?.content]);
