@@ -1,0 +1,122 @@
+[
+  {
+    "id": "noite-escura",
+    "path": "../summaries/DarkNightofSoul_RESUMO_FINAL.md",
+    "title": "A Noite Escura da Alma",
+    "author": "São João da Cruz",
+    "year": 1579,
+    "cover": "assets/covers/noite-escura.png",
+    "description": "\"A Noite Escura da Alma\" é, entre todas as obras de São João da Cruz, a que penetra mais fundo no coração do mistério cristão da purificação. Escrita logo após a fuga do Santo do cativeiro em Toledo em 1578, ela se apresenta como comentário de um poema de oito estrofes — o mesmo poema que, ao que parece, brotou da experiência vivida naquela prisão, onde o Santo foi confinado por meses pelos seus...",
+    "readingTime": 33,
+    "epubPath": "data/epubs/noite-escura.epub",
+    "pdfPath": "data/pdfs/noite-escura.pdf"
+  },
+  {
+    "id": "pratica-presenca-deus",
+    "path": "../summaries/PraticaPresencaDeus_Resumo.md",
+    "title": "A Prática da Presença de Deus",
+    "author": "Irmão Lawrence",
+    "year": 1692,
+    "cover": "assets/covers/BrotherLawrance.png",
+    "description": "Irmão Lawrence nasceu Nicholas Herman por volta de 1610 em Hériménil, na Lorena, um ducado da França. Seus registros de nascimento foram destruídos num incêndio durante a Guerra dos Trinta Anos, conflito no qual serviu como jovem soldado. Durante a guerra, sofreu uma lesão quase fatal no nervo ciático, que o deixou aleijado e com dor crônica pelo resto da vida. Foi educado em casa e pelo pároco...",
+    "readingTime": 13,
+    "epubPath": "data/epubs/pratica-presenca-deus.epub",
+    "pdfPath": "data/pdfs/pratica-presenca-deus.pdf"
+  },
+  {
+    "id": "subida-monte-carmelo",
+    "path": "../summaries/SubidaMonteCarmelo_Resumo.md",
+    "title": "A Subida do Monte Carmelo",
+    "author": "São João da Cruz",
+    "year": 1578,
+    "cover": "assets/covers/Subida-Monte.jpg",
+    "description": "A Subida do Monte Carmelo, primeira das grandes obras de São João da Cruz, foi iniciada em El Calvario e concluída em Granada, após intervalos decorrentes de suas atividades de governo e direção espiritual. A obra constitui um notável delineamento da perfeição cristã, desde o momento em que a alma aspira a elevar-se da terra rumo à união com Deus. Como tratado ascético, distingue-se pela...",
+    "readingTime": 159,
+    "epubPath": "data/epubs/subida-monte-carmelo.epub",
+    "pdfPath": "data/pdfs/subida-monte-carmelo.pdf"
+  },
+  {
+    "id": "cartas-sena",
+    "path": "../LetterSenaSummary.md",
+    "title": "Cartas",
+    "author": "Santa Catarina de Sena",
+    "year": 1380,
+    "cover": "assets/covers/cartas.png",
+    "description": "As cartas de Santa Catarina de Sena são consideradas clássicos italianos, mas destacam-se por seu caráter não literário. Diferente de contemporâneos como Dante ou Boccaccio, Catarina não buscava a expressão estética, mas a eficácia da mensagem. Suas cartas eram ditadas, muitas vezes várias ao mesmo tempo, a secretários. Elas funcionam como uma autobiografia que revela uma mulher de vitalidade...",
+    "readingTime": 16,
+    "epubPath": "data/epubs/cartas-sena.epub",
+    "pdfPath": "data/pdfs/cartas-sena.pdf"
+  },
+  {
+    "id": "crescimento-santidade-analitico",
+    "path": "../summaries/resumo_crescimento_na_santidade_faber.md",
+    "title": "Crescimento na Santidade",
+    "author": "William Faber",
+    "year": 1854,
+    "cover": "assets/covers/crescimento.png",
+    "description": "\"Growth in Holiness; or, The Progress of the Spiritual Life\" (Crescimento na Santidade, ou o Progresso da Vida Espiritual), de Frederick William Faber (1814--1863), é, sem dúvida alguma, um dos mais abrangentes, profundos e duradouros tratados de ascética já escritos em língua inglesa. Faber, filho intelectual de John Henry Newman e, como ele, convertido do anglicanismo ao catolicismo romano,...",
+    "readingTime": 82,
+    "epubPath": "data/epubs/crescimento-santidade-analitico.epub",
+    "pdfPath": "data/pdfs/crescimento-santidade-analitico.pdf"
+  },
+  {
+    "id": "deus-caritas-est",
+    "path": "../summaries/DeusCaritasEst_Resumo.md",
+    "title": "Deus Caritas Est",
+    "author": "Papa Bento XVI",
+    "year": 2005,
+    "cover": "assets/covers/Deus-Caritas.jpg",
+    "description": "«Deus é amor, e quem permanece no amor permanece em Deus e Deus nele» (1 Jo 4, 16). Estas palavras da Primeira Carta de João exprimem, com singular clareza, o centro da fé cristã: a imagem cristã de Deus e também a consequente imagem do homem e do seu caminho. O crente pode exprimir a opção fundamental da sua vida numa fórmula sintética: «Nós conhecemos e cremos no amor que Deus nos tem.»",
+    "readingTime": 16,
+    "epubPath": "data/epubs/deus-caritas-est.epub",
+    "pdfPath": "data/pdfs/deus-caritas-est.pdf"
+  },
+  {
+    "id": "dialogo-sena",
+    "path": "../CathBlinkDialogo.md",
+    "title": "Diálogos",
+    "author": "Santa Catarina de Sena",
+    "year": 1378,
+    "cover": "assets/covers/dialogo.png",
+    "description": "A obra se inicia descrevendo o estado de uma alma que, ansiosa pelo imenso desejo de honrar a Deus e salvar as almas, exercita-se na \"cela do autoconhecimento\". Nesse estado de introspecção espiritual, a alma reconhece a bondade de Deus em si mesma. Catarina de Sena relata que esse autoconhecimento é o princípio do amor, e que a verdadeira iluminação se dá por meio da oração humilde e contínua....",
+    "readingTime": 50,
+    "epubPath": "data/epubs/dialogo-sena.epub",
+    "pdfPath": "data/pdfs/dialogo-sena.pdf"
+  },
+  {
+    "id": "grande-meio-oracao",
+    "path": "../summaries/GreatMeansLiguori/FinalSummary_GreatMeans_Liguori.md",
+    "title": "O Grande Meio da Oração",
+    "author": "Santo Afonso Maria de Ligório",
+    "year": 1759,
+    "cover": "assets/covers/grande-meio-oracao.png",
+    "description": "Santo Afonso Maria de Ligório inicia sua obra \"O Grande Meio da Oração\" (Del Gran Mezzo della Preghiera) com uma afirmação categórica: ele a considera a mais útil e necessária de todas as suas numerosas publicações espirituais. Para o santo Doutor, a oração não é apenas um simples exercício de devoção ou uma prática recomendável entre tantas outras, mas um meio indispensável e infalível para que...",
+    "readingTime": 21,
+    "epubPath": "data/epubs/grande-meio-oracao.epub",
+    "pdfPath": "data/pdfs/grande-meio-oracao.pdf"
+  },
+  {
+    "id": "homem-eterno",
+    "path": "../summaries/EverlastingMan_FinalSummary_Portuguese.md",
+    "title": "O Homem Eterno",
+    "author": "G. K. Chesterton",
+    "year": 1925,
+    "cover": "assets/covers/homem-eterno.png",
+    "description": "G. K. Chesterton abre O Homem Eterno com uma nota preliminar: o livro é um estudo histórico, não um tratado teológico. Sua tese central é que aqueles que colocam Cristo lado a lado com mitos semelhantes estão repetindo uma fórmula antiquada, contradita por um fato impressionante. Chesterton não reivindica erudição especializada, mas defende o direito do amador de interpretar os fatos fornecidos...",
+    "readingTime": 99,
+    "epubPath": "data/epubs/homem-eterno.epub",
+    "pdfPath": "data/pdfs/homem-eterno.pdf"
+  },
+  {
+    "id": "life-glories-joseph",
+    "path": "../summaries/LifeGloriesJoseph_Fluid.md",
+    "title": "Vida e Glórias de São José",
+    "author": "Edward Healy Thompson",
+    "year": 1888,
+    "cover": "assets/covers/LifeGlories.png",
+    "description": "O autor argumenta que a devoção a São José não é uma inovação moderna, mas algo cujas \"sementes\" e declarações explícitas já se encontravam nos Padres da Igreja. Embora a devoção tenha se expandido subitamente nos últimos séculos por impulso do Espírito Santo, ela repousa na posição única de José na \"economia da redenção\". O prefácio enfatiza que, como Jesus permanece Homem no Céu, os laços...",
+    "readingTime": 117,
+    "epubPath": "data/epubs/life-glories-joseph.epub",
+    "pdfPath": "data/pdfs/life-glories-joseph.pdf"
+  }
+]

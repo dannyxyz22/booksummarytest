@@ -21,7 +21,6 @@ Thumbs.db
 /webapp/public/data/epubs/
 /webapp/public/data/pdfs/
 /webapp/public/data/books/
-/webapp/public/data/summaries.json
 
 # Project Intermediate Files
 /books/*.txt
@@ -35,3 +34,4 @@ Thumbs.db
 *4.md
 *5.md
 7403-full-summary.md
+summaries/SubidaMonteCarmelo_batches/part_06.md
