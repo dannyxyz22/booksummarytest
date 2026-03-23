@@ -24,6 +24,18 @@
     "pdfPath": "data/pdfs/pratica-presenca-deus.pdf"
   },
   {
+    "id": "subida-monte-carmelo",
+    "path": "../summaries/SubidaMonteCarmelo_Resumo.md",
+    "title": "A Subida do Monte Carmelo",
+    "author": "São João da Cruz",
+    "year": 1578,
+    "cover": "assets/covers/Subida-Monte.jpg",
+    "description": "A Subida do Monte Carmelo, primeira das grandes obras de São João da Cruz, foi iniciada em El Calvario e concluída em Granada, após intervalos decorrentes de suas atividades de governo e direção espiritual. A obra constitui um notável delineamento da perfeição cristã, desde o momento em que a alma aspira a elevar-se da terra rumo à união com Deus. Como tratado ascético, distingue-se pela...",
+    "readingTime": 159,
+    "epubPath": "data/epubs/subida-monte-carmelo.epub",
+    "pdfPath": "data/pdfs/subida-monte-carmelo.pdf"
+  },
+  {
     "id": "cartas-sena",
     "path": "../LetterSenaSummary.md",
     "title": "Cartas",
