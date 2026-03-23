@@ -36,7 +36,14 @@ Assumindo que você gerou a imagem, copie/mova o arquivo de imagem para o diret�
 `webapp/public/assets/covers/{id-do-livro}.png`
 (Use o comando do terminal para mover o arquivo).
 
-### 3. Atualizar o Banco de Dados (process_summaries.cjs)
+### 3. Gerar o Thumbnail
+O site exibe thumbnails WebP otimizados, não as imagens originais. Após mover a capa, gere o thumbnail executando no terminal:
+```bash
+cd webapp && python scripts/generate_thumbs.py
+```
+Isso criará `webapp/public/assets/covers/thumbs/{id-do-livro}.webp` automaticamente a partir da imagem original.
+
+### 4. Atualizar o Banco de Dados (process_summaries.cjs)
 Edite (ou use o tool de edição/replace se preferir) o arquivo `webapp/process_summaries.cjs`. Você precisa encontrar o array `summaryFiles` e inserir um novo objeto no final dele com o padrão:
 
 ```javascript
@@ -49,10 +56,10 @@ Edite (ou use o tool de edição/replace se preferir) o arquivo `webapp/process_
     }
 ```
 
-### 4. Processar o Banco e Gerar o EPUB
+### 5. Processar o Banco e Gerar o EPUB
 Abra um terminal, certifique-se de estar no diretório `webapp/` (ex: `cd webapp`) e rode o script vital do projeto:
 `node process_summaries.cjs`
 *(Isso atualizará o arquivo summaries.json e gerará o EPUB automaticamente).*
 
-### 5. Finalizar 
+### 6. Finalizar 
 Avise ao usuário que a publicação do novo volume está concluída, mostre a prévia da capa que você gerou, e oriente-o a visualizar no ambiente local (`http://localhost:5173/`).
