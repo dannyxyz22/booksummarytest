@@ -43,18 +43,20 @@ cd webapp && python scripts/generate_thumbs.py
 ```
 Isso criará `webapp/public/assets/covers/thumbs/{id-do-livro}.webp` automaticamente a partir da imagem original.
 
-### 4. Atualizar o Banco de Dados (process_summaries.cjs)
-Edite (ou use o tool de edição/replace se preferir) o arquivo `webapp/process_summaries.cjs`. Você precisa encontrar o array `summaryFiles` e inserir um novo objeto no final dele com o padrão:
+### 4. Registrar no Catálogo (summaries.json)
+O arquivo `webapp/public/data/summaries.json` é a **fonte de verdade** do catálogo e está sob controle de versão. Edite-o diretamente, adicionando um novo objeto ao final do array JSON com o padrão:
 
-```javascript
+```json
     {
-        id: '{id-do-livro}',
-        path: '../{caminho-do-arquivo-md-informado-pelo-usuario}',
-        title: '{Título do Livro}',
-        author: '{Nome do Autor}',
-        cover: 'assets/covers/{id-do-livro}.png'
+        "id": "{id-do-livro}",
+        "path": "../{caminho-do-arquivo-md-informado-pelo-usuario}",
+        "title": "{Título do Livro}",
+        "author": "{Nome do Autor}",
+        "year": {ano-de-publicação},
+        "cover": "assets/covers/{nome-do-arquivo-de-capa}"
     }
 ```
+Os campos `description`, `readingTime`, `epubPath` e `pdfPath` serão gerados automaticamente pelo script no passo seguinte.
 
 ### 5. Processar o Banco e Gerar o EPUB
 Abra um terminal, certifique-se de estar no diretório `webapp/` (ex: `cd webapp`) e rode o script vital do projeto:
