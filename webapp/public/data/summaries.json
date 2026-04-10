@@ -60,6 +60,18 @@
     "pdfPath": "data/pdfs/crescimento-santidade-analitico.pdf"
   },
   {
+    "id": "cristo_rei",
+    "path": "../The_Reign_Of_Christ_Summary.md",
+    "title": "Cristo Rei",
+    "author": "Rev. Joseph Husslein, S.J.",
+    "year": 1928,
+    "cover": "assets/covers/cristo_rei.png",
+    "description": "A obra \"O Reinado de Cristo, o Rei Imortal dos Séculos\", redigida pelo reverendo Joseph Husslein, S.J., tem como escopo primordial promover e aprofundar o reconhecimento do reinado de Jesus Cristo no mundo contemporâneo. O livro estrutura-se como um desdobramento das grandes Encíclicas papais que tratam da Soberania Universal de Cristo, ressaltando que tais diretrizes não possuem mero valor...",
+    "readingTime": 56,
+    "epubPath": "data/epubs/cristo_rei.epub",
+    "pdfPath": "data/pdfs/cristo_rei.pdf"
+  },
+  {
     "id": "deus-caritas-est",
     "path": "../summaries/DeusCaritasEst_Resumo.md",
     "title": "Deus Caritas Est",
