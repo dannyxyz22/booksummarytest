@@ -96,6 +96,18 @@
     "pdfPath": "data/pdfs/dialogo-sena.pdf"
   },
   {
+    "id": "filosofia-101",
+    "path": "../editorial_summary.md",
+    "title": "Filosofia 101",
+    "author": "Peter Kreeft",
+    "year": 2002,
+    "cover": "assets/covers/filosofia-101.png",
+    "description": "O ponto de partida de Peter Kreeft em Philosophy 101 by Socrates é a desconstrução da imagem moderna do filósofo como um profissional acadêmico. Ele resgata a etimologia da palavra: o filósofo é um \"amador\", no sentido de alguém que ama a sabedoria. Kreeft usa uma metáfora contundente ao comparar professores de filosofia contemporâneos a \"prostitutos intelectuais\" que vendem sua sabedoria por...",
+    "readingTime": 31,
+    "epubPath": "data/epubs/filosofia-101.epub",
+    "pdfPath": "data/pdfs/filosofia-101.pdf"
+  },
+  {
     "id": "grande-meio-oracao",
     "path": "../summaries/GreatMeansLiguori/FinalSummary_GreatMeans_Liguori.md",
     "title": "O Grande Meio da Oração",
