@@ -97,15 +97,28 @@
   },
   {
     "id": "filosofia-101",
-    "path": "../editorial_summary.md",
+    "path": "../summaries/Philosophy101_Socrates_Final.md",
     "title": "Filosofia 101",
     "author": "Peter Kreeft",
     "year": 2002,
     "cover": "assets/covers/filosofia-101.png",
+    "enabled": true,
     "description": "O ponto de partida de Peter Kreeft em Philosophy 101 by Socrates é a desconstrução da imagem moderna do filósofo como um profissional acadêmico. Ele resgata a etimologia da palavra: o filósofo é um \"amador\", no sentido de alguém que ama a sabedoria. Kreeft usa uma metáfora contundente ao comparar professores de filosofia contemporâneos a \"prostitutos intelectuais\" que vendem sua sabedoria por...",
-    "readingTime": 31,
+    "readingTime": 36,
     "epubPath": "data/epubs/filosofia-101.epub",
     "pdfPath": "data/pdfs/filosofia-101.pdf"
+  },
+  {
+    "id": "diary-faustina",
+    "path": "../summaries/diary_st_faustina_publication.md",
+    "title": "O Diário de Santa Faustina",
+    "author": "Santa Maria Faustina Kowalska",
+    "year": 1938,
+    "cover": "assets/covers/diary-faustina.png",
+    "description": "Este resumo condensa o Diário de Santa Maria Faustina Kowalska: A Misericórdia Divina em Minha Alma (Marianos da Imaculada Conceição, Stockbridge, MA), preservando a densidade teológica, a riqueza mística e o contexto histórico do original. O texto foi organizado em seis partes temáticas que seguem o arco biográfico e espiritual de Santa Faustina, desde sua infância camponesa na Polônia até a...",
+    "readingTime": 155,
+    "epubPath": "data/epubs/diary-faustina.epub",
+    "pdfPath": "data/pdfs/diary-faustina.pdf"
   },
   {
     "id": "grande-meio-oracao",

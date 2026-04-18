@@ -114,13 +114,13 @@ function loadSummaryFiles() {
     }
 
     return entries.map((entry) => {
-        const { id, path: filePath, title, author, year, cover } = entry;
+        const { id, path: filePath, title, author, year, cover, enabled, description } = entry;
 
         if (!id || !filePath || !title || !author || !cover) {
             throw new Error(`Book entry is missing required fields: ${JSON.stringify({ id, path: filePath, title, author, cover })}`);
         }
 
-        return { id, path: filePath, title, author, year, cover };
+        return { id, path: filePath, title, author, year, cover, enabled, description };
     });
 }
 
@@ -404,6 +404,11 @@ const processFiles = async () => {
     cleanupOrphanedFiles(pdfDir, summaryFiles.map((file) => `${file.id}.pdf`));
 
     for (const file of summaryFiles) {
+        if (file.enabled === false) {
+            console.log(`Skipping disabled book: ${file.title}`);
+            summaryIndex.push(file);
+            continue;
+        }
         try {
             const absolutePath = path.resolve(__dirname, file.path);
             const rawContent = fs.readFileSync(absolutePath, 'utf8').replace(/\r\n/g, '\n');
@@ -514,23 +519,17 @@ function generateSitemap(summaries) {
     xml += `    <lastmod>${today}</lastmod>\n`;
     xml += `    <changefreq>daily</changefreq>\n`;
     xml += `    <priority>1.0</priority>\n`;
-    xml += `    </url>\n`;
+    xml += `  </url>\n`;
 
-    // Each book
-    for (const book of summaries) {
-        xml += `  <url>\n`;
-        xml += `    <loc>${baseUrl}/#book/${encodeURIComponent(book.id)}</loc>\n`;
-        xml += `    <lastmod>${today}</lastmod>\n`;
-        xml += `    <changefreq>weekly</changefreq>\n`;
-        xml += `    <priority>0.8</priority>\n`;
-        xml += `  </url>\n`;
-    }
+    // Note: We are no longer adding fragment URLs (e.g., #book/id) 
+    // because Google Search Console does not support fragments in sitemaps.
+    // The crawler will discover these sub-pages via the internal links on the home page.
 
     xml += `</urlset>`;
 
     const sitemapPath = path.join(__dirname, 'public/sitemap.xml');
     fs.writeFileSync(sitemapPath, xml);
-    console.log(`Sitemap generated at ${path.relative(__dirname, sitemapPath)} with ${summaries.length + 1} URLs.`);
+    console.log(`Sitemap generated at ${path.relative(__dirname, sitemapPath)} (root only to avoid fragment issues).`);
 }
 
 processFiles();

@@ -61,18 +61,20 @@ const App = () => {
   };
 
   const filteredSummaries = useMemo(() => {
+    let list = summaries.filter(s => s.enabled !== false);
+
     if (route.page === 'author' && route.param) {
-      return summaries.filter(s => s.author.toLowerCase().includes(route.param.toLowerCase()));
+      return list.filter(s => s.author.toLowerCase().includes(route.param.toLowerCase()));
     }
     if (route.page === 'search' && route.param) {
       const term = route.param.toLowerCase();
-      return summaries.filter(s => 
+      return list.filter(s => 
         s.title.toLowerCase().includes(term) || 
         s.author.toLowerCase().includes(term) || 
         s.description.toLowerCase().includes(term)
       );
     }
-    return summaries;
+    return list;
   }, [summaries, route]);
 
   // Add state to keep track of the active book context
