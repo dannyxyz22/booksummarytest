@@ -1,5 +1,17 @@
 [
   {
+    "id": "imitao-maria",
+    "path": "../summaries/imitation_kempis_final.md",
+    "title": "A Imitação da Bem-Aventurada Virgem Maria",
+    "author": "Tomás de Kempis",
+    "year": 1768,
+    "cover": "assets/covers/imitao-maria.png",
+    "description": "A Imitação da Bem-Aventurada Virgem Maria é uma compilação de inestimável valor místico e espiritual, estruturada minuciosamente em um arcabouço de trinta leituras. Estas foram extraídas das imensas obras do asceta Tomás de Kempis. Sob a diligente organização do abade Albin de Cigala, a referida obra manifesta-se não unicamente como adereço devocional, mas constitui a natural continuação...",
+    "readingTime": 36,
+    "epubPath": "data/epubs/imitao-maria.epub",
+    "pdfPath": "data/pdfs/imitao-maria.pdf"
+  },
+  {
     "id": "noite-escura",
     "path": "../summaries/DarkNightofSoul_RESUMO_FINAL.md",
     "title": "A Noite Escura da Alma",
@@ -22,6 +34,18 @@
     "readingTime": 13,
     "epubPath": "data/epubs/pratica-presenca-deus.epub",
     "pdfPath": "data/pdfs/pratica-presenca-deus.pdf"
+  },
+  {
+    "id": "lagrange-sintese-tomista",
+    "path": "../books/lagrangeSintesetomista/summaries/lagrangeSintesetomista_Resumo.md",
+    "title": "A Síntese Tomista",
+    "author": "Réginald Garrigou-Lagrange",
+    "year": 1946,
+    "cover": "assets/covers/lagrange-sintese-tomista.png",
+    "description": "Em A Síntese Tomista, Réginald Garrigou-Lagrange procura oferecer uma visão orgânica do pensamento de São Tomás de Aquino. O livro não é uma simples história das doutrinas medievais nem um comentário pontual à Suma Teológica. Seu propósito é mais ambicioso: expor a arquitetura interna do tomismo, mostrar a articulação de seus princípios metafísicos e teológicos e fazer ver como, a partir de...",
+    "readingTime": 156,
+    "epubPath": "data/epubs/lagrange-sintese-tomista.epub",
+    "pdfPath": "data/pdfs/lagrange-sintese-tomista.pdf"
   },
   {
     "id": "subida-monte-carmelo",
@@ -94,6 +118,18 @@
     "readingTime": 50,
     "epubPath": "data/epubs/dialogo-sena.epub",
     "pdfPath": "data/pdfs/dialogo-sena.pdf"
+  },
+  {
+    "id": "etica-nicomaco",
+    "path": "../summaries/EthicsAristotle_Resumo.md",
+    "title": "Ética a Nicômaco",
+    "author": "Aristóteles",
+    "year": -330,
+    "cover": "assets/covers/EticaNicomaco.png",
+    "description": "A Ética de Aristóteles é apresentada como parte de uma investigação maior sobre a vida humana, inseparável de sua dimensão política. O problema central não é abstrato: trata-se de saber como viver bem, como formar caráter e como ordenar a ação de modo a alcançar a vida mais alta que caiba ao ser humano. A reflexão moral, portanto, não é isolada da cidade, da educação e da lei, mas nasce desse...",
+    "readingTime": 103,
+    "epubPath": "data/epubs/etica-nicomaco.epub",
+    "pdfPath": "data/pdfs/etica-nicomaco.pdf"
   },
   {
     "id": "filosofia-101",
