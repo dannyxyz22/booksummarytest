@@ -16,6 +16,15 @@ Antes de começar o fluxo, você (a IA) deve pedir ao usuário:
 2. Qual é o Título do livro.
 3. Qual é o Autor da obra.
 4. Qual é a Cor preferencial para a capa de couro (ex: carmesim escuro, verde oliva, azul marinho) e um Símbolo (ex: cruz, âncora, sagrado coração, lírio) que represente a obra.
+5. Qual é o `id-do-livro` (slug), para manter os artefatos organizados por livro.
+
+## Política de preservação de intermediários
+
+- Nunca apagar automaticamente arquivos intermediários de batches e sínteses.
+- Manter cada obra isolada em:
+    - `books/<book-name>/batches`
+    - `books/<book-name>/summaries`
+- A publicação usa o resumo final, mas não deve remover os arquivos intermediários da obra.
 
 ---
 
@@ -56,6 +65,8 @@ O arquivo `webapp/public/data/summaries.json` é a **fonte de verdade** do catá
         "cover": "assets/covers/{nome-do-arquivo-de-capa}"
     }
 ```
+Para manter consistência entre obras, prefira caminhos finais no padrão `../books/<book-name>/summaries/<arquivo-final>.md` sempre que aplicável.
+
 Os campos `description`, `readingTime`, `epubPath` e `pdfPath` serão gerados automaticamente pelo script no passo seguinte.
 
 ### 5. Processar o Banco e Gerar o EPUB
@@ -65,3 +76,6 @@ Abra um terminal, certifique-se de estar no diretório `webapp/` (ex: `cd webapp
 
 ### 6. Finalizar 
 Avise ao usuário que a publicação do novo volume está concluída, mostre a prévia da capa que você gerou, e oriente-o a visualizar no ambiente local (`http://localhost:5173/`).
+
+### 7. Regra para ajustes de conteúdo (quando necessário)
+Se for necessário aumentar ou reduzir conteúdo do resumo, edite o trecho correlacionado dentro do arquivo/seção de origem em `books/<book-name>/summaries` (ou no batch correspondente) e regenere o resultado. Não criar seções soltas de "expansão" fora da ordem natural da obra.

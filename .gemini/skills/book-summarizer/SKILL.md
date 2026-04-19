@@ -19,6 +19,11 @@ Use this skill for requests like:
 - Output must be in user's language of choice (e.g., pt-BR)
 - If the ratio is outside the allowed range, do not import the summary
 - In chat-only mode, if the source is very large, generate the summary in multiple batches and merge them before validation
+- Never delete intermediate batch/synthesis files automatically
+- Keep each book isolated in its own workspace tree:
+	- `books/<book-name>/batches` for text chunks/splits
+	- `books/<book-name>/summaries` for intermediate and merged summary drafts
+- If extra content is needed to reach target ratio, edit the correlated local section/chapter/batch file, then re-aggregate; never add a detached "extra expansion" section unrelated to the original sequence
 - The final merged deliverable must read like a finished editorial text, not like a workflow artifact
 - Remove all references to process from the published output: batch or lote labels, compression targets, validation notes, merge status, next-step notes, target word counts, or similar pipeline metadata
 - If chunked drafting is used internally, normalize headings and transitions before final merge so the result does not expose the intermediate batching process
@@ -28,13 +33,17 @@ Use this skill for requests like:
 ## Workflow
 
 1. Start from a local plain-text book file or a downloaded Project Gutenberg text.
-2. Count the source words with `python scripts/book_tools.py count <original_file>`.
-3. Compute the target summary length with `python scripts/book_tools.py target <original_file> --ratio 0.20`.
-4. If the source is too large for one reply, split it with `python scripts/split_book.py <original_file> 3000`.
-5. Draft summary batches in order, preserving chronology and section fidelity. Write some notes in your memory to better accomplish this task.
-6. For each batch, write a summary that keeps the default target ratio. Check if it would be interesting to include a piece of the original text, or the translated original text, so the reader can get a feel for the author's style. If the ratio is not reached, iterate again on the text split and the output batch markdown, so that the target ratio is reached. Write the values in your memory so you can think if the text needs to be expanded or contracted.
-7. Merge the batches with `python scripts/book_tools.py aggregate <summary_file> <batch_files...>`.
-8. Validate the final ratio with `python scripts/verify_summary_ratio.py <original_file> <summary_file>`.
+2. Define a slug for the book and create isolated directories:
+	- `books/<book-name>/batches`
+	- `books/<book-name>/summaries`
+3. Count the source words with `python scripts/book_tools.py count <original_file>`.
+4. Compute the target summary length with `python scripts/book_tools.py target <original_file> --ratio 0.20`.
+5. If the source is too large for one reply, split it with `python scripts/split_book.py <original_file> 3000` and keep the generated chunk files in `books/<book-name>/batches`.
+6. Draft summary batches in order, preserving chronology and section fidelity, and save each intermediate batch summary to `books/<book-name>/summaries`.
+7. For each batch, keep the default target ratio. If the total ratio is low/high, adjust the relevant local files in `books/<book-name>/summaries` (the corresponding chapter/batch), then re-aggregate. Do not append disconnected sections.
+8. Merge the batches with `python scripts/book_tools.py aggregate books/<book-name>/summaries/<book-name>_Resumo.md <batch_files...>`.
+9. Validate the final ratio with `python scripts/verify_summary_ratio.py <original_file> books/<book-name>/summaries/<book-name>_Resumo.md`.
+10. Keep all intermediate files unless the user explicitly asks for cleanup after publication.
 
 ## Key Files
 
@@ -49,5 +58,6 @@ Use this skill for requests like:
 - Run the commands from the skill folder, or use explicit paths if you call them from elsewhere.
 - For very large books, prefer the automated pipeline over single-turn chat drafting.
 - In chat-only mode, books above roughly 80k words should be summarized over multiple turns; do not pretend a single short draft satisfies the 20% rule.
+- If cleanup is explicitly requested, remove only redundant artifacts and preserve at least one full recoverable chain of intermediates per book.
 
 
