@@ -121,13 +121,13 @@
   },
   {
     "id": "etica-nicomaco",
-    "path": "../summaries/EthicsAristotle_Resumo.md",
+    "path": "../books/ethics_main/summaries/ethics_main_Resumo.md",
     "title": "Ética a Nicômaco",
     "author": "Aristóteles",
     "year": -330,
     "cover": "assets/covers/EticaNicomaco.png",
-    "description": "A Ética de Aristóteles é apresentada como parte de uma investigação maior sobre a vida humana, inseparável de sua dimensão política. O problema central não é abstrato: trata-se de saber como viver bem, como formar caráter e como ordenar a ação de modo a alcançar a vida mais alta que caiba ao ser humano. A reflexão moral, portanto, não é isolada da cidade, da educação e da lei, mas nasce desse...",
-    "readingTime": 103,
+    "description": "Este texto apresenta uma síntese contínua da Ética a Nicômaco, preservando a ordem argumentativa da obra e destacando seus eixos: finalidade da vida humana, formação do caráter, virtudes morais e intelectuais, justiça, amizade, prazer e contemplação.",
+    "readingTime": 116,
     "epubPath": "data/epubs/etica-nicomaco.epub",
     "pdfPath": "data/pdfs/etica-nicomaco.pdf"
   },
