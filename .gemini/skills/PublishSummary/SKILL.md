@@ -74,8 +74,23 @@ Abra um terminal, certifique-se de estar no diretório `webapp/` (ex: `cd webapp
 `node process_summaries.cjs`
 *(Isso atualizará o arquivo summaries.json e gerará o EPUB automaticamente).*
 
-### 6. Finalizar 
+### 6. Atualizar o Meta Description Global (SEO)
+O site mantém um `<meta name="description">` global em `webapp/index.html` e uma constante `DEFAULT_DESCRIPTION` em `webapp/src/App.jsx` que listam os títulos de **todos** os livros do catálogo. Após adicionar um novo livro, atualize essas duas listas para incluir o novo título.
+
+**Locais a editar:**
+
+1. **`webapp/index.html`** — dentro do bloco `<!-- SEO_DYNAMIC_START -->`, atualize os quatro atributos que contêm a lista de títulos:
+   - `<meta name="description" content="... {Novo Título} ...">`
+   - `<meta property="og:description" content="...">`
+   - `<meta name="twitter:description" content="...">`
+   - O campo `"description"` dentro do `<script type="application/ld+json">` do WebSite schema
+
+2. **`webapp/src/App.jsx`** — atualize a constante `DEFAULT_DESCRIPTION` no topo do arquivo para incluir o novo título na lista.
+
+> **Nota sobre SEO por página:** O script `webapp/scripts/generate-static-book-routes.cjs` gera automaticamente páginas estáticas com SEO individualizado para cada livro (título, descrição, `og:image`, `canonical`, JSON-LD `Book` schema) durante o `npm run build`. Não é necessário editá-lo ao adicionar novos livros — ele lê os dados diretamente do `summaries.json`.
+
+### 7. Finalizar 
 Avise ao usuário que a publicação do novo volume está concluída, mostre a prévia da capa que você gerou, e oriente-o a visualizar no ambiente local (`http://localhost:5173/`).
 
-### 7. Regra para ajustes de conteúdo (quando necessário)
+### 8. Regra para ajustes de conteúdo (quando necessário)
 Se for necessário aumentar ou reduzir conteúdo do resumo, edite o trecho correlacionado dentro do arquivo/seção de origem em `books/<book-name>/summaries` (ou no batch correspondente) e regenere o resultado. Não criar seções soltas de "expansão" fora da ordem natural da obra.
