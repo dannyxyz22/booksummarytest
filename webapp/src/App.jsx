@@ -4,12 +4,15 @@ import BookCard from './components/BookCard';
 import SummaryViewer from './components/SummaryViewer';
 import { Book, Search, X, User } from 'lucide-react';
 
-// Utility to parse the URL hash
-const parseRoute = () => {
-  const hash = window.location.hash.slice(1);
-  if (!hash) return { page: 'home', param: null };
+// Base path from Vite (e.g. '/booksummarytest')
+const BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
 
-  const [page, ...rest] = hash.split('/');
+// Utility to parse the URL pathname
+const parseRoute = () => {
+  const pathname = window.location.pathname.slice(BASE.length).replace(/^\//, '');
+  if (!pathname) return { page: 'home', param: null };
+
+  const [page, ...rest] = pathname.split('/');
   return {
     page: page || 'home',
     param: rest.length > 0 ? decodeURIComponent(rest.join('/')) : null
@@ -22,17 +25,15 @@ const App = () => {
   const [route, setRoute] = useState(parseRoute());
   const [searchQuery, setSearchQuery] = useState('');
 
-  // Sync state with URL hash
+  // Sync state with browser navigation (back/forward)
   useEffect(() => {
-    const handleHashChange = () => {
+    const handlePopState = () => {
       setRoute(parseRoute());
     };
 
-    window.addEventListener('hashchange', handleHashChange);
-    window.addEventListener('popstate', handleHashChange);
+    window.addEventListener('popstate', handlePopState);
     return () => {
-      window.removeEventListener('hashchange', handleHashChange);
-      window.removeEventListener('popstate', handleHashChange);
+      window.removeEventListener('popstate', handlePopState);
     };
   }, []);
 
@@ -47,7 +48,7 @@ const App = () => {
 
   // Load summaries
   useEffect(() => {
-    fetch('data/summaries.json')
+    fetch(import.meta.env.BASE_URL + 'data/summaries.json')
       .then(res => res.json())
       .then(data => {
         setSummaries(data);
@@ -56,8 +57,14 @@ const App = () => {
   }, []);
 
   const navigate = (page, param = null) => {
-    const newHash = param ? `#${page}/${param}` : `#${page}`;
-    window.location.hash = newHash;
+    let url;
+    if (page === 'home') {
+      url = BASE + '/';
+    } else {
+      url = BASE + '/' + page + (param ? '/' + encodeURIComponent(param) : '');
+    }
+    window.history.pushState(null, '', url);
+    setRoute(parseRoute());
   };
 
   const filteredSummaries = useMemo(() => {

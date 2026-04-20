@@ -521,15 +521,22 @@ function generateSitemap(summaries) {
     xml += `    <priority>1.0</priority>\n`;
     xml += `  </url>\n`;
 
-    // Note: We are no longer adding fragment URLs (e.g., #book/id) 
-    // because Google Search Console does not support fragments in sitemaps.
-    // The crawler will discover these sub-pages via the internal links on the home page.
+    // Individual book pages (real paths, indexable by Google)
+    const enabled = summaries.filter(s => s.enabled !== false);
+    for (const book of enabled) {
+        xml += `  <url>\n`;
+        xml += `    <loc>${baseUrl}/book/${encodeURIComponent(book.id)}</loc>\n`;
+        xml += `    <lastmod>${today}</lastmod>\n`;
+        xml += `    <changefreq>monthly</changefreq>\n`;
+        xml += `    <priority>0.8</priority>\n`;
+        xml += `  </url>\n`;
+    }
 
     xml += `</urlset>`;
 
     const sitemapPath = path.join(__dirname, 'public/sitemap.xml');
     fs.writeFileSync(sitemapPath, xml);
-    console.log(`Sitemap generated at ${path.relative(__dirname, sitemapPath)} (root only to avoid fragment issues).`);
+    console.log(`Sitemap generated at ${path.relative(__dirname, sitemapPath)} with ${enabled.length + 1} URLs.`);
 }
 
 processFiles();

@@ -1,4 +1,4 @@
-## Batch 1
+# Ética a Nicômaco — Aristóteles
 
 # Introdução e Livro I — O Bem Supremo e a Felicidade
 
@@ -57,7 +57,6 @@ Desta divisão fundamental da alma decorre a divisão das virtudes humanas em du
 
 ---
 
-## Batch 2
 
 # Livro II — A Virtude Moral como Disposição de Caráter
 
@@ -125,7 +124,6 @@ Mesmo seguindo estes conselhos, determinar com exatidão o ponto médio — com 
 
 ---
 
-## Batch 3
 
 # Livro III — Ação Voluntária, Escolha Deliberada e Coragem
 
@@ -180,7 +178,6 @@ Aristóteles observa que a intemperança é mais voluntária que a covardia: a p
 
 ---
 
-## Batch 4
 
 # Livro IV — As Virtudes Particulares: Da Liberalidade à Vergonha
 
@@ -233,7 +230,7 @@ Aristóteles observa que a vergonha (*aidôs*) não é propriamente uma virtude,
 
 ---
 
-## Batch 5
+
 
 # Livro V — A Justiça
 
@@ -292,7 +289,7 @@ Aristóteles discute extensamente se é possível ser injusto consigo mesmo e co
 
 ---
 
-## Batch 6
+
 
 # Livro VI — As Virtudes Intelectuais
 
@@ -349,7 +346,6 @@ O juízo (*gnômê*) refere-se à capacidade de discernir correctamente o que é
 
 ---
 
-## Batch 7
 
 # Livro VII — Continência, Incontinência e Prazer
 
@@ -398,7 +394,6 @@ Os prazeres corporais parecem mais desejáveis do que os demais por serem mais i
 
 ---
 
-## Batch 8
 
 # Livro VIII — A Amizade (Primeira Parte)
 
@@ -451,7 +446,6 @@ Na amizade perfeita, pelo contrário, não há queixas, porque o padrão é a in
 
 ---
 
-## Batch 9
 
 # Livro IX — A Amizade (Segunda Parte): Amor de Si, Benevolência e Dissolução
 
@@ -500,7 +494,6 @@ A convivência é, em suma, o elemento mais próprio da amizade. O que cada home
 
 ---
 
-## Batch 10
 
 # Livro X — O Prazer e a Vida Contemplativa
 

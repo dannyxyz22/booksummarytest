@@ -26,7 +26,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
     // Fetch full book data on mount
     useEffect(() => {
         setLoading(true);
-        fetch(`data/books/${initialBookMetadata.id}.json`)
+        fetch(import.meta.env.BASE_URL + `data/books/${initialBookMetadata.id}.json`)
             .then(res => {
                 if (!res.ok) throw new Error('Não foi possível carregar o conteúdo do livro.');
                 return res.json();
@@ -358,7 +358,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                             {initialBookMetadata.cover && (
                                 <div style={{ margin: '0 auto 2.5rem auto', maxWidth: '360px' }}>
                                     <img
-                                        src={initialBookMetadata.cover}
+                                        src={import.meta.env.BASE_URL + initialBookMetadata.cover}
                                         alt={book.title}
                                         style={{
                                             width: '100%',

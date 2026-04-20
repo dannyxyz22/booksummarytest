@@ -7,6 +7,20 @@
     <title>Summa Brevis | A Essência da Literatura Católica</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script>
+      // Restore path encoded by 404.html redirect
+      (function () {
+        var params = window.location.search.slice(1).split('&').reduce(function (acc, cur) {
+          var eq = cur.indexOf('=');
+          if (eq > 0) acc[cur.slice(0, eq)] = decodeURIComponent(cur.slice(eq + 1));
+          return acc;
+        }, {});
+        if (params.p) {
+          var base = window.location.pathname.replace(/\/$/, '');
+          history.replaceState(null, null, base + params.p + (params.hash || ''));
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>
