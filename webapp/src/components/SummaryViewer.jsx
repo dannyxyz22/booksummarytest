@@ -106,18 +106,35 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
         };
     }, [loading, book]);
 
-    // Handle browser back button to scroll to top when returning to book root
+    // Keep in-view navigation in sync with browser back/forward for heading anchors.
     useEffect(() => {
-        const handleHashScroll = () => {
-            // If the hash is exactly the book root (no extra fragments), scroll to top
-            if (window.location.hash.startsWith('#book/')) {
-                containerRef.current?.scrollTo({ top: 0, behavior: 'smooth' });
+        const scrollToHashTarget = (behavior = 'smooth') => {
+            const hash = window.location.hash;
+
+            if (!hash) {
+                containerRef.current?.scrollTo({ top: 0, behavior });
+                return;
             }
+
+            const decodedId = decodeURIComponent(hash.slice(1));
+            const target = containerRef.current?.querySelector(
+                `[id="${decodedId}"], [id="${hash.slice(1)}"]`
+            );
+
+            target?.scrollIntoView({ behavior, block: 'start' });
         };
 
-        window.addEventListener('hashchange', handleHashScroll);
-        return () => window.removeEventListener('hashchange', handleHashScroll);
-    }, []);
+        const handleHashChange = () => {
+            scrollToHashTarget('smooth');
+        };
+
+        scrollToHashTarget('auto');
+        window.addEventListener('hashchange', handleHashChange);
+
+        return () => {
+            window.removeEventListener('hashchange', handleHashChange);
+        };
+    }, [book]);
 
     useEffect(() => {
         const unsubscribe = scrollYProgress.on("change", (latest) => {

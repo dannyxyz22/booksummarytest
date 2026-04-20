@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "postbuild": "node scripts/generate-static-book-routes.cjs",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "node process_summaries.cjs && npm run build",

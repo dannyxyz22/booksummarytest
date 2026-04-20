@@ -525,7 +525,7 @@ function generateSitemap(summaries) {
     const enabled = summaries.filter(s => s.enabled !== false);
     for (const book of enabled) {
         xml += `  <url>\n`;
-        xml += `    <loc>${baseUrl}/book/${encodeURIComponent(book.id)}</loc>\n`;
+        xml += `    <loc>${baseUrl}/book/${encodeURIComponent(book.id)}/</loc>\n`;
         xml += `    <lastmod>${today}</lastmod>\n`;
         xml += `    <changefreq>monthly</changefreq>\n`;
         xml += `    <priority>0.8</priority>\n`;

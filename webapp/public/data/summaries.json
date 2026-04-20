@@ -1,13 +1,13 @@
 [
   {
     "id": "imitao-maria",
-    "path": "../summaries/imitation_kempis_final.md",
+    "path": "../books/imitation-kempis/summaries/imitation-kempis_Resumo_20.md",
     "title": "A Imitação da Bem-Aventurada Virgem Maria",
     "author": "Tomás de Kempis",
     "year": 1768,
     "cover": "assets/covers/imitao-maria.png",
-    "description": "A Imitação da Bem-Aventurada Virgem Maria é uma compilação de inestimável valor místico e espiritual, estruturada minuciosamente em um arcabouço de trinta leituras. Estas foram extraídas das imensas obras do asceta Tomás de Kempis. Sob a diligente organização do abade Albin de Cigala, a referida obra manifesta-se não unicamente como adereço devocional, mas constitui a natural continuação...",
-    "readingTime": 36,
+    "description": "O Livro da Imitação de Jesus-Cristo representa uma das obras místicas mais nobres da Tradição cristã. Obra de Thomas à Kempis, asceta renano do século XV, consagra-se a guiar a alma humana pelo caminho da conformidade com Cristo. Contudo, detecta-se nele uma lacuna significativa: a ausência de reflexão sobre a devoção mariana. Não se trata de negligência, mas de uma falha histórica dos copistas...",
+    "readingTime": 42,
     "epubPath": "data/epubs/imitao-maria.epub",
     "pdfPath": "data/pdfs/imitao-maria.pdf"
   },

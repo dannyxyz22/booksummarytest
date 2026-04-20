@@ -6,10 +6,65 @@ import { Book, Search, X, User } from 'lucide-react';
 
 // Base path from Vite (e.g. '/booksummarytest')
 const BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
+const SITE_ORIGIN = 'https://dannyxyz22.github.io';
+const SITE_NAME = 'Summa Brevis';
+const DEFAULT_TITLE = `${SITE_NAME} | A Essência da Literatura Católica`;
+const DEFAULT_DESCRIPTION = 'Biblioteca digital de resumos católicos clássicos com leitura online, EPUB e PDF. Títulos: A Imitação da Bem-Aventurada Virgem Maria, A Noite Escura da Alma, A Prática da Presença de Deus, A Síntese Tomista, A Subida do Monte Carmelo, Cartas, Crescimento na Santidade, Cristo Rei, Deus Caritas Est, Diálogos, Ética a Nicômaco, Filosofia 101, O Diário de Santa Faustina, O Grande Meio da Oração, O Homem Eterno e Vida e Glórias de São José.';
+const DEFAULT_IMAGE = 'assets/covers/thumbs/imitao-maria.webp';
+
+const normalizeDescription = (text, max = 160) => {
+  const clean = (text || '').replace(/\s+/g, ' ').trim();
+  if (!clean) return DEFAULT_DESCRIPTION;
+  if (clean.length <= max) return clean;
+  return `${clean.slice(0, max - 1).trim()}...`;
+};
+
+const toAbsoluteUrl = (path = '') => {
+  if (!path) return `${SITE_ORIGIN}${import.meta.env.BASE_URL}`;
+  if (/^https?:\/\//i.test(path)) return path;
+  const normalizedBase = import.meta.env.BASE_URL.endsWith('/')
+    ? import.meta.env.BASE_URL
+    : `${import.meta.env.BASE_URL}/`;
+  const normalizedPath = path.replace(/^\/+/, '');
+  return `${SITE_ORIGIN}${normalizedBase}${normalizedPath}`;
+};
+
+const upsertMeta = (attr, key, content) => {
+  let tag = document.head.querySelector(`meta[${attr}="${key}"]`);
+  if (!tag) {
+    tag = document.createElement('meta');
+    tag.setAttribute(attr, key);
+    document.head.appendChild(tag);
+  }
+  tag.setAttribute('content', content);
+};
+
+const upsertLink = (rel, href) => {
+  let tag = document.head.querySelector(`link[rel="${rel}"]`);
+  if (!tag) {
+    tag = document.createElement('link');
+    tag.setAttribute('rel', rel);
+    document.head.appendChild(tag);
+  }
+  tag.setAttribute('href', href);
+};
+
+const upsertJsonLd = (id, data) => {
+  let tag = document.head.querySelector(`#${id}`);
+  if (!tag) {
+    tag = document.createElement('script');
+    tag.id = id;
+    tag.type = 'application/ld+json';
+    document.head.appendChild(tag);
+  }
+  tag.textContent = JSON.stringify(data);
+};
 
 // Utility to parse the URL pathname
 const parseRoute = () => {
-  const pathname = window.location.pathname.slice(BASE.length).replace(/^\//, '');
+  const pathname = window.location.pathname
+    .slice(BASE.length)
+    .replace(/^\/+|\/+$/g, '');
   if (!pathname) return { page: 'home', param: null };
 
   const [page, ...rest] = pathname.split('/');
@@ -61,7 +116,7 @@ const App = () => {
     if (page === 'home') {
       url = BASE + '/';
     } else {
-      url = BASE + '/' + page + (param ? '/' + encodeURIComponent(param) : '');
+      url = BASE + '/' + page + (param ? '/' + encodeURIComponent(param) : '') + '/';
     }
     window.history.pushState(null, '', url);
     setRoute(parseRoute());
@@ -107,6 +162,79 @@ const App = () => {
     }
     return null;
   }, [summaries, route, activeBookId]);
+
+  useEffect(() => {
+    const isBookPage = route.page === 'book' && selectedBook;
+    const isFilterPage = route.page === 'author' || route.page === 'search';
+
+    const title = isBookPage
+      ? `${selectedBook.title} | ${SITE_NAME}`
+      : isFilterPage
+        ? `${SITE_NAME} | ${route.page === 'author' ? 'Autor' : 'Pesquisa'}: ${route.param || ''}`
+        : DEFAULT_TITLE;
+
+    const description = isBookPage
+      ? normalizeDescription(selectedBook.description)
+      : isFilterPage
+        ? normalizeDescription(`Resultados de ${route.page === 'author' ? 'autor' : 'pesquisa'} para ${route.param || ''} em ${SITE_NAME}.`)
+        : DEFAULT_DESCRIPTION;
+
+    const canonical = isBookPage
+      ? toAbsoluteUrl(`book/${encodeURIComponent(selectedBook.id)}/`)
+      : toAbsoluteUrl('');
+
+    const image = isBookPage
+      ? toAbsoluteUrl(selectedBook.cover)
+      : toAbsoluteUrl(DEFAULT_IMAGE);
+
+    const robots = isFilterPage
+      ? 'noindex,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1'
+      : 'index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1';
+
+    document.title = title;
+
+    upsertMeta('name', 'description', description);
+    upsertMeta('name', 'robots', robots);
+    upsertLink('canonical', canonical);
+
+    upsertMeta('property', 'og:type', isBookPage ? 'article' : 'website');
+    upsertMeta('property', 'og:site_name', SITE_NAME);
+    upsertMeta('property', 'og:title', title);
+    upsertMeta('property', 'og:description', description);
+    upsertMeta('property', 'og:url', canonical);
+    upsertMeta('property', 'og:image', image);
+
+    upsertMeta('name', 'twitter:card', 'summary_large_image');
+    upsertMeta('name', 'twitter:title', title);
+    upsertMeta('name', 'twitter:description', description);
+    upsertMeta('name', 'twitter:image', image);
+
+    if (isBookPage) {
+      upsertJsonLd('ld-json-page', {
+        '@context': 'https://schema.org',
+        '@type': 'Book',
+        name: selectedBook.title,
+        author: {
+          '@type': 'Person',
+          name: selectedBook.author
+        },
+        image,
+        url: canonical,
+        inLanguage: 'pt-BR',
+        datePublished: selectedBook.year ? String(selectedBook.year) : undefined,
+        description
+      });
+    } else {
+      upsertJsonLd('ld-json-page', {
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: SITE_NAME,
+        url: toAbsoluteUrl(''),
+        inLanguage: 'pt-BR',
+        description: DEFAULT_DESCRIPTION
+      });
+    }
+  }, [route, selectedBook]);
 
   const handleSearch = (e) => {
     e.preventDefault();
