@@ -1,0 +1,49 @@
+# Livro III — Ação Voluntária, Escolha Deliberada e Coragem
+
+## O Voluntário e o Involuntário
+
+Uma vez que a virtude concerne à regulação dos sentimentos e das ações, e que o louvor e a censura incidem sobre o voluntário enquanto para o involuntário se concede perdão ou compaixão, Aristóteles empreende uma análise detalhada da distinção entre ação voluntária e involuntária — análise indispensável tanto para a teoria da virtude quanto para a prática legislativa, que atribui honras e punições.
+
+As ações involuntárias são de dois tipos: as que se fazem por coação e as que se fazem por ignorância. A ação é propriamente forçada quando a sua origem é exterior ao agente, sem que este contribua em nada — como quando o vento arrasta alguém ou quando se está sob o poder de outrem. Porém surgem casos ambíguos: quando se pratica uma ação vil sob ordens de um déspota que ameaça matar os nossos familiares, ou quando se lança a carga ao mar numa tempestade para salvar o navio, são ações de natureza mista. Abstratamente, ninguém as faria voluntariamente; porém, nas circunstâncias concretas, são escolhidas pelo agente, sendo a origem do movimento dos membros interna. São, portanto, mais próximas do voluntário do que do involuntário, e por vezes merecem até louvor, quando o agente suporta a desonra em vista de um fim grandioso.
+
+Quanto à ignorância, Aristóteles distingue cuidadosamente entre agir «por causa da ignorância» e agir «com ignorância». O ébrio e o colérico agem com ignorância, mas a causa dos seus atos não é a ignorância, e sim a embriaguez ou a cólera. A ignorância que torna um ato genuinamente involuntário é a que incide sobre as circunstâncias particulares da ação: quem age, o que faz, em relação a quem, com que instrumento, com que resultado. Aquele que age na ignorância de alguma destas circunstâncias age involuntariamente, especialmente quando a ignorância recai sobre o que é mais importante: o próprio ato e o seu resultado. Além disso, a ação deve ser seguida de dor e arrependimento; o homem que não lamenta o que fez por ignorância não agiu «contra a sua vontade», mas simplesmente «não voluntariamente» — uma distinção sutil que Aristóteles julga merecer nome próprio.
+
+A definição resultante é: «Voluntário é aquilo cuja origem está no agente, conhecedor das circunstâncias particulares em que a ação consiste.» Aristóteles rejeita a proposta de classificar como involuntárias as ações movidas pela cólera ou pelo desejo, observando que, caso contrário, nem os animais nem as crianças agiriam voluntariamente — o que é absurdo.
+
+## A Escolha Deliberada (*Proairesis*)
+
+Aristóteles prossegue com a análise da escolha deliberada, que considera mais determinante do caráter moral do que as próprias ações. A escolha é claramente voluntária, porém nem tudo que é voluntário resulta de escolha: as crianças e os animais agem voluntariamente, mas não por escolha deliberada; os atos impulsivos são voluntários, mas não escolhidos.
+
+A escolha não se identifica com o desejo (*epithymia*), a cólera, o querer (*boulêsis*) nem com a opinião (*doxa*). Difere do desejo porque o desejo pode ter por objeto coisas impossíveis (a imortalidade, por exemplo), ao passo que a escolha só recai sobre o que está em nosso poder. Difere do querer porque o querer tem por objeto o fim, enquanto a escolha concerne aos meios. Difere da opinião porque a opinião divide-se em verdadeira e falsa, enquanto a escolha divide-se em boa e má; além disso, somos constituídos de certa qualidade moral pela escolha, não pela opinião.
+
+A escolha é, pois, «o voluntário precedido de deliberação»: é o que foi deliberadamente preferido a outra coisa. A própria etimologia grega (*proairesis*, «escolhido antes de outra coisa») aponta para essa precedência da deliberação.
+
+## A Deliberação (*Bouleusis*)
+
+A deliberação não se exerce sobre todas as coisas, mas apenas sobre aquelas que estão em nosso poder e podem ser de outro modo. Não deliberamos sobre as coisas eternas (o universo, as verdades matemáticas), nem sobre as que acontecem sempre do mesmo modo (os solstícios), nem sobre os acasos (a descoberta de um tesouro), nem sobre os assuntos de povos alheios. Deliberamos sobre o que pode ser realizado pela nossa própria ação — e dentro deste campo, sobre os assuntos em que há incerteza sobre o melhor curso.
+
+A deliberação não recai sobre os fins, mas sobre os meios para alcançá-los. O médico não delibera se deve curar, nem o orador se deve persuadir: o fim está dado. Deliberam sobre como e por quais meios alcançá-lo, analisando retroativamente do fim pretendido até o primeiro passo que está em seu poder. Se descobrem uma impossibilidade no caminho, abandonam a busca; se o caminho é viável, agem. O objeto da deliberação e o objeto da escolha são o mesmo — os meios para os fins — com a diferença de que, na escolha, o resultado da deliberação já foi determinado.
+
+## A Virtude e o Vício São Voluntários
+
+Se a ação virtuosa é voluntária e procede da escolha deliberada, segue-se que tanto a virtude quanto o vício estão em nosso poder. Sempre que está em nosso poder agir, está também em nosso poder abster-nos, e vice-versa. Os legisladores confirmam isto ao punir os que agem mal (salvo quando agem por coação ou por ignorância que não seja auto-infligida) e ao honrar os que agem bem. Punem-se inclusive os que são ignorantes por sua própria culpa — o ébrio, por exemplo, recebe dupla punição, pois poderia ter evitado a embriaguez que originou a sua ignorância.
+
+Aristóteles reconhece a objeção de que o homem mau talvez não possa evitar sê-lo, dada a fixidez do caráter uma vez formado. Responde que o homem é ele próprio causa da formação do seu caráter, pelos atos que reiterou ao longo da vida: tal como quem adoeceu por negligência não pode, depois, simplesmente escolher estar são, assim aquele que se tornou injusto pelos atos reiterados de injustiça não pode, no momento presente, deixar de ser injusto por simples decisão — mas foi ele próprio que se colocou nessa situação. A formação do caráter é, no início, voluntária, ainda que o caráter formado se torne depois difícil de alterar.
+
+## A Coragem (*Andreia*)
+
+Aristóteles dedica uma análise extensa à coragem, a primeira das virtudes morais particulares. A coragem é um meio-termo entre a temeridade e a covardia. O seu objeto próprio são os medos e as audácias, e o ato de coragem supremo é enfrentar a morte em combate, que é a mais nobre e perigosa das situações. O homem corajoso teme o que é genuinamente temível, mas enfrenta-o porque é nobre fazê-lo e vergonhoso não fazê-lo. Já aquele que morre para fugir da pobreza, do amor não correspondido ou de dores genéricas não é corajoso, mas fraco, pois evita o que é penoso por moleza de ânimo.
+
+Aristóteles distingue cinco formas aparentes de coragem que não constituem coragem genuína: (1) a coragem cívica, motivada pela vergonha social e pelo desejo de honra — a mais próxima da verdadeira, pois nasce de um sentimento de nobreza, mas subordina-se ao olhar alheio; (2) a experiência e a perícia militar, que dão aparência de coragem mas desaparecem quando o perigo supera os meios; (3) o ímpeto animal (*thymos*), que, embora presente nos corajosos, por si só não constitui coragem sem a escolha deliberada do que é nobre; (4) a confiança dos sanguíneos e esperançosos, que se dissipa quando as expectativas são frustradas; (5) a ignorância, que dá ousadia temporária, mas cede diante da realidade.
+
+A coragem genuína implica dor: é mais fácil enfrentar o perigo quando não se tem nada a perder. Para o homem genuinamente bom e feliz, a morte é especialmente dolorosa, pois é ele quem tem mais a perder; contudo, ele escolhe a honra do combate em detrimento da preservação dos seus bens maiores. A coragem consiste justamente nesta escolha.
+
+## A Temperança (*Sôphrosunê*)
+
+Aristóteles passa à segunda virtude do carácter irracional: a temperança ou autodomínio perfeito, cujo objeto são os prazeres corporais — e, dentre estes, nem todos indiscriminadamente, mas especificamente os prazeres do tato e, secundariamente, do paladar. Os prazeres da visão, da audição e do olfato não são, em si mesmos, matéria de temperança ou intemperança: ninguém é chamado intemperante por apreciar cores, música ou perfumes de flores. Quando o olfato entra na questão é apenas acidentalmente, na medida em que evoca o prazer da comida.
+
+A temperança e a intemperança referem-se especificamente aos prazeres que partilhamos com os animais — os do tato e do paladar — e por isso são justamente matéria de censura, pois nos ligam à nossa natureza animal, não à nossa natureza humana e racional. O glutão que desejava ter a garganta mais longa que a de uma garça ilustra que não é o paladar mas o tato que constitui o prazer do intemperante.
+
+O homem temperante ocupa o meio-termo: não sente prazer nos objetos que deleitam o vicioso, antes os rejeita; não sofre com a ausência de prazeres ilícitos; deseja apenas o que é conducente à saúde e ao bem-estar, e apenas na medida adequada, regulando os seus apetites segundo a reta razão. O intemperante, ao contrário, deseja todos os prazeres — ou pelo menos os mais intensos — e é arrastado pelo desejo a preferi-los a tudo o mais; sofre tanto ao obtê-los deficientemente quanto ao desejá-los, pois o próprio desejo envolve dor.
+
+Aristóteles observa que a intemperança é mais voluntária que a covardia: a primeira nasce do prazer, a segunda da dor; e é mais fácil habituar-se a resistir ao prazer do que à dor. A intemperância infantil fornece a metáfora: assim como a criança vive sob o domínio do desejo, o apetite insaciável do homem sem autodomínio, se não for disciplinado, expulsa a razão inteiramente. A faculdade apetitiva deve obedecer à razão tal como a criança obedece ao educador.

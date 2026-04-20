@@ -1,0 +1,47 @@
+# Livro VIII — A Amizade (Primeira Parte)
+
+## A Importância e a Natureza da Amizade
+
+A amizade (*philia*) é, segundo Aristóteles, o tema que mais naturalmente se segue à investigação das virtudes, por ser ela própria uma virtude — ou pelo menos envolver a virtude. É também algo absolutamente necessário à vida humana: ninguém escolheria viver sem amigos, ainda que possuísse todos os demais bens. De facto, são os ricos, os governantes e os poderosos que mais necessitam de amigos, pois de que serve a prosperidade sem quem beneficiar? É na adversidade que se refugia junto aos amigos, e a todo o tipo de homem a amizade presta auxílio: aos jovens, para evitar o erro; aos velhos, para socorrer a fraqueza e suprir o que a idade já não permite; aos homens na plenitude das forças, para as acções nobres. E além da utilidade, a amizade é em si mesma nobre e bela: louvamos os que são «amigos dos seus amigos» e julgamos que a abundância de amigos é uma coisa admirável.
+
+A amizade não é apenas uma questão privada mas um laço político. Os legisladores preocupam-se mais com a concórdia — que é uma forma de amizade — do que com a própria justiça: quando os homens são amigos, a justiça torna-se quase supérflua, mas quando são apenas justos, a amizade é ainda necessária. A forma mais elevada de justiça parece ser de natureza amigável.
+
+## As Três Espécies de Amizade
+
+Aristóteles identifica três objectos de amor (*philia*): o bom, o agradável e o útil. Correspondem a estas três espécies de amizade:
+
+**A amizade fundada na utilidade** é aquela em que cada uma das partes busca o benefício que obtém da outra. Não amam o amigo por ele mesmo, mas pelo que dele auferem. Esta amizade é típica dos velhos (que buscam o proveito, não o deleite) e é frágil, pois dissolve-se logo que cessa a utilidade que a motivava.
+
+**A amizade fundada no prazer** é aquela em que se ama o outro pelo deleite que proporciona. É mais comum entre os jovens, que vivem segundo a paixão e perseguem o agradável. Tal como a anterior, é instável e efémera: quando o que era agradável deixa de sê-lo, a amizade dissolve-se. As amizades entre jovens mudam rapidamente porque mudam rapidamente os seus prazeres.
+
+**A amizade perfeita ou fundada na virtude** é aquela que se dá entre os homens bons e semelhantes na virtude. Cada um deseja o bem do outro por ele mesmo, não por qualquer vantagem acessória. Estes amigos são bons em si mesmos e bons um para o outro, pois o homem bom é ao mesmo tempo bom absolutamente e bom para o seu amigo. São também agradáveis um ao outro, porque o homem virtuoso sente prazer nos actos conformes à virtude. E são úteis, porque auxiliam-se mutuamente na prática do bem.
+
+Esta amizade perfeita reúne em si todas as qualidades que as outras duas possuem separadamente: é simultaneamente boa, agradável e útil. É, porém, rara, porque os homens bons são poucos, e requer tempo e intimidade: «não é possível conhecer-se mutuamente sem antes ter consumido juntos a proverbial medida de sal». É também a mais estável de todas as amizades: funda-se na virtude, que é a mais permanente das qualidades humanas, e não em bens acidentais que podem mudar ou desaparecer.
+
+## Condições e Características da Amizade
+
+A amizade requer reciprocidade e reconhecimento mútuo: a simples benevolência dirigida a alguém que não a conhece não é amizade, mas boa vontade. A reciprocidade deve ser conhecida de ambas as partes. Além disso, a amizade requer convivência (*synêtheia*): é na vida em comum que a amizade se manifesta y se consolida. Os amigos que passam muito tempo separados correm o risco de ver a amizade enfraquecer; «a ausência prolongada parece produzir o esquecimento da amizade».
+
+A amizade perfeita não pode estender-se a muitas pessoas: tal como o amor intenso dirige-se por natureza a poucos, a amizade profunda — que requer íntimo conhecimento mútuo e convivência assídua — limita-se necessariamente a um pequeno número. Já as amizades baseadas no prazer ou na utilidade podem ser mais numerosas, embora também estas tenham os seus limites.
+
+Aristóteles discute se os homens maus podem ser amigos entre si. Conclui que podem sê-lo, mas apenas por utilidade ou prazer — nunca com base na virtude, pois os maus não se comprazem uns nos outros enquanto tais, mas apenas enquanto úteis ou agradáveis. Os bons são amigos uns dos outros absolutamente, porque amam o que é bom em si; os maus são amigos apenas acidentalmente.
+
+## A Amizade entre Desiguais
+
+Nem toda amizade se dá entre iguais. Aristóteles identifica amizades entre desiguais: entre pai e filho, entre marido e mulher, entre governante e governado, e em geral entre qualquer superior e inferior. Em todas estas, a afeição deve ser proporcional ao mérito: o melhor deve ser mais amado do que ama; o mais útil deve ser mais honrado; e assim a desigualdade é, de certo modo, compensada pela proporcionalidade do afecto, de sorte que se produz uma espécie de igualdade — que é o que a amizade requer.
+
+Onde a desigualdade é extrema — como entre um deus e um mortal, ou entre um rei e o mais humilde dos súbditos — a amizade torna-se impossível, porque a distância impede a convivência e a reciprocidade. A amizade requer um mínimo de igualdade e comunidade de vida.
+
+## Amizade e Constituições Políticas
+
+Aristóteles desenvolve uma analogia entre as formas de amizade e as constituições políticas — um tema que revela a profunda conexão entre ética e política no seu pensamento. As três constituições rectas são: a realeza, a aristocracia e a timocracia (governo dos cidadãos possuidores de uma certa renda). As três formas degeneradas são: a tirania, a oligarquia e a democracia.
+
+A relação entre pai e filhos assemelha-se à da realeza: o pai, que deu a existência aos filhos, cuida deles como um rei benevolente cuida dos súbditos. A relação entre marido e mulher é análoga à aristocracia: o marido governa segundo o mérito e nas matérias que lhe competem, cedendo à mulher o que lhe é próprio. A comunidade entre irmãos assemelha-se à timocracia: são iguais em tudo, salvo na medida em que diferem pela idade.
+
+As degenerações implicam a dissolução progressiva da amizade. Na tirania, como na pior forma de governo, quase não há lugar para a amizade: onde não há nada de comum entre governante e governado, não há justiça nem amizade. A relação entre senhor e escravo — enquanto escravo — não comporta amizade, porque o escravo é como um instrumento animado; porém, enquanto homem, pode haver alguma forma de amizade, porque entre todo homem e qualquer outro capaz de participar da lei e do contrato existe uma relação possível de justiça e, consequentemente, de amizade.
+
+## Queixas e Rupturas nas Amizades
+
+As amizades fundadas na utilidade e no prazer são as mais susceptíveis de queixas e rupturas, porque a motivação é extrínseca: quando um dos amigos sente que não recebe o que esperava — seja prazer ou proveito — a relação dissolve-se. O amante queixa-se de que o seu amor não é correspondido; o beneficiado esquece o benefício; o prestamista cobra mais do que emprestou. Aristóteles observa que se deve restituir segundo o padrão do receptor, não do doador: quem recebeu um serviço deve retribuir pelo valor que este tinha para si, não pelo custo que teve para o outro.
+
+Na amizade perfeita, pelo contrário, não há queixas, porque o padrão é a intenção do agente: cada um faz o que pode pelo amigo com boa vontade, e o outro aceita-o no mesmo espírito. As rupturas neste tipo de amizade são raras: ocorrem apenas se um dos amigos se torna vicioso — pois o homem bom não pode ser amigo do mau.

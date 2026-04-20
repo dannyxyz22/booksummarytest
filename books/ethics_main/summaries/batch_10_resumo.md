@@ -1,0 +1,53 @@
+# Livro X — O Prazer e a Vida Contemplativa
+
+## A Segunda Teoria do Prazer
+
+O Livro X reabre a investigação sobre o prazer com uma teoria mais refinada do que a do Livro VII. Aristóteles justifica a importância do tema: o prazer e a dor permeiam toda a vida humana, influenciam toda educação moral, e se a virtude e a felicidade envolvem prazer, é indispensável compreender a sua natureza.
+
+Aristóteles examina criticamente duas posições extremas: (1) a de Eudoxo, para quem o prazer é o Bem Supremo, e (2) a de Espeusipo e outros, para quem o prazer não é um bem de modo algum. Eudoxo argumentava que todos os seres — racionais e irracionais — buscam o prazer, e que o testemunho universal não pode estar errado; que o prazer é desejado por si mesmo; e que, acrescentado a qualquer bem (como a temperança ou a justiça praticada com prazer), ele o torna mais desejável — ora, o que faz algo mais desejável é um bem, e só o Bem Supremo não pode ser melhorado por adições.
+
+Aristóteles considera que Eudoxo era ouvido com respeito não tanto pela força dos seus argumentos mas pela excelência do seu caráter — sendo homem de virtude reconhecida, não parecia que advogasse a causa do prazer por amor ao prazer, mas por convicção honesta. Contudo, o argumento de que «o prazer adicionado a qualquer bem o melhora» prova apenas que o prazer é um bem, não que é o Bem Supremo: prova, igualmente, que *qualquer* bem adicionado a outro o torna melhor — o que nada diz de distintivo sobre o prazer.
+
+Contra os que negavam que o prazer fosse um bem, argumentando que é um processo (*genesis*) ou que o homem temperante foge do prazer, Aristóteles responde: nem todo prazer é processo; os prazeres da contemplação ou do exercício das faculdades sãs não são restaurações de um estado deficiente. E o homem temperante não foge de todo prazer — apenas dos excessivos e dos corporais.
+
+## A Natureza do Prazer: Perfeição da Actividade
+
+Aristóteles avança a sua teoria positiva. O prazer não é um movimento nem um processo, mas algo completo em si mesmo a cada instante — como o acto de ver, que é perfeito em qualquer momento dado, ao contrário do acto de construir uma casa, que é incompleto até estar terminado.
+
+O prazer sobrevém à actividade como uma perfeição sobrevinda (*epigignomenon ti telos*) — «como a flor da juventude àqueles que estão no vigor da idade». Não é idêntico à actividade, mas completa-a: assim como a beleza coroa o corpo saudável, o prazer coroa a actividade perfeita. Cada sentido produz prazer quando o seu melhor objecto é percebido pela faculdade no seu melhor estado: o prazer da visão é máximo quando o olho mais saudável contempla o objecto mais belo.
+
+O prazer intensifica a actividade a que se liga: quem toca flauta com prazer toca melhor; os que amam a geometria aprendem-na com mais facilidade. Mas os prazeres de uma actividade podem interferir com outra: o amante de flauta, ao ouvir um flautista durante uma conferência, abandona o argumento pelo prazer da música. Cada actividade tem o seu prazer próprio, e prazeres alheios enfraquecem actividades que não lhes correspondem.
+
+## A Diversidade dos Prazeres
+
+Se as actividades diferem em espécie, os prazeres que as acompanham também diferem. Os prazeres dos sentidos diferem entre si e dos prazeres do intelecto. Cada espécie de ser tem os seus prazeres próprios, e entre os homens há grande variação: o que é agradável a uns é doloroso a outros. Porém, tal como existem percepções correctas e incorrectas, existem prazeres correctos e incorrectos: os prazeres do homem bom são os verdadeiros prazeres, e as coisas que lhe são agradáveis são genuinamente agradáveis. Se ao corrompido parecem agradáveis coisas que repugnam ao homem de bem, isso não prova que tais coisas sejam agradáveis, mas apenas que a doença moral distorce a percepção do prazer. O homem virtuoso é, portanto, a medida e o critério do prazer genuíno — assim como o é de todas as coisas morais.
+
+## A Felicidade como Actividade Contemplativa
+
+A investigação do prazer prepara a conclusão culminante de toda a *Ética a Nicômaco*: a determinação da natureza da felicidade. Aristóteles retoma os princípios já estabelecidos: a felicidade não é uma disposição passiva, mas uma actividade; não é mero divertimento (embora muitos confundam felicidade com prazer do entretenimento); e é uma actividade conforme à virtude mais elevada.
+
+A virtude mais elevada é a que pertence à parte mais nobre da alma — o intelecto (*nous*). E a actividade do intelecto é a contemplação (*theôria*). Aristóteles apresenta uma série de argumentos convergentes para estabelecer a supremacia da vida contemplativa:
+
+**Primeiro**, o intelecto é a faculdade mais elevada do homem, e os seus objectos — as realidades eternas, necessárias e divinas — são os mais elevados que se podem conhecer.
+
+**Segundo**, a contemplação é a mais contínua de todas as actividades: o homem pode contemplar por mais tempo e com menos fadiga do que pode exercer qualquer outra actividade. A actividade prática — a guerra, a política, as negociações — é penosa e não escolhida por si mesma, mas por algum fim ulterior; a contemplação, pelo contrário, é desejável em si mesma e não produz nada além de si própria.
+
+**Terceiro**, a contemplação é a actividade mais autossuficiente. O sábio pode contemplar sozinho, ao passo que o justo necessita de outros a quem distribuir justiça, o liberal necessita de quem receba os seus dons, e o corajoso necessita de perigos a enfrentar. A contemplação não depende de circunstâncias exteriores no mesmo grau.
+
+**Quarto**, a contemplação é a actividade mais prazerosa: «a filosofia é reconhecida como contendo prazeres maravilhosos em pureza e estabilidade, e é razoável que a ocupação dos que sabem seja mais agradável do que a dos que ainda buscam».
+
+**Quinto**, a contemplação produz o lazer (*scholê*), enquanto as actividades práticas e políticas são atarefadas e inquietas. A guerra é feita para obter a paz, e os negócios para obter o lazer; logo, a actividade própria do lazer — a contemplação — é superior às que existem em vista dele.
+
+**Sexto** e mais decisivo: a vida contemplativa é a mais divina. Se os deuses vivem e agem, a actividade mais compatível com a sua natureza é a contemplação — não a justiça prática (seria absurdo imaginar os deuses a devolver depósitos), nem a coragem (não há perigos para os deuses), nem a liberalidade (não têm necessidade de dinheiro). A actividade dos deuses é a contemplação, e portanto, entre as actividades humanas, a que mais se aproxima da divina é também a mais feliz. «Quem mais exerce a contemplação é o mais querido dos deuses e, presumivelmente, o mais feliz.»
+
+Aristóteles conclui que a felicidade perfeita é a vida contemplativa, e que a felicidade «em segundo lugar» é a que se vive segundo as demais virtudes — as virtudes morais e a prudência — pois estas pertencem à nossa natureza composta (alma e corpo), são propriamente humanas e exigem bens exteriores, relações sociais e circunstâncias favoráveis. A felicidade contemplativa é mais elevada porque transcende o meramente humano e toca o divino que existe em nós.
+
+## Os Limites da Teoria e a Transição para a Política
+
+Aristóteles termina a *Ética a Nicômaco* reconhecendo que a mera teoria não basta para tornar os homens bons. Os discursos morais têm algum poder sobre os jovens nobres que já possuem disposição para a virtude, mas são impotentes perante a massa dos homens, que vive segundo a paixão e só obedece à força e ao temor da punição. A maioria dos homens não pode ser conduzida à virtude pelo argumento, mas pela lei e pelo hábito.
+
+A educação moral deve começar na infância, sob a autoridade paterna; porém a autoridade paterna, limitada ao lar, é insuficiente. É a lei que possui a força coercitiva necessária e a impessoalidade que evita o ressentimento. O homem necessita de uma legislação que, desde a juventude, o habitue à virtude. E para legislar bem é preciso a ciência legislativa — aquela parte da ciência política que se ocupa de determinar quais leis e costumes produzem bons cidadãos.
+
+Aristóteles critica os sofistas que pretendiam ensinar a ciência política por meio de meras colecções de leis, sem possuírem experiência prática nem compreensão dos princípios: seria como se alguém, por ter lido um livro de medicina, se julgasse capaz de curar. A verdadeira ciência legislativa requer tanto o conhecimento dos princípios universais quanto a experiência dos casos particulares.
+
+Assim, a *Ética a Nicômaco* encerra-se com uma transição natural para a *Política*: a investigação do caráter individual completa-se naturalmente com a investigação das constituições e das leis, que são o instrumento para a formação do caráter dos cidadãos. Aristóteles propõe examinar as constituições existentes, analisar o que preserva e o que destrói as cidades, e determinar qual é a melhor forma de governo — completando assim o ciclo que vai da ética à política, do bem individual ao bem comum.

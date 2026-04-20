@@ -1,0 +1,43 @@
+# Livro IX — A Amizade (Segunda Parte): Amor de Si, Benevolência e Dissolução
+
+## A Medida do Retorno nas Amizades Desiguais
+
+O Livro IX abre com a questão prática de como retribuir nas amizades entre desiguais: deve-se medir pelo valor do serviço para quem o recebeu ou pelo esforço de quem o prestou? Aristóteles argumenta que, em geral, a medida é a do receptor: quem recebeu um benefício deve primeiramente estimar o valor que esse benefício tem para si, e propor ao benefactor uma compensação correspondente. Nas relações entre mestre e discípulo, por exemplo, o preço justo é o que o discípulo julga valer o que aprendeu; mas se o retorno parece insuficiente, basta que seja o máximo que o beneficiado pode razoavelmente oferecer. Em caso de conflito sobre quem deve fixar o preço, Aristóteles invoca a analogia com as transações comerciais: aquele que recebeu primeiro deve fixar o valor, como acontece nas vendas em Protagoras.
+
+A prioridade dos deveres é também discutida: deve-se servir ao pai ou ao benfeitor? Em geral, deve restituir-se ao credor antes de favorecer o amigo, mas nem sempre — por exemplo, deve-se resgatar o pai do cativeiro antes de pagar uma dívida. O princípio geral é que a cada relação corresponde um grau diferente de obrigação: aos pais deve-se honra como a deuses; aos benfeitores, gratidão; aos amigos, o que a amizade exige; e assim por diante, dando a cada um o que lhe é proporcionalmente devido.
+
+## Dissolução das Amizades
+
+As amizades fundadas na utilidade ou no prazer dissolvem-se naturalmente quando cessa a causa que as motivou: se o amigo deixa de ser agradável ou útil, é razoável que a relação termine. Porém é censurável quem abandona o amigo que fingia gostar dele por ele mesmo, quando na verdade o amava apenas pela utilidade.
+
+A questão mais delicada diz respeito às amizades entre pessoas boas, quando uma delas muda de caráter: se o amigo se torna vicioso, devemos manter a amizade? Aristóteles responde que, se a corrupção é incurável, a ruptura é justificada; mas se há esperança de recuperação, devemos auxiliar o amigo a recompor o seu caráter — pois isso é mais próprio da amizade do que abandoná-lo. A dissolução neste caso não é censurável, porque o amigo real já não existe: aquele que amávamos era uma pessoa diferente.
+
+Quando a disparidade entre os amigos cresce para além de certo limiar — como quando um amigo de infância ascende a grande posição, ou quando há uma diferença enorme de virtude — a amizade não pode manter-se, porque a convivência e a comunidade de vida tornam-se impossíveis. Contudo, deve-se conservar uma certa consideração pelo antigo amigo, em memória da intimidade passada.
+
+## A Benevolência (*Eunoia*) e a Concórdia (*Homonoia*)
+
+A benevolência — o querer bem a alguém — não é amizade, embora seja o seu germe. Pode-se ter benevolência para com desconhecidos: quem vê um atleta a competir pode desejar-lhe a vitória sem que isso constitua amizade. A benevolência é o primeiro movimento afectivo que, cultivado pelo tempo e pela convivência, pode transformar-se em amizade. «A benevolência parece ser o princípio da amizade, como o prazer da visão é o princípio do amor.»
+
+A concórdia (*homonoia*) é uma forma política de amizade: consiste na concordância prática entre os cidadãos sobre os assuntos importantes da comunidade — não sobre questões teóricas, mas sobre o que deve ser feito. Uma cidade está em concórdia quando os cidadãos acordam, por exemplo, que os magistrados devem ser eleitos ou que se deve fazer aliança com determinado povo. A concórdia requer não apenas identidade de opiniões mas também identidade de intenções: não basta que todos desejem o mesmo; é preciso que desejem o mesmo para as mesmas pessoas. A concórdia é, assim, uma amizade política que só se encontra entre os homens dignos, porque os maus buscam tirar vantagem uns dos outros e a sua aparente concordância dissolve-se na rivalidade.
+
+## O Amor de Si (*Philautia*)
+
+Aristóteles dedica uma das passagens mais célebres do Livro IX à questão do amor de si (*philautia*). O termo é geralmente usado em sentido pejorativo: o «amante de si» é aquele que acapara para si a maior parte dos bens — dinheiro, honras, prazeres corporais. Porém Aristóteles propõe uma reinterpretação: existe um amor de si nobre e um amor de si ignoble.
+
+O amor de si ignoble é o do homem que satisfaz a parte irracional da alma — os apetites e as paixões — em detrimento dos outros. Mas o verdadeiro «eu» do homem é o seu intelecto, a parte mais elevada e rectora da alma. O homem genuinamente «amante de si» é aquele que satisfaz o intelecto e a razão, praticando a virtude e sacrificando-se pelo nobre: cede ao amigo o dinheiro, as honras e os prazeres, reservando para si o que é mais elevado — a nobreza moral. Tal homem preferiria um único acto grandioso e belo a muitos pequenos, e um ano vivido nobremente a muitos anos de existência medíocre.
+
+O bom homem deve ser amante de si neste sentido elevado, porque assim beneficia tanto a si próprio (no que há de mais nobre) quanto aos outros (pela prática da virtude); o mau homem, todavia, não deve amar-se, porque o que busca é nocivo a si e ao próximo. As acções do homem bom harmonizam-se consigo mesmo: a parte racional da sua alma está em concordância com a irracional, e o que deseja é idêntico ao que julga nobre.
+
+## A Necessidade de Amigos para o Homem Feliz
+
+Surge a questão: se o homem feliz é aquele que se basta a si mesmo, por que necessita de amigos? Aristóteles responde com múltiplos argumentos. Em primeiro lugar, o maior bem exterior é o próprio amigo, e seria estranho atribuir todos os bens ao homem feliz privando-o do maior deles. Em segundo lugar, é mais próprio da natureza do homem bom fazer bem aos outros do que ser bem tratado: sem amigos a quem beneficiar, para quê a virtude? Em terceiro lugar, a vida solitária é penosa: é difícil estar activo por si mesmo continuamente, mas na companhia dos amigos a actividade torna-se contínua e prazenteira.
+
+Aristóteles aduz ainda um argumento mais profundo: a existência é um bem desejável, e ela é percebida sobretudo na consciência de que se está a agir e a pensar. Ora, assim como percebemos a nossa própria existência, percebemos a existência do amigo — e se a percepção da nossa própria existência é agradável, também a percepção da existência do amigo o é. O amigo funciona como um «outro eu»: ao contemplá-lo, o homem bom contempla indirectamente a sua própria natureza realizada. Portanto, a convivência — a partilha de palavras e pensamentos, não a mera presença física como no caso dos animais — é essencial à amizade e à felicidade humana.
+
+## O Número de Amigos e a Amizade na Adversidade
+
+O homem feliz não necessita de muitos amigos: a amizade profunda requer intimidade e convivência, que não são possíveis com um número excessivo de pessoas. Assim como se diz que a comida é bastante quando satisfaz, assim também com os amigos: poucos, mas bons. O adulador, que finge ser amigo de muitos, não é genuinamente amigo de ninguém. Os homens célebres que têm muitos «amigos» distinguem entre os que são úteis e os que são agradáveis — e mesmo destas categorias, o número é forçosamente limitado.
+
+Quanto à presença dos amigos: na boa fortuna, queremos ter a quem beneficiar e com quem partilhar a alegria; na má fortuna, queremos ter a quem recorrer. Porém devem-se convidar os amigos para as alegrias com prontidão mas para os sofrimentos com relutância, pois «devemos partilhar o mínimo possível a nossa infelicidade» — a este respeito, é mais nobre sofrer em silêncio do que sobrecarregar o amigo. Inversamente, devemos acudir sem ser chamados ao amigo em desgraça, pois é próprio do amigo socorrer, sobretudo quando pode fazê-lo sem que o outro precise pedir.
+
+A convivência é, em suma, o elemento mais próprio da amizade. O que cada homem mais deseja na vida é o que busca partilhar com os seus amigos: uns bebem juntos, outros jogam dados, outros fazem ginástica, outros filosofam. «Qualquer que seja a actividade que cada um considera como a própria da existência, é nessa actividade que deseja passar o tempo com os amigos.»
