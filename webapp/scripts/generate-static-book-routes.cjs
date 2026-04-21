@@ -1,11 +1,13 @@
 const fs = require('fs');
 const path = require('path');
+const { marked } = require('marked');
 
 const distDir = path.join(__dirname, '..', 'dist');
 const indexPath = path.join(distDir, 'index.html');
 const summariesPath = path.join(distDir, 'data', 'summaries.json');
 const bookRoutesDir = path.join(distDir, 'book');
-const siteBaseUrl = 'https://dannyxyz22.github.io/booksummarytest';
+const booksDataDir = path.join(distDir, 'data', 'books');
+const siteBaseUrl = 'https://summabrevis.netlify.app';
 
 function ensureFile(filePath) {
   if (!fs.existsSync(filePath)) {
@@ -77,6 +79,21 @@ function buildBookSeoBlock(book) {
   ].join('\n');
 }
 
+function buildContentBlock(book) {
+  const bookDataPath = path.join(booksDataDir, `${book.id}.json`);
+  if (!fs.existsSync(bookDataPath)) return '<!-- SSG_CONTENT_START --><!-- SSG_CONTENT_END -->';
+
+  const bookData = JSON.parse(fs.readFileSync(bookDataPath, 'utf8'));
+  if (!bookData.content) return '<!-- SSG_CONTENT_START --><!-- SSG_CONTENT_END -->';
+
+  const html = marked.parse(bookData.content);
+  return `<!-- SSG_CONTENT_START -->
+    <div id="ssg-content" hidden>
+${html}
+    </div>
+<!-- SSG_CONTENT_END -->`;
+}
+
 function generateStaticBookRoutes() {
   ensureFile(indexPath);
   ensureFile(summariesPath);
@@ -85,9 +102,13 @@ function generateStaticBookRoutes() {
   const summaries = JSON.parse(fs.readFileSync(summariesPath, 'utf8'));
   const enabledBooks = summaries.filter((book) => book.enabled !== false);
   const seoRegex = /<!-- SEO_DYNAMIC_START -->[\s\S]*?<!-- SEO_DYNAMIC_END -->/;
+  const contentRegex = /<!-- SSG_CONTENT_START -->[\s\S]*?<!-- SSG_CONTENT_END -->/;
 
   if (!seoRegex.test(indexHtml)) {
     throw new Error('SEO marker block not found in dist/index.html.');
+  }
+  if (!contentRegex.test(indexHtml)) {
+    throw new Error('SSG content marker block not found in dist/index.html.');
   }
 
   fs.rmSync(bookRoutesDir, { recursive: true, force: true });
@@ -95,7 +116,8 @@ function generateStaticBookRoutes() {
   for (const book of enabledBooks) {
     const routeDir = path.join(bookRoutesDir, encodeURIComponent(book.id));
     fs.mkdirSync(routeDir, { recursive: true });
-    const routeHtml = indexHtml.replace(seoRegex, buildBookSeoBlock(book));
+    let routeHtml = indexHtml.replace(seoRegex, buildBookSeoBlock(book));
+    routeHtml = routeHtml.replace(contentRegex, buildContentBlock(book));
     fs.writeFileSync(path.join(routeDir, 'index.html'), routeHtml);
   }
 

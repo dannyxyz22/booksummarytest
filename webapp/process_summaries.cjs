@@ -507,7 +507,7 @@ const processFiles = async () => {
 };
 
 function generateSitemap(summaries) {
-    const baseUrl = 'https://dannyxyz22.github.io/booksummarytest'; // Update if using a custom domain
+    const baseUrl = 'https://summabrevis.netlify.app'; // Update if using a custom domain
     const today = new Date().toISOString().split('T')[0];
 
     let xml = `<?xml version="1.0" encoding="UTF-8"?>\n`;
