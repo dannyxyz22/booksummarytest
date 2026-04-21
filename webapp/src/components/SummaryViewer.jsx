@@ -375,7 +375,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                             {initialBookMetadata.cover && (
                                 <div style={{ margin: '0 auto 2.5rem auto', maxWidth: '360px' }}>
                                     <img
-                                        src={import.meta.env.BASE_URL + initialBookMetadata.cover}
+                                        src={import.meta.env.BASE_URL + initialBookMetadata.cover.replace(/^(assets\/covers\/)(.+)\.(png|jpe?g)$/i, '$1thumbs/$2.webp')}
                                         alt={book.title}
                                         style={{
                                             width: '100%',
