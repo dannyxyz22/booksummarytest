@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dannyxyz22.github.io/booksummarytest/sitemap.xml
+Sitemap: https://summabrevis.netlify.app/netlify-sitemap.xml

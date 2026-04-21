@@ -1,122 +1,98 @@
 # Book Summarizer & Library
 
-Um projeto completo de curadoria literária e plataforma de leitura. Este repositório contém os resumos originais misticos e a aplicação web para leitura imersiva.
+Projeto de curadoria de livros e publicação de resumos com foco em leitura web e SEO.
 
-## Estrutura do Projeto
+## Visao geral
 
-- `/webapp`: Aplicação React/Vite (o leitor imersivo).
-- `/*Summary.md`: Resumos consolidados prontos para processamento.
-- `/summaries`: Versões finais e refinadas dos textos.
-- `/archive`: Histórico de processamento e arquivos temporários.
-- `.gemini/skills`: Instruções e regras de estilo para a IA.
+- Frontend em React + Vite em `webapp/`.
+- Pipeline de dados em `webapp/process_summaries.cjs` (gera JSON, EPUB e sitemap).
+- SSG de rotas de livro em `webapp/scripts/generate-static-book-routes.cjs`.
+- Conteudo fonte de resumos em `summaries/` e arquivos relacionados na raiz.
 
-## Funcionalidades
-- **Design Editorial**: Estética refinada de Biblioteca Clássica inspirada em encadernações de couro e tipografia de alto padrão (Cormorant Garamond e Inter).
-- **Progresso de Leitura**: Barra de progresso horizontal adaptável (mobile/desktop).
-- **Exportação**: Download de resumos em formato .PDF (via print) e .EPUB (pré-gerado).
-- **Tempo de Leitura**: Estimativa automática baseada no volume de texto.
+## Stack e arquitetura
 
-## Como Adicionar um Novo Resumo
+- App: React 19 + Vite.
+- Conteudo: arquivos Markdown processados para `public/data/books/*.json`.
+- SSG: apos `vite build`, o script de rotas gera `dist/book/<id>/index.html` com:
+  - meta tags por pagina (title, description, canonical, Open Graph, Twitter)
+  - JSON-LD por livro
+  - bloco de conteudo estatico renderizado no HTML para crawler
 
-> **💡 Dica Rápida:** A forma mais fácil, rápida e recomendada de adicionar um novo volume é pedindo para mim (a Inteligência Artificial) usar a skill `PublishSummary`. Basta dizer: **"Use a skill PublishSummary para publicar um novo livro"** e eu cuidarei da capa, do código e do processamento automaticamente para você!
+## SEO e migracao para Netlify
 
-Se preferir fazer o processo **manualmente**, para disponibilizar um novo livro no catálogo da Summa Brevis, siga estes passos:
+Motivo da migracao:
 
-1. **Adicione o Arquivo de Texto**: 
-   - Coloque o markdown do resumo na pasta raiz do projeto ou em `/summaries` (ex: `MeuNovoResumo.md`).
+- manter uma unica origem publica para evitar conteudo duplicado
+- padronizar canonical e metadados no dominio final
+- reduzir risco de indexacao inconsistente
 
-2. **Gere a Capa com Inteligência Artificial**:
-   - Peça ao Assistente para gerar uma imagem seguindo o prompt padrão do projeto:
-     > *"A classic Catholic theological book cover. [Cor] leather binding, gold foil stamping. Title: '[Título do Livro]'. Author: '[Nome do Autor]'. Minimalist [Símbolo] symbol in the center. Elegant, sacred, antique library aesthetic. Centered text."*
-   - Após a geração, salve a imagem na pasta `webapp/public/assets/covers/` com um nome simples (ex: `meulivro.png`).
+Dominio canônico atual:
 
-3. **Registre o Livro no Sistema**:
-   - Abra o arquivo `webapp/process_summaries.cjs`.
-   - Adicione um novo objeto na array `summaryFiles` preenchendo as informações:
-     ```javascript
-     {
-         id: 'meu-livro', // ID único para a URL e o EPUB
-         path: '../summaries/MeuNovoResumo.md', // Caminho relativo do arquivo MD
-         title: 'Título do Livro',
-         author: 'Autor do Livro',
-         cover: 'assets/covers/meulivro.png' // Caminho da capa gerada
-     }
-     ```
+- `https://summabrevis.netlify.app`
 
-4. **Processe as Modificações**:
-   - Dentro da pasta `webapp`, rode o comando:
-     ```bash
-     node process_summaries.cjs
-     ```
-   - Isso irá atualizar o `summaries.json` e gerar automaticamente o arquivo .EPUB para download!
+Ajustes aplicados:
 
-## Desenvolvimento
+- canonical, Open Graph, Twitter e JSON-LD da home atualizados para Netlify
+- `baseUrl` de sitemap atualizado para Netlify
+- paginas de livro com conteudo estatico no HTML (SSG)
+- capas grandes removidas do build publico
 
-**Importante**: Todos os comandos de desenvolvimento e deploy devem ser executados dentro da pasta `/webapp`.
+## Imagens
 
-Para rodar o projeto localmente:
+- Imagens servidas no site: `webapp/public/assets/covers/thumbs/*.webp`
+- Fontes originais (PNG/JPG grandes): `webapp/source-covers/` (fora de `public`, nao entram no build)
 
-1. Entre na pasta da aplicação:
-   ```bash
-   cd webapp
-   ```
+## Como adicionar um novo livro
 
-2. Instale as dependências:
-   ```bash
-   npm install
-   ```
+1. Adicione o resumo em Markdown em `summaries/` (ou caminho equivalente usado no catalogo).
+2. Adicione o registro do livro em `webapp/process_summaries.cjs` (id, path, title, author, cover).
+3. Garanta um thumb WebP em `webapp/public/assets/covers/thumbs/` com nome compativel com o campo `cover`.
+4. Execute o processamento e build.
 
-2. Processe os resumos e inicie o servidor de desenvolvimento:
-   ```bash
-   node process_summaries.cjs
-   npm run dev
-   ```
+## Desenvolvimento local
 
-## Pré-requisitos para Deploy
+Todos os comandos abaixo devem ser executados em `webapp/`.
 
-O comando `npm run deploy` utiliza o pacote `gh-pages`, que exige que o projeto seja um repositório Git com um "remote" configurado.
+1. Instalar dependencias:
 
-Se você ainda não configurou o Git, siga estes passos no terminal:
+```bash
+npm install
+```
 
-1. **Inicie o Git**:
-   ```bash
-   git init
-   git add .
-   git commit -m "Configuração inicial para deploy"
-   ```
+2. Processar dados:
 
-2. **Conecte ao GitHub**:
-   Crie um repositório no GitHub e execute:
-   ```bash
-   git remote add origin https://github.com/SEU_USUARIO/NOME_DO_REPO.git
-   ```
+```bash
+node process_summaries.cjs
+```
 
-3. **Execute o Deploy**:
-   ```bash
-   npm run deploy
-   ```
+3. Subir ambiente local:
 
-## Deploy (GitHub Pages)
+```bash
+npm run dev
+```
 
-**Importante**: É necessário executar os comandos dentro da pasta `/webapp`.
+## Build de producao
 
-O projeto está configurado para deploy simples via GitHub Pages.
+```bash
+npm run build
+```
 
-1. **Configuração inicial**: Certifique-se de que o campo `base` no `vite.config.js` corresponde ao nome do seu repositório (ex: `/nome-do-repo/`) ou use `./` para caminhos relativos (já configurado).
+O build executa o Vite e, em seguida, gera as rotas estaticas de livros via `postbuild`.
 
-2. **Executar Deploy**:
-   ```bash
-   npm run deploy
-   ```
+## Deploy
 
-Este comando irá automaticamente:
-- Processar todos os arquivos Markdown de resumo.
-- Gerar os arquivos .EPUB na pasta `public`.
-- Gerar o JSON consolidado de dados.
-- Fazer o build de produção do Vite.
-- Fazer o push da pasta `dist` para a branch `gh-pages`.
+Deploy principal em Netlify.
 
-## Estrutura de Arquivos
-- `process_summaries.cjs`: Script Node.js que extrai metadados dos MDs e gera EPUBs.
-- `src/components/SummaryViewer.jsx`: Visualizador imersivo de leitura.
-- `public/data/`: Diretório onde os dados processados e EPUBs são armazenados.
+Fluxo recomendado:
+
+1. Commit/push no repositório.
+2. Netlify executa build e publica.
+3. Validar canonical e sitemap publicados.
+4. Solicitar reindexacao no Google Search Console quando houver mudancas de SEO.
+
+## Estrutura importante
+
+- `webapp/process_summaries.cjs`: processamento de dados e sitemap
+- `webapp/scripts/generate-static-book-routes.cjs`: SSG das paginas de livro
+- `webapp/src/components/SummaryViewer.jsx`: visualizador de leitura
+- `webapp/public/data/`: JSONs e arquivos publicos processados
