@@ -181,6 +181,18 @@
     "pdfPath": "data/pdfs/homem-eterno.pdf"
   },
   {
+    "id": "on-being-and-essence",
+    "path": "../books/on-being-and-essence/summaries/OnBeingAndEssence_Resumo.md",
+    "title": "Sobre o Ente e a Essência",
+    "author": "Tomás de Aquino",
+    "year": 1256,
+    "cover": "assets/covers/on-being-and-essence.png",
+    "description": "Sobre o Ente e a Essência é um dos primeiros escritos de Tomás de Aquino, composto entre 1252 e 1256, quando o autor ainda era jovem mestre em Paris. Apesar da brevidade, o texto é considerado uma das introduções mais rigorosas e sistemáticas já escritas à metafísica. Tomás não se apresenta como inovador, mas como intérprete de uma tradição que inclui Aristóteles, os neoplatônicos, os filósofos...",
+    "readingTime": 19,
+    "epubPath": "data/epubs/on-being-and-essence.epub",
+    "pdfPath": "data/pdfs/on-being-and-essence.pdf"
+  },
+  {
     "id": "life-glories-joseph",
     "path": "../summaries/LifeGloriesJoseph_Fluid.md",
     "title": "Vida e Glórias de São José",

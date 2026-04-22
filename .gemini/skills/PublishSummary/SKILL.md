@@ -41,8 +41,8 @@ Substitua os valores entre chaves `{}` pelas escolhas do usuário.
 Salve a imagem inicialmente.
 
 ### 2. Mover a Imagem
-Assumindo que você gerou a imagem, copie/mova o arquivo de imagem para o diretório de assets públicos do site:
-`webapp/public/assets/covers/{id-do-livro}.png`
+Assumindo que você gerou a imagem, copie/mova o arquivo de imagem para o diretório de fontes (fora da pasta pública):
+`webapp/source-covers/{id-do-livro}.png`
 (Use o comando do terminal para mover o arquivo).
 
 ### 3. Gerar o Thumbnail
@@ -50,7 +50,7 @@ O site exibe thumbnails WebP otimizados, não as imagens originais. Após mover 
 ```bash
 cd webapp && python scripts/generate_thumbs.py
 ```
-Isso criará `webapp/public/assets/covers/thumbs/{id-do-livro}.webp` automaticamente a partir da imagem original.
+Isso criará `webapp/public/assets/covers/thumbs/{id-do-livro}.webp` automaticamente a partir da imagem original em `source-covers`.
 
 ### 4. Registrar no Catálogo (summaries.json)
 O arquivo `webapp/public/data/summaries.json` é a **fonte de verdade** do catálogo e está sob controle de versão. Edite-o diretamente, adicionando um novo objeto ao final do array JSON com o padrão:

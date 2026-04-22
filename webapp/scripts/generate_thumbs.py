@@ -11,8 +11,8 @@ import os
 from pathlib import Path
 from PIL import Image
 
-COVERS_DIR = Path(__file__).resolve().parent.parent / "public" / "assets" / "covers"
-THUMBS_DIR = COVERS_DIR / "thumbs"
+SOURCE_DIR = Path(__file__).resolve().parent.parent / "source-covers"
+THUMBS_DIR = Path(__file__).resolve().parent.parent / "public" / "assets" / "covers" / "thumbs"
 MAX_WIDTH = 600
 WEBP_QUALITY = 90
 
@@ -20,7 +20,7 @@ WEBP_QUALITY = 90
 def generate():
     THUMBS_DIR.mkdir(exist_ok=True)
 
-    for img_path in sorted(COVERS_DIR.iterdir()):
+    for img_path in sorted(SOURCE_DIR.iterdir()):
         if img_path.is_dir():
             continue
         if img_path.suffix.lower() not in (".png", ".jpg", ".jpeg", ".webp"):

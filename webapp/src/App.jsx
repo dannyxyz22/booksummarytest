@@ -9,7 +9,7 @@ const BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
 const SITE_ORIGIN = 'https://dannyxyz22.github.io';
 const SITE_NAME = 'Summa Brevis';
 const DEFAULT_TITLE = `${SITE_NAME} | A Essência da Literatura Católica`;
-const DEFAULT_DESCRIPTION = 'Biblioteca digital de resumos católicos clássicos com leitura online, EPUB e PDF. Títulos: A Imitação da Bem-Aventurada Virgem Maria, A Noite Escura da Alma, A Prática da Presença de Deus, A Síntese Tomista, A Subida do Monte Carmelo, Cartas, Crescimento na Santidade, Cristo Rei, Deus Caritas Est, Diálogos, Ética a Nicômaco, Filosofia 101, O Diário de Santa Faustina, O Grande Meio da Oração, O Homem Eterno e Vida e Glórias de São José.';
+const DEFAULT_DESCRIPTION = 'Biblioteca digital de resumos católicos clássicos com leitura online, EPUB e PDF. Títulos: A Imitação da Bem-Aventurada Virgem Maria, A Noite Escura da Alma, A Prática da Presença de Deus, A Síntese Tomista, A Subida do Monte Carmelo, Cartas, Crescimento na Santidade, Cristo Rei, Deus Caritas Est, Diálogos, Ética a Nicômaco, Filosofia 101, O Diário de Santa Faustina, O Grande Meio da Oração, O Homem Eterno, Sobre o Ente e a Essência e Vida e Glórias de São José.';
 const DEFAULT_IMAGE = 'assets/covers/thumbs/imitao-maria.webp';
 
 const normalizeDescription = (text, max = 160) => {
