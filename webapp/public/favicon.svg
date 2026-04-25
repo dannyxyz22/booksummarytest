@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Bottom Gold Base -->
+  <path d="M20 84 c15 -5 45 -5 60 0 v6 c-15 -5 -45 -5 -60 0 v-6z" fill="#b68c2a" />
+  
+  <!-- White Separator -->
+  <path d="M20 79 c15 -5 45 -5 60 0 v4 c-15 -5 -45 -5 -60 0 v-4z" fill="white" />
+
+  <!-- Crimson Book Cover -->
+  <path d="M20 15 a6 6 0 0 1 6 -6 h38 l16 16 v54 c-15 -5 -45 -5 -60 0 v-59 z" fill="#930321" />
+
+  <!-- The Cross -->
+  <rect x="45" y="20" width="10" height="54" fill="white" />
+  <rect x="30" y="33" width="40" height="10" fill="white" />
+</svg>

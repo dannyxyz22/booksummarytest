@@ -263,7 +263,11 @@ const App = () => {
           onClick={() => navigate('home')}
           style={{ cursor: 'pointer' }}
         >
-          <Book size={40} color="var(--accent-color)" style={{ marginBottom: '1rem' }} />
+          <img 
+            src={import.meta.env.BASE_URL + 'favicon.svg'} 
+            alt="Summa Brevis Logo" 
+            style={{ width: '80px', height: '80px', marginBottom: '1.5rem', filter: 'drop-shadow(0 8px 15px rgba(147, 3, 33, 0.3))' }} 
+          />
           <h1 style={{ fontSize: '3.5rem', marginBottom: '0.2rem', color: 'var(--accent-color)', fontWeight: 700 }}>
             Summa Brevis
           </h1>
