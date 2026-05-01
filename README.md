@@ -28,7 +28,7 @@ Motivo da migracao:
 
 Dominio canônico atual:
 
-- `https://summabrevis.netlify.app`
+- `https://summa-brevis.netlify.app`
 
 Ajustes aplicados:
 

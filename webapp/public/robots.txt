@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://summabrevis.netlify.app/netlify-sitemap.xml
+Sitemap: https://summa-brevis.netlify.app/netlify-sitemap.xml

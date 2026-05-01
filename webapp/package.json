@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "node process_summaries.cjs && npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "deploy-redirect": "gh-pages -d gh-pages-redirect"
   },
   "dependencies": {
     "epub-gen": "^0.1.0",
