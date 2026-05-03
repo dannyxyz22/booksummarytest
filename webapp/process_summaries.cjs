@@ -412,12 +412,17 @@ const processFiles = async () => {
         try {
             const absolutePath = path.resolve(__dirname, file.path);
             const rawContent = fs.readFileSync(absolutePath, 'utf8').replace(/\r\n/g, '\n');
+            const youtubeRegex = /^(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]+)\s*/;
+            const videoMatch = rawContent.match(youtubeRegex);
+            const videoUrl = videoMatch ? videoMatch[1] : null;
+            const contentNoVideo = rawContent.replace(youtubeRegex, '');
 
             // Strip existing TOC, generate a fresh one
-            const cleanContent = stripToc(rawContent);
+            const cleanContent = stripToc(contentNoVideo);
             const headings = extractHeadings(cleanContent);
             const tocMd = buildTocMarkdown(headings);
             const contentWithToc = injectToc(cleanContent, tocMd);
+            const finalJsonContent = videoUrl ? `${videoUrl}\n\n${contentWithToc}` : contentWithToc;
 
             // Calculate reading time from clean content
             const words = cleanContent.split(/\s+/).length;
@@ -476,7 +481,7 @@ const processFiles = async () => {
 
             const fullBookData = {
                 ...file,
-                content: contentWithToc,
+                content: finalJsonContent,
                 description,
                 readingTime,
                 epubPath: `data/epubs/${file.id}.epub`,

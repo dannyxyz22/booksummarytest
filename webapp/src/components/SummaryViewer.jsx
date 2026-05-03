@@ -44,10 +44,35 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
 
     const processedContent = useMemo(() => {
         if (!book?.content) return '';
-        return book.content
+        
+        // Strip leading YouTube URL if present
+        const youtubeRegex = /^(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]+)\s*/;
+        const contentWithoutVideo = book.content.replace(youtubeRegex, '');
+        
+        return contentWithoutVideo
             .replace(/^#\s+.+\n+/, '') // remove first H1 (duplicate of metadata title)
             .replace(/---/g, '—') // em dash
             .replace(/--/g, '–');  // en dash
+    }, [book?.content]);
+
+    // Helper to extract video ID for the header
+    const headerVideoId = useMemo(() => {
+        if (!book?.content) return null;
+        const youtubeRegex = /^(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]+)/;
+        const match = book.content.match(youtubeRegex);
+        if (match) {
+            try {
+                const url = new URL(match[1]);
+                if (url.hostname.includes('youtube.com')) {
+                    return url.searchParams.get('v');
+                } else {
+                    return url.pathname.slice(1);
+                }
+            } catch (e) {
+                return null;
+            }
+        }
+        return null;
     }, [book?.content]);
 
     // Helper to extract text from React children
@@ -372,7 +397,27 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                         }}
                     >
                         <div style={{ textAlign: 'center', marginBottom: 'min(8vw, 5rem)' }}>
-                            {initialBookMetadata.cover && (
+                            {headerVideoId ? (
+                                <div style={{ margin: '0 auto 2.5rem auto', maxWidth: '100%', width: '100%' }}>
+                                    <div style={{ 
+                                        borderRadius: '12px', 
+                                        overflow: 'hidden', 
+                                        boxShadow: '0 20px 40px rgba(0,0,0,0.15)',
+                                        background: '#000',
+                                        position: 'relative',
+                                        paddingBottom: '56.25%',
+                                        height: 0
+                                    }}>
+                                        <iframe
+                                            style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+                                            src={`https://www.youtube.com/embed/${headerVideoId}`}
+                                            title="YouTube video player"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                            allowFullScreen
+                                        ></iframe>
+                                    </div>
+                                </div>
+                            ) : initialBookMetadata.cover && (
                                 <div style={{ margin: '0 auto 2.5rem auto', maxWidth: '360px' }}>
                                     <img
                                         src={import.meta.env.BASE_URL + initialBookMetadata.cover.replace(/^(assets\/covers\/)(.+)\.(png|jpe?g)$/i, '$1thumbs/$2.webp')}
@@ -414,7 +459,51 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                                 li: ({ node, ...props }) => <li style={{ fontFamily: 'var(--font-body)', marginBottom: '0.7rem', marginLeft: '1.5rem', fontSize: `calc(1rem * ${fontSizeScale})`, color: '#333', lineHeight: 1.75, letterSpacing: '0.01em' }} {...props} />,
                                 strong: ({ node, ...props }) => <strong style={{ color: 'var(--text-primary)', fontWeight: '600' }} {...props} />,
                                 em: ({ node, ...props }) => <em style={{ fontStyle: 'italic', color: '#444' }} {...props} />,
-                                a: ({ node, ...props }) => <a style={{ color: 'var(--accent-color)', textDecoration: 'underline' }} {...props} />,
+                                a: ({ node, children, ...props }) => {
+                                    const href = props.href || '';
+                                    const isYouTube = href.includes('youtube.com/watch') || href.includes('youtu.be/');
+                                    
+                                    if (isYouTube) {
+                                        let vId = '';
+                                        try {
+                                            const url = new URL(href);
+                                            if (url.hostname.includes('youtube.com')) {
+                                                vId = url.searchParams.get('v');
+                                            } else {
+                                                vId = url.pathname.slice(1);
+                                            }
+                                        } catch (e) {
+                                            console.error('Invalid YouTube URL', href);
+                                        }
+
+                                        if (vId) {
+                                            return (
+                                                <div style={{ 
+                                                    margin: '3rem 0', 
+                                                    borderRadius: '12px', 
+                                                    overflow: 'hidden', 
+                                                    boxShadow: '0 20px 40px rgba(0,0,0,0.15)',
+                                                    background: '#000'
+                                                }}>
+                                                    <div style={{ position: 'relative', paddingBottom: '56.25%', height: 0 }}>
+                                                        <iframe
+                                                            style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', border: 0 }}
+                                                            src={`https://www.youtube.com/embed/${vId}`}
+                                                            title="YouTube video player"
+                                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                                            allowFullScreen
+                                                        ></iframe>
+                                                    </div>
+                                                    <div style={{ padding: '0.8rem 1.2rem', background: '#f8f9fa', borderTop: '1px solid #eee', fontSize: '0.85rem', color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                                                        <div style={{ width: '8px', height: '8px', borderRadius: '50%', background: '#ff0000' }}></div>
+                                                        <span>Vídeo Recomendado: {getText(children) || 'Apresentação da Obra'}</span>
+                                                    </div>
+                                                </div>
+                                            );
+                                        }
+                                    }
+                                    return <a {...props} style={{ color: 'var(--accent-color)', textDecoration: 'none', borderBottom: '1px solid transparent', transition: 'border-color 0.2s' }} onMouseOver={e => e.currentTarget.style.borderBottomColor = 'var(--accent-color)'} onMouseOut={e => e.currentTarget.style.borderBottomColor = 'transparent'}>{children}</a>;
+                                }
                             }}
                         >
                             {processedContent}

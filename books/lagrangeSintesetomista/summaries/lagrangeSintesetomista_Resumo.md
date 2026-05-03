@@ -1,4 +1,6 @@
 
+https://www.youtube.com/watch?v=JOzMhzZmpY0
+
 # A Síntese Tomista — Resumo
 
 ## Sentido Geral da Obra

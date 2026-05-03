@@ -35,3 +35,11 @@ The project is a system for summarizing long books and publishing those summarie
 
 ### Data Model
 The webapp relies on `webapp/public/data/summaries.json` as its database, containing metadata and paths to the summaries.
+### YouTube Video Embeds
+To add a primary header video to a book summary:
+1.  **Edit the source Markdown file** (the path is defined in `webapp/public/data/summaries.json`).
+2.  **Insert the YouTube URL** as the absolute first line of the file, followed by at least one blank line.
+3.  **Run the processing script**: `node webapp/process_summaries.cjs`.
+    - This script extracts the URL and places it in the generated JSON.
+    - The `SummaryViewer.jsx` component detects the URL at the start of the `content` field and renders the responsive player.
+4.  **Do not edit JSON files directly** in `webapp/public/data/books/`, as they are ignored by Git and will be overwritten by the script.
