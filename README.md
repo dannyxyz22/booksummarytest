@@ -7,7 +7,9 @@ Projeto de curadoria de livros e publicação de resumos com foco em leitura web
 - Frontend em React + Vite em `webapp/`.
 - Pipeline de dados em `webapp/process_summaries.cjs` (gera JSON, EPUB e sitemap).
 - SSG de rotas de livro em `webapp/scripts/generate-static-book-routes.cjs`.
-- Conteudo fonte de resumos em `summaries/` e arquivos relacionados na raiz.
+- **Estrutura de Resumos**:
+  - `summaries/published/`: Apenas os arquivos `.md` finais usados no webapp.
+  - `summaries/workspace/`: Rascunhos, batches e arquivos intermediários.
 
 ## Stack e arquitetura
 
@@ -44,10 +46,11 @@ Ajustes aplicados:
 
 ## Como adicionar um novo livro
 
-1. Adicione o resumo em Markdown em `summaries/` (ou caminho equivalente usado no catalogo).
-2. Adicione o registro do livro em `webapp/process_summaries.cjs` (id, path, title, author, cover).
-3. Garanta um thumb WebP em `webapp/public/assets/covers/thumbs/` com nome compativel com o campo `cover`.
-4. Execute o processamento e build.
+1. Adicione o resumo em Markdown final em `summaries/published/<id>.md`.
+2. Mova rascunhos e batches para `summaries/workspace/`.
+3. Adicione o registro do livro em `webapp/public/data/summaries.json` (id, path: "../summaries/published/<id>.md", title, author, cover).
+4. Garanta um thumb WebP em `webapp/public/assets/covers/thumbs/` com nome compativel com o campo `cover`.
+5. Execute o processamento e build.
 
 ## Desenvolvimento local
 

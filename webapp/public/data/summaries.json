@@ -1,7 +1,7 @@
 [
   {
     "id": "imitao-maria",
-    "path": "../books/imitation-kempis/summaries/imitation-kempis_Resumo_20.md",
+    "path": "../summaries/published/imitao-maria.md",
     "title": "A Imitação da Bem-Aventurada Virgem Maria",
     "author": "Tomás de Kempis",
     "year": 1768,
@@ -13,7 +13,7 @@
   },
   {
     "id": "noite-escura",
-    "path": "../summaries/DarkNightofSoul_RESUMO_FINAL.md",
+    "path": "../summaries/published/noite-escura.md",
     "title": "A Noite Escura da Alma",
     "author": "São João da Cruz",
     "year": 1579,
@@ -25,7 +25,7 @@
   },
   {
     "id": "pratica-presenca-deus",
-    "path": "../summaries/PraticaPresencaDeus_Resumo.md",
+    "path": "../summaries/published/pratica-presenca-deus.md",
     "title": "A Prática da Presença de Deus",
     "author": "Irmão Lawrence",
     "year": 1692,
@@ -37,19 +37,19 @@
   },
   {
     "id": "lagrange-sintese-tomista",
-    "path": "../books/lagrangeSintesetomista/summaries/lagrangeSintesetomista_Resumo.md",
+    "path": "../summaries/published/lagrange-sintese-tomista.md",
     "title": "A Síntese Tomista",
     "author": "Réginald Garrigou-Lagrange",
     "year": 1946,
     "cover": "assets/covers/lagrange-sintese-tomista.png",
     "description": "Em A Síntese Tomista, Réginald Garrigou-Lagrange procura oferecer uma visão orgânica do pensamento de São Tomás de Aquino. O livro não é uma simples história das doutrinas medievais nem um comentário pontual à Suma Teológica. Seu propósito é mais ambicioso: expor a arquitetura interna do tomismo, mostrar a articulação de seus princípios metafísicos e teológicos e fazer ver como, a partir de...",
-    "readingTime": 156,
+    "readingTime": 111,
     "epubPath": "data/epubs/lagrange-sintese-tomista.epub",
     "pdfPath": "data/pdfs/lagrange-sintese-tomista.pdf"
   },
   {
     "id": "subida-monte-carmelo",
-    "path": "../summaries/SubidaMonteCarmelo_Resumo.md",
+    "path": "../summaries/published/subida-monte-carmelo.md",
     "title": "A Subida do Monte Carmelo",
     "author": "São João da Cruz",
     "year": 1578,
@@ -61,7 +61,7 @@
   },
   {
     "id": "cartas-sena",
-    "path": "../LetterSenaSummary.md",
+    "path": "../summaries/published/cartas-sena.md",
     "title": "Cartas",
     "author": "Santa Catarina de Sena",
     "year": 1380,
@@ -73,7 +73,7 @@
   },
   {
     "id": "crescimento-santidade-analitico",
-    "path": "../summaries/resumo_crescimento_na_santidade_faber.md",
+    "path": "../summaries/published/crescimento-santidade-analitico.md",
     "title": "Crescimento na Santidade",
     "author": "William Faber",
     "year": 1854,
@@ -85,7 +85,7 @@
   },
   {
     "id": "cristo_rei",
-    "path": "../The_Reign_Of_Christ_Summary.md",
+    "path": "../summaries/published/cristo_rei.md",
     "title": "Cristo Rei",
     "author": "Rev. Joseph Husslein, S.J.",
     "year": 1928,
@@ -97,7 +97,7 @@
   },
   {
     "id": "deus-caritas-est",
-    "path": "../summaries/DeusCaritasEst_Resumo.md",
+    "path": "../summaries/published/deus-caritas-est.md",
     "title": "Deus Caritas Est",
     "author": "Papa Bento XVI",
     "year": 2005,
@@ -109,7 +109,7 @@
   },
   {
     "id": "dialogo-sena",
-    "path": "../CathBlinkDialogo.md",
+    "path": "../summaries/published/dialogo-sena.md",
     "title": "Diálogos",
     "author": "Santa Catarina de Sena",
     "year": 1378,
@@ -121,7 +121,7 @@
   },
   {
     "id": "etica-nicomaco",
-    "path": "../books/ethics_main/summaries/ethics_main_Resumo.md",
+    "path": "../summaries/published/etica-nicomaco.md",
     "title": "Ética a Nicômaco",
     "author": "Aristóteles",
     "year": -330,
@@ -133,7 +133,7 @@
   },
   {
     "id": "filosofia-101",
-    "path": "../summaries/Philosophy101_Socrates_Final.md",
+    "path": "../summaries/published/filosofia-101.md",
     "title": "Filosofia 101",
     "author": "Peter Kreeft",
     "year": 2002,
@@ -146,7 +146,7 @@
   },
   {
     "id": "diary-faustina",
-    "path": "../summaries/diary_st_faustina_publication.md",
+    "path": "../summaries/published/diary-faustina.md",
     "title": "O Diário de Santa Faustina",
     "author": "Santa Maria Faustina Kowalska",
     "year": 1938,
@@ -158,7 +158,7 @@
   },
   {
     "id": "grande-meio-oracao",
-    "path": "../summaries/GreatMeansLiguori/FinalSummary_GreatMeans_Liguori.md",
+    "path": "../summaries/published/grande-meio-oracao.md",
     "title": "O Grande Meio da Oração",
     "author": "Santo Afonso Maria de Ligório",
     "year": 1759,
@@ -170,7 +170,7 @@
   },
   {
     "id": "homem-eterno",
-    "path": "../summaries/EverlastingMan_FinalSummary_Portuguese.md",
+    "path": "../summaries/published/homem-eterno.md",
     "title": "O Homem Eterno",
     "author": "G. K. Chesterton",
     "year": 1925,
@@ -182,7 +182,7 @@
   },
   {
     "id": "on-being-and-essence",
-    "path": "../books/on-being-and-essence/summaries/OnBeingAndEssence_Resumo.md",
+    "path": "../summaries/published/on-being-and-essence.md",
     "title": "Sobre o Ente e a Essência",
     "author": "Tomás de Aquino",
     "year": 1256,
@@ -194,7 +194,7 @@
   },
   {
     "id": "life-glories-joseph",
-    "path": "../summaries/LifeGloriesJoseph_Fluid.md",
+    "path": "../summaries/published/life-glories-joseph.md",
     "title": "Vida e Glórias de São José",
     "author": "Edward Healy Thompson",
     "year": 1888,

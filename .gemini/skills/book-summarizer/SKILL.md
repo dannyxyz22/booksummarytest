@@ -23,10 +23,13 @@ Use this skill for requests like:
 - Keep each book isolated in its own workspace tree:
 	- `books/<book-name>/batches` for text chunks/splits
 	- `books/<book-name>/summaries` for intermediate and merged summary drafts
+- **Central Storage**:
+    - Final publication-ready summaries go to `summaries/published/<slug>.md`.
+    - Generic intermediate artifacts and old drafts go to `summaries/workspace/`.
 - If extra content is needed to reach target ratio, edit the correlated local section/chapter/batch file, then re-aggregate; never add a detached "extra expansion" section unrelated to the original sequence
 - The final merged deliverable must read like a finished editorial text, not like a workflow artifact
 - Remove all references to process from the published output: batch or lote labels, compression targets, validation notes, merge status, next-step notes, target word counts, or similar pipeline metadata
-- If chunked drafting is used internally, normalize headings and transitions before final merge so the result does not expose the intermediate batching process
+- Move the final validated `.md` to `summaries/published/` before updating the webapp configuration.
 - Prefer formal section titles in the published result; use headings such as `Seleção de Epigramas de Chesterton` instead of informal labels such as `Aperitivo`
 - All packaged helper scripts live in `scripts/` inside this skill folder
 
@@ -43,7 +46,9 @@ Use this skill for requests like:
 7. For each batch, keep the default target ratio. If the total ratio is low/high, adjust the relevant local files in `books/<book-name>/summaries` (the corresponding chapter/batch), then re-aggregate. Do not append disconnected sections.
 8. Merge the batches with `python scripts/book_tools.py aggregate books/<book-name>/summaries/<book-name>_Resumo.md <batch_files...>`.
 9. Validate the final ratio with `python scripts/verify_summary_ratio.py <original_file> books/<book-name>/summaries/<book-name>_Resumo.md`.
-10. Keep all intermediate files unless the user explicitly asks for cleanup after publication.
+10. Once approved, move the final file to `summaries/published/<book-slug>.md`.
+11. Update `webapp/public/data/summaries.json` to point to the new published path.
+12. Keep all intermediate files in `books/<book-name>/` or move them to `summaries/workspace/` if the book workspace is to be cleared.
 
 ## Key Files
 
