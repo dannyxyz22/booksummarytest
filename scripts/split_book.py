@@ -2,7 +2,7 @@ import sys
 import os
 import re
 
-def split_into_batches(filepath, words_per_batch=3000):
+def split_into_batches(filepath, words_per_batch=3000, output_dir="batches"):
     if not os.path.exists(filepath):
         print(f"File {filepath} not found.")
         return
@@ -29,18 +29,19 @@ def split_into_batches(filepath, words_per_batch=3000):
     if current_batch:
         batches.append("".join(current_batch))
     
-    os.makedirs("batches", exist_ok=True)
+    os.makedirs(output_dir, exist_ok=True)
     for i, batch in enumerate(batches):
-        batch_path = f"batches/batch_{i+1}.txt"
+        batch_path = os.path.join(output_dir, f"batch_{i+1}.txt")
         with open(batch_path, 'w', encoding='utf-8') as f:
             f.write(batch)
         print(f"Created {batch_path}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python split_book.py <file> [words_per_batch]")
+        print("Usage: python split_book.py <file> [words_per_batch] [output_dir]")
         sys.exit(1)
     
     filepath = sys.argv[1]
     words_per_batch = int(sys.argv[2]) if len(sys.argv) > 2 else 3000
-    split_into_batches(filepath, words_per_batch)
+    output_dir = sys.argv[3] if len(sys.argv) > 3 else "batches"
+    split_into_batches(filepath, words_per_batch, output_dir)
