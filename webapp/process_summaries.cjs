@@ -412,8 +412,8 @@ const processFiles = async () => {
         try {
             const absolutePath = path.resolve(__dirname, file.path);
             const rawContent = fs.readFileSync(absolutePath, 'utf8').replace(/\r\n/g, '\n');
-            const youtubeRegex = /^(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]+)\s*/;
-            const videoMatch = rawContent.match(youtubeRegex);
+            const youtubeRegex = /^\s*(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]{11}(?:[^\s]*))\s*/;
+            const videoMatch = rawContent.trimStart().match(youtubeRegex);
             const videoUrl = videoMatch ? videoMatch[1] : null;
             const contentNoVideo = rawContent.replace(youtubeRegex, '');
 

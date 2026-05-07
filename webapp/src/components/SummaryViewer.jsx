@@ -45,7 +45,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
     const processedContent = useMemo(() => {
         if (!book?.content) return '';
         
-                const youtubeRegex = /^\s*(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]+)\s*/;
+        const youtubeRegex = /^\s*(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]{11}(?:[^\s]*))\s*/;
         const contentWithoutVideo = book.content.replace(youtubeRegex, '');
         
         return contentWithoutVideo
@@ -57,7 +57,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
     // Helper to extract video ID for the header
     const headerVideoId = useMemo(() => {
         if (!book?.content) return null;
-        const youtubeRegex = /^\s*(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]+)/;
+        const youtubeRegex = /^\s*(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[\w-]{11}(?:[^\s]*))/;
         const match = book.content.match(youtubeRegex);
         if (match) {
             try {
