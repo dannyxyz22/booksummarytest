@@ -4,7 +4,7 @@ https://youtu.be/GxMrgfyPK9Y
 
 ## Introdução: O Plano deste Livro
 
-G. K. Chesterton abre *O Homem Eterno* com uma nota preliminar: o livro é um estudo histórico, não um tratado teológico. Sua tese central é que aqueles que colocam Cristo lado a lado com mitos semelhantes estão repetindo uma fórmula antiquada, contradita por um fato impressionante. Chesterton não reivindica erudição especializada, mas defende o direito do amador de interpretar os fatos fornecidos pelos especialistas — ecoando a mesma liberdade que elogia em H. G. Wells.
+G. K. Chesterton abre *O Homem Eterno* com uma nota preliminar: o livro é um estudo histórico, não um tratado teológico. Sua tese central é que aqueles que colocam Cristo lado a lado com mitos semelhantes estão repetindo uma fórmula antiquada, contradita por um fato impressionante. Chesterton não reivindica erudição especializada, mas defende o direito do amador de interpretar os fatos fornecidos pelos especialistas — ecoando a mesma liberdade que elogia em H. G. Wells. 
 
 ### A Parábola do Gigante
 
