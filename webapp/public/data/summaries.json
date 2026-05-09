@@ -181,6 +181,18 @@
     "pdfPath": "data/pdfs/homem-eterno.pdf"
   },
   {
+    "id": "irmaos-karamazov",
+    "path": "../summaries/published/brothers-karamazov.md",
+    "title": "Os Irmãos Karamazov",
+    "author": "Fiódor Dostoiévski",
+    "year": 1880,
+    "cover": "assets/covers/irmaos-karamazov.png",
+    "description": "O romance abre apresentando Fiódor Pávlovitch Karamázov como um proprietário grotesco, vulgar e moralmente dissoluto, mas ao mesmo tempo hábil para multiplicar dinheiro e tirar proveito da fraqueza alheia. Sua figura reúne degradação, esperteza prática e uma espécie de desordem espiritual que prepara, desde o início, o clima trágico da história. Ele contrai dois casamentos, dos quais nascem seus...",
+    "readingTime": 341,
+    "epubPath": "data/epubs/irmaos-karamazov.epub",
+    "pdfPath": "data/pdfs/irmaos-karamazov.pdf"
+  },
+  {
     "id": "on-being-and-essence",
     "path": "../summaries/published/on-being-and-essence.md",
     "title": "Sobre o Ente e a Essência",
