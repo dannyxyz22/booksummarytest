@@ -7,7 +7,7 @@ const indexPath = path.join(distDir, 'index.html');
 const summariesPath = path.join(distDir, 'data', 'summaries.json');
 const bookRoutesDir = path.join(distDir, 'book');
 const booksDataDir = path.join(distDir, 'data', 'books');
-const siteBaseUrl = 'https://summa-brevis.netlify.app';
+const siteBaseUrl = 'https://summa.legatuschristi.org';
 
 function ensureFile(filePath) {
   if (!fs.existsSync(filePath)) {

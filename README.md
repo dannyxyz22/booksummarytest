@@ -30,7 +30,7 @@ Motivo da migracao:
 
 Dominio canônico atual:
 
-- `https://summa-brevis.netlify.app`
+- `https://summa.legatuschristi.org`
 
 Ajustes aplicados:
 
