@@ -1,4 +1,4 @@
-![Capa: Nossa Senhora de Fátima](/assets/covers/nossa-senhora-fatima.png)
+https://youtu.be/Yt9JyLneBBw
 
 # Nossa Senhora de Fátima
 
