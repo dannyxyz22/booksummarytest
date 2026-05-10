@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=UzEtv13T69k
+https://youtu.be/190eYPXIjQk
 
 # A Síntese Tomista — Resumo
 

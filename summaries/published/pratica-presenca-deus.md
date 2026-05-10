@@ -1,4 +1,4 @@
-https://youtu.be/hFZyyJCUGbw
+https://youtu.be/Jjo1I-AjkjE
 
 # A Prática da Presença de Deus — Irmão Lawrence
 
