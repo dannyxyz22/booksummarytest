@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node process_summaries.cjs && vite build",
     "postbuild": "node scripts/generate-static-book-routes.cjs",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "node process_summaries.cjs && npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "deploy-redirect": "gh-pages -d gh-pages-redirect"
   },
