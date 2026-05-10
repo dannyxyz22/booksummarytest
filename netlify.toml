@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://summa-brevis.netlify.app/*"
+to = "https://summa.legatuschristi.org/:splat"
+status = 301
+force = true
