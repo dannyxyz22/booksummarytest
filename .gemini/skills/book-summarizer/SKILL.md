@@ -64,5 +64,6 @@ Use this skill for requests like:
 - For very large books, prefer the automated pipeline over single-turn chat drafting.
 - In chat-only mode, books above roughly 80k words should be summarized over multiple turns; do not pretend a single short draft satisfies the 20% rule.
 - If cleanup is explicitly requested, remove only redundant artifacts and preserve at least one full recoverable chain of intermediates per book.
+- **Cross-Linking Requirement**: After generating the summary, always look for opportunities to cross-link other published books in the library (`summaries/published/`). If an author or related concept is mentioned, wrap it in an internal link using the format `[Anchor text](book:slug-of-the-book)` (e.g., `[São Tomás de Aquino](book:lagrange-sintese-tomista)`) to build a semantic network between the summaries.
 
 
