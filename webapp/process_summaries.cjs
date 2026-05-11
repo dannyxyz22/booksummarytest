@@ -60,6 +60,11 @@ function stripToc(content) {
     );
 }
 
+function cleanForStaticExport(content) {
+    // Remove internal book links [Text](book:id) -> Text
+    return content.replace(/\[([^\]]+)\]\(book:[^)]+\)/g, '$1');
+}
+
 function extractHeadings(content) {
     const headings = [];
     for (const line of content.split('\n')) {
@@ -452,7 +457,8 @@ const processFiles = async () => {
 
             // Generate EPUB
             const epubPath = path.join(epubDir, `${file.id}.epub`);
-            const htmlContent = addHeadingIds(marked(contentWithToc));
+            const epubContent = cleanForStaticExport(contentWithToc);
+            const htmlContent = addHeadingIds(marked(epubContent));
 
             const option = {
                 title: file.title,
@@ -477,7 +483,8 @@ const processFiles = async () => {
 
             // Generate PDF
             const pdfPath = path.join(pdfDir, `${file.id}.pdf`);
-            await generatePdf(file, cleanContent, headings, pdfPath);
+            const pdfContent = cleanForStaticExport(cleanContent);
+            await generatePdf(file, pdfContent, headings, pdfPath);
 
             const fullBookData = {
                 ...file,

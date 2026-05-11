@@ -413,6 +413,7 @@ const App = () => {
           <SummaryViewer
             book={selectedBook}
             onClose={() => navigate('home')}
+            onBookClick={(id) => navigate('book', id)}
           />
         )}
       </AnimatePresence>

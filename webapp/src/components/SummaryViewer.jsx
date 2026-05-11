@@ -4,7 +4,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { X, ArrowLeft, Sun, Type } from 'lucide-react';
 
-const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
+const SummaryViewer = ({ book: initialBookMetadata, onClose, onBookClick }) => {
     const [book, setBook] = useState(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -501,6 +501,27 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose }) => {
                                             );
                                         }
                                     }
+                                    if (href.startsWith('book:')) {
+                                        const bookId = href.replace('book:', '');
+                                        return (
+                                            <a 
+                                                href={`#/book/${bookId}`} 
+                                                onClick={(e) => {
+                                                    e.preventDefault();
+                                                    onBookClick(bookId);
+                                                }}
+                                                style={{ 
+                                                    color: 'var(--accent-color)', 
+                                                    textDecoration: 'none', 
+                                                    fontWeight: 600,
+                                                    borderBottom: '1px dashed var(--accent-color)' 
+                                                }}
+                                            >
+                                                {children}
+                                            </a>
+                                        );
+                                    }
+
                                     return <a {...props} style={{ color: 'var(--accent-color)', textDecoration: 'none', borderBottom: '1px solid transparent', transition: 'border-color 0.2s' }} onMouseOver={e => e.currentTarget.style.borderBottomColor = 'var(--accent-color)'} onMouseOut={e => e.currentTarget.style.borderBottomColor = 'transparent'}>{children}</a>;
                                 }
                             }}
