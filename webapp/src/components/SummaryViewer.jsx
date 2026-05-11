@@ -444,6 +444,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose, onBookClick }) => {
 
                         <ReactMarkdown
                             remarkPlugins={[remarkGfm]}
+                            urlTransform={(url) => url}
                             components={{
                                 h1: ({ node, children, ...props }) => (
                                     <h1 id={generateId(children)} style={{ fontFamily: 'var(--font-header)', fontSize: `calc(2rem * ${Math.max(1, fontSizeScale * 0.9)} + 2vw)`, marginBottom: '1.5rem', lineHeight: 1.1, color: 'var(--text-primary)', wordBreak: 'break-word' }} {...props}>{children}</h1>
@@ -505,7 +506,7 @@ const SummaryViewer = ({ book: initialBookMetadata, onClose, onBookClick }) => {
                                         const bookId = href.replace('book:', '');
                                         return (
                                             <a 
-                                                href={`#/book/${bookId}`} 
+                                                href={`${import.meta.env.BASE_URL}book/${bookId}/`} 
                                                 onClick={(e) => {
                                                     e.preventDefault();
                                                     onBookClick(bookId);

@@ -408,9 +408,10 @@ const App = () => {
         &copy; {new Date().getFullYear()} &bull; Criado para contemplação e estudo.
       </footer>
 
-      <AnimatePresence>
+      <AnimatePresence mode="wait">
         {selectedBook && (
           <SummaryViewer
+            key={selectedBook.id}
             book={selectedBook}
             onClose={() => navigate('home')}
             onBookClick={(id) => navigate('book', id)}
