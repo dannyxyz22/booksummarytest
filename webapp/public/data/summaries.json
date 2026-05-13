@@ -60,6 +60,18 @@
     "pdfPath": "data/pdfs/subida-monte-carmelo.pdf"
   },
   {
+    "id": "tres-conversoes",
+    "path": "../summaries/published/tres-conversoes.md",
+    "title": "As Três Conversões e as Três Vias",
+    "author": "Réginald Garrigou-Lagrange",
+    "year": 1933,
+    "cover": "assets/covers/tres-conversoes.png",
+    "description": "Esta obra foi escrita com o objetivo de ser acessível a todas as almas interiores, servindo como um resumo e uma introdução a duas obras mais extensas e profundas do autor: \"Perfeição Cristã e Contemplação\" e \"O Amor de Deus e a Cruz de Jesus\". Nesses livros anteriores, seguindo os princípios teológicos formulados por [Santo Tomás de Aquino](book:on-being-and-essence) e a doutrina mística de...",
+    "readingTime": 41,
+    "epubPath": "data/epubs/tres-conversoes.epub",
+    "pdfPath": "data/pdfs/tres-conversoes.pdf"
+  },
+  {
     "id": "cartas-sena",
     "path": "../summaries/published/cartas-sena.md",
     "title": "Cartas",

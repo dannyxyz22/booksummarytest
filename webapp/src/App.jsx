@@ -9,7 +9,7 @@ const BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
 const SITE_ORIGIN = 'https://summa.legatuschristi.org';
 const SITE_NAME = 'Summa Brevis';
 const DEFAULT_TITLE = `${SITE_NAME} | Resumos de Livros Católicos`;
-const DEFAULT_DESCRIPTION = 'Biblioteca digital de resumos de livros católicos clássicos com leitura online, EPUB e PDF. Títulos: A Imitação da Bem-Aventurada Virgem Maria, A Noite Escura da Alma, A Prática da Presença de Deus, A Síntese Tomista, A Subida do Monte Carmelo, Cartas, Crescimento na Santidade, Cristo Rei, Deus Caritas Est, Diálogos, Ética a Nicômaco, Filosofia 101, Nossa Senhora de Fátima, O Diário de Santa Faustina, O Grande Meio da Oração, O Homem Eterno, Os Irmãos Karamazov, Sobre o Ente e a Essência e Vida e Glórias de São José.';
+const DEFAULT_DESCRIPTION = 'Biblioteca digital de resumos de livros católicos clássicos com leitura online, EPUB e PDF. Títulos: A Imitação da Bem-Aventurada Virgem Maria, A Noite Escura da Alma, A Prática da Presença de Deus, A Síntese Tomista, As Três Conversões e as Três Vias, A Subida do Monte Carmelo, Cartas, Crescimento na Santidade, Cristo Rei, Deus Caritas Est, Diálogos, Ética a Nicômaco, Filosofia 101, Nossa Senhora de Fátima, O Diário de Santa Faustina, O Grande Meio da Oração, O Homem Eterno, Os Irmãos Karamazov, Sobre o Ente e a Essência e Vida e Glórias de São José.';
 const DEFAULT_IMAGE = 'assets/covers/thumbs/imitao-maria.webp';
 
 const normalizeDescription = (text, max = 160) => {
