@@ -1,3 +1,5 @@
+https://youtu.be/ZE85awK_tKw
+
 # Ética a Nicômaco — Aristóteles
 
 # Introdução e Livro I — O Bem Supremo e a Felicidade
