@@ -1,3 +1,5 @@
+https://youtu.be/y4Mud6RgDHE
+
 # Sobre o Ente e a Essência — Tomás de Aquino
 
 ## Contexto e significado do tratado
