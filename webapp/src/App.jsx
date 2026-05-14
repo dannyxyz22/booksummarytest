@@ -29,6 +29,10 @@ const toAbsoluteUrl = (path = '') => {
   return `${SITE_ORIGIN}${normalizedBase}${normalizedPath}`;
 };
 
+const removeAccents = (str) => {
+  return (str || '').normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+};
+
 const upsertMeta = (attr, key, content) => {
   let tag = document.head.querySelector(`meta[${attr}="${key}"]`);
   if (!tag) {
@@ -126,14 +130,15 @@ const App = () => {
     let list = summaries.filter(s => s.enabled !== false);
 
     if (route.page === 'author' && route.param) {
-      return list.filter(s => s.author.toLowerCase().includes(route.param.toLowerCase()));
+      const term = removeAccents(route.param.toLowerCase());
+      return list.filter(s => removeAccents(s.author.toLowerCase()).includes(term));
     }
     if (route.page === 'search' && route.param) {
-      const term = route.param.toLowerCase();
+      const term = removeAccents(route.param.toLowerCase());
       return list.filter(s => 
-        s.title.toLowerCase().includes(term) || 
-        s.author.toLowerCase().includes(term) || 
-        s.description.toLowerCase().includes(term)
+        removeAccents(s.title.toLowerCase()).includes(term) || 
+        removeAccents(s.author.toLowerCase()).includes(term) || 
+        removeAccents(s.description.toLowerCase()).includes(term)
       );
     }
     return list;
