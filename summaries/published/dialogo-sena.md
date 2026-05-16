@@ -1,5 +1,3 @@
-https://youtu.be/xinUAD_xTSI
-
 # O Diálogo da Divina Providência - Santa Catarina de Sena
 
 ## As Quatro Petições e os Fundamentos da Vida Espiritual
