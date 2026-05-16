@@ -28,10 +28,9 @@ Thumbs.db
 /summaries/**/batches/
 /summaries/batches_life_glories/
 /summaries/life_glories_summaries/
-*1.md
-*2.md
-*3.md
-*4.md
-*5.md
+**/batch_*.md
+**/batch_*.json
+/summaries/**/batch_*.md
+
 7403-full-summary.md
 summaries/SubidaMonteCarmelo_batches/part_06.md
