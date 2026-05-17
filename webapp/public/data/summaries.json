@@ -239,5 +239,17 @@
     "readingTime": 117,
     "epubPath": "data/epubs/life-glories-joseph.epub",
     "pdfPath": "data/pdfs/life-glories-joseph.pdf"
+  },
+  {
+    "id": "dilexi-te",
+    "path": "../summaries/published/dilexi-te.md",
+    "title": "Dilexi Te",
+    "author": "Papa Leão XIV",
+    "year": 2026,
+    "cover": "assets/covers/dilexi-te.png",
+    "description": "A Exortação Apostólica Dilexi Te, concebida nos últimos meses de vida do Papa Francisco e promulgada por seu sucessor, o Papa Leão XIV, apresenta como tese central a indissociabilidade entre o amor a Cristo e a proximidade para com os necessitados.",
+    "readingTime": 23,
+    "epubPath": "data/epubs/dilexi-te.epub",
+    "pdfPath": "data/pdfs/dilexi-te.pdf"
   }
 ]
