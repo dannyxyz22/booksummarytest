@@ -132,6 +132,18 @@
     "pdfPath": "data/pdfs/dialogo-sena.pdf"
   },
   {
+    "id": "dilexi-te",
+    "path": "../summaries/published/dilexi-te.md",
+    "title": "Dilexi Te",
+    "author": "Papa Leão XIV",
+    "year": 2026,
+    "cover": "assets/covers/dilexi-te.png",
+    "description": "A Exortação Apostólica Dilexi Te, promulgada no início do pontificado do Papa Leão XIV, mas concebida e preparada nos últimos meses de vida do amado Papa Francisco, surge como um vigoroso testemunho de continuidade magistral. O título da Exortação e o seu tema central inspiram-se na promessa do Apocalipse dirigida a uma comunidade vulnerável e marginalizada: «Eu te amei» (Ap 3, 9). Este amor,...",
+    "readingTime": 23,
+    "epubPath": "data/epubs/dilexi-te.epub",
+    "pdfPath": "data/pdfs/dilexi-te.pdf"
+  },
+  {
     "id": "etica-nicomaco",
     "path": "../summaries/published/etica-nicomaco.md",
     "title": "Ética a Nicômaco",
@@ -239,17 +251,5 @@
     "readingTime": 117,
     "epubPath": "data/epubs/life-glories-joseph.epub",
     "pdfPath": "data/pdfs/life-glories-joseph.pdf"
-  },
-  {
-    "id": "dilexi-te",
-    "path": "../summaries/published/dilexi-te.md",
-    "title": "Dilexi Te",
-    "author": "Papa Leão XIV",
-    "year": 2026,
-    "cover": "assets/covers/dilexi-te.png",
-    "description": "A Exortação Apostólica Dilexi Te, concebida nos últimos meses de vida do Papa Francisco e promulgada por seu sucessor, o Papa Leão XIV, apresenta como tese central a indissociabilidade entre o amor a Cristo e a proximidade para com os necessitados.",
-    "readingTime": 23,
-    "epubPath": "data/epubs/dilexi-te.epub",
-    "pdfPath": "data/pdfs/dilexi-te.pdf"
   }
 ]
