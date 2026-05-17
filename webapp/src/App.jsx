@@ -29,6 +29,12 @@ const toAbsoluteUrl = (path = '') => {
   return `${SITE_ORIGIN}${normalizedBase}${normalizedPath}`;
 };
 
+const toThumbAsset = (path = DEFAULT_IMAGE) => (
+  path
+    .replace(/^\/+/, '')
+    .replace(/^(assets\/covers\/)(.+)\.(png|jpe?g)$/i, '$1thumbs/$2.webp')
+);
+
 const removeAccents = (str) => {
   return (str || '').normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 };
@@ -189,7 +195,7 @@ const App = () => {
       : toAbsoluteUrl('');
 
     const image = isBookPage
-      ? toAbsoluteUrl(selectedBook.cover)
+      ? toAbsoluteUrl(toThumbAsset(selectedBook.cover))
       : toAbsoluteUrl(DEFAULT_IMAGE);
 
     const robots = isFilterPage

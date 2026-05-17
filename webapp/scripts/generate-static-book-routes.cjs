@@ -36,11 +36,17 @@ function toAbsoluteAsset(pathValue) {
   return `${siteBaseUrl}/${normalized}`;
 }
 
+function toThumbAsset(pathValue) {
+  return String(pathValue || 'assets/covers/thumbs/imitao-maria.webp')
+    .replace(/^\/+/, '')
+    .replace(/^(assets\/covers\/)(.+)\.(png|jpe?g)$/i, '$1thumbs/$2.webp');
+}
+
 function buildBookSeoBlock(book) {
   const canonical = `${siteBaseUrl}/book/${encodeURIComponent(book.id)}/`;
   const title = `${book.title} | Summa Brevis`;
   const description = truncateDescription(book.description);
-  const image = toAbsoluteAsset(book.cover || 'assets/covers/thumbs/imitao-maria.webp');
+  const image = toAbsoluteAsset(toThumbAsset(book.cover));
   const jsonLd = JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'Book',
