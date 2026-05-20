@@ -1100,4 +1100,4 @@ O período termina com uma reflexão sobre a universalidade da mensagem. O Diár
 
 ## Nota Final
 
-*Fonte: Diário de Santa Maria Faustina Kowalska — A Misericórdia Divina em Minha Alma. © Congregação dos Marianos da Imaculada Conceição, Stockbridge, MA 01263. Utilizado com autorização. Para adquirir o Diário completo, visite o site dos Marianos da Imaculada Conceição.*
+*Fonte: Diário de Santa Maria Faustina Kowalska — A Misericórdia Divina em Minha Alma.
