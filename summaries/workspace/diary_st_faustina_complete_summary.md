@@ -1,7 +1,3 @@
-# Diário de Santa Faustina: Resumo Completo (Expansão Editorial)
-
-## Parte 1
-
 # Diário de Santa Faustina: A Misericórdia Divina em Minha Alma (Expansão Editorial Profunda)
 
 ## Prefácio e Contexto Histórico: A Autenticidade do Texto e a Reabilitação da Obra
@@ -38,7 +34,7 @@ Após essa purificação, o céu abriu-se novamente. Faustina recebeu uma visão
 
 Um ponto crucial estabelecido no início do Diário é a pedagogia de Jesus sobre o valor das obras exteriores. O Senhor pediu que ela usasse um cilício, mas a Madre Superiora proibiu a prática por causa da saúde frágil de Faustina. Quando a santa se desculpou com Jesus por não poder cumprir o Seu pedido, Ele ensinou-lhe a hierarquia do Reino: **"Não te exijo mortificação, mas obediência. Pela obediência dás-Me grande glória e ganhas mérito para ti mesma"** (28). Esta declaração é a pedra angular da espiritualidade de Faustina: a vontade de Deus manifestada através dos superiores é mais segura do que as inspirações subjetivas, por mais santas que pareçam.
 
-O Caderno I encerra este lote preparando Faustina para a sua grande missão pública: a pintura da Imagem e a instituição da Festa da Misericórdia. Ela termina reafirmando sua identidade como uma "Hóstia" — alguém que não vive mais para si, mas que se deixa consumir no tabernáculo da obediência para a salvação de um mundo que esqueceu o amor de Deus.
+O Caderno I encerra este período preparando Faustina para a sua grande missão pública: a pintura da Imagem e a instituição da Festa da Misericórdia. Ela termina reafirmando sua identidade como uma "Hóstia" — alguém que não vive mais para si, mas que se deixa consumir no tabernáculo da obediência para a salvação de um mundo que esqueceu o amor de Deus.
 
 ---
 
@@ -52,33 +48,31 @@ Helena enfrentou o dilema de muitas jovens de sua época: a falta de dote. Na Po
 
 A visão da **Santíssima Trindade** (31-32) mencionada anteriormente merece um detalhamento maior. Faustina descreve que sua alma foi arrebatada para um estado de contemplação onde o tempo e o espaço cessaram. As "três fontes de luz" que ela viu não eram figuras humanas, mas emanações puras de divindade. Ela percebeu que o Pai, o Filho e o Espírito Santo são um único Deus em essência, mas distintos em pessoa, e que essa distinção se manifesta na forma como a Misericórdia é derramada sobre o mundo.
 
-Jesus explicou-lhe que Ele fala "a linguagem dos simples" (181) porque a soberba do conhecimento muitas vezes fecha a porta para a verdadeira sabedoria. Faustina, com sua educação rudimentar, tornou-se o rádio através do qual Deus transmitiu verdades que teólogos de renome passaram séculos tentando sistematizar. O Diário registra que ela se sentia pequena demais para tal tarefa, mas Jesus a encorajava dizendo que as Suas maiores obras são realizadas através dos instrumentos mais frágeis. O lote termina com Faustina refletindo sobre o seu nome religioso: **Maria Faustina do Santíssimo Sacramento**, um nome que sintetiza sua devoção mariana e seu amor eucarístico, as duas âncoras que a sustentariam nos anos de agonia que se seguiriam. (2215 palavras aprox. total)
+Jesus explicou-lhe que Ele fala "a linguagem dos simples" (181) porque a soberba do conhecimento muitas vezes fecha a porta para a verdadeira sabedoria. Faustina, com sua educação rudimentar, tornou-se o rádio através do qual Deus transmitiu verdades que teólogos de renome passaram séculos tentando sistematizar. O Diário registra que ela se sentia pequena demais para tal tarefa, mas Jesus a encorajava dizendo que as Suas maiores obras são realizadas através dos instrumentos mais frágeis. O período termina com Faustina refletindo sobre o seu nome religioso: **Maria Faustina do Santíssimo Sacramento**, um nome que sintetiza sua devoção mariana e seu amor eucarístico, as duas âncoras que a sustentariam nos anos de agonia que se seguiriam.
 
 
 
 ---
 
-## Parte 2
-
 # Diário de Santa Faustina: Visões do Juízo, o Mistério da Imagem e a Realeza da Misericórdia (Expansão Editorial Profunda)
 
 ## Caderno I: A Missão entre o Desprezo e a Glória
 
-O lote 2 do Diário de Santa Faustina (entradas 31 a 100) marca o início da transição de sua vida de simples religiosa para a de **Secretária da Misericórdia**. Faustina abre este período com uma prolepse espiritual: uma visão na qual ela é conduzida ao altar de uma capela luxuosamente decorada sob os olhares de bispos, padres e irmãs. No entanto, o caminho para o "lugar de honra" é um corredor de escárnio. A multidão atira-lhe lama, pedras e vassouras (31). Ao chegar ao destino, o paradoxo se completa: os mesmos que a atacavam agora lhe estendem as mãos implorando por graças. Jesus revela que o sofrimento aceito com paciência é a moeda com que se compram as graças para o mundo: **"Faze o que quiseres, distribui as graças como quiseres, a quem quiseres e quando quiseres"**. Esta visão estabelece que a autoridade espiritual de Faustina não nasce de privilégios humanos, mas de sua identificação total com o Cristo sofredor.
+O período 2 do Diário de Santa Faustina (entradas 31 a 100) marca o início da transição de sua vida de simples religiosa para a de **Secretária da Misericórdia**. Faustina abre este período com uma prolepse espiritual: uma visão na qual ela é conduzida ao altar de uma capela luxuosamente decorada sob os olhares de bispos, padres e irmãs. No entanto, o caminho para o "lugar de honra" é um corredor de escárnio. A multidão atira-lhe lama, pedras e vassouras (31). Ao chegar ao destino, o paradoxo se completa: os mesmos que a atacavam agora lhe estendem as mãos implorando por graças. Jesus revela que o sofrimento aceito com paciência é a moeda com que se compram as graças para o mundo: **"Faze o que quiseres, distribui as graças como quiseres, a quem quiseres e quando quiseres"**. Esta visão estabelece que a autoridade espiritual de Faustina não nasce de privilégios humanos, mas de sua identificação total com o Cristo sofredor.
 
 ### O Tribunal de Deus e a Purificação Terrena
 
-Um dos episódios teologicamente mais densos deste lote é a convocação de Faustina ao **Juízo de Deus** (36). Ela descreve estar sozinha diante da Majestade Divina, vendo o estado de sua alma com uma clareza cortante. O Senhor a declara culpada de "um dia de fogo no Purgatório". Diante da santidade infinita de Deus, Faustina sente um desejo tão ardente de purificação que implora para se lançar imediatamente nas chamas. Jesus, contudo, apresenta-lhe uma alternativa pedagógica: o Purgatório post-mortem ou o sofrimento na terra. Faustina, num ato de generosidade heróica, aceita não apenas o dia de Purgatório, mas as maiores dores terrestres até o fim do mundo. Jesus decide que ela regressará à terra para sofrer por um "curto tempo" e cumprir a Sua vontade. Ele instrui Faustina a repousar a cabeça em Seu Coração ferido para extrair força, visto que ela não encontrará alívio ou compreensão em nenhuma criatura. Este diálogo sublinha a seriedade de cada alma diante de Deus; mesmo as faltas mínimas exigem reparação, e a misericórdia consiste precisamente em oferecer à alma a chance de se purificar no tempo para evitar as dores da eternidade.
+Um dos episódios teologicamente mais densos deste período é a convocação de Faustina ao **Juízo de Deus** (36). Ela descreve estar sozinha diante da Majestade Divina, vendo o estado de sua alma com uma clareza cortante. O Senhor a declara culpada de "um dia de fogo no Purgatório". Diante da santidade infinita de Deus, Faustina sente um desejo tão ardente de purificação que implora para se lançar imediatamente nas chamas. Jesus, contudo, apresenta-lhe uma alternativa pedagógica: o Purgatório post-mortem ou o sofrimento na terra. Faustina, num ato de generosidade heróica, aceita não apenas o dia de Purgatório, mas as maiores dores terrestres até o fim do mundo. Jesus decide que ela regressará à terra para sofrer por um "curto tempo" e cumprir a Sua vontade. Ele instrui Faustina a repousar a cabeça em Seu Coração ferido para extrair força, visto que ela não encontrará alívio ou compreensão em nenhuma criatura. Este diálogo sublinha a seriedade de cada alma diante de Deus; mesmo as faltas mínimas exigem reparação, e a misericórdia consiste precisamente em oferecer à alma a chance de se purificar no tempo para evitar as dores da eternidade.
 
 ### O Castigo de Varsóvia e a Intercessão do Sangue de Cristo
 
 A missão de Faustina como "para-raios" da justiça divina é explicitada na profecia sobre a **destruição de Varsóvia** (39). Jesus revela que a cidade mais bela da Polônia estava prestes a sofrer um castigo semelhante ao de Sodoma e Gomorra. A intercessão exigida por Deus não era de palavras vazias, mas de uma união profunda com o Sacrifício da Missa. Durante sete dias, Faustina deveria oferecer o Sangue e as Chagas de Jesus ao Pai Eterno em expiação pelos pecados da capital. No sétimo dia, ela vê o Senhor abençoar o país, revelando que a presença de uma alma orante pode desviar o curso da história e os decretos da justiça.
 
-Em 1929, Faustina recebe uma graça particular durante a renovação dos seus votos: Jesus amarra um **cinto dourado** em sua cintura (40), conferindo-lhe uma pureza sobrenatural que a livraria de qualquer tentação contra a castidade pelo resto da vida. Ela credita este dom à Virgem Maria, que se manifesta neste lote como a "Mestre do Amor Interior". Maria ensina Faustina que o coração humano só pode ser preenchido pela divindade e que a pureza é o espelho onde o sol da misericórdia se reflete sem distorções.
+Em 1929, Faustina recebe uma graça particular durante a renovação dos seus votos: Jesus amarra um **cinto dourado** em sua cintura (40), conferindo-lhe uma pureza sobrenatural que a livraria de qualquer tentação contra a castidade pelo resto da vida. Ela credita este dom à Virgem Maria, que se manifesta neste período como a "Mestre do Amor Interior". Maria ensina Faustina que o coração humano só pode ser preenchido pela divindade e que a pureza é o espelho onde o sol da misericórdia se reflete sem distorções.
 
 ## A Revelação da Imagem e o Significado dos Raios
 
-O evento central deste lote ocorre em 22 de fevereiro de 1931, em Plock. Jesus aparece vestidos de branco, com uma mão em bênção e a outra tocando o peito, de onde emanam dois raios: um vermelho e outro pálido (47). O comando é histórico: **"Pinta uma imagem de acordo com o modelo que vês, com a inscrição: Jesus, eu confio em Vós"**. Jesus explica o significado teológico dos raios: o raio pálido representa a **Água** que justifica as almas, e o raio vermelho representa o **Sangue** que é a vida das almas. Ambos brotaram das profundidades da Sua misericórdia quando o Seu Coração foi aberto pela lança na cruz.
+O evento central deste período ocorre em 22 de fevereiro de 1931, em Plock. Jesus aparece vestido de branco, com uma mão em bênção e a outra tocando o peito, de onde emanam dois raios: um vermelho e outro pálido (47). O comando é histórico: **"Pinta uma imagem de acordo com o modelo que vês, com a inscrição: Jesus, eu confio em Vós"**. Jesus explica o significado teológico dos raios: o raio pálido representa a **Água** que justifica as almas, e o raio vermelho representa o **Sangue** que é a vida das almas. Ambos brotaram das profundidades da Sua misericórdia quando o Seu Coração foi aberto pela lança na cruz.
 
 O Senhor faz promessas extraordinárias para quem venerar esta imagem: a alma não perecerá e terá vitória sobre os inimigos na vida e na morte. Ele insiste que esta imagem não deve ser apenas uma decoração, mas um vaso através do qual as pessoas devem vir buscar graças na fonte da misericórdia. Quando Faustina relata a visão ao seu confessor e recebe uma ordem para "pintar a imagem na alma", Jesus reitera que deseja uma imagem material, pintada com pincel, para ser solenemente benta no primeiro domingo depois da Páscoa — a **Festa da Misericórdia**. O Senhor lamenta profundamente a desconfiança das "almas escolhidas", afirmando que a falta de confiança Lhe causa mais dor do que os pregos da crucificação.
 
@@ -90,7 +84,7 @@ Para combater a dúvida sobre a origem de suas visões, Faustina pediu sinais co
 
 ### O Sinal do Juiz e a Urgência da Confiança
 
-O lote encerra com uma das instruções escatológicas mais famosas do Diário: o aviso sobre o **Juiz Justo e o Rei da Misericórdia** (83). Jesus ordena que ela escreva que, antes do fim dos tempos, o mundo verá um grande sinal: a luz de todos os astros se apagará e uma escuridão total cobrirá a terra. Então, o sinal da cruz brilhará no céu, emanando luz das chagas de Jesus para iluminar a terra por um tempo. Este evento será o último apelo antes do Dia da Justiça. Faustina descreve também a sua união física com a Paixão (estigmas invisíveis) e o diálogo constante com as almas do Purgatório, reafirmando que a misericórdia de Deus é a única esperança para a humanidade.
+O período encerra com uma das instruções escatológicas mais famosas do Diário: o aviso sobre o **Juiz Justo e o Rei da Misericórdia** (83). Jesus ordena que ela escreva que, antes do fim dos tempos, o mundo verá um grande sinal: a luz de todos os astros se apagará e uma escuridão total cobrirá a terra. Então, o sinal da cruz brilhará no céu, emanando luz das chagas de Jesus para iluminar a terra por um tempo. Este evento será o último apelo antes do Dia da Justiça. Faustina descreve também a sua união física com a Paixão (estigmas invisíveis) e o diálogo constante com as almas do Purgatório, reafirmando que a misericórdia de Deus é a única esperança para a humanidade.
 
 ---
 
@@ -100,19 +94,17 @@ Para Faustina, a maior prova de amor não residia nos êxtases, mas na fidelidad
 
 Um episódio que ilustra a importância da obediência sobre os próprios desejos espirituais foi a **viagem cancelada ao Calvário de Vilnius** (64). Faustina desejava muito participar desta peregrinação, mas Jesus disse-lhe interiormente que a viagem seria "prejudicial à sua alma". Sem poder explicar a razão sobrenatural à sua Superiora, ela apenas obedeceu ao comando de ficar em casa, aceitando a frustração de suas companheiras e até o milagre meteorológico (uma chuva torrencial súbita) que impediu a partida do barco. Faustina aprendeu que Deus prefere um "não" dado aos próprios desejos piedosos em nome da obediência, do que a realização de grandes obras fora da vontade divina.
 
-O lote termina com a poderosa visão de **Jesus Pregado na Cruz visto através dos olhos do Pai** (60). Durante uma novena pela pátria, Faustina viu que Deus Pai, ao olhar para a terra, só o fazia através das feridas de Seu Filho. Isto ensinou-lhe que a humanidade só é poupada porque o Pai vê o Sacrifício de Jesus sobrepondo-se à malícia humana. Esta visão deu a Faustina uma compreensão definitiva do papel da Missa: é o momento em que a terra se torna "blindada" pela Misericórdia e onde a oração de uma única alma, unida ao Sangue de Cristo, pode sustentar o mundo inteiro. (2218 palavras aprox. total)
+O período termina com a poderosa visão de **Jesus Pregado na Cruz visto através dos olhos do Pai** (60). Durante uma novena pela pátria, Faustina viu que Deus Pai, ao olhar para a terra, só o fazia através das feridas de Seu Filho. Isto ensinou-lhe que a humanidade só é poupada porque o Pai vê o Sacrifício de Jesus sobrepondo-se à malícia humana. Esta visão deu a Faustina uma compreensão definitiva do papel da Missa: é o momento em que a terra se torna "blindada" pela Misericórdia e onde a oração de uma única alma, unida ao Sangue de Cristo, pode sustentar o mundo inteiro.
 
 
 
 ---
 
-## Parte 3
-
 # Diário de Santa Faustina: O Cadinho dos Votos, a Noite da Alma e a Psicologia da Confissão (Expansão Editorial Profunda)
 
 ## Caderno I: A Teologia Mística dos Votos Religiosos
 
-Nesta fase crucial de seus registros (lote 3, entradas 101 a 200), Santa Faustina transcende a narrativa pessoal para oferecer um autêntico tratado de vida consagrada: o **"Curto Catecismo dos Votos"** (93). Este documento não é um resumo jurídico, mas uma teologia viva nascida de sua experiência cotidiana. Para Faustina, o voto é uma "promessa voluntária feita a Deus para realizar um ato mais perfeito". Ela desconstrói a ideia de que o religioso deve ser perfeito; pelo contrário, o estado religioso é a obrigação diária de trabalhar para atingir essa perfeição.
+Nesta fase crucial de seus registros (período 3, entradas 101 a 200), Santa Faustina transcende a narrativa pessoal para oferecer um autêntico tratado de vida consagrada: o **"Curto Catecismo dos Votos"** (93). Este documento não é um resumo jurídico, mas uma teologia viva nascida de sua experiência cotidiana. Para Faustina, o voto é uma "promessa voluntária feita a Deus para realizar um ato mais perfeito". Ela desconstrói a ideia de que o religioso deve ser perfeito; pelo contrário, o estado religioso é a obrigação diária de trabalhar para atingir essa perfeição.
 
 ### O Holocausto da Obediência e o Desapego da Pobreza
 
@@ -130,7 +122,7 @@ Neste estado, o pecado torna-se a única coisa que a alma consegue ver em si mes
 
 Para atravessar este deserto, Faustina recorre à Eucaristia, chamando-a de **"Pão dos Fortes"** (91). Sem este alimento, ela confessa que não teria forças para suportar as incompreensões e as perseguições. Ela assume a humilhação como seu "alimento diário", desejando compartilhar em tudo o "manto de zombaria" de Jesus.
 
-Um tema central neste lote é a **guarda do silêncio** (118-119). Faustina ensina que a alma não atingirá a santidade se não dominar a língua. Ela compara a alma tagarela a um "zângão na colmeia", que faz barulho mas não produz mel. Ela vai mais longe ao relatar visões de religiosos no inferno cuja perdição foi causada pelo mau uso da palavra: destruição de reputações, murmurações e "crimes reais" cometidos com a língua. Para ela, o silêncio interior é a condição necessária para ouvir a voz de Deus.
+Um tema central neste período é a **guarda do silêncio** (118-119). Faustina ensina que a alma não atingirá a santidade se não dominar a língua. Ela compara a alma tagarela a um "zângão na colmeia", que faz barulho mas não produz mel. Ela vai mais longe ao relatar visões de religiosos no inferno cuja perdição foi causada pelo mau uso da palavra: destruição de reputações, murmurações e "crimes reais" cometidos com a língua. Para ela, o silêncio interior é a condição necessária para ouvir a voz de Deus.
 
 ## A Psicologia da Confissão: Guia para Penitentes e Pastores
 
@@ -143,9 +135,9 @@ Para o penitente, ela prescreve três palavras de ouro: **Sinceridade, Humildade
 
 ### Perseguições no Claustro: A Fidelidade no Escárnio
 
-O lote termina com o relato cru das perseguições que Faustina enfrentou dentro de sua própria comunidade após a revelação da missão da Imagem (125-128). Ela foi chamada de "possuída pelo demônio", "fantasista" e "visionária histérica". Relata como era vigiada em cada passo e como suas superioras, em momentos de ira, a humilhavam publicamente. Faustina descreve o incidente onde uma Madre lhe gritou: **"Saia desta sala, sua visionária histérica!"**. Em vez de se defender, ela refugiou-se na cruz, aprendendo a sofrer "como uma pomba, sem queixa", entendendo que estas perseguições eram o selo de autenticidade da sua obra.
+O período termina com o relato cru das perseguições que Faustina enfrentou dentro de sua própria comunidade após a revelação da missão da Imagem (125-128). Ela foi chamada de "possuída pelo demônio", "fantasista" e "visionária histérica". Relata como era vigiada em cada passo e como suas superioras, em momentos de ira, a humilhavam publicamente. Faustina descreve o incidente onde uma Madre lhe gritou: **"Saia desta sala, sua visionária histérica!"**. Em vez de se defender, ela refugiou-se na cruz, aprendendo a sofrer "como uma pomba, sem queixa", entendendo que estas perseguições eram o selo de autenticidade da sua obra.
 
-Ela fecha este lote com uma profecia sobre o **Pe. Sopoćko**, visualizando-o como um "cacho de uvas na prensa do sofrimento" (90). Jesus assegura que as coroas de glória do seu confessor serão equivalentes ao número de almas salvas por esta obra, reiterando o princípio divino: Deus recompensa o sofrimento e a fidelidade, não necessariamente o sucesso visível aos olhos humanos.
+Ela fecha este período com uma profecia sobre o **Pe. Sopoćko**, visualizando-o como um "cacho de uvas na prensa do sofrimento" (90). Jesus assegura que as coroas de glória do seu confessor serão equivalentes ao número de almas salvas por esta obra, reiterando o princípio divino: Deus recompensa o sofrimento e a fidelidade, não necessariamente o sucesso visível aos olhos humanos.
 
 ---
 
@@ -163,19 +155,17 @@ A perseguição que Faustina sofreu por parte de suas próprias irmãs (125-128)
 
 ## O Ataque Final: O Desânimo Satânico
 
-No encerramento deste lote, Faustina descreve o ataque mais sutil do demônio: o **desânimo** (129). Satanás usa a sua própria sinceridade e fidelidade contra ela, perguntando: "Para que serve ser sincera, se ninguém a entende? Qual é o prêmio pela sua fidelidade?". O peso físico dessa tentação foi tal que ela caiu por terra, banhada em suor frio. Contudo, no momento em que suas forças físicas se esgotaram, o Senhor falou-lhe com uma autoridade que dissipou instantaneamente as trevas: **"Não temas, Eu estou contigo"**. Esta única palavra operou nela uma ressurreição espiritual, devolvendo-lhe a coragem para enfrentar o escárnio e a incompreensão com um novo ímpeto de amor. (2150 palavras aprox. total)
+No encerramento deste período, Faustina descreve o ataque mais sutil do demônio: o **desânimo** (129). Satanás usa a sua própria sinceridade e fidelidade contra ela, perguntando: "Para que serve ser sincera, se ninguém a entende? Qual é o prêmio pela sua fidelidade?". O peso físico dessa tentação foi tal que ela caiu por terra, banhada em suor frio. Contudo, no momento em que suas forças físicas se esgotaram, o Senhor falou-lhe com uma autoridade que dissipou instantaneamente as trevas: **"Não temas, Eu estou contigo"**. Esta única palavra operou nela uma ressurreição espiritual, devolvendo-lhe a coragem para enfrentar o escárnio e a incompreensão com um novo ímpeto de amor.
 
 
 
 ---
 
-## Parte 4
-
 # Diário de Santa Faustina: O Mistério da Vítima, a Transconsagração e os Votos Perpétuos (Expansão Editorial Profunda)
 
 ## Caderno I: O Convite ao Sacrifício Total e o "Jardin das Oliveiras" de Faustina
 
-O quarto lote do Diário (entradas 130-200 aproximadamente) cobre a fase mais solene da vida religiosa de Faustina: a preparação e a realização dos votos perpétuos. Jesus convida-a a oferecer-se como "vítima" durante a terceira provação (134-136). Faustina, que se sentia "a miséria em pessoa", hesita diante da magnitude do convite. Jesus, com paciência pedagógica, propõe-lhe esperar até a adoração do dia seguinte para revelar o pleno conteúdo do sacrifício.
+O quarto período do Diário (entradas 130-200 aproximadamente) cobre a fase mais solene da vida religiosa de Faustina: a preparação e a realização dos votos perpétuos. Jesus convida-a a oferecer-se como "vítima" durante a terceira provação (134-136). Faustina, que se sentia "a miséria em pessoa", hesita diante da magnitude do convite. Jesus, com paciência pedagógica, propõe-lhe esperar até a adoração do dia seguinte para revelar o pleno conteúdo do sacrifício.
 
 Neste encontro de adoração, Faustina recebe uma visão que é o seu próprio "Jardim das Oliveiras" (135): ela antevê com clareza fotográfica todo o sofrimento físico e espiritual que a aguarda. Nada ficou oculto — as suspeitas injustas, a perda de reputação, os fracassos aparentes da obra, as incompreensões de superiores e confessores, e até a solidão da hora da morte. Jesus esclarece um princípio teológico fundamental: **o valor do sacrifício não reside no sofrimento em si, mas no consentimento livre e consciente da vontade**. Ele assegura que, mesmo que ela recusasse, Ele não lhe retiraria as graças. Mas é precisamente essa liberdade que torna o "sim" dela um ato de amor real, e não apenas de submissão passiva.
 
@@ -189,7 +179,7 @@ A mediação do confessor é aqui elevada a um nível sobrenatural. Jesus declar
 
 ## Experiências Eucarísticas: A Hóstia nas Mãos e a Criança Jesus
 
-O episódio mais poético deste lote ocorre durante o "Dia de Cruzada" (160). Durante a distribuição da comunhão, uma segunda hóstia cai acidentalmente sobre a manga do padre. Faustina, que estava de joelhos, encontra-se com a hóstia caída em suas mãos. Incapaz de falar antes de consumir a sua própria hóstia, ela a sustenta em suas palmas abertas enquanto o padre continua a distribuir a comunhão ao longo da grade do altar.
+O episódio mais poético deste período ocorre durante o "Dia de Cruzada" (160). Durante a distribuição da comunhão, uma segunda hóstia cai acidentalmente sobre a manga do padre. Faustina, que estava de joelhos, encontra-se com a hóstia caída em suas mãos. Incapaz de falar antes de consumir a sua própria hóstia, ela a sustenta em suas palmas abertas enquanto o padre continua a distribuir a comunhão ao longo da grade do altar.
 
 Neste momento de detenção, ela ouve de Jesus uma das palavras mais ternamente pessoais do Diário: **"Desejei descansar em tuas mãos, não apenas no teu coração"** (160). A revelação é que a intimidade eucarística não se limita à recepção ritual: Jesus deseja a hospitalidade ativa da criatura, seu acolhimento consciente. Faustina vê brevemente a imagem do Menino Jesus saindo da hóstia antes de transformar-se novamente no pão consagrado no momento em que o padre se aproxima. O poder deste encontro é tão avassalador que ela não consegue comer nem trabalhar normalmente pelo resto do dia.
 
@@ -207,7 +197,7 @@ Jesus confirma que este programa espiritual se traduz em três graus práticos d
 
 ## O Retiro em Walendow e a Paz Definitiva
 
-Um dos mais belos episódios estruturais do lote é o relato do retiro de Walendow, ao qual Faustina deveria ir na véspera de seus votos perpétuos (167). Uma pessoa poderosa dentro da congregação opôs-se ativamente à sua participação. Faustina, consciente da promessa de Jesus de que ela participaria do retiro, simplesmente orou e esperou. Em menos de duas horas, a Madre Geral chamou-a e disse que ela partiria naquela tarde com Madre Valéria.
+Um dos mais belos episódios estruturais do período é o relato do retiro de Walendow, ao qual Faustina deveria ir na véspera de seus votos perpétuos (167). Uma pessoa poderosa dentro da congregação opôs-se ativamente à sua participação. Faustina, consciente da promessa de Jesus de que ela participaria do retiro, simplesmente orou e esperou. Em menos de duas horas, a Madre Geral chamou-a e disse que ela partiria naquela tarde com Madre Valéria.
 
 Durante este retiro, Jesus prometeu-lhe a paz definitiva sobre as dúvidas referentes à autenticidade de suas experiências (169). Ele dissera-lhe: **"Quero confirmar tua alma a tal ponto que, mesmo que quisesses perturbar-te, não estará em teu poder fazê-lo"**. A promessa se cumpriu dramaticamente quando o confessor jesuíta americano, sem nunca ter ouvido falar de Faustina, disse-lhe espontaneamente ao confessionário: **"Irmã, não precisa contar a seus superiores sobre as graças interiores, a menos que Jesus lhe diga explicitamente. Você está no caminho certo"**. Faustina correu para o jardim para esconder as lágrimas de alívio.
 
@@ -219,18 +209,16 @@ Durante a renovação dos votos no retiro, Jesus mostrou-lhe novamente o Seu Cor
 
 Ainda neste período, Faustina recebe a visão das **Duas Estradas** (153): a Estrada Larga, coberta de flores e música, onde as multidões caminhavam sem perceber que ela terminava num abismo terrível; e a Estrada Estreita, repleta de pedras e espinhos, percorrida entre lágrimas, mas que desembocava num jardim de felicidade onde todas as dores eram instantaneamente esquecidas. Esta visão, aparentemente simples, é na verdade um dos avisos escatológicos mais nítidos do Diário, antecipando os ensinamentos de Jesus sobre a necessidade de aceitar o sofrimento terreno como preço da felicidade eterna.
 
-O lote encerra com o peso máximo da responsabilidade missionária: Jesus alerta que, se Faustina negligenciar a pintura da imagem e as obras de misericórdia, **"terá que responder por uma multidão de almas no Dia do Julgamento"** (154). Esta frase transformou-a de uma alma em busca de santidade pessoal em uma apóstola com uma urgência apostólica específica, certa de que a inação é cumplicidade com a perdição dos outros. (2200 palavras aprox. total)
+O período encerra com o peso máximo da responsabilidade missionária: Jesus alerta que, se Faustina negligenciar a pintura da imagem e as obras de misericórdia, **"terá que responder por uma multidão de almas no Dia do Julgamento"** (154). Esta frase transformou-a de uma alma em busca de santidade pessoal em uma apóstola com uma urgência apostólica específica, certa de que a inação é cumplicidade com a perdição dos outros.
 
 
 ---
-
-## Parte 5
 
 # Diário de Santa Faustina: Votos Perpétuos, a Missão como Hóstia Viva e a Chegada a Vilnius (Expansão Editorial Profunda)
 
 ## Caderno I: O Dia das Núpcias Eternas — 1 de Maio de 1933
 
-O quinto lote do Diário cobre um dos momentos mais solenes da vida de Faustina: a realização dos **votos perpétuos** em 1º de maio de 1933. Ela não chegou a este dia com mãos vazias; ela preparou cuidadosamente um "buquê" para oferecer ao seu Esposo eterno. Mas, ao contrário das flores convencionais, seu buquê era composto de "sofrimentos e dificuldades". Em sua lógica mística, estes eram os únicos dons verdadeiramente preciosos que uma alma humana podia trazer a um Deus que já possui tudo — pois eram frutos do amor que resiste e permanece fiel na escuridão.
+O quinto período do Diário cobre um dos momentos mais solenes da vida de Faustina: a realização dos **votos perpétuos** em 1º de maio de 1933. Ela não chegou a este dia com mãos vazias; ela preparou cuidadosamente um "buquê" para oferecer ao seu Esposo eterno. Mas, ao contrário das flores convencionais, seu buquê era composto de "sofrimentos e dificuldades". Em sua lógica mística, estes eram os únicos dons verdadeiramente preciosos que uma alma humana podia trazer a um Deus que já possui tudo — pois eram frutos do amor que resiste e permanece fiel na escuridão.
 
 A cerimônia foi presidida pelo Bispo Rospond. No momento em que o anel de fé foi colocado em seu dedo, Faustina descreve que Deus invadiu o seu ser com uma presença que não se encaixa em nenhuma categoria de experiência humana. Jesus confirmou interiormente com palavras de uma ternura esponsal: **"Minha esposa, nossos corações estão unidos para sempre"**. Ao distinguir as insígnias que ela receberia como "brasão real" — a **cruz, a espada e a coroa de espinhos** — Jesus explica que esses sinais jamais foram concedidos aos anjos e que são marcas de uma honra incomensurável reservada para as almas que amam mais profundamente.
 
@@ -246,7 +234,7 @@ No dia dos votos, Faustina formulou três pedidos específicos a Deus, cada um r
 
 ## A Teologia do Sofrimento: Flagelação, Ressurreição e a Hóstia Viva
 
-Faustina relata neste período visões da **Flagelação de Jesus** de uma intensidade desconcertante. Ela vê a carne do Senhor ser açoitada até que os ossos os fiquem expostos. Este tipo de visão da Paixão não é, no Diário, um convite ao terror, mas à identificação. Jesus quer que ela compreenda visceralmente o que significou o Seu sofrimento, para que ela possa ser uma testemunha credível de Sua misericórdia. Após cada visão da Paixão, Jesus a eleva à luz da Ressurreição com palavras de recompensa: **"Tiveste grande parte na Minha Paixão; por isso, dou-te agora uma grande parte no Meu júbilo e na Minha glória"**.
+Faustina relata neste período visões da **Flagelação de Jesus** de uma intensidade desconcertante. Ela vê a carne do Senhor ser açoitada até que os ossos fiquem expostos. Este tipo de visão da Paixão não é, no Diário, um convite ao terror, mas à identificação. Jesus quer que ela compreenda visceralmente o que significou o Seu sofrimento, para que ela possa ser uma testemunha credível de Sua misericórdia. Após cada visão da Paixão, Jesus a eleva à luz da Ressurreição com palavras de recompensa: **"Tiveste grande parte na Minha Paixão; por isso, dou-te agora uma grande parte no Meu júbilo e na Minha glória"**.
 
 A espiritualidade da "Hóstia Viva" aprofunda-se com um episódio eucarístico revelador. Faustina, num dia de dúvida mínima sobre uma falta ínfima, hesita em receber a Comunhão. Jesus reage com uma denúncia que inverte as categorias da piedade convencional: **"Saiba que Me magoa muito quando deixas de Me receber na Comunhão... tuas pequenas faltas desaparecerão no Meu amor como um pedaço de palha lançado numa grande fornalha"** (156). Esta palavra define a espiritualidade eucarística de Faustina: o maior pecado não é a indignidade percebida, mas a desconfiança da misericórdia. A falta de confiança no poder do Amor de Deus em purificar é, ela mesma, a única indignidade real.
 
@@ -266,18 +254,16 @@ Ao chegar a Vilnius, a situação é difícil: ambiente estranho, dialeto incomp
 
 O primeiro encontro com Sopoćko é descrito por Faustina com espanto reverente: ele era exatamente como ela o havia visto nas visões — o mesmo rosto, a mesma postura espiritual, o mesmo peso de missão nos ombros. Jesus confirma-lhe interiormente que este homem é o "auxílio visível" que havia prometido. Sopoćko, ao contrário dos confessores anteriores, possuía tanto a formação teológica quanto a coragem espiritual para acolher as revelações de Faustina sem as minimizar nem as absolutizar precipitadamente.
 
-Sob a direção de Sopoćko, Faustina começaria a articular de forma coerente a doutrina da **Festa da Misericórdia**, a sua base bíblica e teológica, e os caminhos concretos para a sua implementação. Este lote antecipa o próximo capítulo: a batalha pela pintura da imagem, que se tornará o símbolo visual universal da espiritualidade da Misericórdia. Faustina encerra afirmando sua visão de vocação: viver cada dia "como se fosse o último", ocultando de todos os olhos humanos o bem que faz, pois apenas o olhar de Deus é digno de recompensa. (2205 palavras aprox. total)
+Sob a direção de Sopoćko, Faustina começaria a articular de forma coerente a doutrina da **Festa da Misericórdia**, a sua base bíblica e teológica, e os caminhos concretos para a sua implementação. Este período antecipa o próximo capítulo: a batalha pela pintura da imagem, que se tornará o símbolo visual universal da espiritualidade da Misericórdia. Faustina encerra afirmando sua visão de vocação: viver cada dia "como se fosse o último", ocultando de todos os olhos humanos o bem que faz, pois apenas o olhar de Deus é digno de recompensa.
 
 
 ---
-
-## Parte 6
 
 # Diário de Santa Faustina: Os Raios da Misericórdia, a Ciência do Sofrimento e a Pintura da Imagem (Expansão Editorial Profunda)
 
 ## Caderno I: O Significado Teológico dos Raios da Imagem
 
-O sexto lote do Diário aprofunda o significado doutrinário da Imagem da Divina Misericórdia, cuja pintura estava sendo executada pelo artista Eugênio Kazimierowski em Vilnius sob a supervisão do Pe. Sopoćko. Jesus esclarece a Faustina o significado dos **dois raios** que emanam do Seu Coração (299): o **raio pálido** representa a Água que justifica e purifica as almas no Batismo e na Penitência; o **raio vermelho** representa o Sangue que é a vida das almas, a vida sacramental que flui do Sacrifício da Missa e dos sacramentos. Estes dois raios não são decoração artística arbitrária — eles são o símbolo perfeito do Sagrado Coração aberto pela lança, de onde "jorrou sangue e água" (Jo 19,34), sintetizando a inteira economia da Redenção numa única imagem visual.
+O sexto período do Diário aprofunda o significado doutrinário da Imagem da Divina Misericórdia, cuja pintura estava sendo executada pelo artista Eugênio Kazimierowski em Vilnius sob a supervisão do Pe. Sopoćko. Jesus esclarece a Faustina o significado dos **dois raios** que emanam do Seu Coração (299): o **raio pálido** representa a Água que justifica e purifica as almas no Batismo e na Penitência; o **raio vermelho** representa o Sangue que é a vida das almas, a vida sacramental que flui do Sacrifício da Missa e dos sacramentos. Estes dois raios não são decoração artística arbitrária — eles são o símbolo perfeito do Sagrado Coração aberto pela lança, de onde "jorrou sangue e água" (Jo 19,34), sintetizando a inteira economia da Redenção numa única imagem visual.
 
 Jesus faz uma promessa de proteção escatológica para quem viver "à sombra destes raios": **"Feliz aquele que viver à sombra deles, porque a mão da justiça de Deus não o alcançará"**. Esta garantia não é mágica, mas sacramental: aquele que se mantém na graça (água) e alimenta a vida divina (sangue) é envolvido por uma proteção que precede e supera qualquer ameaça temporal.
 
@@ -299,7 +285,7 @@ Numa noite de adoração neste período, Faustina é cercada por demônios que a
 
 ## A Escola da Infância Espiritual: Jesus como Mestre Criança
 
-Um dos temas mais particularmente ternos deste lote é a pedagogia da **infância espiritual**. Jesus não aparece apenas como Rei e Juiz, mas frequentemente sob a forma de uma criança pequena para ensinar Faustina a aceitar as graças como uma criança aceita esmolas: sem orgulho, sem hesitação, sem impor condições (332). Esta imagem inverte a lógica adulta: normalmente acredita-se que quanto mais madura a alma, menos ela precisa de ajuda. Jesus ensina o contrário: a maturidade espiritual consiste em reconhecer a própria pobreza e aceitar abundantemente os dons do Pai.
+Um dos temas mais particularmente ternos deste período é a pedagogia da **infância espiritual**. Jesus não aparece apenas como Rei e Juiz, mas frequentemente sob a forma de uma criança pequena para ensinar Faustina a aceitar as graças como uma criança aceita esmolas: sem orgulho, sem hesitação, sem impor condições (332). Esta imagem inverte a lógica adulta: normalmente acredita-se que quanto mais madura a alma, menos ela precisa de ajuda. Jesus ensina o contrário: a maturidade espiritual consiste em reconhecer a própria pobreza e aceitar abundantemente os dons do Pai.
 
 ### O Exemplo do Profeta Jonas e a Obediência ao Confessor
 
@@ -311,28 +297,26 @@ Quando Faustina visitou o ateliê de Kazimierowski para ver o progresso da pintu
 
 ## A Métrica do Amor: O Termômetro do Sofrimento
 
-Faustina conclui este lote com uma síntese da sua espiritualidade do sofrimento. O amor, ela afirma, possui um "termômetro" — e esse termômetro é o sofrimento aceito com alegria. Quanto maior a capacidade de amar, maior é a disponibilidade de sofrer; e paradoxalmente, quanto mais se ama o sofrimento, menos ele dói. Ela descreve o sofrimento como o "maior tesouro da terra", não porque Deus seja sádico, mas porque é na resistência paciente que o metal da alma é destilado e purificado de toda liga inferior.
+Faustina conclui este período com uma síntese da sua espiritualidade do sofrimento. O amor, ela afirma, possui um "termômetro" — e esse termômetro é o sofrimento aceito com alegria. Quanto maior a capacidade de amar, maior é a disponibilidade de sofrer; e paradoxalmente, quanto mais se ama o sofrimento, menos ele dói. Ela descreve o sofrimento como o "maior tesouro da terra", não porque Deus seja sádico, mas porque é na resistência paciente que o metal da alma é destilado e purificado de toda liga inferior.
 
 Ela elenca as suas "pequenas cruzes" com gratidão específica: a incompreensão sistemática das intenções, os falsos julgamentos que a seguem como sombra, a saúde que se fragmenta dia a dia, a noite interior que às vezes apaga toda a luz, e os planos frustrados que chegam a humilhá-la diante das irmãs. Todas estas cruzes são, para ela, flores que ela deposita aos pés de Jesus.
 
-O lote encerra com a visão do **Natal de 1934**: ela vê o Menino Jesus partido e consumido pelo padre no altar. Esta visão eucarística condensa toda a teologia da Encarnação em um ato: o Filho de Deus veio para ser inteiramente consumido, entregue e distribuído para a humanidade. Faustina decide que este será o modelo permanente de sua vida: ser ela também consumida, distribuída, oferecida — nunca guardar para si a graça recebida. (2220 palavras aprox. total)
+O período encerra com a visão do **Natal de 1934**: ela vê o Menino Jesus partido e consumido pelo padre no altar. Esta visão eucarística condensa toda a teologia da Encarnação em um ato: o Filho de Deus veio para ser inteiramente consumido, entregue e distribuído para a humanidade. Faustina decide que este será o modelo permanente de sua vida: ser ela também consumida, distribuída, oferecida — nunca guardar para si a graça recebida.
 
 
 ---
-
-## Parte 7
 
 # Diário de Santa Faustina: A Balança da Justiça, a Obediência como Santificação e a Prova dos Pequenos Atos (Expansão Editorial Profunda)
 
 ## Caderno I: A Fé Vivida nas Pequenas Coisas — O Crucifixo Que Fala
 
-O sétimo lote do Diário (em torno das entradas 350-450) revela um aspecto crucial da espiritualidade de Faustina: a convicção de que a "fidelidade nas pequenas coisas" não é uma mediocridade espiritual, mas o próprio campo de batalha da santidade. Durante uma reunião de capítulo presidida pela Madre Bórgia, enquanto a superiora exortava as irmãs à fidelidade nos detalhes, Faustina teve uma visão extraordinária: a cabeça de Jesus no **crucifixo** voltou-se vivamente para as irmãs reunidas, e Seus lábios se moveram, reforçando cada palavra que a superiora pronunciava. A mensagem foi clara: a voz de Deus e a voz da superiora não são paralelas — são a mesma voz.
+O sétimo período do Diário (em torno das entradas 350-450) revela um aspecto crucial da espiritualidade de Faustina: a convicção de que a "fidelidade nas pequenas coisas" não é uma mediocridade espiritual, mas o próprio campo de batalha da santidade. Durante uma reunião de capítulo presidida pela Madre Bórgia, enquanto a superiora exortava as irmãs à fidelidade nos detalhes, Faustina teve uma visão extraordinária: a cabeça de Jesus no **crucifixo** voltou-se vivamente para as irmãs reunidas, e Seus lábios se moveram, reforçando cada palavra que a superiora pronunciava. A mensagem foi clara: a voz de Deus e a voz da superiora não são paralelas — são a mesma voz.
 
 No Ano Novo de 1935, seguindo o costume da congregação de sortear padroeiros para o ano, Faustina fez seu pedido secreto interior: que Jesus Eucarístico fosse o seu padroeiro. O Senhor confirmou instantaneamente: **"Eu sou o teu padroeiro para sempre"**. E quando ela sorteou o papel, leu exatamente as palavras "Santíssima Eucaristia". Este episódio parece singelo, mas contém uma doutrina: Deus não é apenas o Mestre e o Juiz — Ele deseja ser o **Companheiro diário** que acompanha a alma nos ritmos mais ordinários da vida consagrada.
 
 ### A Lição da Obediência: Correntes, Vontade Própria e a Substituição Divina
 
-Um dos ensinamentos mais densos deste lote diz respeito à hierarquia das mortificações. Faustina relata que, em determinado momento, tentou usar correntes metálicas nas pernas durante a missa para obter uma graça especial para uma alma em específico, sem consultar explicitamente o confessor sobre esta mortificação em particular (371). O Pe. Sopoćko proibiu qualquer repetição da prática devido à fragilidade crescente de sua saúde.
+Um dos ensinamentos mais densos deste período diz respeito à hierarquia das mortificações. Faustina relata que, em determinado momento, tentou usar correntes metálicas nas pernas durante a missa para obter uma graça especial para uma alma em específico, sem consultar explicitamente o confessor sobre esta mortificação em particular (371). O Pe. Sopoćko proibiu qualquer repetição da prática devido à fragilidade crescente de sua saúde.
 
 Jesus então revelou a ela o paradoxo pedagógico: **a graça que ela buscava obter com as correntes foi concedida, mas não pelas correntes. Foi concedida pelo ato de obediência ao confessor após a proibição.** O Senhor pronunciou então uma das sentenças mais fecundas de toda a espiritualidade do Diário: **"Saiba que quando mortificas a tua própria vontade, então a Minha vontade reina em ti"**. A mortificação da vontade pessoal é, portanto, infinitamente mais valiosa do que qualquer penitência corporal, pois toca a raiz do problema: o eu que se coloca no centro em detrimento de Deus.
 
@@ -346,7 +330,7 @@ Enquanto as irmãs pronunciavam seus votos, um **jarro dourado** — representan
 
 ## Profecias sobre Pe. Sopoćko e o "Aparente Naufrágio" da Obra
 
-Faustina registra neste lote uma profecia angustiante sobre o destino do Pe. Sopoćko e da própria obra da Misericórdia (378). Ela antevê um período em que a obra parecerá "completamente destroçada": perseguições internas na Igreja, incompreensões de prelados, desgaste das forças do confessor. Sopoćko verá tudo o que construiu desmontar-se aparentemente. Faustina confessa que isto a aterroriza, e Jesus, com paciência, lhe replica:
+Faustina registra neste período uma profecia angustiante sobre o destino do Pe. Sopoćko e da própria obra da Misericórdia (378). Ela antevê um período em que a obra parecerá "completamente destroçada": perseguições internas na Igreja, incompreensões de prelados, desgaste das forças do confessor. Sopoćko verá tudo o que construiu desmontar-se aparentemente. Faustina confessa que isto a aterroriza, e Jesus, com paciência, lhe replica:
 
 **"O que Deus decidiu uma vez, Não muda. E embora o efeito externo possa parecer destruído, a semente já foi plantada nos corações de Minhas escolhidas. A obra ressurgirá com um esplendor ainda maior na hora determinada por Mim."**
 
@@ -360,24 +344,22 @@ Em casa, ela é profundamente tocada pela fé simples e robusta de seu **pai**. 
 
 ### As Crianças Doentes e o Beijo Heroico
 
-Uma das cenas mais comoventes — e teologicamente reveladoras — deste lote é o episódio das **crianças doentes** trazidas pelas vizinhas para que Faustina as abençoasse. Ela as beijava uma a uma, incluindo crianças com doenças nas vistas, feridas abertas, infecções visíveis. Numa determinada criança com os olhos purulentosss, ela a beijou duas vezes, pedindo interiormente a Deus a sua cura, enquanto vencia a repugnância natural (407). Jesus revelou que Seu Coração vibrava de prazer a cada ato deste tipo: não apenas pelo gesto externo, mas porque ele exprimia o Amor que não escolhe os seus destinatários por critérios de conveniência.
+Uma das cenas mais comoventes — e teologicamente reveladoras — deste período é o episódio das **crianças doentes** trazidas pelas vizinhas para que Faustina as abençoasse. Ela as beijava uma a uma, incluindo crianças com doenças nas vistas, feridas abertas, infecções visíveis. Numa determinada criança com os olhos purulentos, ela a beijou duas vezes, pedindo interiormente a Deus a sua cura, enquanto vencia a repugnância natural (407). Jesus revelou que Seu Coração vibrava de prazer a cada ato deste tipo: não apenas pelo gesto externo, mas porque ele exprimia o Amor que não escolhe os seus destinatários por critérios de conveniência.
 
 ## Os Ataques Diabólicos em Vilnius: O Gato, o Vaso e o Sufocamento
 
 De regresso a Vilnius, Faustina redige relatos de confrontos diretos com o inimigo que avançam na escalada de intensidade (418-420). Num primeiro episódio, Satanás atirou furiosamente um **vaso de flores** sobre o altar durante sua oração, acusando-a implicitamente diante da superiora. Ela foi reprimida injustamente pela superiora por "tocar no altar" e não se explicou, abraçando a humilhação como um sinal de autenticidade. Naquela mesma noite, o demônio tentou sufocar fisicamente Faustina, assumindo a aparência de um **gato preto extremamente pesado** que se lançava repetidamente sobre ela na cama. Ela respondeu com oração e confiança no Anjo da Guarda, sem entrar em pânico, e o ataque foi suspenso.
 
-O lote conclui com uma revelação de Jesus sobre a hierarquia das asceses: **"Uma hora de meditação sobre a Minha Dolorosa Paixão tem mais mérito do que um ano inteiro de flagelações que tirem sangue"** (369). Esta frase inverte a lógica ascética clássica ao mostrar que a contemplação unitiva supera as práticas exteriores, pois une a alma diretamente à fonte de onde todo mérito emana. (2215 palavras aprox. total)
+O período conclui com uma revelação de Jesus sobre a hierarquia das asceses: **"Uma hora de meditação sobre a Minha Dolorosa Paixão tem mais mérito do que um ano inteiro de flagelações que tirem sangue"** (369). Esta frase inverte a lógica ascética clássica ao mostrar que a contemplação unitiva supera as práticas exteriores, pois une a alma diretamente à fonte de onde todo mérito emana.
 
 
 ---
-
-## Parte 8
 
 # Diário de Santa Faustina: O Terço da Misericórdia, a Nova Congregação e a Missão Escatológica (Expansão Editorial Profunda)
 
 ## Caderno I: A Exposição Pública da Imagem em Ostra Brama
 
-O oitavo lote do Diário marca um ponto de inflexão histórico: a **primeira exposição pública da Imagem da Divina Misericórdia**, realizada em abril de 1935 no santuário de Ostra Brama, em Vilnius, durante as celebrações de encerramento do Jubileu da Redenção do Mundo (Jubileu de 1900 anos da Paixão de Cristo). O Pe. Sopoćko conseguiu autorização para expor a imagem recém-pintada por Kazimierowski. Durante as cerimônias, Faustina teve uma visão intensa: ela viu os **raios da Imagem atravessarem a Hóstia Sagrada** exposta sobre o altar e espalharem-se em todas as direções, iluminando cidades e aldeias em todo o mundo. As pessoas que passavam entre a multidão não sabiam da origem da imagem, mas muitos sentiam uma atração inexplicável, parando espontaneamente para olhar. Para Faustina, esta era a demonstração em miniatura da missão universal: o mesmo Coração que sangrou na Cruz agora emanava raios de graça sobre um mundo que não o merecia, mas que precisava urgentemente d'Ele.
+O oitavo período do Diário marca um ponto de inflexão histórico: a **primeira exposição pública da Imagem da Divina Misericórdia**, realizada em abril de 1935 no santuário de Ostra Brama, em Vilnius, durante as celebrações de encerramento do Jubileu da Redenção do Mundo (Jubileu de 1900 anos da Paixão de Cristo). O Pe. Sopoćko conseguiu autorização para expor a imagem recém-pintada por Kazimierowski. Durante as cerimônias, Faustina teve uma visão intensa: ela viu os **raios da Imagem atravessarem a Hóstia Sagrada** exposta sobre o altar e espalharem-se em todas as direções, iluminando cidades e aldeias em todo o mundo. As pessoas que passavam entre a multidão não sabiam da origem da imagem, mas muitos sentiam uma atração inexplicável, parando espontaneamente para olhar. Para Faustina, esta era a demonstração em miniatura da missão universal: o mesmo Coração que sangrou na Cruz agora emanava raios de graça sobre um mundo que não o merecia, mas que precisava urgentemente d'Ele.
 
 ### A Missão Escatológica e a "Última Vinda"
 
@@ -396,7 +378,7 @@ Faustina reconhecia que vivia no segundo grau e ansiava pela plena passividade d
 
 ## O Nascimento do Terço da Divina Misericórdia: O Anjo Executor Detido
 
-O episódio mais cosmicamente dramático deste lote ocorre em **13 de setembro de 1935** (474). Em visão, Faustina vê um Anjo vestido de luz resplandecente — um **executor da ira divina** — posicionado sobre a terra com raios e trovões brotando de suas mãos, preste a ferir um ponto específico do planeta em punição pelos pecados acumulados. Faustina tenta interpelar a justiça divina com orações usuais, mas as palavras parecem impotentes diante da magnitude da ira justa.
+O episódio mais cosmicamente dramático deste período ocorre em **13 de setembro de 1935** (474). Em visão, Faustina vê um Anjo vestido de luz resplandecente — um **executor da ira divina** — posicionado sobre a terra com raios e trovões brotando de suas mãos, prestes a ferir um ponto específico do planeta em punição pelos pecados acumulados. Faustina tenta interpelar a justiça divina com orações usuais, mas as palavras parecem impotentes diante da magnitude da ira justa.
 
 De repente, ela é "arrebatada" diante do Trono da Santíssima Trindade. As palavras começam a brotar de seus lábios por uma força sobrenatural: **"Eterno Pai, ofereço-Vos o Corpo e o Sangue, a Alma e a Divindade do Vosso muito amado Filho, Nosso Senhor Jesus Cristo, em reparação dos nossos pecados e dos do mundo inteiro; pela Sua dolorosa Paixão, tende misericórdia de nós e do mundo inteiro"**. Ao proferir estas palavras, o Anjo tornou-se **impotente** — sua mão ficou suspensa no ar, a energia do castigo dissipou-se. O sacrifício da Cruz, re-apresentado na oração da alma, deteve a Justiça.
 
@@ -412,18 +394,16 @@ Esta revelação contém uma doutrina: a ingratidão de uma alma que conhece o a
 
 Em outubro de 1935, Faustina viaja para Cracóvia para um retiro espiritual (486-490). Na viagem de trem, ela percebe visivelmente a presença de seu Anjo da Guarda em adoração perpétua a Deus — um estado de contemplação que a envergonha positivamente, por contraste com a dispersão interior que ela às vezes experimentava. No retiro, o Pe. Andrasz concedeu-lhe a paz definitiva sobre as revelações e aconselhou-a a aceitar todos os sofrimentos com serenidade, pois eram os sinais de uma predileção especial de Deus.
 
-A Virgem Maria aparece cobrindo Faustina com seu manto branco (468) e suplicando-lhe orações especiais pela **Polônia**. Maria ensina-lhe que a proteção de uma nação passa pela oração dos seus santos ocultos — os que ninguém conhece, que trabalham e sofrem no silêncio do dever cotidiano. O convite de Jesus ao silêncio radical é renovado: **"Uma alma faladora nunca atingirá a santidade"** (477). O silêncio não é introversão psicológica — é a condição estrutural para que o Espírito Santo possa agir sem interferências do ruído interior. (2210 palavras aprox. total)
+A Virgem Maria aparece cobrindo Faustina com seu manto branco (468) e suplicando-lhe orações especiais pela **Polônia**. Maria ensina-lhe que a proteção de uma nação passa pela oração dos seus santos ocultos — os que ninguém conhece, que trabalham e sofrem no silêncio do dever cotidiano. O convite de Jesus ao silêncio radical é renovado: **"Uma alma faladora nunca atingirá a santidade"** (477). O silêncio não é introversão psicológica — é a condição estrutural para que o Espírito Santo possa agir sem interferências do ruído interior.
 
 
 ---
-
-## Parte 9
 
 # Diário de Santa Faustina: O Segundo Caderno, as Regras da Nova Congregação e os Combates Proféticos (Expansão Editorial Profunda)
 
 ## Caderno II: O Início da Escrita e as "Duas Pérolas ao Coração de Jesus"
 
-O nono lote do Diário marca o início do **Caderno II**, escrito por Faustina em novembro de 1935 em Vilnius. Ela abre este novo caderno com uma declaração que constitui a pedra angular de toda a sua teologia: **a Misericórdia é o maior atributo de Deus**. Não a Justiça, não a Onipotência, mas a Misericórdia — a qualidade pela qual Deus dirige toda a Sua grandeza não para impor Sua superioridade, mas para elevar a criatura à Sua intimidade.
+O nono período do Diário marca o início do **Caderno II**, escrito por Faustina em novembro de 1935 em Vilnius. Ela abre este novo caderno com uma declaração que constitui a pedra angular de toda a sua teologia: **a Misericórdia é o maior atributo de Deus**. Não a Justiça, não a Onipotência, mas a Misericórdia — a qualidade pela qual Deus dirige toda a Sua grandeza não para impor Sua superioridade, mas para elevar a criatura à Sua intimidade.
 
 Jesus apresenta-lhe dois grupos de almas que ocupam um lugar especialíssimo em Seu Coração: **"Coloco sob os teus cuidados duas pérolas preciosas ao Meu Coração — as almas dos sacerdotes e das pessoas consagradas"** (531). A escolha destes dois grupos não é aleatória: são precisamente eles que, pela natureza de sua vocação, são o ponto de convergência entre o céu e a terra. Quando os sacerdotes e os religiosos enfraquecem espiritualmente, a Igreja toda enfraquece. A nova Congregação seria, portanto, uma "bomba de sustentação" espiritual para os pilares visíveis da Igreja, trabalhando nas sombras para que eles permaneçam de pé à luz.
 
@@ -437,7 +417,7 @@ Jesus confirma esta direção com uma imagem de ternura: Ele carregará Faustina
 
 ## A Estrutura e o Espírito da Nova Congregação: O Plano Divino Detalhado
 
-Os detalhes arquitectónicos e espirituais da Congregação da Misericórdia Divina recebem neste lote uma articulação minuciosa (538-545). Cada elemento reflete uma teologia própria:
+Os detalhes arquitetônicos e espirituais da Congregação da Misericórdia Divina recebem neste período uma articulação minuciosa (538-545). Cada elemento reflete uma teologia própria:
 
 - **A Pequenez das Casas**: Não haverá conventos monumentais. As comunidades serão pequenas — no máximo dez irmãs — para preservar a atmosfera de família e evitar a impessoalidade das grandes instituições.
 - **A Igualdade Absoluta**: Jesus proíbe explicitamente títulos hierárquicos como "Madre" ou "Reverenda". Todas as irmãs serão iguais, independentemente de origens familiares nobres ou humildes — um reflexo direto do princípio evangélico (Mt 20,26) e um contrasinal cultural poderoso numa Europa ainda profundamente estratificada.
@@ -463,18 +443,16 @@ Em outra visão subsequente, a mesma pequena casa transforma-se num **enorme e b
 
 ### A Instrução de Maria: A Cruz e a Bolacha Comum
 
-A Virgem Maria aparece na Festa da Imaculada Conceição com uma instrução que sintetiza o paradoxo da santidade escondida (564): **"Mesmo quando estiveres alegre, mantém os olhos fixos na cruz"**. Maria ensina que a alegria espiritual autêntica não é indiferença ao sofrimento, mas a capacidade de conter nos olhos a realidade da Cruz enquanto o coração transborda de paz. Ela instrui Faustina a ser uma **"hóstia sacrificial"** diante do Pai — algo precioso e nobre — mas uma **"bolacha comum"** diante das pessoas — escondendo sua grandeza espiritual sob a aparência da normalidade cotidiana para não alimentar a vaidade nem escandalizar os que ainda não compreendem os caminhos de Deus. (2215 palavras aprox. total)
+A Virgem Maria aparece na Festa da Imaculada Conceição com uma instrução que sintetiza o paradoxo da santidade escondida (564): **"Mesmo quando estiveres alegre, mantém os olhos fixos na cruz"**. Maria ensina que a alegria espiritual autêntica não é indiferença ao sofrimento, mas a capacidade de conter nos olhos a realidade da Cruz enquanto o coração transborda de paz. Ela instrui Faustina a ser uma **"hóstia sacrificial"** diante do Pai — algo precioso e nobre — mas uma **"bolacha comum"** diante das pessoas — escondendo sua grandeza espiritual sob a aparência da normalidade cotidiana para não alimentar a vaidade nem escandalizar os que ainda não compreendem os caminhos de Deus.
 
 
 ---
-
-## Parte 10
 
 # Diário de Santa Faustina: O Trigo Moído, a Escolta Angélica e a Obediência que Transforma as Trevas (Expansão Editorial Profunda)
 
 ## Caderno II: O Teste da Confiança Absoluta — O "Novo Mundo" Recusado
 
-O décimo lote do Diário (entradas 580-650 aproximadamente) transcorre entre novembro de 1935 e março de 1936, vivido entre Vilnius e as primeiras semanas em Walendów. Jesus realiza com Faustina um dos testes de amor mais reveladores de todo o Diário: Ele se oferece para criar para ela "um novo mundo, mais belo que este" — um paraíso terreno onde ela viveria isenta de todas as dores (580). Faustina recusa com uma clareza que não deixa margem para negociação: **"Tudo o que não sois Vós, nada é para mim"**. Esta resposta encapsula toda a teologia da sua vida: o valor das coisas não reside na sua beleza objetiva, mas na sua relação com a Pessoa de Jesus. Qualquer bem que não seja Jesus é, para ela, um potencial ídolo.
+O décimo período do Diário (entradas 580-650 aproximadamente) transcorre entre novembro de 1935 e março de 1936, vivido entre Vilnius e as primeiras semanas em Walendów. Jesus realiza com Faustina um dos testes de amor mais reveladores de todo o Diário: Ele se oferece para criar para ela "um novo mundo, mais belo que este" — um paraíso terreno onde ela viveria isenta de todas as dores (580). Faustina recusa com uma clareza que não deixa margem para negociação: **"Tudo o que não sois Vós, nada é para mim"**. Esta resposta encapsula toda a teologia da sua vida: o valor das coisas não reside na sua beleza objetiva, mas na sua relação com a Pessoa de Jesus. Qualquer bem que não seja Jesus é, para ela, um potencial ídolo.
 
 A reação de Jesus a esta recusa é de uma ternura estranha: Ele revela que descansa mais profundamente numa alma humilde e esvaziada do que em qualquer "jardim fechado" do mundo criado. O nada da criatura que se abandona ao Todo de Deus torna-se, paradoxalmente, o espaço mais amplo do universo.
 
@@ -484,7 +462,7 @@ Faustina recebe luzes sobre a estrutura da bem-aventurança eterna (592). Ela en
 
 ## O Sofrimento por Substituição: A Tríplice Coroa de Sopoćko
 
-Um dos episódios mais desconcertantes e teologicamente ricos deste lote é o pedido de Faustina para **sofrer em lugar do Pe. Sopoćko** por um dia (596). Ela suplica a Jesus que transfira para ela todas as aflições — externas e espirituais — que seu confessor deveria suportar naquele dia específico. O pedido é aceito. Imediatamente, Faustina é atacada por acusações infundadas proferidas pelas irmãs da comunidade; sente uma depressão avassaladora descendo sobre ela como uma capa de chumbo; e experimenta uma aversão estranha e irracional pela sua própria comunidade — sentimentos que não eram dela, mas que ela carregava como um "recipiente" espiritual emprestado.
+Um dos episódios mais desconcertantes e teologicamente ricos deste período é o pedido de Faustina para **sofrer em lugar do Pe. Sopoćko** por um dia (596). Ela suplica a Jesus que transfira para ela todas as aflições — externas e espirituais — que seu confessor deveria suportar naquele dia específico. O pedido é aceito. Imediatamente, Faustina é atacada por acusações infundadas proferidas pelas irmãs da comunidade; sente uma depressão avassaladora descendo sobre ela como uma capa de chumbo; e experimenta uma aversão estranha e irracional pela sua própria comunidade — sentimentos que não eram dela, mas que ela carregava como um "recipiente" espiritual emprestado.
 
 Jesus revela-lhe ao fim do dia que ela havia sofrido apenas **uma pequena fração** do que Sopoćko carregava cotidianamente. E explica a finalidade de tais provações: elas tecem para o sacerdote uma **"tríplice coroa"** de glória — a coroa da virgindade consagrada, a coroa do sacerdócio fiel no martírio das incompreensões, e a coroa do martírio espiritual suportado em silêncio. As tribulações do confessor não eram punições, mas ourivesaria.
 
@@ -508,18 +486,16 @@ Faustina aprofunda sua meditação sobre a vocação de "Hóstia Viva" com uma a
 
 ### A Sexta-Feira Santa de 1936 e o Aviso de Maria
 
-Na Sexta-Feira Santa de 1936, Faustina ouve o clamor de Jesus na Cruz — **"Tenho Sede!"** — e vê os dois raios saindo de Seu lado traspassado (648). Maria aparece logo depois com um aviso que é simultaneamente consolador e aterrorizante: Faustina deve preparar o mundo para a **Segunda Vinda**, que será não como Misericórdia, mas como **Justiça**. E a Mãe de Deus lhe adverte: **"Se agora te calares, terás que responder por um grande número de almas naquele dia terrível"**. A missão da Misericórdia não é apenas uma devoção entre outras — é a oferta de Deus à humanidade antes que o tempo da misericórdia se encerre. (2210 palavras aprox. total)
+Na Sexta-Feira Santa de 1936, Faustina ouve o clamor de Jesus na Cruz — **"Tenho Sede!"** — e vê os dois raios saindo de Seu lado traspassado (648). Maria aparece logo depois com um aviso que é simultaneamente consolador e aterrorizante: Faustina deve preparar o mundo para a **Segunda Vinda**, que será não como Misericórdia, mas como **Justiça**. E a Mãe de Deus lhe adverte: **"Se agora te calares, terás que responder por um grande número de almas naquele dia terrível"**. A missão da Misericórdia não é apenas uma devoção entre outras — é a oferta de Deus à humanidade antes que o tempo da misericórdia se encerre.
 
 
 ---
-
-## Parte 11
 
 # Diário de Santa Faustina: O Cenáculo, a Visão do Inferno e a Missão dos Escritores (Expansão Editorial Profunda)
 
 ## Caderno II: O Retorno a Cracóvia e os Sacerdotes como Relâmpagos de Fogo
 
-O décimo primeiro lote do Diário (entradas 650-750 aproximadamente) marca o retorno de Faustina a Cracóvia em maio de 1936. A Madre Geral Michael despede-se dela com uma bênção que reflete uma compreensão sobrenatural do seu destino: **"Irmã, eu a encerro no tabernáculo com o Senhor Jesus; para onde for dali, essa será a vontade de Deus"**. Estar "encerrada no tabernáculo" é a síntese da vocação de Faustina: sua vida não é mais sua — pertence total e exclusivamente ao Deus Eucarístico.
+O décimo primeiro período do Diário (entradas 650-750 aproximadamente) marca o retorno de Faustina a Cracóvia em maio de 1936. A Madre Geral Michael despede-se dela com uma bênção que reflete uma compreensão sobrenatural do seu destino: **"Irmã, eu a encerro no tabernáculo com o Senhor Jesus; para onde for dali, essa será a vontade de Deus"**. Estar "encerrada no tabernáculo" é a síntese da vocação de Faustina: sua vida não é mais sua — pertence total e exclusivamente ao Deus Eucarístico.
 
 Durante uma celebração jesuíta em Cracóvia, Faustina recebe uma das visões mais apostólicas do Diário: ela vê os padres **Sopoćko e Andrasz** segurando penas de escrever de onde jorravam **relâmpagos e labaredas de fogo** que atingiam uma vasta multidão (657). As pessoas tocadas por esta luz voltavam-se imediatamente para Jesus. A mensagem é clara: os escritos e as pregações sobre a Divina Misericórdia possuem um poder de conversão que transcende a eloquência humana. Sopoćko e Andrasz não são apenas confessores de uma freira mística — são "administradores" de um fogo divino que incendiará o mundo. Esta visão constitui a legitimação sobrenatural de toda a obra literária e homilética que ambos os sacerdotes empreenderiam nas décadas seguintes.
 
@@ -557,20 +533,18 @@ Faustina acrescenta uma observação pastoral de importância capital: **a maior
 
 ### As Três Formas de Misericórdia: Ato, Palavra e Oração
 
-Neste lote, Jesus codifica de forma definitiva os **três graus de exercício da misericórdia** que Faustina deve viver e ensinar ao mundo (742): por **atos** (obras concretas de caridade e serviço), por **palavras** (consolo, instrução, encorajamento) e por **oração** (intercessão, que penetra onde o corpo e a voz não alcançam). Ele insiste que a fé mais profunda não vale nada sem a expressão em obras — ecoando Tiago 2,17: "a fé sem obras é morta". Este triplo mandato é o programa de ação apostólica para todos os devotos da Misericórdia, não apenas para as futuras religiosas da nova Congregação.
+Neste período, Jesus codifica de forma definitiva os **três graus de exercício da misericórdia** que Faustina deve viver e ensinar ao mundo (742): por **atos** (obras concretas de caridade e serviço), por **palavras** (consolo, instrução, encorajamento) e por **oração** (intercessão, que penetra onde o corpo e a voz não alcançam). Ele insiste que a fé mais profunda não vale nada sem a expressão em obras — ecoando Tiago 2,17: "a fé sem obras é morta". Este triplo mandato é o programa de ação apostólica para todos os devotos da Misericórdia, não apenas para as futuras religiosas da nova Congregação.
 
-O caderno também registra ataques abertos de Satanás durante os momentos de escrita: enquanto Faustina registrava as revelações sobre a misericórdia, os demônios tentaram fisicamente destruir a proteção de sua cela (746). A sua serenidade diante do ataque — "o miserável nada pode fazer sem a permissão divina" — revela a maturidade espiritual de quem já atravessou todas as formas de noite escura e emergiu do outro lado mais enraizada em Deus do que nunca. (2210 palavras aprox. total)
+O caderno também registra ataques abertos de Satanás durante os momentos de escrita: enquanto Faustina registrava as revelações sobre a misericórdia, os demônios tentaram fisicamente destruir a proteção de sua cela (746). A sua serenidade diante do ataque — "o miserável nada pode fazer sem a permissão divina" — revela a maturidade espiritual de quem já atravessou todas as formas de noite escura e emergiu do outro lado mais enraizada em Deus do que nunca.
 
 
 ---
-
-## Parte 12
 
 # Diário de Santa Faustina: O Termômetro do Amor, o Terço na Hora da Morte e a Confissão com Jesus (Expansão Editorial Profunda)
 
 ## Caderno II: O Impasse da Saída e o "Turíbulo de Fogo Escondido"
 
-O décimo segundo lote do Diário (entradas 750-850 aproximadamente) retrata o final de 1936, quando a questão da saída de Faustina de sua Congregação para fundar a nova obra atinge um ponto de máxima tensão. A Madre Geral Michael, agindo com prudência e temor legítimo de ilusões, exige um **sinal inequívoco de Jesus** antes de permitir qualquer movimento institucional (787). Alguns confessores aconselham cautela extrema; outros insinuam que toda a experiência é patológica. Faustina, no centro deste furacão de opiniões contraditórias, faz algo inesperado: mergulha numa paz total. Ela declara a Jesus: **"Tudo agora depende de Vós. Eu fiz tudo o que estava ao meu alcance"** (792).
+O décimo segundo período do Diário (entradas 750-850 aproximadamente) retrata o final de 1936, quando a questão da saída de Faustina de sua Congregação para fundar a nova obra atinge um ponto de máxima tensão. A Madre Geral Michael, agindo com prudência e temor legítimo de ilusões, exige um **sinal inequívoco de Jesus** antes de permitir qualquer movimento institucional (787). Alguns confessores aconselham cautela extrema; outros insinuam que toda a experiência é patológica. Faustina, no centro deste furacão de opiniões contraditórias, faz algo inesperado: mergulha numa paz total. Ela declara a Jesus: **"Tudo agora depende de Vós. Eu fiz tudo o que estava ao meu alcance"** (792).
 
 Ela se oferece para ser um **"turíbulo de fogo escondido"** — uma metáfora que sintetiza a sua vocação: o turíbulo contém as brasas que produzem o incenso agradável a Deus, mas está oculto dentro do templo, invisível à multidão. Faustina aceita igualmente o cálice da partida e o da permanência, pois compreendeu que a vontade de Deus é mais preciosa do que qualquer realização externa. Ela articula neste contexto a doutrina do **"termômetro do amor"**: o sofrimento é a temperatura que mede a intensidade do amor na alma. Quanto mais alto o termômetro marca, mais intenso é o amor que o sustenta — e paradoxalmente, quanto mais a alma ama o sofrimento, menos ele dói, porque o amor o transforma de penitência em delícia.
 
@@ -580,7 +554,7 @@ Jesus ensina a Faustina uma lei espiritual fundamental: **a fidelidade às peque
 
 ## O Poder do Terço na Hora da Morte: O Primeiro Uso "Oficial"
 
-Um dos marcos mais historicamente significativos deste lote é o primeiro uso documentado do **Terço da Divina Misericórdia junto a um moribundo** (810). Faustina é despertada durante a noite por uma voz interior que a convida a rezar por uma alma em agonia. Ela reza o Terço completo, oferecendo cada dezena pela alma desconhecida. No dia seguinte, ao acompanhar o falecimento de um paciente no sanatório de Prądnik, ela testemunha a promessa de Jesus cumprindo-se materialmente: a alma parte numa paz que contrasta violentamente com as convulsões que a precederam.
+Um dos marcos mais historicamente significativos deste período é o primeiro uso documentado do **Terço da Divina Misericórdia junto a um moribundo** (810). Faustina é despertada durante a noite por uma voz interior que a convida a rezar por uma alma em agonia. Ela reza o Terço completo, oferecendo cada dezena pela alma desconhecida. No dia seguinte, ao acompanhar o falecimento de um paciente no sanatório de Prądnik, ela testemunha a promessa de Jesus cumprindo-se materialmente: a alma parte numa paz que contrasta violentamente com as convulsões que a precederam.
 
 Jesus reitera com solenidade a promessa que está no coração deste sacramentale: **"Na hora da morte, defenderei como Minha própria glória cada alma que rezar este Terço, ou junto a quem ele for rezado"** (811). Ele explica a mecânica sobrenatural: quando o Terço é rezado junto a um leito de morte, a **ira de Deus se aplaca** e um "oceano ilimitado de misericórdia" envolve a alma agonizante. O Terço não é uma fórmula mágica, mas a re-apresentação do Sacrifício da Cruz diante do trono do Pai no momento mais decisivo da existência humana.
 
@@ -602,18 +576,16 @@ Neste período, Jesus manifesta uma dor particular pela **Rússia** (818): uma n
 
 Em 9 de dezembro, Faustina é internada definitivamente em Prądnik para um tratamento de três meses (829). Ela chama este período de sua "vida carmelita" — uma referência à clausura involuntária que a doença lhe impôs, mas que ela abraçou como uma nova forma de contemplação. Maria Santíssima torna-se sua **instrutora pessoal para o Natal** (840), ensinando-a a preparar a estrebaria do coração com três "palhas": o silêncio interior, a humildade radical e o despojamento da autocomplacência.
 
-Maria dá um conselho que ecoa a espiritualidade dos grandes místicos carmelitas: **"Não saias do teu interior"**. Isto significa: comunicar-se com as criaturas apenas na medida do estritamente necessário, guardando o santuário da alma como o lugar onde o Verbo Encarnado deseja repousar. Faustina encerra este período meditando sobre o que ela chama de "ferida de amor" em seu coração — um segredo místico tão profundo que ela afirma que "nem mesmo os anjos o conhecem totalmente" e que a distingue de qualquer outra alma na economia da Redenção. (2205 palavras aprox. total)
+Maria dá um conselho que ecoa a espiritualidade dos grandes místicos carmelitas: **"Não saias do teu interior"**. Isto significa: comunicar-se com as criaturas apenas na medida do estritamente necessário, guardando o santuário da alma como o lugar onde o Verbo Encarnado deseja repousar. Faustina encerra este período meditando sobre o que ela chama de "ferida de amor" em seu coração — um segredo místico tão profundo que ela afirma que "nem mesmo os anjos o conhecem totalmente" e que a distingue de qualquer outra alma na economia da Redenção.
 
 
 ---
-
-## Parte 13
 
 # Diário de Santa Faustina: O Natal do Menino-Sofredor, o Canário do Inverno e o Selo dos Últimos Tempos (Expansão Editorial Profunda)
 
 ## Caderno II: O Natal de 1936 — A Encarnação e a Paixão como Mistério Único
 
-O décimo terceiro lote do Diário (entradas 850-950 aproximadamente) cobre o período de dezembro de 1936 a janeiro de 1937, vivido quase inteiramente no sanatório de Prądnik. O Natal de 1936 revela-se para Faustina um de seus momentos místicos mais reveladores. Após receber permissão médica para passar a festa na sua comunidade, ela percorre o caminho de volta como uma segunda "jornada a Belém" — identificando-se com Maria e José que chegam à cidade sem encontrar onde descansar. Na Missa do Galo, a experiência mística alcança o seu ponto culminante: Maria Santíssima **entrega o Menino Jesus nos braços de Faustina**. Ela O sustenta por um momento, contemplando a Divindade velada na fraqueza da infância.
+O décimo terceiro período do Diário (entradas 850-950 aproximadamente) cobre o período de dezembro de 1936 a janeiro de 1937, vivido quase inteiramente no sanatório de Prądnik. O Natal de 1936 revela-se para Faustina um de seus momentos místicos mais reveladores. Após receber permissão médica para passar a festa na sua comunidade, ela percorre o caminho de volta como uma segunda "jornada a Belém" — identificando-se com Maria e José que chegam à cidade sem encontrar onde descansar. Na Missa do Galo, a experiência mística alcança o seu ponto culminante: Maria Santíssima **entrega o Menino Jesus nos braços de Faustina**. Ela O sustenta por um momento, contemplando a Divindade velada na fraqueza da infância.
 
 Mas a visão sofre uma transformação súbita e aterrorizante: o Menino torna-se num instante o **Cristo adulto, desfigurado e sofredor**, com o rosto marcado pelos golpes da Paixão. Jesus não explica esta metamorfose — ela é a explicação em si mesma. A Encarnação e a Paixão não são dois mistérios separados ligados pela cronologia, mas um único e mesmo ato de amor que começa no presépio e só se completa no Calvário. Bethlehem já contém Gólgota. E Faustina, que segurou o Menino nos braços, está sendo preparada para segurar a Cruz.
 
@@ -647,24 +619,22 @@ Jesus responde com uma amorosa ironia que é também uma doutrina perfeitamente 
 
 ## As Resoluções de 1937: O Último Retoque do Artista Divino
 
-Faustina encerra este lote com um conjunto de **resoluções para o ano de 1937** que revelam a maturidade espiritual atingida após doze anos de vida religiosa intensa (897):
+Faustina encerra este período com um conjunto de **resoluções para o ano de 1937** que revelam a maturidade espiritual atingida após doze anos de vida religiosa intensa (897):
 
 - **Silêncio interior absoluto**: Nunca permitir que o ruído das criaturas invada o santuário recôndito da alma onde Deus habita.
 - **A imagem de Deus em cada irmã**: Tratar cada religiosa, independentemente de sua atitude para com ela, como sacramento vivo da presença divina.
 - **Cada dia como o último**: Viver cada momento com a sobriedade e fervura de quem sabe que a qualquer momento pode ser chamada ao encontro definitivo.
 
-Ela aguarda o que chama de **"o último retoque do Artista Divino"** em sua alma — a morte, que não é um fim mas a consumação da canção da misericórdia que ela começou a entoar na terra. O sanatório tornou-se para ela um vestíbulo do céu: um lugar onde o corpo se desintegra lentamente enquanto a alma, livre das suas amarras materiais, cresce em transparência perante Deus. (2220 palavras aprox. total)
+Ela aguarda o que chama de **"o último retoque do Artista Divino"** em sua alma — a morte, que não é um fim mas a consumação da canção da misericórdia que ela começou a entoar na terra. O sanatório tornou-se para ela um vestíbulo do céu: um lugar onde o corpo se desintegra lentamente enquanto a alma, livre das suas amarras materiais, cresce em transparência perante Deus.
 
 
 ---
-
-## Parte 14
 
 # Diário de Santa Faustina: O Holocausto da Vontade, o Batismo da Judia e as Almas Escolhidas (Expansão Editorial Profunda)
 
 ## Caderno II: O Batismo Oculto — Milagre de Intercessão em Prądnik
 
-O décimo quarto lote do Diário (entradas 950-1050 aproximadamente) abre com um dos episódios mais narrativamente dramáticos de todo o texto: a conversão e o batismo secreto de uma **mulher judia agonizante** no sanatório de Prądnik (916). Faustina, movida por uma angústia espiritual crescente ao ver aquela alma prestes a partir sem o conhecimento de Cristo, aplica sobre ela discretamente a estampa da Imagem da Divina Misericórdia.
+O décimo quarto período do Diário (entradas 950-1050 aproximadamente) abre com um dos episódios mais narrativamente dramáticos de todo o texto: a conversão e o batismo secreto de uma **mulher judia agonizante** no sanatório de Prądnik (916). Faustina, movida por uma angústia espiritual crescente ao ver aquela alma prestes a partir sem o conhecimento de Cristo, aplica sobre ela discretamente a estampa da Imagem da Divina Misericórdia.
 
 A situação era humanamente impossível: a família judia da paciente mantinha uma vigília constante junto ao leito, tornando qualquer gesto de evangelização explícita impossível e potencialmente explosivo. Faustina não recorre à persuasão, mas à **oração de confiança absoluta** na promessa de Jesus sobre o poder da Imagem. No momento exato da agonia final, uma confluência fortuita de movimentos — médicos chamados por uma emergência, familiares momentaneamente distraídos — criou uma janela de segundos durante a qual a freira enfermeira derramou discretamente as águas batismais sobre a cabeça da mulher. 
 
@@ -672,7 +642,7 @@ Faustina viu, em visão espiritual simultânea, a alma da mulher **ascender ao c
 
 ### O "Holocausto da Vontade": O Maior Sacrifício Possível
 
-Jesus revela neste lote uma hierarquia das asceses que inverte as categorias populares de espiritualidade rigorosa (923). O maior sacrifício possível não é o jejum prolongado, a flagelação ou a vigília noturna — é o **"holocausto da vontade"**: a entrega total do próprio juízo e desejo à direção dos superiores. Jesus explica que Ele conduzirá a vida de Faustina de tal modo que muitas vezes lhe dará ordens diretas e depois permitirá que os superiores as atrasem ou impeçam temporariamente. Este aparente paradoxo — Deus pede algo e ao mesmo tempo levanta obstáculos através dos Seus representantes — é precisamente o cadinho onde a alma é purificada na obediência mais profunda: a obediência que ocorre quando a criatura escolhe obedecer ao homem mesmo quando isso parece contradizer a voz do próprio Deus.
+Jesus revela neste período uma hierarquia das asceses que inverte as categorias populares de espiritualidade rigorosa (923). O maior sacrifício possível não é o jejum prolongado, a flagelação ou a vigília noturna — é o **"holocausto da vontade"**: a entrega total do próprio juízo e desejo à direção dos superiores. Jesus explica que Ele conduzirá a vida de Faustina de tal modo que muitas vezes lhe dará ordens diretas e depois permitirá que os superiores as atrasem ou impeçam temporariamente. Este aparente paradoxo — Deus pede algo e ao mesmo tempo levanta obstáculos através dos Seus representantes — é precisamente o cadinho onde a alma é purificada na obediência mais profunda: a obediência que ocorre quando a criatura escolhe obedecer ao homem mesmo quando isso parece contradizer a voz do próprio Deus.
 
 Jesus consolida a garantia: **"O que os superiores não conseguirem fazer, Eu mesmo realizarei diretamente na tua alma"** (924). A vontade divina não é obstaculizada pela obediência — é servida por ela, porque a obediência faz a alma descansada na Providência e disponível para que Deus aja sem as interferências do ego.
 
@@ -698,18 +668,16 @@ Esta Ladainha não é apenas uma composição poética. É uma **terapia espirit
 
 Num epísódio de suprema discrição e humor espiritual, Faustina revela que, enquanto fazia crochet no sanatório, pediu a Jesus **uma conversão para cada ponto dado com a agulha** (949). Jesus sorri da audácia do pedido — cada ponto era minúsculo, mas a soma de pontos em horas de trabalho poderia representar milhares — e aceita a oferta porque o trabalho estava "selado pela obediência". Este episódio ilumina a sua convicção fundamental: o trabalho manual realizado em estado de oração não é uma pausa da vida espiritual, mas uma extensão dela. O crochet de Faustina era, para ela, uma metralhadora de intercessão.
 
-Em outro momento, após uma união profunda com Deus na oração, o médico de Prądnik fica atônito ao medir o seu pulso (954): a aceleração cardíaca era tão anormal que ele não encontrava explicação clínica. Faustina simplesmente sorri, informando-o que estava "morrendo de saudades de Deus". Nenhum remédio terrestre poderia curar esta "ferida de amor divino" — que não era uma patologia, mas o sinal de uma intimidade com Deus que o corpo humano mal conseguia suportar. (2215 palavras aprox. total)
+Em outro momento, após uma união profunda com Deus na oração, o médico de Prądnik fica atônito ao medir o seu pulso (954): a aceleração cardíaca era tão anormal que ele não encontrava explicação clínica. Faustina simplesmente sorri, informando-o que estava "morrendo de saudades de Deus". Nenhum remédio terrestre poderia curar esta "ferida de amor divino" — que não era uma patologia, mas o sinal de uma intimidade com Deus que o corpo humano mal conseguia suportar.
 
 
 ---
-
-## Parte 15
 
 # Diário de Santa Faustina: Os Esponsais Espirituais, a Semana Santa de 1937 e a Festa da Misericórdia (Expansão Editorial Profunda)
 
 ## Caderno III: O Encerramento do Segundo Caderno e os Esponsais Espirituais
 
-O décimo quinto lote do Diário (entradas 1050-1150 aproximadamente) abre com o encerramento do Segundo Caderno em março de 1937. Faustina fecha este caderno com uma nota de exaustão física profunda, mas de serena vitória espiritual. A doença tinha avançado impiedosamente, mas a alma estava mais clara e mais firme do que nunca.
+O décimo quinto período do Diário (entradas 1050-1150 aproximadamente) abre com o encerramento do Segundo Caderno em março de 1937. Faustina fecha este caderno com uma nota de exaustão física profunda, mas de serena vitória espiritual. A doença tinha avançado impiedosamente, mas a alma estava mais clara e mais firme do que nunca.
 
 Jesus manifesta neste período uma impaciência divina específica com as **"almas tagarelas"** (1069). Ele explica que o ruído constante das palavras inúteis cria um véu entre a alma e Sua voz: **"O barulho incessante Me cansa, e no meio dele, a alma não consegue perceber a Minha fala"**. Esta queixa de Jesus revela algo profundo sobre a natureza da oração contemplativa: não é que Deus fale menos às almas dispersas — é que a dispersão interior cria uma surdez espiritual. A palavra de Deus está sempre pronunciada; o silêncio é a condição para a escuta.
 
@@ -739,7 +707,7 @@ Jesus, em resposta, **deixa de aparecer visivelmente por um período** — não 
 
 ## O Domingo da Misericórdia de 1937: A Plenitude da Promessa
 
-O ápice deste lote é a celebração do **Domingo da Misericórdia** em 4 de abril de 1937 (1083). Faustina registra uma das uniões trinitárias mais explícitas do Diário: ela experimenta interiormente a presença simultânea das Três Pessoas Divinas — o Pai como Fonte, o Filho como Misericórdia encarnada, o Espírito Santo como a Chama que tudo transforma. Jesus faz um apelo que Faustina é incumbida de transmitir à humanidade inteira: **"Diz à humanidade sofredora que se aninhe no Meu Coração Misericordioso, e Eu a encherei de paz"** (1074).
+O ápice deste período é a celebração do **Domingo da Misericórdia** em 4 de abril de 1937 (1083). Faustina registra uma das uniões trinitárias mais explícitas do Diário: ela experimenta interiormente a presença simultânea das Três Pessoas Divinas — o Pai como Fonte, o Filho como Misericórdia encarnada, o Espírito Santo como a Chama que tudo transforma. Jesus faz um apelo que Faustina é incumbida de transmitir à humanidade inteira: **"Diz à humanidade sofredora que se aninhe no Meu Coração Misericordioso, e Eu a encherei de paz"** (1074).
 
 Jesus define neste dia dois modos completamente diferentes pelos quais Ele se aproximará das almas **na hora da morte**:
 - Para a alma que propagou a Sua misericórdia durante a vida: Ele virá como **Salvador** — e protegê-la-á como uma mãe defende o seu recém-nascido.
@@ -751,18 +719,16 @@ A urgência desta distinção define toda a lógica do apostolado da Misericórd
 
 Em 10 de abril, Faustina recebe um exemplar do *Semanário de Vilnius* enviado pelo Pe. Sopoćko contendo um artigo sobre a Divina Misericórdia (1097). Ela lê ali as suas próprias palavras — as mensagens de Jesus — citadas e comentadas publicamente pela primeira vez. A alegria é real e genuína: a obra cresce, as sementes germinam além das fronteiras de Vilnius. Mas Jesus usa este momento de consolação para um ensinamento sobre o **orgulho disfarçado de virtude** (1098). Ao tentar praticar a humildade contando apenas com as suas próprias forças — sem pedir a graça de Deus a cada passo — ela cai dez vezes mais profundamente no amor-próprio do que antes de a praticar.
 
-Jesus explica com uma mansidão firme: **"Estavas contando demasiado contigo mesma e pouco Comigo"** (1107). Esta sentença contém toda a pedagogia espiritual de Faustina: a virtude praticada com confiança nas próprias forças é uma contrafação mais perigosa do que a falta aberta, porque engana a alma sobre donde vem o bem. Faustina compreende que a sua fraqueza não é um obstáculo à santidade — é o abismo onde a misericórdia deve atuar livremente, sem a concorrência do ego. (2215 palavras aprox. total)
+Jesus explica com uma mansidão firme: **"Estavas contando demasiado contigo mesma e pouco Comigo"** (1107). Esta sentença contém toda a pedagogia espiritual de Faustina: a virtude praticada com confiança nas próprias forças é uma contrafação mais perigosa do que a falta aberta, porque engana a alma sobre donde vem o bem. Faustina compreende que a sua fraqueza não é um obstáculo à santidade — é o abismo onde a misericórdia deve atuar livremente, sem a concorrência do ego.
 
 
 ---
-
-## Parte 16
 
 # Diário de Santa Faustina: A Liberdade como Cadinho, o Ódio de Satanás e a Arquitetura Tripartite da Misericórdia (Expansão Editorial Profunda)
 
 ## Caderno III: O Dilema da Liberdade — Quando o Dom da Escolha se Torna Prova
 
-O décimo sexto lote do Diário (entradas 1150-1250 aproximadamente) transcorre em maio-julho de 1937 e contém um dos paradoxos mais desconcertantes de toda a narrativa. A Madre Geral Michael, num gesto de confiança sem reservas, concede a Faustina **liberdade total para escolher**: ficar na Congregação atual ou partir para fundar a nova obra (1109). Para qualquer alma religiosa, esta liberdade deveria ser a resolução ansiada anos a fio. Para Faustina, ela se torna o mayor cadinho que já enfrentou.
+O décimo sexto período do Diário (entradas 1150-1250 aproximadamente) transcorre em maio-julho de 1937 e contém um dos paradoxos mais desconcertantes de toda a narrativa. A Madre Geral Michael, num gesto de confiança sem reservas, concede a Faustina **liberdade total para escolher**: ficar na Congregação atual ou partir para fundar a nova obra (1109). Para qualquer alma religiosa, esta liberdade deveria ser a resolução ansiada anos a fio. Para Faustina, ela se torna o mayor cadinho que já enfrentou.
 
 Sempre que ela tenta dar os passos concretos para a partida, é atingida por uma **escuridão espiritual** tão densa e paralisante que se sente como se caminhasse para o abismo. A paz que sempre acompanhou as graças genuínas desaparece completamente. A Madre Michael, ao observar estes estados, pronuncia o diagnóstico com clareza apostólica: **"Essa tua saída é uma tentação"**. Faustina compreende de repente que o demônio é suficientemente astuto para usar o desejo por um bem real (a fundação da obra de Deus) como instrumento de perturbação, confusão e precipitação. A paz é o critério infalível: onde há paz, há a vontade de Deus; onde há só urgência ansiosa, provavelmente está o inimigo.
 
@@ -776,7 +742,7 @@ Esta revelação infunde em Faustina uma urgência renovada pelo trabalho consta
 
 ## O Poder do Terço na Ordem Natural: A Chuva Milagrosa
 
-O Terço da Divina Misericórdia demonstra neste lote o seu poder não apenas sobre as almas, mas também sobre a **ordem natural da criação** (1128). Durante uma seca severa que afligia os campos ao redor de Cracóvia, Faustina reza o Terço ininterruptamente durante três horas sob um sol escaldante, unindo o esforço físico da postura à perseverança espiritual da oração. Antes do jantar, o céu escurece e uma chuva torrencial cai, regando completamente a terra seca.
+O Terço da Divina Misericórdia demonstra neste período o seu poder não apenas sobre as almas, mas também sobre a **ordem natural da criação** (1128). Durante uma seca severa que afligia os campos ao redor de Cracóvia, Faustina reza o Terço ininterruptamente durante três horas sob um sol escaldante, unindo o esforço físico da postura à perseverança espiritual da oração. Antes do jantar, o céu escurece e uma chuva torrencial cai, regando completamente a terra seca.
 
 Jesus confirma com uma promessa universal: **"Pode-se obter tudo por meio desta oração"** (1731). A afirmação é absoluta na sua simplicidade, e Faustina não a comenta com reservas. O Terço, na teologia do Diário, reapresenta ao Pai Eterno o Sacrifício do Filho — e o Pai não pode resistir ao valor redentor do Seu próprio Filho quando lhe é assim oferecido.
 
@@ -802,18 +768,16 @@ A obra de Faustina, portanto, não é apenas devocional — é estrategicamente 
 
 No final de julho de 1937, Faustina é enviada para a estância de montanha de **Rabka** em busca de alívio para a tuberculose avançada (1173). A experiência revela-se o oposto do esperado: o ar das montanhas, em vez de a aliviar, agrava os sintomas. Em meio a dores físicas que a imobilizam completamente, aparece **São José** com uma instrução devocional específica: a rezar diariamente o "Pai Nosso, Ave Maria, Glória ao Pai e Lembrai-vos" em sua honra. O Patriarca garante que está a apoiar pessoalmente a Obra da Misericórdia no plano celestial, funcionando como um protetor da obra que Jesus havia encomendado à sua "secretária".
 
-Jesus consola Faustina com um dos ensinamentos sobre a misericórdia mais inclusivos de todo o Diário: **"Sabe que, quanto maior a miséria de uma alma, maior é o seu direito à Minha misericórdia. Na Cruz, a fonte da Minha misericórdia foi aberta de par em par pela lança para todas as almas — a ninguém excluí!"** (1182). Esta frase é a antítese teológica do jansenismo e de qualquer espiritualidade do "pequeno rebanho eleito": a misericórdia de Cristo na Cruz não foi calibrada por mérito — foi derramada sem reservas, sem condições prévias, sobre a totalidade da miséria humana. (2215 palavras aprox. total)
+Jesus consola Faustina com um dos ensinamentos sobre a misericórdia mais inclusivos de todo o Diário: **"Sabe que, quanto maior a miséria de uma alma, maior é o seu direito à Minha misericórdia. Na Cruz, a fonte da Minha misericórdia foi aberta de par em par pela lança para todas as almas — a ninguém excluí!"** (1182). Esta frase é a antítese teológica do jansenismo e de qualquer espiritualidade do "pequeno rebanho eleito": a misericórdia de Cristo na Cruz não foi calibrada por mérito — foi derramada sem reservas, sem condições prévias, sobre a totalidade da miséria humana.
 
 
 ---
-
-## Parte 17
 
 # Diário de Santa Faustina: O Martírio das Entranhas, o Querubim no Portão e o Ato de Oblação Final (Expansão Editorial Profunda)
 
 ## Caderno IV: O Último Grande Período — Agosto a Outubro de 1937
 
-O décimo sétimo e último lote dos batches iniciais (entradas 1250-1370 aproximadamente) abre em agosto de 1937 com Faustina de regresso de Rabka a Cracóvia, num estado de fragilidade física que não mais admitia ilusões sobre o seu futuro terreno. A tuberculose havia comprometido definitivamente os pulmões. Cada refeição era um desafio; cada escada, uma conquista. O Caderno IV é o Diário de uma mulher que escreve com a pluma numa mão e a morte na ponta dos dedos.
+O décimo sétimo e último período dos batches iniciais (entradas 1250-1370 aproximadamente) abre em agosto de 1937 com Faustina de regresso de Rabka a Cracóvia, num estado de fragilidade física que não mais admitia ilusões sobre o seu futuro terreno. A tuberculose havia comprometido definitivamente os pulmões. Cada refeição era um desafio; cada escada, uma conquista. O Caderno IV é o Diário de uma mulher que escreve com a pluma numa mão e a morte na ponta dos dedos.
 
 Jesus a consola com uma verdade que reformula toda a sua compreensão da aridez espiritual: os períodos de "nada", nos quais Deus parece completamente ausente e a alma se sente um "muro impenetrável", são **permitidos por Deus para que a alma aprenda o endereço da Graça** (1253). Quando a consolação é constante, a alma pode confundir as suas próprias capacidades com os dons divinos. A aridez remove todas as ilusões: o que permanece quando nada mais funciona — essa é a graça pura e insubstituível. O Pe. Andrasz reforça este ensinamento, instruindo-a a ser fiel nos exercícios espirituais mesmo quando toda a oração pareça bater num "muro" — pois é precisamente esta fidelidade sem recompensa sensível que constrói o alicerce mais sólido da vida espiritual.
 
@@ -823,7 +787,7 @@ Jesus reitera neste período um dos princípios mais radicais da espiritualidade
 
 ## A Novena à Divina Misericórdia: Os Últimos Dois Dias
 
-As instruções de Jesus sobre a **Novena à Divina Misericórdia** atingem neste lote os seus dois grupos mais teologicamente densos. O **oitavo dia** é dedicado às **almas do Purgatório** (1226): Jesus revela que estas almas amam-no com uma intensidade que ultrapassa muitas das almas ainda na terra, pois já não têm a névoa do pecado a obscurecer a visão de Sua beleza, mas sofrem ao ver esta beleza sem ainda poderem habitá-la plenamente. Faustina é incumbida de lhes oferecer a misericórdia de Jesus em toda a sua extensão, pedindo que sejam purificadas pelo Sangue da Aliança.
+As instruções de Jesus sobre a **Novena à Divina Misericórdia** atingem neste período os seus dois grupos mais teologicamente densos. O **oitavo dia** é dedicado às **almas do Purgatório** (1226): Jesus revela que estas almas amam-no com uma intensidade que ultrapassa muitas das almas ainda na terra, pois já não têm a névoa do pecado a obscurecer a visão de Sua beleza, mas sofrem ao ver esta beleza sem ainda poderem habitá-la plenamente. Faustina é incumbida de lhes oferecer a misericórdia de Jesus em toda a sua extensão, pedindo que sejam purificadas pelo Sangue da Aliança.
 
 O **nono dia** — o mais desconcertante teologicamente — é dedicado às **almas tíbias** (1228). Jesus revela que estas o causaram o maior asco e repulsa no Jardim das Oliveiras, sendo precisamente as que O forçaram a clamar ao Pai pelo afastamento do cálice. As almas do "morno" — as que conhecem a verdade e escolhem a mediocridade, as que aceitaram a fé como identidade cultural mas recusam o seu custo — são, segundo este ensinamento, mais difíceis de salvar do que os pecadores confessos, porque estes ainda sentem a necessidade de Deus enquanto os tíbios se iludem com uma auto-suficiência espiritual de aparência devota.
 
@@ -853,18 +817,16 @@ O desapego do Ato de Oblação é imediatamente testado pela visita da sua mãe 
 
 A Virgem Maria aparece na Festa da Assunção cobrindo toda a nascente Congregação com o seu **manto protetor** (1244). Ela promete que as irmãs que perseverarem zelosamente na Congregação serão poupadas do Purgatório ou do pior do Purgatório. Esta promessa é condicional — está vinculada à perseverança zelosa — mas é de uma extensão extraordinária: a maternidade de Maria sobre as filhas da nova obra inclui a sua protecção escatológica. Maria recomenda a Faustina três virtudes como pedras fundamentais da sua identidade espiritual: **a humildade que não confia em si mesma, a pureza que guarda o coração para Deus, e o amor a Deus que transborda em misericórdia para com o próximo**.
 
-Jesus encerra esta fase com uma das afirmações mais surpreendentemente consoladoras do Diário. Quando Faustina se lamenta por uma pequena imperfeição cometida após uma comunhão particularmente fervorosa, Jesus responde com uma inversão completa da sua auto-acusação: **"Se não fosse por essa pequena imperfeição, tu não terias vindo a Mim tão depressa"** (1293). A imperfeição, quando reconhecida e lamentada com amor, torna-se ela própria um caminho de retorno ao Coração de Cristo — confirmando que a misericórdia não espera a perfeição para agir, mas age precisamente na fragilidade que a reconhece como sua. (2225 palavras aprox. total)
+Jesus encerra esta fase com uma das afirmações mais surpreendentemente consoladoras do Diário. Quando Faustina se lamenta por uma pequena imperfeição cometida após uma comunhão particularmente fervorosa, Jesus responde com uma inversão completa da sua auto-acusação: **"Se não fosse por essa pequena imperfeição, tu não terias vindo a Mim tão depressa"** (1293). A imperfeição, quando reconhecida e lamentada com amor, torna-se ela própria um caminho de retorno ao Coração de Cristo — confirmando que a misericórdia não espera a perfeição para agir, mas age precisamente na fragilidade que a reconhece como sua.
 
 
 ---
-
-## Parte 18
 
 # Diário de Santa Faustina: O Retiro de Oito Dias e o Abismo da Misericórdia (Expansão Editorial Profunda)
 
 ## A Teologia da "Propriedade da Miséria" e a Instituição da Hora da Agonia
 
-O lote 18 inicia-se com uma reflexão teológica de Santa Faustina que toca o âmago de sua missão mística: a compreensão da **"Propriedade da Miséria"** (número 1318 do Diário). Faustina, em um momento de profunda iluminação interior, reconhece que a única coisa que ela possui verdadeiramente como sua, de forma intrínseca e pessoal, é a sua própria miséria e fraqueza. Tudo o que nela existe de bom, de virtuoso ou de luminoso é, na verdade, um empréstimo da Graça Divina. Esta constatação, longe de mergulhá-la na depressão ou no desânimo, torna-se para ela a fonte de uma liberdade espiritual inaudita. Jesus confirma esta intuição com palavras de um consolo infinito, explicando que a miséria da criatura é o maior estímulo para a Sua compaixão. Ele revela: *"Quanto maior a miséria, tanto maior o direito à Minha Misericórdia"*. Para o Senhor, a alma que se reconhece vazia e pequena é o "vaso perfeito" para ser preenchido com o oceano da Sua bondade. Faustina compreende que o seu "nada" é o local onde a Majestade de Deus prefere habitar.
+O período 18 inicia-se com uma reflexão teológica de Santa Faustina que toca o âmago de sua missão mística: a compreensão da **"Propriedade da Miséria"** (número 1318 do Diário). Faustina, em um momento de profunda iluminação interior, reconhece que a única coisa que ela possui verdadeiramente como sua, de forma intrínseca e pessoal, é a sua própria miséria e fraqueza. Tudo o que nela existe de bom, de virtuoso ou de luminoso é, na verdade, um empréstimo da Graça Divina. Esta constatação, longe de mergulhá-la na depressão ou no desânimo, torna-se para ela a fonte de uma liberdade espiritual inaudita. Jesus confirma esta intuição com palavras de um consolo infinito, explicando que a miséria da criatura é o maior estímulo para a Sua compaixão. Ele revela: *"Quanto maior a miséria, tanto maior o direito à Minha Misericórdia"*. Para o Senhor, a alma que se reconhece vazia e pequena é o "vaso perfeito" para ser preenchido com o oceano da Sua bondade. Faustina compreende que o seu "nada" é o local onde a Majestade de Deus prefere habitar.
 
 Neste mesmo período, Jesus entrega a Faustina as instruções definitivas sobre a **Hora da Misericórdia** (1320), fixada às três horas da tarde, o momento supremo da agonia na Cruz. Jesus pede que, nesse horário, Faustina se coloque em espírito sob a Sua Cruz, mergulhando no mistério do Seu abandono e de Sua Paixão. Ele afirma formalmente: *"Nesta hora, não recusarei nada à alma que Me pedir pelos méritos da Minha Paixão"*. Jesus descreve este momento como a hora de "grande misericórdia para o mundo inteiro", um parêntese no tempo onde a Justiça Divina se cala perante o clamor do Coração ferido. Ele instrui Faustina a fazer a Via-Sacra se as circunstâncias o permitirem, ou pelo menos a entrar na capela por um breve instante para adorar o Santíssimo Sacramento. Caso ela esteja impossibilitada de estar fisicamente no templo, Ele pede que ela se recolha internamente no local onde estiver, unindo-se ao Seu último suspiro. Faustina assume esta prática com uma fidelidade heróica, vendo nela a oportunidade diária de interceder pela salvação de milhões de pecadores que estão prestes a se perder.
 
@@ -888,7 +850,7 @@ Nos dias seguintes, Jesus ensina sobre o Corpo Místico da Igreja, revelando que
 
 A caridade prática de Faustina é testada no cadinho do sofrimento alheio. Ela relata a sua participação mística na agonia da **Irmã Domitila** (1360). Faustina, percebendo que a irmã estava em grande agonia espiritual e física, pede a Jesus para transferir para si mesma esse fardo. Durante várias horas, Faustina experimenta as dores e as trevas que afligiam a irmã, enquanto Domitila recupera a serenidade. A irmã falece às oito horas da noite do dia 15 de novembro, em uma paz profunda concedida através do "pagamento" místico de Faustina. Este episódio reafirma que a missão da Secretária da Misericórdia não é apenas falar de Deus, mas ser um canal de alívio e redenção para os outros.
 
-Jesus também dita a Faustina o início de uma novena por intenções globais: a santificação dos sacerdotes, a pureza das virgens e a conversão dos maiores pecadores do mundo. Ele revela que há almas que estão "por um fio" de caírem no abismo eterno e que apenas as orações de almas sacrificiais como a dela podem salvá-las. A alma é instruída a apresentar ao Senhor não apenas as suas virtudes, mas sobretudo as suas misérias, pois são estas que atraem o oceano da Misericórdia Divina. O lote encerra com Faustina contemplando o mistério de sua eleição: uma pobre camponesa chamada a segurar as rédeas da misericórdia sobre o mundo através de sua oração silenciosa e de seu sofrimento oculto. Ela se sente uma "gota no oceano", mas uma gota que contém o reflexo de todo o Sol da Misericórdia.
+Jesus também dita a Faustina o início de uma novena por intenções globais: a santificação dos sacerdotes, a pureza das virgens e a conversão dos maiores pecadores do mundo. Ele revela que há almas que estão "por um fio" de caírem no abismo eterno e que apenas as orações de almas sacrificiais como a dela podem salvá-las. A alma é instruída a apresentar ao Senhor não apenas as suas virtudes, mas sobretudo as suas misérias, pois são estas que atraem o oceano da Misericórdia Divina. O período encerra com Faustina contemplando o mistério de sua eleição: uma pobre camponesa chamada a segurar as rédeas da misericórdia sobre o mundo através de sua oração silenciosa e de seu sofrimento oculto. Ela se sente uma "gota no oceano", mas uma gota que contém o reflexo de todo o Sol da Misericórdia.
 
 ---
 
@@ -908,18 +870,16 @@ Estas regras preparam Faustina para a **Novena Global pela Misericórdia** (1361
 - **Pelas Almas dos Hereges e Cismáticos**: Para que retornem à unidade da Igreja.
 - **Pelas Almas das Crianças e dos Humildes**: Que mais se assemelham ao Menino Jesus.
 
-Faustina relata que, ao rezar estas intenções, ela vê torrentes de sangue e água saindo do Coração de Jesus e inundando cada um desses grupos. Ela compreende que a sua intercessão não é algo abstrato, mas uma ação física e espiritual que altera o curso das almas. O lote termina com uma meditação sobre a brevidade da vida e a urgência da caridade. Faustina escreve: *"O tempo é curto, e as almas morrem por falta de luz. Quero ser um farol de misericórdia para que nenhuma se perca nas trevas"*. Este senso de urgência é o que a impulsiona a continuar escrevendo e sofrendo, mesmo quando as suas forças físicas parecem tê-la abandonado por completo. Ela se vê como uma hóstia que já começou a ser fracionada para ser distribuída aos pecadores, simbolizando a sua entrega total e irrevogável. (2215 palavras aprox. total)
+Faustina relata que, ao rezar estas intenções, ela vê torrentes de sangue e água saindo do Coração de Jesus e inundando cada um desses grupos. Ela compreende que a sua intercessão não é algo abstrato, mas uma ação física e espiritual que altera o curso das almas. O período termina com uma meditação sobre a brevidade da vida e a urgência da caridade. Faustina escreve: *"O tempo é curto, e as almas morrem por falta de luz. Quero ser um farol de misericórdia para que nenhuma se perca nas trevas"*. Este senso de urgência é o que a impulsiona a continuar escrevendo e sofrendo, mesmo quando as suas forças físicas parecem tê-la abandonado por completo. Ela se vê como uma hóstia que já começou a ser fracionada para ser distribuída aos pecadores, simbolizando a sua entrega total e irrevogável.
 
 
 ---
-
-## Parte 19
 
 # Diário de Santa Faustina: O Mistério do Cadáver Vivo e o Tribunal da Misericórdia (Expansão Editorial Profunda)
 
 ## A Experidência Mística do "Cadáver Vivo" e o Sentido da Imolação
 
-O lote 19 do Diário de Santa Faustina revela um dos períodos de maior densidade mística e sofrimento físico de sua vida (final de 1937 e início de 1938). Faustina relata a aterradora e profunda experiência do **"Cadáver Vivo"** (número 1403). Durante o Natal de 1937, enquanto se encontrava em Pradnik, ela experimenta um estado de aniquilamento total onde sente o seu corpo como se estivesse em processo de decomposição e morte, exalando um odor espiritual de corrupção, enquanto a sua alma permanece plenamente lúcida e mergulhada na luz de Deus. Esta experiência não é meramente um sintoma de sua tuberculose avançada, mas uma participação mística na agonia de Jesus no Jardim das Oliveiras. Faustina descreve o horror de sentir o próprio "nada" e a finitude da carne, permitindo que Deus a esvazie completamente de qualquer apego ao seu próprio ser. Ela compreende que esta "morte mística" é necessária para que ela se torne uma hóstia pura de intercessão pelos pecadores que perdem o sentido da vida.
+O período 19 do Diário de Santa Faustina revela um dos períodos de maior densidade mística e sofrimento físico de sua vida (final de 1937 e início de 1938). Faustina relata a aterradora e profunda experiência do **"Cadáver Vivo"** (número 1403). Durante o Natal de 1937, enquanto se encontrava em Pradnik, ela experimenta um estado de aniquilamento total onde sente o seu corpo como se estivesse em processo de decomposição e morte, exalando um odor espiritual de corrupção, enquanto a sua alma permanece plenamente lúcida e mergulhada na luz de Deus. Esta experiência não é meramente um sintoma de sua tuberculose avançada, mas uma participação mística na agonia de Jesus no Jardim das Oliveiras. Faustina descreve o horror de sentir o próprio "nada" e a finitude da carne, permitindo que Deus a esvazie completamente de qualquer apego ao seu próprio ser. Ela compreende que esta "morte mística" é necessária para que ela se torne uma hóstia pura de intercessão pelos pecadores que perdem o sentido da vida.
 
 Jesus revela a Faustina que este estado de "aniquilamento" é o que Lhe dá a maior glória. Ele ensina que a alma que se vê como um cadáver em relação ao mundo está finalmente pronta para ser vivificada unicamente pelo Seu Espírito. Faustina escreve que, embora sinta o seu corpo como um fardo repugnante, a sua alma está "afogada na doçura divina". Ela louva a Deus por este "martírio silencioso", vendo nele o meio mais eficaz de salvar as almas que estão presas no desespero. O segredo desta força reside na sua confiança absoluta: ela se entrega ao Senhor como um material inerte nas mãos de um escultor, permitindo que as cinzas de seu sofrimento se transformem em diamantes de misericórdia para a Igreja.
 
@@ -946,21 +906,18 @@ No Natal de 1937, enquanto Faustina sofre no Sanatório de Pradnik, ela recebe v
 
 ## Síntese Teológica: A Eficácia da Misericórdia na Agonia Contemporânea
 
-A profundidade deste lote reside na aplicação prática da misericórdia às almas que se sentem "mortas" ou abandonadas. O conceito do **"Cadáver Vivo"** não é apenas uma curiosidade mística, mas uma metáfora para o estado de pecado mortal ou de depressão espiritual profunda. Faustina mostra que, mesmo quando a alma sente que já não tem vida própria, ela pode ser o palco da maior glória de Deus, desde que permita ser "carregada" pela vontade divina. Esta é a essência da espiritualidade da confiança (Trust/Ufność): a alma não precisa ter forças, ela só precisa não oferecer resistência à graça.
+A profundidade deste período reside na aplicação prática da misericórdia às almas que se sentem "mortas" ou abandonadas. O conceito do **"Cadáver Vivo"** não é apenas uma curiosidade mística, mas uma metáfora para o estado de pecado mortal ou de depressão espiritual profunda. Faustina mostra que, mesmo quando a alma sente que já não tem vida própria, ela pode ser o palco da maior glória de Deus, desde que permita ser "carregada" pela vontade divina. Esta é a essência da espiritualidade da confiança (Trust/Ufność): a alma não precisa ter forças, ela só precisa não oferecer resistência à graça.
 
-O **Tribunal da Misericórdia** (Confissão), detalhado por Jesus (1448), é apresentado como o remédio universal. Jesus insiste que a alma não deve se fixar em suas misérias, mas na Sua bondade. *"Não examines a tua miséria... olha para o Meu Coração"*, diz Ele. Esta instrução visa curar o escrúpulo e o desespero. Através dos **Quatro Diálogos**, Jesus fornece um roteiro pedagógico para cada etapa da vida espiritual. Para o pecador, o foco é o perdão; para o desesperado, é a esperança; para o sofredor, o sentido; e para o perfeito, a união. Faustina, ao registrar estes diálogos, cumpre o seu papel de Secretária ao sistematizar a oferta divina para todas as condições humanas. O lote encerra com uma oração heróica de Faustina: *"Jesus, transformai-me em Vós, para que eu seja a continuação da Vossa vida na terra"*. Ela compreende que o Natal de 1937 foi o início de sua própria "encarnação" no sofrimento redentor, preparando-a para os meses terminais de sua vida em 1938. (2230 palavras aprox. total)
- (2230 palavras aprox.)
+O **Tribunal da Misericórdia** (Confissão), detalhado por Jesus (1448), é apresentado como o remédio universal. Jesus insiste que a alma não deve se fixar em suas misérias, mas na Sua bondade. *"Não examines a tua miséria... olha para o Meu Coração"*, diz Ele. Esta instrução visa curar o escrúpulo e o desespero. Através dos **Quatro Diálogos**, Jesus fornece um roteiro pedagógico para cada etapa da vida espiritual. Para o pecador, o foco é o perdão; para o desesperado, é a esperança; para o sofredor, o sentido; e para o perfeito, a união. Faustina, ao registrar estes diálogos, cumpre o seu papel de Secretária ao sistematizar a oferta divina para todas as condições humanas. O período encerra com uma oração heróica de Faustina: *"Jesus, transformai-me em Vós, para que eu seja a continuação da Vossa vida na terra"*. Ela compreende que o Natal de 1937 foi o início de sua própria "encarnação" no sofrimento redentor, preparando-a para os meses terminais de sua vida em 1938.
 
 
 ---
-
-## Parte 20
 
 # Diário de Santa Faustina: O Combate das Almas Seráficas e a Humildade como Verdade (Expansão Editorial Profunda)
 
 ## A Batalha Espiritual e as Táticas contra o Príncipe das Trevas
 
-O lote 20 do Diário de Santa Faustina (início de 1938) mergulha de forma intensa na realidade do **combate espiritual**. Faustina descreve ataques diretos de Satã, que tenta desencorajá-la através da manipulação da virtude. O inimigo apresenta-se como um "anjo da luz" sugerindo que ela deve manter silêncio absoluto sobre as suas experiências místicas para não correr o risco da soberba ou de enganar os outros (1496). Jesus intervém prontamente para desmascarar esta farsa, revelando que o "silêncio do demônio" é uma tática para isolar a alma da direção espiritual segura. Ele ensina que a transparência total com o confessor é a arma mais poderosa contra as ciladas do inferno. O demônio odeia a luz da verdade e da obediência; por isso, Jesus pede que Faustina não oculte nada do seu diretor, pois a verdade a libertará.
+O período 20 do Diário de Santa Faustina (início de 1938) mergulha de forma intensa na realidade do **combate espiritual**. Faustina descreve ataques diretos de Satã, que tenta desencorajá-la através da manipulação da virtude. O inimigo apresenta-se como um "anjo da luz" sugerindo que ela deve manter silêncio absoluto sobre as suas experiências místicas para não correr o risco da soberba ou de enganar os outros (1496). Jesus intervém prontamente para desmascarar esta farsa, revelando que o "silêncio do demônio" é uma tática para isolar a alma da direção espiritual segura. Ele ensina que a transparência total com o confessor é a arma mais poderosa contra as ciladas do inferno. O demônio odeia a luz da verdade e da obediência; por isso, Jesus pede que Faustina não oculte nada do seu diretor, pois a verdade a libertará.
 
 Para equipar a Sua Secretária nesta guerra contínua, Jesus entrega as **Cinco Diretrizes Estratégicas para o Combate da Alma**:
 1. **Desconfiança de si mesma**: A alma deve reconhecer que, abandonada às suas próprias forças, ela cairia no primeiro tropeço. A força reside unicamente na base firme da consciência da própria fraqueza.
@@ -971,7 +928,7 @@ Para equipar a Sua Secretária nesta guerra contínua, Jesus entrega as **Cinco 
 
 ## A Humildade é a Verdade: A Realeza do Nada diante de Deus
 
-Uma das maiores lições de teologia espiritual presentes neste lote é a proclamação de Jesus: **"A humildade é apenas a verdade"** (1503). Faustina atinge um nível de compreensão onde percebe que ser humilde não consiste em fingir ser pior do que se é, mas em reconhecer com clareza absoluta e cortante quem somos nós e Quem é Deus. Ela entende que o orgulho é a maior das mentiras, pois rouba de Deus a glória que só a Ele pertence. A humildade permite que a alma se veja como ela é aos olhos do Criador: uma criatura amada, mas totalmente dependente da Sua misericórdia para cada batida do coração. Esta "pedagogia da verdade" permite que Faustina viva com uma serenidade régia, pois ela não tem mais nada a perder nem a esconder.
+Uma das maiores lições de teologia espiritual presentes neste período é a proclamação de Jesus: **"A humildade é apenas a verdade"** (1503). Faustina atinge um nível de compreensão onde percebe que ser humilde não consiste em fingir ser pior do que se é, mas em reconhecer com clareza absoluta e cortante quem somos nós e Quem é Deus. Ela entende que o orgulho é a maior das mentiras, pois rouba de Deus a glória que só a Ele pertence. A humildade permite que a alma se veja como ela é aos olhos do Criador: uma criatura amada, mas totalmente dependente da Sua misericórdia para cada batida do coração. Esta "pedagogia da verdade" permite que Faustina viva com uma serenidade régia, pois ela não tem mais nada a perder nem a esconder.
 
 Este estado de despojamento total dá a Faustina uma autoridade espiritual imensa. Ela suporta o desprezo de certas irmãs e as suspeitas de fingimento com um sorriso que confunde os soberbos. Ela compreende que as opiniões humanas são como folhas ao vento, enquanto o olhar de Deus é o único fundamento sólido. Jesus a elogia por este grau de humildade, afirmando que a Sua Divindade encontra um repouso perfeito na alma que se aniquila perante Ele. A "realeza do nada" é o que permite a Faustina comandar as graças do céu sobre os pecadores, pois Deus não pode recusar nada a uma alma que nada reclama para si mesma.
 
@@ -979,27 +936,25 @@ Este estado de despojamento total dá a Faustina uma autoridade espiritual imens
 
 Jesus revela a Faustina a existência de um grupo de elite espiritual que Ele denomina as **"Almas Seráficas"** (1556). Estas almas são chamadas a viver, já na peregrinação terrestre, o mesmo estado de amor, adoração e fogo interior que caracteriza os Serafins diante do trono de Deus no céu. Jesus explica que estas almas são os verdadeiros pilares que sustentam o mundo, servindo de para-raios contra a justiça divina que deveria cair sobre a humanidade por causa dos seus crimes atrozes. O amor dessas almas "queima" as ofensas do mundo, transformando a ira de Deus em misericórdia. O Seu desejo é que a terra seja povoada por estas "tochas vivas" que iluminam o caminho dos pecadores.
 
-Faustina abraça esta vocação com toda a força do seu ser. Ela descreve momentos de êxtase adoração onde sente o seu coração literalmente inflamado pelo desejo de ver Jesus amado por todas as criaturas. No entanto, ela esclarece que ser uma alma seráfica não a afasta das dores do mundo; pelo contrário, ela sente o sofrimento da humanidade com uma intensidade divina. Ela se oferece para ser a primeira dessas vítimas de amor, consumindo-se silenciosamente como um círio no tabernáculo. O lote termina com uma oração de Faustina pedindo que Jesus transforme todas as almas consagradas em "incendiárias da misericórdia", para que o fogo do Seu Coração purifique a face da terra antes que chegue o dia da justiça. (2215 palavras aprox.)
+Faustina abraça esta vocação com toda a força do seu ser. Ela descreve momentos de êxtase adoração onde sente o seu coração literalmente inflamado pelo desejo de ver Jesus amado por todas as criaturas. No entanto, ela esclarece que ser uma alma seráfica não a afasta das dores do mundo; pelo contrário, ela sente o sofrimento da humanidade com uma intensidade divina. Ela se oferece para ser a primeira dessas vítimas de amor, consumindo-se silenciosamente como um círio no tabernáculo. O período termina com uma oração de Faustina pedindo que Jesus transforme todas as almas consagradas em "incendiárias da misericórdia", para que o fogo do Seu Coração purifique a face da terra antes que chegue o dia da justiça.
 
 ---
 
 ## Estratégia Mística: O Triunfo da Humildade sobre a Ilusão
 
-A importância deste lote para a teologia da Divina Misericórdia reside na desmistificação do processo de santificação. Jesus mostra a Faustina que o combate espiritual não é um esforço de "automaestria" estóica, mas um exercício de **dependência amorosa**. A revelação de que a **Humildade é a Verdade** (1503) aniquila o perfeccionismo neurótico que aflige muitas almas religiosas. Faustina aprende que as suas quedas e fraquezas não são desastres, mas ocasiões para Deus manifestar o Seu poder. Esta é a "estratégia do nada": quanto menos a alma confia em si mesma, mais espaço ela abre para a onipotência divina.
+A importância deste período para a teologia da Divina Misericórdia reside na desmistificação do processo de santificação. Jesus mostra a Faustina que o combate espiritual não é um esforço de "autodomínio" estóica, mas um exercício de **dependência amorosa**. A revelação de que a **Humildade é a Verdade** (1503) aniquila o perfeccionismo neurótico que aflige muitas almas religiosas. Faustina aprende que as suas quedas e fraquezas não são desastres, mas ocasiões para Deus manifestar o Seu poder. Esta é a "estratégia do nada": quanto menos a alma confia em si mesma, mais espaço ela abre para a onipotência divina.
 
-As **Almas Seráficas**, longe de serem figuras etéreas e desvinculadas da realidade, são apresentadas como a linha de frente de uma guerra invisível. Faustina compreende que o seu amor silencioso no sanatório de Pradnik tem consequências geo-espirituais reais. Cada ato de aceitação da dor, cada silêncio diante de uma humilhação, é um "míssil espiritual" lançado contra o reino das trevas. Este lote prepara o terreno para a fase terminal de sua vida, onde o sofrimento físico se tornará absoluto, mas a sua vitória espiritual será completa. Faustina encerra estas reflexões com um voto de fidelidade total ao Espírito Santo, reconhecendo que só Ele pode manter a "tocha do amor" acesa nos momentos de maior escuridão. (2215 palavras aprox. total)
+As **Almas Seráficas**, longe de serem figuras etéreas e desvinculadas da realidade, são apresentadas como a linha de frente de uma guerra invisível. Faustina compreende que o seu amor silencioso no sanatório de Pradnik tem consequências geo-espirituais reais. Cada ato de aceitação da dor, cada silêncio diante de uma humilhação, é um "míssil espiritual" lançado contra o reino das trevas. Este período prepara o terreno para a fase terminal de sua vida, onde o sofrimento físico se tornará absoluto, mas a sua vitória espiritual será completa. Faustina encerra estas reflexões com um voto de fidelidade total ao Espírito Santo, reconhecendo que só Ele pode manter a "tocha do amor" acesa nos momentos de maior escuridão.
 
 
 
 ---
 
-## Parte 21
-
 # Diário de Santa Faustina: O Martírio Oculto e a Glória do Ofício de Secretária (Expansão Editorial Profunda)
 
 ## A Visão da "Mãe de Deus dos Sacerdotes" e a Miséria da Eucaristia Fria
 
-Santa Faustina abre o lote 21 com uma visão de profunda relevância para a vida eclesial e sacerdotal: a aparição da Santíssima Virgem Maria como a **"Mãe de Deus dos Sacerdotes"** (1585). No início de 1938, em meio ao agravamento de sua saúde, Maria apresenta-se com um brilho que transcende qualquer descrição terrena, vestindo uma túnica branca de luz e uma coroa cujas pontas terminam em cruzes resplandecentes. Ela instrui Faustina a falar especificamente sobre esta visão aos padres, reforçando que eles são os guardiões e os dispersores da Misericórdia Divina no mundo. Esta visão não é apenas uma honra estética, mas carrega o peso de uma responsabilidade tremenda. Contemporaneamente, Jesus revela à Sua Secretária a dor lancinante que sente quando entra em corações frios e indiferentes através da Sagrada Eucaristia. *"Entro em certos corações como em uma segunda Paixão"*, confessa o Senhor. Ele descreve a recepção da Comunhão sem amor ou por mero hábito como um tormento para a Sua Divindade, pedindo a Faustina atos de reparação heróica para consolar o Seu Coração pelas ofensas dos Seus próprios ministros e consagrados.
+Santa Faustina abre o período 21 com uma visão de profunda relevância para a vida eclesial e sacerdotal: a aparição da Santíssima Virgem Maria como a **"Mãe de Deus dos Sacerdotes"** (1585). No início de 1938, em meio ao agravamento de sua saúde, Maria apresenta-se com um brilho que transcende qualquer descrição terrena, vestindo uma túnica branca de luz e uma coroa cujas pontas terminam em cruzes resplandecentes. Ela instrui Faustina a falar especificamente sobre esta visão aos padres, reforçando que eles são os guardiões e os dispersores da Misericórdia Divina no mundo. Esta visão não é apenas uma honra estética, mas carrega o peso de uma responsabilidade tremenda. Contemporaneamente, Jesus revela à Sua Secretária a dor lancinante que sente quando entra em corações frios e indiferentes através da Sagrada Eucaristia. *"Entro em certos corações como em uma segunda Paixão"*, confessa o Senhor. Ele descreve a recepção da Comunhão sem amor ou por mero hábito como um tormento para a Sua Divindade, pedindo a Faustina atos de reparação heróica para consolar o Seu Coração pelas ofensas dos Seus próprios ministros e consagrados.
 
 Neste cenário de elevação mística e dor reparadora, Jesus reconfirma de forma solene o título e a missão de Faustina: **"Secretária da Minha Profunda Misericórdia"**. Ele garante que esta escolha é absoluta e eterna, e que nenhuma força humana ou espiritual poderá retirá-la deste ofício. Jesus exige que ela dedique todos os seus momentos de forças físicas para escrever as Suas palavras, pois estas servirão de conforto e guia para milhões de almas que, lendo sobre a Sua bondade, recuperarão a coragem de voltar ao Pai. Faustina, sentindo-se a menor e mais indigna das criaturas, aceita este fardo como uma "vítima de amor", consumindo-se silenciosamente para que a glória da Misericórdia resplandeça em todas as gerações futuras. Ela compreende que o seu "sim" é o que permite a Jesus operar milagres de conversão através de simples palavras registradas em um caderno de papel.
 
@@ -1015,23 +970,21 @@ Até mesmo os atos de cuidado externo tornam-se fontes de humilhação para a sa
 
 ## A Revelação da Santidade: "Não chores. Tu és essa Santa"
 
-O lote 21 contém um dos diálogos mais proféticos e comoventes de todo o Diário. Ao ler sobre a cerimônia de canonização de um santo em Roma, Faustina é tomada por uma tristeza súbita ao ver que em sua congregação parece não existir lugar para a santidade oficial. Ela chora diante do Senhor por essa carência de modelos em sua própria ordem. Jesus intervém com uma declaração que selará a posteridade: **"Não chores. Tu és essa santa"** (1650). Ele assegura que em breve o mundo reconhecerá a santidade de Sua Secretária e que os nomes pejorativos que lhe dão hoje (as irmãs usavam o termo "santa" como uma forma de sarcasmo para ridicularizá-la) serão pronunciados no futuro com a mais profunda veneração e fé. Jesus revela que Ele Mesmo é o escultor que está talhando a imagem da santidade nela através dos golpes da cruz e do sofrimento anônimo.
+O período 21 contém um dos diálogos mais proféticos e comoventes de todo o Diário. Ao ler sobre a cerimônia de canonização de um santo em Roma, Faustina é tomada por uma tristeza súbita ao ver que em sua congregação parece não existir lugar para a santidade oficial. Ela chora diante do Senhor por essa carência de modelos em sua própria ordem. Jesus intervém com uma declaração que selará a posteridade: **"Não chores. Tu és essa santa"** (1650). Ele assegura que em breve o mundo reconhecerá a santidade de Sua Secretária e que os nomes pejorativos que lhe dão hoje (as irmãs usavam o termo "santa" como uma forma de sarcasmo para ridicularizá-la) serão pronunciados no futuro com a mais profunda veneração e fé. Jesus revela que Ele Mesmo é o escultor que está talhando a imagem da santidade nela através dos golpes da cruz e do sofrimento anônimo.
 
-O lote encerra com o poema teológico de Faustina, intitulado **"Eu sou uma Hóstia"**. Nele, ela sistematiza a sua espiritualidade de imolação consciente: ela se vê como o trigo que deve ser moído pelas mós do sofrimento para se transformar no pão da misericórdia que alimentará as almas famintas de Deus. Ela sente-se mergulhada na Divindade como uma gota no oceano, perdendo a noção de si mesma para ganhar a plenitude de Cristo. Apesar do isolamento físico e da hostilidade do ambiente humano, Faustina respira a paz do céu, vendo a sua vida como um altar onde o fogo do amor divino arde sem cessar em favor dos pecadores mais perdidos. Ela prepara-se para a transição definitiva, certa de que a sua verdadeira missão começará quando o véu se rasgar e ela puder contemplar a Misericórdia face a face. (2245 palavras aprox.)
+O período encerra com o poema teológico de Faustina, intitulado **"Eu sou uma Hóstia"**. Nele, ela sistematiza a sua espiritualidade de imolação consciente: ela se vê como o trigo que deve ser moído pelas mós do sofrimento para se transformar no pão da misericórdia que alimentará as almas famintas de Deus. Ela sente-se mergulhada na Divindade como uma gota no oceano, perdendo a noção de si mesma para ganhar a plenitude de Cristo. Apesar do isolamento físico e da hostilidade do ambiente humano, Faustina respira a paz do céu, vendo a sua vida como um altar onde o fogo do amor divino arde sem cessar em favor dos pecadores mais perdidos. Ela prepara-se para a transição definitiva, certa de que a sua verdadeira missão começará quando o véu se rasgar e ela puder contemplar a Misericórdia face a face.
 
 ---
 
 ## Síntese do Martírio Institucional: A Solidão da Secretária
 
-Este lote é crucial para desconstruir a ideia de que a vida de Faustina foi um mar de consolações místicas. Pelo contrário, a sua santidade foi forjada na **solidão absoluta** de uma cela fria e negligenciada. A revelação de que Jesus a chama de "Santa" (1650) ocorre precisamente no momento em que ela é mais desprezada pelas suas irmãs de congregação. Este paradoxo é a assinatura da obra de Deus: Ele eleva o que o mundo descarta. A incompreensão das superioras e a negligência das enfermeiras não foram obstáculos, mas o "fogo purificador" que permitiu que Faustina escrevesse sobre a misericórdia com uma autoridade que não provinha de livros, mas da experiência vivida da agonia.
+Este período é crucial para desconstruir a ideia de que a vida de Faustina foi um mar de consolações místicas. Pelo contrário, a sua santidade foi forjada na **solidão absoluta** de uma cela fria e negligenciada. A revelação de que Jesus a chama de "Santa" (1650) ocorre precisamente no momento em que ela é mais desprezada pelas suas irmãs de congregação. Este paradoxo é a assinatura da obra de Deus: Ele eleva o que o mundo descarta. A incompreensão das superioras e a negligência das enfermeiras não foram obstáculos, mas o "fogo purificador" que permitiu que Faustina escrevesse sobre a misericórdia com uma autoridade que não provinha de livros, mas da experiência vivida da agonia.
 
-O poema **"Eu sou uma Hóstia"** resume o estado final de sua alma antes da morte. Faustina não quer apenas "sofrer"; ela quer ser "consumida". Ela entende que, para que a misericórdia chegue aos outros, a sua própria vida deve ser fragmentada e distribuída. O lote 21 é, portanto, o relato da "Passio Faustinae", preparando o leitor para os capítulos finais de 1938, onde a "Secretária" deixará de escrever com tinta para escrever com o seu último suspiro. (2245 palavras aprox. total)
+O poema **"Eu sou uma Hóstia"** resume o estado final de sua alma antes da morte. Faustina não quer apenas "sofrer"; ela quer ser "consumida". Ela entende que, para que a misericórdia chegue aos outros, a sua própria vida deve ser fragmentada e distribuída. O período 21 é, portanto, o relato da "Passio Faustinae", preparando o leitor para os capítulos finais de 1938, onde a "Secretária" deixará de escrever com tinta para escrever com o seu último suspiro.
 
 
 
 ---
-
-## Parte 22
 
 # Diário de Santa Faustina: O Serafim do Quarto 13 e a Profecia da Faísca Polonesa (Expansão Editorial Profunda)
 
@@ -1043,9 +996,9 @@ Um detalhe de extrema relevância teológica ocorre quando Faustina, num momento
 
 ## O Holocausto Consciente e a Missão de Salvar a Polônia
 
-No Domingo de Pascoela (Festa da Misericórdia), 24 de abril de 1938, Faustina realiza formalmente o seu **Ato de Holocausto** (1680). Com plena consciência e vontade, ela oferece a sua morte em união com a de Cristo por três propósitos fundamentais: primeiro, para que a Festa da Misericórdia seja proclamada em todo o mundo; segundo, para que os pecadores em agonia recorram à misericórdia divina; e terceiro, para que toda a Work (Obra) de Deus se realize segundo os desejos de Jesus, especialmente em relação ao Pe. Sopocko. Jesus aceita esta oferta total, conferindo a Faustina uma "liberdade espiritual" extraordinária, onde ela se sente propriedade exclusiva da Santíssima Trindade.
+No Domingo de Pascoela (Festa da Misericórdia), 24 de abril de 1938, Faustina realiza formalmente o seu **Ato de Holocausto** (1680). Com plena consciência e vontade, ela oferece a sua morte em união com a de Cristo por três propósitos fundamentais: primeiro, para que a Festa da Misericórdia seja proclamada em todo o mundo; segundo, para que os pecadores em agonia recorram à misericórdia divina; e terceiro, para que toda a Obra de Deus se realize segundo os desejos de Jesus, especialmente em relação ao Pe. Sopocko. Jesus aceita esta oferta total, conferindo a Faustina uma "liberdade espiritual" extraordinária, onde ela se sente propriedade exclusiva da Santíssima Trindade.
 
-É neste lote que surge a profecia mais emblemática para o destino da Europa e da Igreja: **A Faísca que Preparará o Mundo** (1732). Orando fervorosamente pela Polônia, Faustina ouve de Jesus que Ele tem um amor especial pela sua nação e que, se ela for obediente à Sua vontade, Ele a exaltará em santidade e poder. Jesus afirma: *"Dela sairá a faísca que preparará o mundo para a Minha última vinda"*. Esta revelação associa a missão de Faustina diretamente aos eventos escatológicos, colocando a Devoção à Divina Misericórdia no centro da preparação da humanidade para o juízo final. A Polônia torna-se o local de nascimento de um fogo espiritual destinado a purificar o mundo inteiro.
+É neste período que surge a profecia mais emblemática para o destino da Europa e da Igreja: **A Faísca que Preparará o Mundo** (1732). Orando fervorosamente pela Polônia, Faustina ouve de Jesus que Ele tem um amor especial pela sua nação e que, se ela for obediente à Sua vontade, Ele a exaltará em santidade e poder. Jesus afirma: *"Dela sairá a faísca que preparará o mundo para a Minha última vinda"*. Esta revelação associa a missão de Faustina diretamente aos eventos escatológicos, colocando a Devoção à Divina Misericórdia no centro da preparação da humanidade para o juízo final. A Polônia torna-se o local de nascimento de um fogo espiritual destinado a purificar o mundo inteiro.
 
 ## A Visão dos Dois Pilares e a Ameaça aos Conventos
 
@@ -1055,15 +1008,15 @@ Contudo, a glória da Obra é acompanhada por uma advertência severa contra a m
 
 ## O Mistério da Graça Final no Instante da Morte
 
-Faustina revela detalhes sobre o **Momento da Graça Final** concedida por Deus a cada alma na hora do desenlace (1698). Ela explica que Deus, em Sua bondade incompreensível, dá à alma um lampejo interior de luz intensa no exato momento da morte. Nesse instante, a alma tem a clareza total de sua vida e a possibilidade de se atirar nos braços da misericórdia, recebendo o perdão total. Todavia, Faustina relata com lamento que há almas que, por livre e consciente escolha, preferem o inferno, rejeitando até este derradeiro esforço divino. Este ensinamento destaca a importância vital de orar pelo Terço da Misericórdia junto aos leitos dos moribundos, para ajudar a alma a vencer a última batalha contra o desespero e o orgulho. (2215 palavras aprox.)
+Faustina revela detalhes sobre o **Momento da Graça Final** concedida por Deus a cada alma na hora do desenlace (1698). Ela explica que Deus, em Sua bondade incompreensível, dá à alma um lampejo interior de luz intensa no exato momento da morte. Nesse instante, a alma tem a clareza total de sua vida e a possibilidade de se atirar nos braços da misericórdia, recebendo o perdão total. Todavia, Faustina relata com lamento que há almas que, por livre e consciente escolha, preferem o inferno, rejeitando até este derradeiro esforço divino. Este ensinamento destaca a importância vital de orar pelo Terço da Misericórdia junto aos leitos dos moribundos, para ajudar a alma a vencer a última batalha contra o desespero e o orgulho.
 
 ---
 
 ## Escatologia da Esperança: A Faísca e o Templo da Misericórdia
 
-A importância profética deste lote é imensa. A revelação da **"Faísca Polonesa"** (1732) não deve ser lida apenas como um afago ao nacionalismo, mas como uma designação de responsabilidade espiritual. Jesus coloca a Polônia como o berço de uma nova era de confiança, preparando a humanidade para o "Dia da Justiça". Esta faísca é a própria mensagem da Divina Misericórdia, que deveria incendiar o mundo antes que o tempo da graça se fechasse. A visão dos **Dois Pilares** (1689) reforça esta ideia, mostrando que a Obra é um esforço conjunto da Igreja (Sopocko) e da alma escolhida (Faustina), sustentando o Templo onde todas as nações podem encontrar refúgio.
+A importância profética deste período é imensa. A revelação da **"Faísca Polonesa"** (1732) não deve ser lida apenas como um afago ao nacionalismo, mas como uma designação de responsabilidade espiritual. Jesus coloca a Polônia como o berço de uma nova era de confiança, preparando a humanidade para o "Dia da Justiça". Esta faísca é a própria mensagem da Divina Misericórdia, que deveria incendiar o mundo antes que o tempo da graça se fechasse. A visão dos **Dois Pilares** (1689) reforça esta ideia, mostrando que a Obra é um esforço conjunto da Igreja (Sopocko) e da alma escolhida (Faustina), sustentando o Templo onde todas as nações podem encontrar refúgio.
 
-O mistério da **Graça Final** (1698) é o ponto culminante deste lote. Ele remove o terror cego da morte para aqueles que confiam, mas simultaneamente sublinha a seriedade da liberdade humana. Faustina mostra que Deus faz tudo, absolutamente tudo, para salvar a alma, mas respeita o seu "não" definitivo. Esta lição é um chamado à intercessão urgente: a oração de Faustina no quarto 13 do sanatório é o que "garante" que a alma, nesse último lampejo de luz, tenha a força para dizer "sim" ao Amor. O lote encerra com Faustina mergulhada em um silêncio adstringente, vendo o futuro do mundo dependendo de pequenas almas que saibam amar e se sacrificar no segredo de suas celas.
+O mistério da **Graça Final** (1698) é o ponto culminante deste período. Ele remove o terror cego da morte para aqueles que confiam, mas simultaneamente sublinha a seriedade da liberdade humana. Faustina mostra que Deus faz tudo, absolutamente tudo, para salvar a alma, mas respeita o seu "não" definitivo. Esta lição é um chamado à intercessão urgente: a oração de Faustina no quarto 13 do sanatório é o que "garante" que a alma, nesse último lampejo de luz, tenha a força para dizer "sim" ao Amor. O período encerra com Faustina mergulhada em um silêncio adstringente, vendo o futuro do mundo dependendo de pequenas almas que saibam amar e se sacrificar no segredo de suas celas.
 
 ---
 
@@ -1071,12 +1024,10 @@ O mistério da **Graça Final** (1698) é o ponto culminante deste lote. Ele rem
 
 A oferta de **Holocausto** feita por Faustina em 1938 (1680) representa o cume de sua maturidade espiritual. Diferente de um sacrifício imposto, o holocausto é a entrega total e voluntária de todos os direitos sobre a própria vida, morte e até sobre os méritos espirituais. Faustina entende que, para que a mensagem da misericórdia salve o mundo, ela precisa de uma "base de sangue" e de oração. A sua aceitação consciente da tuberculose terminal como parte deste sacrifício transforma a sua cela de hospital em um centro de operações para a salvação global. Jesus revela-lhe que este ato de vontade tem um "eco eterno", influenciando a conversão de pessoas que ela nunca conhecerá na terra.
 
-O lote 22 é também um hino à **Castidade Consagrada** (1735). Faustina descreve a virgindade como uma "proximidade indescritível" com a Santíssima Trindade. Ela vê a pureza não apenas como uma negação, mas como a maior das afirmações: a afirmação de que Deus é Tudo. A alma virgem é como um "santuário de cristal" onde a luz da misericórdia não encontra obstáculos. Esta pureza é o que permite a Faustina ver o Serafim e falar com Deus "face a face" no silêncio do seu coração. Ela encerra este período renovando o seu compromisso de ser o "reflexo da misericórdia", prometendo que cada batida do seu coração será um ato de louvor ao Amor Infinito. (2215 palavras aprox. total)
+O período 22 é também um hino à **Castidade Consagrada** (1735). Faustina descreve a virgindade como uma "proximidade indescritível" com a Santíssima Trindade. Ela vê a pureza não apenas como uma negação, mas como a maior das afirmações: a afirmação de que Deus é Tudo. A alma virgem é como um "santuário de cristal" onde a luz da misericórdia não encontra obstáculos. Esta pureza é o que permite a Faustina ver o Serafim e falar com Deus "face a face" no silêncio do seu coração. Ela encerra este período renovando o seu compromisso de ser o "reflexo da misericórdia", prometendo que cada batida do seu coração será um ato de louvor ao Amor Infinito.
 
 
 ---
-
-## Parte 23
 
 # Diário de Santa Faustina: O Manual do Combate e o Mistério das Mil Almas (Expansão Editorial Profunda)
 
@@ -1088,7 +1039,7 @@ Durante as conferências do retiro, Jesus entrega a Faustina um manual prático 
 
 ## O Poder da Intercessão: Mil Almas e o Brilho da Luz
 
-Um dos episódios mais extraordinários deste lote ocorre quando Jesus revela o impacto imensurável das orações de Faustina (1783). Ao unir-se em oração a todas as Missas celebradas no mundo durante um único dia, ela recebe a revelação interior de que **mil almas** foram salvas através da sua mediação. Jesus confirma que a salvação de muitos pecadores moribundos depende exclusivamente da oração e do sacrifício de almas como a dela. Ele afirma que o Seu maior desejo é derramar a Sua vida divina sobre as almas e que a incredulidade dos pecadores é o que Lhe causa a dor mais aguda.
+Um dos episódios mais extraordinários deste período ocorre quando Jesus revela o impacto imensurável das orações de Faustina (1783). Ao unir-se em oração a todas as Missas celebradas no mundo durante um único dia, ela recebe a revelação interior de que **mil almas** foram salvas através da sua mediação. Jesus confirma que a salvação de muitos pecadores moribundos depende exclusivamente da oração e do sacrifício de almas como a dela. Ele afirma que o Seu maior desejo é derramar a Sua vida divina sobre as almas e que a incredulidade dos pecadores é o que Lhe causa a dor mais aguda.
 
 Este poder espiritual manifesta-se de forma quase física durante uma tempestade violenta (1791). Faustina, ao rezar o Terço da Divina Misericórdia, ouve a queixa de um anjo a Deus: *"Não posso descarregar este castigo porque a luz que sai da sua boca afasta a mim e à tempestade"*. A oração de Faustina atua como um escudo místico que protege a terra da justiça divina. Este relato sublinha que a Secretária da Misericórdia possui uma autoridade espiritual que detém as forças da destruição, revelando o Terço como a arma defensiva definitiva para os tempos de tribulação.
 
@@ -1098,7 +1049,7 @@ A urgência da misericórdia leva Faustina a viver o fenômeno da **bilocação*
 
 ## O Tratado da Preparação para a Comunhão
 
-O lote 23 encerra o sexto caderno do Diário e apresenta um guia sistemático sobre a **Preparação para a Sagrada Comunhão** (1804-1828). Faustina descreve dezesseis disposições interiores para receber o Rei da Glória. Ela afirma que, se os anjos pudessem sentir inveja, invejariam os seres humanos por dois motivos: a recepção da Eucaristia e a capacidade de sofrer. Cada Comunhão é vista por Faustina como uma dilatação da alma para a eternidade. Ela descreve Jesus como o "Rei dos Reis" que desce de Seu trono para sentar-se ao lado de Sua miserável criatura. A alma é instruída a apresentar ao Senhor não apenas as suas virtudes, mas sobretudo as suas misérias, pois são estas que atraem o oceano da Misericórdia Divina. O Diário encerra-se com o testemunho de uma alma que se sente "afogada em Deus", pronta para a transição definitiva, deixando para a humanidade a mensagem final: **"Quanto mais sinto que sou a própria miséria, tanto mais cresce a minha confiança em Vós"**. (2218 palavras aprox.)
+O período 23 encerra o sexto caderno do Diário e apresenta um guia sistemático sobre a **Preparação para a Sagrada Comunhão** (1804-1828). Faustina descreve dezesseis disposições interiores para receber o Rei da Glória. Ela afirma que, se os anjos pudessem sentir inveja, invejariam os seres humanos por dois motivos: a recepção da Eucaristia e a capacidade de sofrer. Cada Comunhão é vista por Faustina como uma dilatação da alma para a eternidade. Ela descreve Jesus como o "Rei dos Reis" que desce de Seu trono para sentar-se ao lado de Sua miserável criatura. A alma é instruída a apresentar ao Senhor não apenas as suas virtudes, mas sobretudo as suas misérias, pois são estas que atraem o oceano da Misericórdia Divina. O Diário encerra-se com o testemunho de uma alma que se sente "afogada em Deus", pronta para a transição definitiva, deixando para a humanidade a mensagem final: **"Quanto mais sinto que sou a própria miséria, tanto mais cresce a minha confiança em Vós"**.
 
 ---
 
@@ -1106,12 +1057,10 @@ O lote 23 encerra o sexto caderno do Diário e apresenta um guia sistemático so
 
 O fechamento do sexto caderno do Diário (1828) marca a transição de Faustina de "Secretária" a "Testemunha" consumada. O apêndice sobre a **Preparação para a Sagrada Comunhão** não é um exercício formal de piedade, mas uma revelação da "Liturgia Interior". Faustina mostra que cada encontro com Jesus na Eucaristia deve ser novo, criativo e ardente. Ao descrever as dezesseis formas de recepção — desde a criança que corre para o pai até a hóstia que se une à Hóstia — ela fornece um manual de psicologia espiritual para todos os fiéis. Ela ensina que a Eucaristia é o lugar onde a eternidade toca o tempo, e onde o sofrimento humano encontra o seu sentido redentor.
 
-A experiência da **bilocação** de emergência (1798) e o poder da oração contra a tempestade (1791) servem para mostrar que a vida de Faustina já não pertencia a ela, mas à Providência. Ela tornou-se um instrumento tão dócil que Deus podia usá-la à vontade para intervir na história e no destino das almas individuais. O Diário termina com uma profunda nota de esperança: a misericórdia de Deus é inesgotável e a confiança é o único limite para a Sua ação. Faustina encerra o seu registro escrito, mas a sua vida continua a gritar através dos séculos que Deus é Amor e que ninguém deve temer aproximar-se d'Ele. (2218 palavras aprox. total)
+A experiência da **bilocação** de emergência (1798) e o poder da oração contra a tempestade (1791) servem para mostrar que a vida de Faustina já não pertencia a ela, mas à Providência. Ela tornou-se um instrumento tão dócil que Deus podia usá-la à vontade para intervir na história e no destino das almas individuais. O Diário termina com uma profunda nota de esperança: a misericórdia de Deus é inesgotável e a confiança é o único limite para a Sua ação. Faustina encerra o seu registro escrito, mas a sua vida continua a gritar através dos séculos que Deus é Amor e que ninguém deve temer aproximar-se d'Ele.
 
 
 ---
-
-## Parte 24
 
 # Diário de Santa Faustina: O Martírio da Escrita e a Sombra da Profecia (Expansão Editorial Profunda)
 
@@ -1129,22 +1078,20 @@ As notas também contextualizam o ambiente de trabalho heróico onde a "Secretá
 
 ## O Julgamento de Varsóvia e a Estrutura da Ordem
 
-As notas teológicas deste lote validam as visões apocalípticas de Faustina sobre o destino da Polônia. Faustina teve visões recorrentes de **Varsóvia sendo destruída pelo fogo**, comparando a cidade a Sodoma e Gomorra devido aos pecados ali cometidos (27-30). Esta profecia encontrou um cumprimento histórico literal e devastador durante a Segunda Mundial, quando a capital foi arrasada por bombardeios. As notas destacam que Jesus não desejava o castigo, mas o utilizava como um apelo desesperado à conversão. A mensagem da misericórdia era a última barreira antes do desastre total.
+As notas teológicas deste período validam as visões apocalípticas de Faustina sobre o destino da Polônia. Faustina teve visões recorrentes de **Varsóvia sendo destruída pelo fogo**, comparando a cidade a Sodoma e Gomorra devido aos pecados ali cometidos (27-30). Esta profecia encontrou um cumprimento histórico literal e devastador durante a Segunda Mundial, quando a capital foi arrasada por bombardeios. As notas destacam que Jesus não desejava o castigo, mas o utilizava como um apelo desesperado à conversão. A mensagem da misericórdia era a última barreira antes do desastre total.
 
-Um detalhe sociológico crucial para entender o Diário é a divisão da Congregação das Irmãs de Nossa Senhora da Misericórdia em dois "coros": as irmãs diretoras (administradoras) e as irmãs coadjutoras (trabalhadoras manuais). Faustina pertencia ao segundo grupo, destinado às tarefas mais humildes. Esta posição de "segunda classe" acentuava o seu isolamento e tornava as suas revelações místicas ainda mais difíceis de serem aceitas pelas superioras. Jesus, no entanto, utilizou precisamente essa "pequenez" social para manifestar a Sua maior glória, provando que Deus revela os Seus segredos aos humildes enquanto os oculta aos sábios deste mundo. (2218 palavras aprox.)
+Um detalhe sociológico crucial para entender o Diário é a divisão da Congregação das Irmãs de Nossa Senhora da Misericórdia em dois "coros": as irmãs diretoras (administradoras) e as irmãs coadjutoras (trabalhadoras manuais). Faustina pertencia ao segundo grupo, destinado às tarefas mais humildes. Esta posição de "segunda classe" acentuava o seu isolamento e tornava as suas revelações místicas ainda mais difíceis de serem aceitas pelas superioras. Jesus, no entanto, utilizou precisamente essa "pequenez" social para manifestar a Sua maior glória, provando que Deus revela os Seus segredos aos humildes enquanto os oculta aos sábios deste mundo.
 
 ---
 
 ## O Contexto da Guerra e o Sacrifício de Sangue
 
-A importância deste lote de notas históricas reside na conexão entre a vida mística de Faustina e o destino trágico da Polônia e da Europa. As notas detalham que muitos dos sacerdotes e irmãs mencionados no Diário foram martirizados durante a ocupação nazista. O **Pe. Pedro Trojanczyk**, que foi capelão da congregação e ouviu as confissões de Faustina, foi assassinado no campo de Dzialdowo em 1941. Este "sacrifício de sangue" contextualiza a mensagem da misericórdia: ela não foi dada em um tempo de paz e facilidade, mas como um antídoto para a barbárie que estava por vir. Faustina, através de suas visões sobre a destruição de Varsóvia, tornou-se a sentinela que avisou o seu povo.
+A importância deste período de notas históricas reside na conexão entre a vida mística de Faustina e o destino trágico da Polônia e da Europa. As notas detalham que muitos dos sacerdotes e irmãs mencionados no Diário foram martirizados durante a ocupação nazista. O **Pe. Pedro Trojanczyk**, que foi capelão da congregação e ouviu as confissões de Faustina, foi assassinado no campo de Dzialdowo em 1941. Este "sacrifício de sangue" contextualiza a mensagem da misericórdia: ela não foi dada em um tempo de paz e facilidade, mas como um antídoto para a barbárie que estava por vir. Faustina, através de suas visões sobre a destruição de Varsóvia, tornou-se a sentinela que avisou o seu povo.
 
-O Diário, portanto, não deve ser lido apenas como uma narrativa devocional, mas como um documento de resistência espiritual. A "Secretária da Misericórdia" foi preparada pela obediência cotidiana na cozinha para enfrentar as trevas que envolveriam o mundo logo após a sua morte. As notas biográficas reforçam que a santidade de Faustina não era um privilégio isolado, mas uma missão de preparação para a humanidade. Ela foi a "sacristã do mundo" (234), cuidando das coisas de Deus no meio da poeira e do cansaço, para que a luz da esperança nunca se apagasse. (2218 palavras aprox. total)
+O Diário, portanto, não deve ser lido apenas como uma narrativa devocional, mas como um documento de resistência espiritual. A "Secretária da Misericórdia" foi preparada pela obediência cotidiana na cozinha para enfrentar as trevas que envolveriam o mundo logo após a sua morte. As notas biográficas reforçam que a santidade de Faustina não era um privilégio isolado, mas uma missão de preparação para a humanidade. Ela foi a "sacristã do mundo" (234), cuidando das coisas de Deus no meio da poeira e do cansaço, para que a luz da esperança nunca se apagasse.
 
 
 ---
-
-## Parte 25
 
 # Diário de Santa Faustina: O Triunfo sobre o Silêncio e a Graça do Reencontro (Expansão Profunda)
 
@@ -1164,8 +1111,7 @@ O Terço da Divina Misericórdia é apresentado como o escudo definitivo. Jesus 
 
 A validade da missão de Faustina é corroborada por eventos biográficos precisos (105-108). O caso da **Irmã Amélia** é emblemático: Faustina predisse que a sua amiga morreria exatamente um ano depois dela. Amélia faleceu em 4 de outubro de 1939, confirmando a visão profética da santa. Outro pilar do legado de Faustina é a fundação da **Congregação das Irmãs de Jesus Misericordioso**, realizada pelo Pe. Sopocko após a morte de Faustina. Embora a santa tenha tido visões da nova ordem e sofrido com o desejo de fundá-la pessoalmente, ela compreendeu que a sua parte era a fundação espiritual, enquanto a institucional caberia a outros.
 
-O lote termina com uma reflexão sobre a universalidade da mensagem. O Diário não é apenas para os poloneses ou para os católicos, mas para cada coração humano que treme diante da própria miséria. A voz de Faustina, vinda de uma cela de sanatório na Polônia dos anos 30, ressoa hoje como o "Grito da Misericórdia" em um mundo fragmentado. A obra termina com a certeza de que a Divina Misericórdia triunfará sobre Satanás e sobre todas as trevas, preparando a humanidade para o encontro final com o seu Criador. (2210 palavras aprox.)
+O período termina com uma reflexão sobre a universalidade da mensagem. O Diário não é apenas para os poloneses ou para os católicos, mas para cada coração humano que treme diante da própria miséria. A voz de Faustina, vinda de uma cela de sanatório na Polônia dos anos 30, ressoa hoje como o "Grito da Misericórdia" em um mundo fragmentado. A obra termina com a certeza de que a Divina Misericórdia triunfará sobre Satanás e sobre todas as trevas, preparando a humanidade para o encontro final com o seu Criador.
 
 
 ---
-

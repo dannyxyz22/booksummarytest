@@ -10,7 +10,7 @@ def count_words(filepath):
 
 def verify_total_ratio():
     original_dir = r'c:\Users\danny\code\agent-book-summarizer\books\diary_st_faustina_batches'
-    summary_file = r'c:\Users\danny\code\agent-book-summarizer\summaries\diary_st_faustina_complete_summary.md'
+    summary_file = r'c:\Users\danny\code\agent-book-summarizer\summaries\workspace\diary_st_faustina_complete_summary.md'
     
     total_original_words = 0
     for i in range(1, 26):
