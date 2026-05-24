@@ -1,0 +1,43 @@
+## Capítulo 5 — O Espírito Santo na Igreja
+
+Antes de subir ao céu, Jesus prometeu aos discípulos que rogaria ao Pai para que lhes desse o Espírito Santo. Pentecostes marca, como descreve Dom Marmión, "a tomada de posse por parte do Espírito divino do Corpo místico de Cristo". Se Cristo é a Cabeça da Igreja, o Espírito Santo é sua *alma*. É ele quem a guia e inspira, guardando-a na verdade de Cristo segundo a promessa do Senhor: "Vos ensinará toda a verdade" (Jo 14,26).
+
+A ação do Espírito na Igreja se manifesta em três funções análogas às da alma no corpo humano:
+
+**1. O Espírito Santo unifica a Igreja.** Há na Igreja grande diversidade: hierárquica (papa, bispos, sacerdotes), carismática (milagres, profecia, ensino) e santificadora (graus diferentes de perfeição). Apesar dessa pluralidade, existe uma unidade íntima. Cristo pediu ao Pai: "Que todos sejam um, como tu, Pai, estás em mim e eu em ti" (Jo 17,21). A unidade pedida é análoga à que existe entre o Pai e o Filho — unidade que se consubstancia no próprio Espírito Santo. O amor é o princípio unificador, e o Espírito Santo unifica pelo amor. São Paulo o afirma claramente: "Todos nós fomos batizados num só Espírito para constituir um só corpo" (1Cor 12,13).
+
+**2. O Espírito Santo vivifica a Igreja.** As sociedades humanas têm vida em certo sentido, mas seu princípio animador está fora delas — no fim extrínseco. A Igreja, ao contrário, possui um princípio vivificador intrínseco: o Espírito Santo. Ele não é apenas fim e meta, mas princípio animador interno. Assim como o Espírito interveio no nascimento de Cristo (fecundando ativamente Maria), interveio no nascimento da Igreja em Pentecostes — o "batismo" da Igreja — na presença de Maria e do Espírito Santo. É também o Espírito quem vivifica cada membro: "Os que são movidos pelo Espírito de Deus, esses são filhos de Deus" (Rm 8,14). Ele dá a vida de dentro, não de fora, habitando em cada alma e em todo o Corpo.
+
+**3. O Espírito Santo move e governa a Igreja.** Para governar é necessário conhecer e amar: o Espírito infunde o conhecimento do sobrenatural (a fé) e o amor divino (a caridade). Intervém na designação dos hierarcas (At 20,28) e distribui a cada um os diversos carismas "como quer" (1Cor 12,11). São Agostinho resumiu com genialidade: "O que é a alma para o corpo do homem, é o Espírito Santo para o Corpo de Cristo, que é a Igreja." Essa doutrina foi confirmada pelo Magistério — Pio XII na encíclica *Mystici Corporis* e o Concílio Vaticano II na Constituição *Lumen Gentium* — ao afirmar que o Espírito vivifica, une e move todo o Corpo, de modo que os Santos Padres puderam comparar sua função à da alma no corpo humano.
+
+A ação do Espírito se manifesta também por meio de todos os sacramentos. O Espírito fecunda as águas do Batismo ("Se não renascerdes da água e do Espírito Santo, não entrareis no reino de Deus", Jo 3,5). Na Confirmação, confere a plenitude da condição cristã — um verdadeiro Pentecostes pessoal, revestindo o fiel da fortaleza de Cristo para ser sua testemunha no mundo. Na Eucaristia, a epiclese oriental atribui ao Espírito o milagre da transubstanciação. Na Penitência, "os pecados são perdoados pelo Espírito Santo" (Jo 20,22-23). Na Unção dos Enfermos, pede-se ao Espírito que cure o doente de suas doenças e culpas. Nos primeiros dias da Igreja, a ação do Espírito foi muito mais visível — com milagres, profecia, dom de línguas e outros carismas extraordinários —, pois era necessário que a Igreja se estabelecesse solidamente diante do mundo pagão. Com o tempo, essa ação se tornou mais interior e oculta, mas não menos real.
+
+---
+
+## Capítulo 6 — O Espírito Santo em Nós
+
+Passando da ação do Espírito na Igreja para sua ação em cada alma, o autor aborda um dos temas mais sublimes da teologia: a habitação do Espírito Santo na alma justificada pela graça.
+
+### A graça santificante
+
+A graça santificante pode ser definida como **um dom sobrenatural infundido por Deus em nossas almas para nos dar uma participação verdadeira e real de sua própria natureza divina, tornar-nos filhos seus e herdeiros da glória.** Cada elemento da definição é explorado:
+
+- É um *dom* gratuito, que ninguém pode merecer antes de possuí-lo, embora possa pedi-lo humildemente pela oração.
+- É *sobrenatural* — pertence ao plano da divindade, infinitamente superior a toda criatura, incluindo os anjos. Santo Tomás afirma que "o bem da graça de um só indivíduo é maior que o bem natural de todo o universo" (*Suma Teológica* I-II, q.113 a.9). A menor participação da graça santificante vale infinitamente mais do que toda a criação universal.
+- É *infundida por Deus* — só Ele, autor da ordem sobrenatural, pode comunicar uma participação de sua própria natureza. Todas as criaturas juntas do universo jamais poderiam produzir a mais ínfima centelha de vida divina.
+- Reside na *alma*, não no corpo — é realidade espiritual invisível, assim como o pensamento e o amor não se veem nem se tocam e, no entanto, são realidades autênticas.
+- *Diviniza-nos*, tornando-nos participantes da natureza de Deus (2Pd 1,4): não no sentido panteísta de fusão substancial, mas por participação analógica e acidental, pela qual a alma, sem deixar de ser alma humana, recebe uma real participação da vida divina — conhecendo e amando a Deus tal como Ele se conhece e se ama.
+- Nos faz *filhos adotivos de Deus* — não por uma mera adoção jurídica externa, como a adoção humana que dá nome e herança mas não transmite sangue, mas por adoção intrínseca que comunica a própria natureza divina. Empregando linguagem metafórica, a graça é uma transfusão de sangue divino na alma; em virtude desse enxerto divino, o batizado pode legitimamente chamar a Deus de Pai, não por cortesia mas por realidade.
+- Nos faz *herdeiros do céu* — pois se somos filhos, somos também herdeiros (Rm 8,17), e essa herança não diminui com o número de participantes por ser rigorosamente infinita.
+
+Os principais efeitos da graça santificante são: (a) divinizar-nos, fazendo-nos participantes da natureza de Deus; (b) tornar-nos irmãos de Cristo e coerdeiros com ele; (c) infundir as virtudes infusas e os dons do Espírito Santo, que constituem o elemento dinâmico e operativo de nosso organismo sobrenatural. Santo Tomás afirma categoricamente: "A graça não é outra coisa senão um começo da glória em nós."
+
+### A inhabitação trinitária
+
+Além da graça santificante — realidade criada —, o Espírito Santo infunde em nós uma realidade absolutamente divina e incriada: a habitação da Santíssima Trindade no fundo de nossas almas. A Escritura o afirma com inequívoca clareza: "Vieremos a ele e nele faremos nossa morada" (Jo 14,23); "o vosso corpo é templo do Espírito Santo" (1Cor 6,19). Esta inhabitação se atribui de modo especial ao Espírito Santo por conveniente apropriação — é obra do amor de Deus ao homem, e o Espírito Santo é o Amor pessoal na Trindade.
+
+A presença de inhabitação se distingue das outras presências de Deus (hipostática em Cristo, eucarística, de visão e de imensidade) por dois traços fundamentais: a *paternidade* e a *amizade* divinas. Pela graça santificante, que nos faz filhos adotivos, Deus começa a estar na alma como Pai. Pela caridade sobrenatural, começa a estar como verdadeiro amigo — pois a amizade exige reciprocidade e amor mútuo, e só a graça cria essa reciprocidade entre o homem e Deus.
+
+A inhabitação trinitária tem duas grandes finalidades. Primeira: fazer-nos participantes da vida íntima divina — São João da Cruz descreve o ápice místico em que a alma, transformada nas três Pessoas, aspira em Deus a mesma aspiração de amor que o Pai aspira no Filho e o Filho no Pai, "porque não seria transformação total se não se transformasse a alma nas três Pessoas em grau revelado e manifesto." Segunda: dar-nos a plena posse de Deus e o gozo fruitivo das Pessoas divinas — Santo Tomás escreve que "pela graça santificante é aperfeiçoada a criatura racional... para gozar da mesma Pessoa divina." Os grandes místicos — Santa Teresa, São João da Cruz, Irmã Isabel da Trindade — descrevem experiências trinitárias inefáveis que confirmam essa sublime doutrina.
+
+A inhabitação se aprofunda com os sacramentos. A Eucaristia — em que recebemos não só a graça, mas o próprio Autor da graça — provoca em cada comunhão bem recebida uma penetração mais intensa das Pessoas divinas na alma, em virtude da *circuminsessão* intratrinitária: onde está uma Pessoa divina, estão necessariamente as outras duas. A Confirmação é um verdadeiro Pentecostes para cada batizado, conferindo a plenitude do Espírito Santo para tornar o cristão soldado intrépido de Cristo.
