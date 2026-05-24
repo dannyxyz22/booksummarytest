@@ -99,7 +99,7 @@ A alma deve oferecer-se completamente a Deus, reconhecendo que merecia frequente
 
 Maria exerce um patronato ponderoso sobre aqueles que a invocam com verdadeira devoção. Sua influência sobre o mundo manifesta-se através de todas as obras mais belas da arquitetura e pintura cristãs. Nada há de verdadeiramente belo sem a presença inspiradora de Maria, pois ela encarna o ideal da maternidade e da feminilidade cristã.
 
-A mulher que é mãe participa de uma mistério profundo que toca o sagrado. A maternidade de Maria não apenas é biológica e física, mas possui uma dimensão mística e espiritual. Ela é a Mãe de Deus no sentido mais literal, aquela que concebeu e gerou o Divino encarnado. Mas é também, misticamente, a mãe de todos os cristãos, daqueles que renasceram da água e do Espírito Santo.
+A mulher que é mãe participa de um mistério profundo que toca o sagrado. A maternidade de Maria não apenas é biológica e física, mas possui uma dimensão mística e espiritual. Ela é a Mãe de Deus no sentido mais literal, aquela que concebeu e gerou o Divino encarnado. Mas é também, misticamente, a mãe de todos os cristãos, daqueles que renasceram da água e do Espírito Santo.
 
 ## Quarta Parte: O Caminho da Imitação
 
@@ -175,7 +175,7 @@ A alma que deseja encontrar Jesus não deve procurá-lo nas ruas da cidade nem n
 
 ## Sofrimento Materno
 
-Maria viveu sem um único dia sem sofrer, e contudo, no meio dos maiores sofrimentos, nunca esteve sem consolações. Toda dor suportada por Jesus traz ao coração uma doçura e alegria especial. Quanto mais nos esforçamos sob o peso das tribulações, mais merecemos as graças divinas. Maria sofreu pelos pecados da multidão, pelos justos tentados e pelos maus que rejeitam a palavra de Deus. Chorou vendo os maus ser rejeitados e os pios oprimidos, a indiferença no serviço a Deus e o entusiasmo em lhe ofender. O mundo recusava-se a contemplar a luz que Deus mesmo vinha trazer, e para aquela mãe compassiva, tudo isto era como um feixe de espadas transfixando seu coração. Pacientemente sofria, em silêncio, uma vida de martírio, vertendo lágrimas pela salvação do gênero humano.
+Maria não passou um único dia sem sofrer, e contudo, no meio dos maiores sofrimentos, nunca esteve sem consolações. Toda dor suportada por Jesus traz ao coração uma doçura e alegria especial. Quanto mais nos esforçamos sob o peso das tribulações, mais merecemos as graças divinas. Maria sofreu pelos pecados da multidão, pelos justos tentados e pelos maus que rejeitam a palavra de Deus. Chorou vendo os maus ser rejeitados e os pios oprimidos, a indiferença no serviço a Deus e o entusiasmo em lhe ofender. O mundo recusava-se a contemplar a luz que Deus mesmo vinha trazer, e para aquela mãe compassiva, tudo isto era como um feixe de espadas transfixando seu coração. Pacientemente sofria, em silêncio, uma vida de martírio, vertendo lágrimas pela salvação do gênero humano.
 
 Além disto, experimentou a amargura suprema junto à cruz. Quando perdeu Jesus por alguns dias no Templo, angustiou-se profundamente; mas que agonia muito maior ao vê-lo morrendo naquele madeiro! O amor materno transcende em compaixão todos os amores conhecidos. A profundidade do amor virginal de Maria faz compreender a profundidade de sua dor. Permanecia de pé junto à cruz, nas lágrimas, seu coração ressentindo cada dor como um glaivo que o transfixava. Milagre era que seu corpo virginal pudesse sobreviver a tal sofrimento, pois sua alma experimentava, a cada tortura do Filho, uma tortura equivalente.
 
@@ -191,11 +191,11 @@ Quem ama verdadeiramente a mãe Maria e deseja seu patrocínio em meio às próp
 
 Bem-aventurada é a alma que todos os dias de sua vida amou verdadeiramente tanto Jesus quanto Maria e fez sua estação junto à cruz em união com ambos. Bem-aventurado é quem, desprezando toda consolação aqui embaixo, escolhe para consolação e mãe a Virgem Maria. Sem dúvida, na hora da morte, essa mãe dirá ao seu filho a palavra santa e doce que consola o pobre e socorre o órfão.
 
-Se amais Jesus, tomai sua cruz; caminhei com a cruz, permanecei junto à cruz; abracei esta cruz e não a deixeis até chegar junto daquele que faz a glória da cruz. Se desejais, em meio às tribulações, apesar da dor, encontrar alguma consolação, ide a Maria, virgem e mãe ao mesmo tempo, à mãe que vela junto à cruz, à virgem que chora ao pé desta cruz. Todo sofrimento desaparecerá para vós ou, ao menos, parecerá mais leve e mais doce, comparado às dores da Virgem Maria.
+Se amais Jesus, tomai sua cruz; caminhai com a cruz, permanecei junto à cruz; abraçai esta cruz e não a deixeis até chegar junto daquele que faz a glória da cruz. Se desejais, em meio às tribulações, apesar da dor, encontrar alguma consolação, ide a Maria, virgem e mãe ao mesmo tempo, à mãe que vela junto à cruz, à virgem que chora ao pé desta cruz. Todo sofrimento desaparecerá para vós ou, ao menos, parecerá mais leve e mais doce, comparado às dores da Virgem Maria.
 
 ## Vida Interior e Contemplação
 
-Maria permanecia voluntariamente na solidão e no silêncio para poder rezar melhor. Um anjo viria igualmente visitá-lo e anunciar-lhe as maravilhas do céu. Será ajuda e guardião, e diante dele o espírito do mal fugirá ao longe. Ocultando-se e calando-se conforme o exemplo de Maria, é o único meio de ter paz no coração e obter de Deus o dom da oração.
+Maria permanecia voluntariamente na solidão e no silêncio para poder rezar melhor. Um anjo viria igualmente visitá-la e anunciar-lhe as maravilhas do céu. Será ajuda e guardiã, e diante dela o espírito do mal fugirá ao longe. Ocultando-se e calando-se conforme o exemplo de Maria, é o único meio de ter paz no coração e obter de Deus o dom da oração.
 
 Observai a abelha ávida de colher seu mel: ela percorre as flores mas sem se apegar a elas; quase que carregada de seu suco, foge rapidamente à colmeia e vai esconder o mel para poder saborear durante o inverno na solidão e calma da paz. Assim encerra a fragrância dos perfumes, receando que, saindo para voar aqui e ali, não perca ainda o fruto de seu trabalho.
 
@@ -225,7 +225,7 @@ Quais são as mais elevadas no céu e quais foram as mais humildes na terra, ent
 
 Que se una vossa voz a essas vozes, para cantar os doces nomes de Jesus e Maria! Quão bom é também pôr-se a serviço daqueles que se fizeram, em primeiro lugar, vossos servos. Sim, servi o Senhor, filhos dos homens, servi aquele que primeiro se dignou vos servir. Servi também Maria: ela vos deu igualmente o exemplo de ser humilde e de servir. É um dever para vós e vosso interesse honrar antes de tudo esses dois poderosos modelos.
 
-Em todo estado, recorrei a Jesus, e ao mesmo tempo também a Maria. Expondes-lhes sempre vossas necessidades e dores. Confessai vossos pecados e chorai vossos esquecimentos; retomei esperança e esperai a graça. Se caís, ai!, com facilidade, apressai-vos a vos levantar ainda mais depressa. As preces sinceras são sempre ouvidas e os verdadeiros gemidos sempre escutados. Os anjos, por sua vez, se regozijarão convosco ao vos verem lavado das fealdades do pecado.
+Em todo estado, recorrei a Jesus, e ao mesmo tempo também a Maria. Exponde-lhes sempre vossas necessidades e dores. Confessai vossos pecados e chorai vossos esquecimentos; retomai a esperança e esperai a graça. Se caís, ai!, com facilidade, apressai-vos a vos levantar ainda mais depressa. As preces sinceras são sempre ouvidas e os verdadeiros gemidos sempre escutados. Os anjos, por sua vez, se regozijarão convosco ao vos verem lavado das fealdades do pecado.
 
 ## Honra e Glória
 
@@ -253,11 +253,11 @@ Gemei por estar ainda longe dessas qualidades que somente podem merecer o nome d
 
 ## Rainha do Céu
 
-Sobre sua cabeça, semelhante à de uma rainha, está posta uma coroa de doze estrelas. Essas doze estrelas na fronte de Maria são as doze prerrogativas da rainha e da mãe junto a Deus no céu. Ela possui, com efeito, na Igreja triunfante, acima de todos os espíritos bem-aventurados, quatro prerrogativas particulares: poder exaucer com mais bondade, condescender com mais misericórdia, intervir por nós com mais poder e socorrer na terra com mais facilidade.
+Sobre sua cabeça, semelhante à de uma rainha, está posta uma coroa de doze estrelas. Essas doze estrelas na fronte de Maria são as doze prerrogativas da rainha e da mãe junto a Deus no céu. Ela possui, com efeito, na Igreja triunfante, acima de todos os espíritos bem-aventurados, quatro prerrogativas particulares: atender às súplicas com mais bondade, condescender com mais misericórdia, intervir por nós com mais poder e socorrer na terra com mais facilidade.
 
-Ela tem igualmente, na Igreja triunfante, quatro privilégios eminentes entre todos: é resplendente em esplendor mais que tudo; é colocada na glória mais alto que tudo; é amada com ternura mais que tudo; é honrada com fervor mais que tudo. Maria possui ainda, junto à Trindade, quatro favores particulares que são para ela como estrelas superiores às outras estrelas. Melhor que todos aqueles que podem contemplar a glória da divina Trindade, ela a contempla a descoberto; conhece com mais alegria suas doçuras; examina com mais profundidade seus mistérios; saboreia com mais charme suas delícias.
+Ela tem igualmente, na Igreja triunfante, quatro privilégios eminentes entre todos: é resplendente em esplendor mais que tudo; é colocada na glória mais alta que tudo; é amada com ternura mais que tudo; é honrada com fervor mais que tudo. Maria possui ainda, junto à Trindade, quatro favores particulares que são para ela como estrelas superiores às outras estrelas. Melhor que todos aqueles que podem contemplar a glória da divina Trindade, ela a contempla a descoberto; conhece com mais alegria suas doçuras; examina com mais profundidade seus mistérios; saboreia com mais charme suas delícias.
 
-Meditemos portanto, e frequentemente e com piedade, sobre a vida e as ações de Maria, e então cantemos hinos e cânticos em sua honra nos dias de suas solenidades. Vinde diante do altar e diante de sua imagem, inclinai vossa fronte, flecti os joelhos diante dela, como se vísseis então Maria mesma presente diante de vós. Levantai os olhos e contemplai em visão Maria falando com o anjo ou ainda Maria, tendo nos seus joelhos seu filho Jesus.
+Meditemos portanto, e frequentemente e com piedade, sobre a vida e as ações de Maria, e então cantemos hinos e cânticos em sua honra nos dias de suas solenidades. Vinde diante do altar e diante de sua imagem, inclinai vossa fronte, dobrai os joelhos diante dela, como se vísseis então Maria mesma presente diante de vós. Levantai os olhos e contemplai em visão Maria falando com o anjo ou ainda Maria, tendo nos seus joelhos seu filho Jesus.
 
 ## Conclusão
 
