@@ -16,7 +16,7 @@ O amálgama entre a vida cristã prática e a devoção mariana tornara-se insep
 
 Coube ao Abbé Albin de Cigala, doutor em teologia e filosofia pela Universidade de Paris, a empresa de extrair das obras diversas de Thomas à Kempis todos aqueles capítulos consagrados à vida interiormente moldada pelo exemplo de Maria. Cigala não agia como simples compilador. Seu trabalho revelava o caráter fundamental do pensamento de Kempis: o texto latino original da Imitação foi composto em versos ritmados, segundo sistema de acentos e paralelismos perfeitamente estruturado. Quando o ritmo se corrompia em um manuscrito, quase sempre outro preservava a versão em medida. Desse modo, Cigala demonstrou que a própria forma poética do original exigia uma organização análoga para os capítulos sobre Maria.
 
-A compilação abarcaria trinta lições distribuídas conforme os mistérios do Rosário: os mistérios joyosos, voltados aos títulos e privilégios de Maria; os dolorosos, concentrados nas virtudes e práticas de sua vida terrena; e os gloriosos, dedicados aos seus triunfos na vida celeste. Assim, o leitor não se confrontaria meramente com uma acumulação caótica de sentimentos, mas com uma progressão ordenada que espelhava a própria trajetória espiritual da Mãe de Deus.
+A compilação abarcaria trinta lições distribuídas conforme os mistérios do Rosário: os mistérios gozosos, voltados aos títulos e privilégios de Maria; os dolorosos, concentrados nas virtudes e práticas de sua vida terrena; e os gloriosos, dedicados aos seus triunfos na vida celeste. Assim, o leitor não se confrontaria meramente com uma acumulação caótica de sentimentos, mas com uma progressão ordenada que espelhava a própria trajetória espiritual da Mãe de Deus.
 
 ## O Fundamento para a Imitação
 
@@ -41,7 +41,7 @@ Nessa compreensão, a Imitação de Maria torna-se regra de vida concreta, capaz
 
 Maria recebe da Igreja e da Tradição cristã três títulos essenciais que definem nossos deveres para com ela: é Mãe, é Advogada e é Modelo. Cada um destes títulos carrega funções específicas que devemos compreender. Como mãe, consolida, sustenta e alimenta espiritualmente seus filhos. Como advogada, aconselha, dirige e defende em toda dificuldade. Como modelo, exalta e atrai as almas à virtude.
 
-A grandeza de Maria reside principalmente em sua dignidade de Mãe de Deus. Não existe na criação função mais elevada do que a maternidade divina, pois ela foi a única mulher capaz de conceber e dar à luz àquele que o universo inteiro não poderia conter. Esta dignidade conferiu a Maria prerogativas que a elevam acima de todos os anjos e santos, colocando-a imediatamente abaixo de Deus apenas.
+A grandeza de Maria reside principalmente em sua dignidade de Mãe de Deus. Não existe na criação função mais elevada do que a maternidade divina, pois ela foi a única mulher capaz de conceber e dar à luz àquele que o universo inteiro não poderia conter. Esta dignidade conferiu a Maria prerrogativas que a elevam acima de todos os anjos e santos, colocando-a imediatamente abaixo de Deus apenas.
 
 ### A Prática Cotidiana da Devoção
 
@@ -61,13 +61,13 @@ O serviço a Maria não deve parecer pesado ou monótono, mas repleto de alegria
 
 Entre todas as mulheres que existiram, nenhuma pode ser comparada com Maria. Ela permanece única em sua santidade de virgem, beleza entre as mulheres, doçura entre as mães, pureza entre as filhas e distinção entre as rainhas. Em Maria convergem simultaneamente toda a beleza virginal, todo o encanto moral, todo o pensamento divino e todo o amor do coração, toda obra de virtude e todo bem da santidade.
 
-Maria não teve predecessora que se lhe igualasse, não tem par em seu tempo, e nunca haverá quem a supere. Assim como o templo de Salomão foi entre todos os santuários o mais magnificamente decorado e único em sua excelência, também o templo simbólico de Maria supera em gloria todos os templos dos santos e merece sozinho mais amor e honra.
+Maria não teve predecessora que se lhe igualasse, não tem par em seu tempo, e nunca haverá quem a supere. Assim como o templo de Salomão foi entre todos os santuários o mais magnificamente decorado e único em sua excelência, também o templo simbólico de Maria supera em glória todos os templos dos santos e merece sozinho mais amor e honra.
 
 ### A Intercessão Poderosa
 
 O poder e a autoridade de Maria junto a Deus são imensuráveis. Ela goza da veneração dos anjos no céu, e ainda assim recebe com benevolência as oferendas dos homens na terra. Sensibiliza-se pelas lágrimas dos miseráveis, compartilha da dor dos que sofrem e vem em auxílio dos combatidos pelas tentações. Todos aqueles que se refugiam confiantes em seu nome encontram nela abundância e consolação.
 
-Como Rainha, Maria comanda os anjos no céu e pode enviá-los em socorro dos necessitados. Possui também poder total sobre os demônios, podendo impedi-los de prejudicar seus servadores. O próprio nome de Maria causa tremor nos demônios, pois reconhecem nela uma adversária invencível. Quantas vezes esse santo nome é pronunciado com devoção, tantas vezes os espíritos maléficos são afastados para longe.
+Como Rainha, Maria comanda os anjos no céu e pode enviá-los em socorro dos necessitados. Possui também poder total sobre os demônios, podendo impedi-los de prejudicar seus servidores. O próprio nome de Maria causa tremor nos demônios, pois reconhecem nela uma adversária invencível. Quantas vezes esse santo nome é pronunciado com devoção, tantas vezes os espíritos maléficos são afastados para longe.
 
 ### A Proteção Maternal
 
@@ -77,11 +77,11 @@ Sob o manto de Maria o pobre encontra morada, o enfermo encontra remédio, a alm
 
 ## Terceira Parte: Os Mistérios de Maria
 
-### Os Mistérios Joyosos: A Realidade Divina
+### Os Mistérios Gozosos: A Realidade Divina
 
-A vida de Maria divide-se naturalmente nos três mistérios do rosário: os mistérios joyosos que apresentam os privilégios de sua excelência, os mistérios doulourosos que revelam suas virtudes através da dor, e os mistérios gloriosos que manifestam os triunfos da vida celestial.
+A vida de Maria divide-se naturalmente nos três mistérios do rosário: os mistérios gozosos que apresentam os privilégios de sua excelência, os mistérios dolorosos que revelam suas virtudes através da dor, e os mistérios gloriosos que manifestam os triunfos da vida celestial.
 
-Nos mistérios joyosos, contemplamos Maria eleita desde os séculos para ser Mãe de Deus. Os patriarcas a desejaram, os profetas a anunciaram, os justos a invocaram, o povo de Israel suspirou por ela até o dia em que finalmente apareceu para a salvação do mundo decadente. Seu nome é proclamado em todo o universo, entre judeus e gentios, gregos e latinos, em igrejas e capelas, em conventos e campos, repetido por pequenos e grandes, por sacerdotes e mestres, todos buscando louvá-la.
+Nos mistérios gozosos, contemplamos Maria eleita desde os séculos para ser Mãe de Deus. Os patriarcas a desejaram, os profetas a anunciaram, os justos a invocaram, o povo de Israel suspirou por ela até o dia em que finalmente apareceu para a salvação do mundo decadente. Seu nome é proclamado em todo o universo, entre judeus e gentios, gregos e latinos, em igrejas e capelas, em conventos e campos, repetido por pequenos e grandes, por sacerdotes e mestres, todos buscando louvá-la.
 
 ### Os Mistérios Dolorosos: A Obediência e o Sofrimento
 
@@ -113,7 +113,7 @@ A meditação sobre os mistérios de Maria não é mero exercício intelectual, 
 
 As virtudes que brilham especialmente em Maria—a beleza, a graça, a serenidade—não são defeitos ou atrativos mundanos, mas dons espirituais que devem ser cultivados. A mulher cristã, em particular, é chamada a desenvolver uma beleza que não reside apenas nas formas físicas, mas numa harmonia de gestos e sentimentos que reflete a luz celestial.
 
-A graça feminina, quando bem empregada, possui uma potência diante da qual nada resiste. Um sorriso sincero pode transformar uma vida. A pietas cristã deve tornar a mulher ainda mais graciosa, pois deve possuir simultaneamente a graça divina e a graciosidade humana. Deste modo, a mulher cristã torna-se imitadora de Maria na beleza e na santidade.
+A graça feminina, quando bem empregada, possui uma potência diante da qual nada resiste. Um sorriso sincero pode transformar uma vida. A piedade cristã deve tornar a mulher ainda mais graciosa, pois deve possuir simultaneamente a graça divina e a graciosidade humana. Deste modo, a mulher cristã torna-se imitadora de Maria na beleza e na santidade.
 
 ### A Perseverança na Oração
 
@@ -199,7 +199,7 @@ Maria permanecia voluntariamente na solidão e no silêncio para poder rezar mel
 
 Observai a abelha ávida de colher seu mel: ela percorre as flores mas sem se apegar a elas; quase que carregada de seu suco, foge rapidamente à colmeia e vai esconder o mel para poder saborear durante o inverno na solidão e calma da paz. Assim encerra a fragrância dos perfumes, receando que, saindo para voar aqui e ali, não perca ainda o fruto de seu trabalho.
 
-Três coisas são necessárias ao homem e agradáveis a Deus, a Maria e aos anjos: o trabalho das mãos contra o peso do corpo, o amor do estudo contra o ennui do coração, o cuidado da oração contra a arte do demónio. Amai portanto a retraita e trabalhai frequentemente se desejais ter paz no coração.
+Três coisas são necessárias ao homem e agradáveis a Deus, a Maria e aos anjos: o trabalho das mãos contra o peso do corpo, o amor do estudo contra o tédio do coração, o cuidado da oração contra a arte do demônio. Amai portanto o retiro interior e trabalhai frequentemente se desejais ter paz no coração.
 
 ## Exemplos e Virtudes
 
@@ -225,7 +225,7 @@ Quais são as mais elevadas no céu e quais foram as mais humildes na terra, ent
 
 Que se una vossa voz a essas vozes, para cantar os doces nomes de Jesus e Maria! Quão bom é também pôr-se a serviço daqueles que se fizeram, em primeiro lugar, vossos servos. Sim, servi o Senhor, filhos dos homens, servi aquele que primeiro se dignou vos servir. Servi também Maria: ela vos deu igualmente o exemplo de ser humilde e de servir. É um dever para vós e vosso interesse honrar antes de tudo esses dois poderosos modelos.
 
-Em todo estado, recorrei a Jesus, e ao mesmo tempo também a Maria. Expondes-lhes sempre vossas necessidades e dores. Confessai vossos pecados e chorai vossos esquecimentos; retomei esperança e esperai a graça. Se caís, ai!, com facilidade, apressai-vos a vos levantar ainda mais depressa. As priedades sinceras são sempre ouvidas e os verdadeiros gemidos sempre escutados. Os anjos, por sua vez, se regozijarão convosco ao vos verem lavado das fealdades do pecado.
+Em todo estado, recorrei a Jesus, e ao mesmo tempo também a Maria. Expondes-lhes sempre vossas necessidades e dores. Confessai vossos pecados e chorai vossos esquecimentos; retomei esperança e esperai a graça. Se caís, ai!, com facilidade, apressai-vos a vos levantar ainda mais depressa. As preces sinceras são sempre ouvidas e os verdadeiros gemidos sempre escutados. Os anjos, por sua vez, se regozijarão convosco ao vos verem lavado das fealdades do pecado.
 
 ## Honra e Glória
 
