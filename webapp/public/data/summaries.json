@@ -193,6 +193,18 @@
     "pdfPath": "data/pdfs/diary-faustina.pdf"
   },
   {
+    "id": "espirito-santo-royo",
+    "path": "../summaries/published/espirito-santo-royo.md",
+    "title": "O Grande Desconhecido: O Espírito Santo e seus Dons",
+    "author": "Antonio Royo Marín",
+    "year": 1972,
+    "cover": "assets/covers/EspiritoRoyo.png",
+    "description": "Quando São Paulo chegou a Atenas, chamou-lhe a atenção um altar dedicado \"ao Deus desconhecido\". Anos depois, ao encontrar discípulos em Éfeso que já haviam abraçado a fé cristã, perguntou-lhes se tinham recebido o Espírito Santo. A resposta foi desconcertante: \"Nem sequer ouvimos falar de que existe o Espírito Santo.\" Antonio Royo Marín, dominicano espanhol e reputado teólogo, abre seu livro El...",
+    "readingTime": 69,
+    "epubPath": "data/epubs/espirito-santo-royo.epub",
+    "pdfPath": "data/pdfs/espirito-santo-royo.pdf"
+  },
+  {
     "id": "grande-meio-oracao",
     "path": "../summaries/published/grande-meio-oracao.md",
     "title": "O Grande Meio da Oração",
