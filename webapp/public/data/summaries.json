@@ -4,7 +4,7 @@
     "path": "../summaries/published/imitao-maria.md",
     "title": "A Imitação da Bem-Aventurada Virgem Maria",
     "author": "Tomás de Kempis",
-    "year": 1768,
+    "year": "1413 - 1471",
     "cover": "assets/covers/imitao-maria.png",
     "description": "O Livro da Imitação de Jesus-Cristo representa uma das obras místicas mais nobres da Tradição cristã. Obra de Thomas à Kempis, asceta renano do século XV, consagra-se a guiar a alma humana pelo caminho da conformidade com Cristo. Contudo, detecta-se nele uma lacuna significativa: a ausência de reflexão sobre a devoção mariana. Não se trata de negligência, mas de uma falha histórica dos copistas...",
     "readingTime": 42,
@@ -188,7 +188,7 @@
     "year": 1938,
     "cover": "assets/covers/diary-faustina.png",
     "description": "O Diário de Santa Maria Faustina Kowalska não é apenas uma obra literária de cunho religioso, mas o registro fidedigno e crítico de uma jornada mística que alterou o curso da devoção católica no século XX. Sob a responsabilidade editorial dos Marianos da Imaculada Conceição desde a década de 1940, o texto passou por um processo de preservação sem precedentes. É fundamental entender que o Diário...",
-    "readingTime": 154,
+    "readingTime": 242,
     "epubPath": "data/epubs/diary-faustina.epub",
     "pdfPath": "data/pdfs/diary-faustina.pdf"
   },
@@ -248,7 +248,7 @@
     "year": 1888,
     "cover": "assets/covers/LifeGlories.png",
     "description": "O autor argumenta que a devoção a São José não é uma inovação moderna, mas algo cujas \"sementes\" e declarações explícitas já se encontravam nos Padres da Igreja. Embora a devoção tenha se expandido subitamente nos últimos séculos por impulso do Espírito Santo, ela repousa na posição única de José na \"economia da redenção\". O prefácio enfatiza que, como Jesus permanece Homem no Céu, os laços...",
-    "readingTime": 117,
+    "readingTime": 155,
     "epubPath": "data/epubs/life-glories-joseph.epub",
     "pdfPath": "data/pdfs/life-glories-joseph.pdf"
   }
