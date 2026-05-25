@@ -6,8 +6,8 @@
     "author": "Tomás de Kempis",
     "year": "1413 - 1471",
     "cover": "assets/covers/imitao-maria.png",
-    "description": "O Livro da Imitação de Jesus-Cristo representa uma das obras místicas mais nobres da Tradição cristã. Obra de Thomas à Kempis, asceta renano do século XV, consagra-se a guiar a alma humana pelo caminho da conformidade com Cristo. Contudo, detecta-se nele uma lacuna significativa: a ausência de reflexão sobre a devoção mariana. Não se trata de negligência, mas de uma falha histórica dos copistas...",
-    "readingTime": 42,
+    "description": "A Imitação da Bem-Aventurada Virgem Maria é uma compilação extraída das obras de Thomas à Kempis (1380–1471), chanônigo de Colônia e abade do Monte Santa Inês, realizada e traduzida ritmicamente pelo Abade Albin de Cigala, doutor em teologia e filosofia pela Faculdade de Paris. A obra foi aprovada e abençoada pessoalmente pelo Papa Pio X em agosto de 1904, que declarou guardar o volume em sua...",
+    "readingTime": 32,
     "epubPath": "data/epubs/imitao-maria.epub",
     "pdfPath": "data/pdfs/imitao-maria.pdf"
   },
@@ -167,6 +167,18 @@
     "readingTime": 36,
     "epubPath": "data/epubs/filosofia-101.epub",
     "pdfPath": "data/pdfs/filosofia-101.pdf"
+  },
+  {
+    "id": "magnifica-humanitaes",
+    "path": "../summaries/published/magnifica-humanitaes.md",
+    "title": "Magnifica Humanitaes",
+    "author": "Papa Leão XIV",
+    "year": 2026,
+    "cover": "assets/covers/magnifica-humanitaes.png",
+    "description": "Publicada em 15 de maio de 2026, no 135.º aniversário da Rerum novarum de Leão XIII, a encíclica Magnifica Humanitaes do Papa Leão XIV constitui o primeiro grande documento do Magistério social dedicado especificamente à era da inteligência artificial. O título evoca a \"magnífica humanidade\" criada por Deus: uma humanidade que hoje se encontra diante de uma escolha decisiva — erguer uma nova...",
+    "readingTime": 39,
+    "epubPath": "data/epubs/magnifica-humanitaes.epub",
+    "pdfPath": "data/pdfs/magnifica-humanitaes.pdf"
   },
   {
     "id": "nossa-senhora-fatima",
