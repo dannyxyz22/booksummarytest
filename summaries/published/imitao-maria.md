@@ -16,7 +16,7 @@ A obra divide-se em trinta leituras ou capítulos, organizados segundo os Misté
 
 O prefácio do tradutor confessa a origem pessoal e dolorosa da obra: iniciada "em horas de tristeza angustiada", sobre um livro recebido de mão amiga no dia de uma separação, ela foi "testemunha de muitas lágrimas e confidente de muitas consolações". Cigala deseja que a obra fale a todos — adolescentes, jovens, homens maduros, velhos — em suas horas de tristeza, dizendo-lhes: "amai e esperai". Apresenta-se como um novo Mélode, à semelhança do monge himnógrafo Romanus, que não compõe poemas novos, mas reproduz em seu canto as harmonias que escutou — e pede a Deus, como única recompensa de seu trabalho, poder apresentar-se diante d'Ele com o título humilde de *Mélode da Imitação*.
 
-## Primeira Parte: Os Mistérios Alegres — Capítulos I e II
+## Primeira Parte: Os Mistérios Gozosos
 
 ### Capítulo I — Como Imitar Maria
 
@@ -31,8 +31,6 @@ A Homilia do capítulo propõe que imitar é reproduzir um modelo. Os modelos de
 O segundo capítulo estabelece a relação do fiel com Maria como mãe, advogada e modelo. Kempis exorta a escolhê-la antes de tudo, saudá-la diariamente com a saudação do Anjo (que lhe é mais grata que qualquer outra) e nunca cessar de invocá-la. A espiritualidade kempisiana adquire aqui caráter de companhia permanente: "Permanecei com Maria, meditai com Maria, alegrai-vos com Maria, chorai com Maria, trabalhais com Maria, velai com Maria." Kempis acompanha o fiel pela inteira vida de Cristo junto com Maria: habitar Nazaré, ir a Jerusalém, procurar Jesus, permanecer junto à Cruz, chorar junto ao sepulcro, ressuscitar e subir ao céu — tudo com Maria.
 
 A Homilia desenvolve os títulos e funções de Maria: como mãe ela consola, sustenta e nutre; como advogada ela aconselha, dirige e defende; como modelo ela exalta e atrai. A Meditação sobre a vida sobrenatural ensina que "viver é subir, elevar-se acima da terra". A vida terrestre não é toda a vida: há a vida da alma, sem a qual o próprio amor não é nada. Maria nos foi dada como modelo e mãe nessa vida nova acrescentada à vida terrestre.
-
-## Primeira Parte: Os Mistérios Alegres — Capítulos III a V
 
 ### Capítulo III — As Virtudes e os Ofícios de um Bom Servo de Maria
 
@@ -50,8 +48,6 @@ O fiel expressa sua adoração numa prece de joelhos, recordando a alegria exult
 
 O quinto capítulo exorta o fiel a elevar-se até Deus ao exemplo de Maria, apoiando-se no auxílio poderoso dela e não apenas nas próprias forças, para não ser arrastado para baixo pelas paixões. A imagem central é a de Maria como fortaleza e porto seguro: "Não há em lugar algum porto mais tranquilo do que o seio de Maria." Assim como a fortaleza protege do inimigo e o porto abriga do temporal, a oração ardente à Virgem defende o fraco e acolhe o pobre, o doente, a alma triste, o vacilante e o abandonado. A Homilia distingue entre deveres "doces" — nascidos do coração, como os de um filho para com sua mãe — e deveres amargos. Os deveres para com Maria devem ser todos do primeiro tipo. A Meditação sobre as belezas de Maria convida a contemplar Marie na visão de Dante, que a vê no Paraíso como auréola de ouro, rodeada de estrelas e flores, reunindo tudo que encanta no mundo.
 
-## Primeira Parte: Os Mistérios Alegres — Capítulos VI a VIII
-
 ### Capítulo VI — Do Poder e das Prerrogativas de Maria
 
 O sexto capítulo exalta o poder de intercessão de Maria junto a seu Filho. Kempis apresenta a Virgem como aquela que obtém de Jesus tudo o que lhe pede pelos fiéis, em especial pelos pobres, pelos enfermos e pelos perseguidos pelo demônio. O fiel que invoca Maria com frequência recebe assurance e consolo, pois ela está sempre pronta a dizer ao seu Filho a palavra de graça em favor de quem sofre. O capítulo lembra que foi Maria quem, nas núpcias de Caná, intercedeu junto a Jesus antes que ele houvesse ainda realizado qualquer milagre — e assim inaugura o ministério público do Salvador. A Homilia trata da natureza da intercessão: diferentemente da mediação de Jesus, que é imolação, a de Maria é intervenção. Mas a intervenção de uma mãe tem uma força que não se recusa: "um sorriso pode quebrar ou transformar uma vida". A Meditação sobre o recurso à oração nos momentos de prova ensina que a alma deve saber identificar o "porto tranquilo" em tempos de tempestade, e que nenhum porto é mais seguro do que Maria.
@@ -64,11 +60,12 @@ No sétimo capítulo, Kempis contempla a missão providencial de Maria desde a e
 
 O oitavo capítulo é um cântico ao renome universal de Maria. O seu nome percorre o mundo inteiro, do nascente ao poente, entre judeus e gentios, gregos e latinos, romanos e citas: "partout il est annoncé avec l'Évangile". O coro dos justos une seus acordos para cantar os atrativos, a graça e a santidade de Maria, com um amor tão grande e uma prece tão doce que nunca se cansam de celebrá-la e meditar seus mistérios — à lembrança das palavras da Sabedoria: *"Os que me comem ainda têm fome deste pão: os que me bebem ainda têm sede deste vinho."* O texto ergue então uma grande prece de esperança: "Vinde, ó Maria, doce virgem que amo! Vinde, minha esperança e minha consolação! Vinde, pois junto a vós, quando ouço a vossa voz, parece-me já possuir todos os bens." A Homilia sobre a mediação de Maria no mundo sublinha seu papel como inspiradora de beleza, geradora de encanto e criadora de poesia na Igreja. Religiões onde o culto da Virgem não floresce são religiões frias e desprovidas de graça.
 
-## Primeira Parte: Os Mistérios Alegres — Capítulos IX a XI
 
 ### Capítulo IX — Das Figuras e dos Símbolos de Maria
 
 O nono capítulo é um deslumbrante catálogo poético das perfeições de Maria, articulado em três movimentos. No primeiro, Kempis celebra a unicidade de Maria: "gloriosa e admirável Virgem Maria, mãe ao mesmo tempo e filha do vosso Deus", ela é a maior em sua humildade, a mais bela em sua virgindade, a mais ardente em sua caridade, a mais resignada em sua paciência, a mais doce em sua misericórdia, a mais inflamada em sua oração, a mais profunda em sua meditação, a mais elevada em sua contemplação. No segundo movimento, figuras bíblicas e cósmicas se acumulam: Maria é a morada de Deus e a porta do céu, o jardim das delícias, a fonte das graças, a glória dos anjos, a saúde dos enfermos, a mãe dos órfãos. Ela tem "o brilho da estrela, o encanto da rosa, a beleza da aurora, a doçura da lua, a profundidade da pérola, o esplendor do sol." No terceiro, imagens da natureza ampliam a contemplação: Maria é pura como a ovelha, simples como a pomba, prudente como uma nobre senhora, humilde como uma serva; é cedro altivo, videira carregada de cachos, figueira coberta de frutos, cipreste alto, palmeira cheia de glória. A Homilia sobre misericórdia e compaixão propõe que cada virtude tem um aspecto ativo visível e um aspecto passivo invisível. Em Maria, esplendor e ilustração operam maravilhas que envolcam os corações e elevam as almas.
+
+## Segunda Parte: Os Mistérios Dolorosos
 
 ### Capítulo X — Da Anunciação e das Prerrogativas de Maria
 
@@ -78,7 +75,6 @@ O décimo capítulo meditando o mistério da Anunciação contempla como Maria r
 
 O décimo primeiro capítulo abre a reflexão sobre a família espiritual a que pertence o fiel devoto de Maria. Kempis exorta aquele que quer abandonar o mundo: "que Jesus e Maria sejam vossos únicos amores; que Deus seja vosso pai e Jesus vosso irmão; que Maria seja doravante vossa única mãe." Os anjos serão amigos, os infelizes irmãos, os humildes e os pobres companheiros. Essa família santa tem por base a fé, por força a esperança, por ornamentos a paciência e a caridade. A grande imagem da proteção materna é central: "Se vós estais conosco para lutar, ó Maria, quem ousaria levantar-se contra nós? E se nos dais vossa proteção, quem jamais poderá repelir-nos?" A Homilia sobre a influência da mulher e da mãe no mundo afirma que o recordar da mãe, como sua visão, é o mais poderoso excitador da bondade no mundo. A civilização, a poesia, a arte, a moda — tudo na vida dos povos é organizado para agradar à mulher e é por ela inspirado. Maria, como influência supranatural, marca os mais belos monumentos da arquitetura e da pintura cristã.
 
-## Segunda Parte: Os Mistérios Dolorosos — Capítulos XII a XIV
 
 ### Capítulo XII — Das Alegrias e Exultações de Maria
 
@@ -92,7 +88,6 @@ O décimo terceiro capítulo medita o Magnificat como expressão suprema da exul
 
 O décimo quarto capítulo, central na Segunda Parte, medita a dor de Maria ao perder Jesus no Templo de Jerusalém quando ele tinha doze anos. A narrativa evangélica serve de mote para uma reflexão sobre a dor espiritual de "perder Jesus" — o estado de aridez, de pecado ou de tiédeza em que a alma sente a ausência de Deus. A prece deste capítulo é das mais comoventes da obra: "Vós sabeis quanto é duro perder Jesus, e quanto também é doce reencontrá-lo. Se essa prova vos foi enviada a vós, ó Maria, a vós que eráveis sem pecado, que admiração se me é imposta a mim, que tantas vezes ofendi meu Deus?" A Homilia sobre o sofrimento e o amor comenta que "amar é sofrer", segundo o Eclesiastes. Mas para amar verdadeiramente, é preciso saber sofrer com nobreza — e Maria é nosso modelo nessa arte delicada que esculpe a alma como os golpes do martelo moldam a obra de arte no mármore. A compaixão — *sofrimento-com* — é o nome dado à participação de Maria nas sofrências de Jesus: se Jesus sofreu sua Paixão, Maria conheceu junto a ele a Compaixão.
 
-## Segunda Parte: Os Mistérios Dolorosos — Capítulos XV a XVII
 
 ### Capítulo XV — Dos Exemplos e Conselhos de Maria para Buscar e Encontrar Jesus
 
@@ -106,8 +101,6 @@ O décimo sexto capítulo mergulha na contemplação das sete dores de Maria. O 
 
 O décimo sétimo capítulo é dedicado ao valor do recolhimento e da vida interior. Kempis usa a imagem dos perfumes: "os perfumes bem fechados em seus vasos embasamam mais e se conservam melhor; os que ficam a descoberto não tardam a perder seu gosto e seu aroma." Assim, a devoção conserva-se e cresce no recolhimento, enquanto se evapora e se perde no barulho. Três coisas são necessárias ao homem e agradam a Deus, a Maria e aos anjos: o trabalho das mãos, contra o peso do corpo; o amor do estudo, contra o tédio do coração; e o cuidado da oração, contra a arte do demônio. "Amai, pois, o recolhimento e trabalhai frequentemente se quereis ter em vós a paz do coração."
 
-## Segunda Parte: Os Mistérios Dolorosos — Capítulos XVIII e XIX
-## Terceira Parte: Os Mistérios Gloriosos — Capítulos XX e XXI
 
 ### Capítulo XVIII — Como Se Deve Sofrer ao Exemplo de Maria
 
@@ -117,6 +110,9 @@ O décimo oitavo capítulo é o ponto culminante dos Mistérios Dolorosos, a med
 
 O décimo nono capítulo abre com uma questão: quais são as mais elevadas no céu e as mais humildes na terra entre as criaturas dotadas de vida? São Jesus e Maria. "Jesus torna-se, por nós, o servo de todos, e Maria se chama a si mesma uma serva." E contudo a terra proclama a grandeza e o céu reunido canta a dignidade sublime de Jesus e de Maria. Kempis convida o fiel a unir sua voz a esses coros, e a colocar-se a serviço de quem primeiro se fez nosso servo. O serviço de Jesus e Maria é apresentado como dever e interesse do fiel: é preciso invocá-los em todo estado, expor-lhes as necessidades e as penas, confessar os pecados e chorar os esquecimentos, retomar a esperança e aguardar a graça. Se caíres, apressa-te a te levantar mais depressa ainda — "as orações sinceras são sempre escutadas e os gemidos verdadeiros sempre ouvidos." Maria obtém de Jesus o perdão dos pecados; os anjos se alegram ao ver a alma lavada das fealdades do pecado.
 
+
+## Terceira Parte: Os Mistérios Gloriosos
+
 ### Capítulo XX — Do Início da Terceira Parte: A Vida Interior de Maria
 
 Com o vigésimo capítulo inicia-se a Terceira Parte, consagrada aos Mistérios Gloriosos — os triunfos e as glórias de Maria em sua vida celeste. A vida interior de Maria é apresentada como o mais belo mistério: "É nas solidões da consciência que se passam os mais belos mistérios da vida, disse Lacordaire." Quem pudesse penetrar no interior de Maria contemplaria com deleite esplendores dignos do céu. É pela solidão e pelo silêncio que se elabora essa vida íntima que a mística chama de vida interior. Maria a viveu na companhia dos anjos e na intimidade de Jesus.
@@ -125,7 +121,6 @@ Com o vigésimo capítulo inicia-se a Terceira Parte, consagrada aos Mistérios 
 
 O vigésimo primeiro capítulo aprofunda a contemplação da vida interior de Maria. A imagem dos perfumes fechados nos vasos retorna: a devoção se conserva e cresce no recolhimento interior. O coração de Maria — cuja vida interior é descrita como santuário da dor e do amor (*Amori et dolori sacrum*) — conheceu as ternuras do amor e as angústias da dor mais do que qualquer coração humano. Coração de mãe e de mulher, coração de virgem e de mártir, moldado em carne imaculada e transformado pelo contato com o próprio coração de um Deus: "quando o coração de Jesus e o coração de Maria trocavam o mesmo sangue e viviam da mesma vida."
 
-## Terceira Parte: Os Mistérios Gloriosos — Capítulos XXII a XXV
 
 ### Capítulo XXII — Das Obras e dos Exemplos de Maria
 
@@ -143,7 +138,6 @@ O vigésimo quarto capítulo propõe a humildade de Maria como modelo espiritual
 
 O vigésimo quinto capítulo é o cume espiritual da Terceira Parte: o caminho para Jesus passa por Maria. "Feliz aquele que, cada dia, vem com cuidado oferecer a Jesus e a Maria suas homenagens, seus cânticos e seus louvores, seu coração e seu amor!" Kempis pinta o fiel como peregrino que, no tempo do exílio, recorda constantemente a pátria do alto, onde Jesus e Maria, rodeados de coros de anjos, o aguardam para gozar pela eternidade. A imagem eucarística é central: "todas as vezes que o fiel comungue, ou que o sacerdote ofereça o santo sacrifício, recebem em união com Jesus e com Maria o pão da alma." O comungante torna-se apóstolo de Jesus, page de Maria, companheiro dos santos, familiar de Deus, herdeiro do bem-aventurança do céu. A prece do capítulo pede ouvir a voz de Maria dizendo ao seu servo, como Jesus disse a João: "Meu filho, eis tua mãe."
 
-## Terceira Parte: Os Mistérios Gloriosos — Capítulos XXVI a XXIX
 
 ### Capítulo XXVI — Da Intercessão Materna de Maria
 
@@ -161,7 +155,6 @@ O vigésimo oitavo capítulo esclarece a natureza da mediação de Maria. A medi
 
 O vigésimo nono capítulo retoma o diálogo entre o discípulo e Maria, desta vez como modelo de encontro espiritual. O discípulo implora: "Feliz momento quando vos dignais, ó Maria, visitar minha pobre alma entristecida!" Maria responde como mãe do belo amor, das doces crenças e das ternuras: "Exulta em teu coração ao ouvir meu nome, inclina-me a cabeça e enviai-me uma saudação: honras o filho honrando a mãe." Jesus é apresentado na resposta de Maria como esperança dos justos, paz dos mansos, força dos fracos, via dos errantes, apoio dos que o infortúnio oprime, refúgio de todos os que têm o coração bom.
 
-## Terceira Parte: Os Mistérios Gloriosos — Capítulo XXX
 
 ### Capítulo XXX — Da Eterna Realeza de Maria
 
