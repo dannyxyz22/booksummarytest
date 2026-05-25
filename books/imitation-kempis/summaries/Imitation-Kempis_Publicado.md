@@ -1,9 +1,3 @@
-# A Imitação da Bem-Aventurada Virgem Maria
-
-Thomás de Kempis | Compilação de Albin de Cigala
-
----
-
 ## Apresentação da Obra e Contexto Histórico
 
 *A Imitação da Bem-Aventurada Virgem Maria* é uma compilação extraída das obras de Thomas à Kempis (1380–1471), chanônigo de Colônia e abade do Monte Santa Inês, realizada e traduzida ritmicamente pelo Abade Albin de Cigala, doutor em teologia e filosofia pela Faculdade de Paris. A obra foi aprovada e abençoada pessoalmente pelo Papa Pio X em agosto de 1904, que declarou guardar o volume em sua mesa de trabalho e ler diariamente seu capítulo de leitura espiritual. Em 1908, a tradução recebeu o Grande Prêmio Janin da Academia Francesa, distinção concedida à "melhor tradução de uma obra latina".
@@ -166,10 +160,3 @@ O vigésimo nono capítulo retoma o diálogo entre o discípulo e Maria, desta v
 ### Capítulo XXX — Da Eterna Realeza de Maria
 
 O trigésimo e último capítulo coroa a obra com a contemplação da realeza eterna de Maria. O coração de Jesus, unido à divindade na pessoa de Cristo, transmitiu pelo seu contato com o coração de sua mãe algo de sua grandeza e de sua beleza ao de Maria. "Maria é, pois, rainha pelo coração, como é rainha por seu destino humano." Seu coração vibra com mais força do que o coração de uma criatura — é menos sublime do que o coração de Deus, mas é único entre o céu e a terra. A meditação final celebra a perenidade do amor: "O amor não é um simples sentimento: é uma força gigantesca. As mulheres detêm um poder que não conhecem. Somente Maria soube o que o amor de uma mãe tem de potência." Saber amar, e amar sempre, é a vida ardente, a vida ativa, a vida em sua plenitude. A obra conclui com uma invocação a Maria ao modo de Dante — o "divino poeta" que a contemplou no Paraíso: "Ó mãe, ó rainha, ó Maria, ajudai-nos a vos amar, ajudai-nos a vos louvar! Vós sois a beleza, a *beltà*, e não podemos suficientemente admirar-vos. Vós sois a bondade, a *bontà*, e não podemos suficientemente louvar-vos." E a palavra digna de Maria, a que veio do céu, a palavra do arcanjo, é a única que a encerra: *Ave Maria!* Aqui termina o piedoso Livro da *Imitação da Virgem Maria*, devotamente traduzido e transcrito pelo Mélode Albinus.
-
-
----
-
-## Obras Relacionadas na Biblioteca
-
-A espiritualidade contemplativa desta obra ressoa com a tradição mística carmélita de [São João da Cruz](book:noite-escura) e [A Subida do Monte Carmelo](book:subida-monte-carmelo), bem como com a simplicidade de [A Prática da Presença de Deus](book:pratica-presenca-deus) de Frei Lourenço. A devoção mariana aprofunda-se em diálogo com [Nossa Senhora de Fátima](book:nossa-senhora-fatima). A espiritualidade da oração como caminho de santidade está desenvolvida em [O Grande Meio da Oração](book:grande-meio-oracao) de Santo Afonso de Liguori, e o tema do amor divino percorre também [Dilexi Te](book:dilexi-te).
