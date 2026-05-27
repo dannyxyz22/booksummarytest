@@ -72,6 +72,18 @@
     "pdfPath": "data/pdfs/tres-conversoes.pdf"
   },
   {
+    "id": "caminho",
+    "path": "../summaries/published/caminho.md",
+    "title": "Caminho",
+    "author": "São Josemaria Escrivá",
+    "year": 1939,
+    "cover": "assets/covers/caminho.png",
+    "description": "Caminho não é um tratado de espiritualidade no sentido acadêmico nem um manual de ascética sistematizado: é uma coleção de 999 máximas, cada uma breve como uma faísca, destinadas a incendiar a alma do cristão que as medita com atenção. Nasceu da atividade pastoral de Josemaria Escrivá a partir de 1925 e apareceu pela primeira vez em 1934, com o título Considerações espirituais; em 1939, numa...",
+    "readingTime": 34,
+    "epubPath": "data/epubs/caminho.epub",
+    "pdfPath": "data/pdfs/caminho.pdf"
+  },
+  {
     "id": "cartas-sena",
     "path": "../summaries/published/cartas-sena.md",
     "title": "Cartas",
