@@ -1,0 +1,7 @@
+# A Imitação da Bem-Aventurada Virgem Maria — Lote 11
+
+## Terceira Parte: Os Mistérios Gloriosos — Capítulo XXX
+
+### Capítulo XXX — Da Eterna Realeza de Maria
+
+O trigésimo e último capítulo coroa a obra com a contemplação da realeza eterna de Maria. O coração de Jesus, unido à divindade na pessoa de Cristo, transmitiu pelo seu contato com o coração de sua mãe algo de sua grandeza e de sua beleza ao de Maria. "Maria é, pois, rainha pelo coração, como é rainha por seu destino humano." Seu coração vibra com mais força do que o coração de uma criatura — é menos sublime do que o coração de Deus, mas é único entre o céu e a terra. A meditação final celebra a perenidade do amor: "O amor não é um simples sentimento: é uma força gigantesca. As mulheres detêm um poder que não conhecem. Somente Maria soube o que o amor de uma mãe tem de potência." Saber amar, e amar sempre, é a vida ardente, a vida ativa, a vida em sua plenitude. A obra conclui com uma invocação a Maria ao modo de Dante — o "divino poeta" que a contemplou no Paraíso: "Ó mãe, ó rainha, ó Maria, ajudai-nos a vos amar, ajudai-nos a vos louvar! Vós sois a beleza, a *beltà*, e não podemos suficientemente admirar-vos. Vós sois a bondade, a *bontà*, e não podemos suficientemente louvar-vos." E a palavra digna de Maria, a que veio do céu, a palavra do arcanjo, é a única que a encerra: *Ave Maria!* Aqui termina o piedoso Livro da *Imitação da Virgem Maria*, devotamente traduzido e transcrito pelo Mélode Albinus.

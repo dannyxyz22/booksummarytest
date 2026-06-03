@@ -23,14 +23,11 @@ Thumbs.db
 /webapp/public/data/books/
 
 # Project Intermediate Files
-/books/*.txt
 /books/*Splits/
 /summaries/**/batches/
 /summaries/batches_life_glories/
 /summaries/life_glories_summaries/
-**/batch_*.md
 **/batch_*.json
-/summaries/**/batch_*.md
 
 7403-full-summary.md
 summaries/SubidaMonteCarmelo_batches/part_06.md

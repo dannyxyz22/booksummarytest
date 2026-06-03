@@ -1,0 +1,893 @@
+3. On Being and Essence 
+(1252-6) 
+
+
+This little treatise, whose composition is thought to be contemporary with 
+the preceding, is an indisputable proof of the genius of its author. Here 
+some of the most vexing questions of metaphysics are handled with an ease 
+and authority that amazes. An original work? Thomas saw himself as an 
+inheritor and continuer of a tradition, but his mastery of that tradition 
+enables him to see what others had not seen, or seen as clearly as he. 
+
+
+The immediate scope of this treatise is the nature of the things that are, 
+but it also brilliantly provides a statement of a common doctrine underlying 
+the metaphysical efforts of Greeks and Arabs, Christians and Jews, 
+Aristotelians and Neoplatonists — a doctrine that Thomas fundamentally 
+saw as the teaching of Aristotle. 
+
+
+This is a philosophical work which, on philosophical grounds, assumes 
+that the realm of being is not limited to the things before our eyes. To ask 
+about being, then, and what it is to be a being, and of the difference 
+between ‘whatness’ and existence, is to open questions that move from the 
+things of this world to God and to that great realm of beings between, what 
+the Neoplatonists called ‘Intelligences’. Thomas calls them that here too, no 
+doubt a quite deliberate choice on the part of a man who came to be called 
+the Angelic Doctor, not least because of his insatiable interest in those 
+choirs and kinds of ‘separated substances’ the Christian calls the angels. 
+
+
+PROLOGUE 
+
+
+Because a small error at the outset ends by being great, according to the 
+Philosopher in On the Heavens 1,* and because being and essence are what 
+intellect first conceives, as Avicenna says in the beginning of his 
+Metaphysics, therefore, lest ignorance of them give occasion for error, and 
+in order to lay open the difficulty concerning them, it should be said what 
+
+
+‘essence’ and ‘being’ mean, how they are found in different things, and how 
+they are related to logical intentions, namely, genus, species and difference. 
+
+
+We ought to derive knowledge of simple things from composite things, 
+and come to the primary from the secondary. Since learning most fittingly 
+comes about when we begin with easier matters, we should move from the 
+meaning of ‘being’ to the meaning of ‘essence’. 
+
+
+CHAPTER 1 
+ON THE MEANINGS OF‘BEING’ AND‘ESSENCE’ 
+
+
+Notice therefore that, as the Philosopher says in Metaphysics 5, being as 
+such is said in two ways: first as it is divided into the ten genera, and second 
+as meaning the truth of propositions. These differ because anything can be 
+called being in the second sense if an affirmative proposition can be formed 
+of it, even if it posits nothing in reality: thus privations and negations are 
+called beings, as when we say that affirmation is opposed to negation, and 
+that blindness exists in the eye. But in the first sense only that which posits 
+something in reality can be called being; therefore, blindness and the like 
+are not beings in this sense of the term. 
+
+
+The term essence does not apply to being in the second sense, for some 
+things are called beings which have no essence, as is obvious in the case of 
+privations; but essence does apply to being taken in the first sense. Hence 
+the Commentator? says that being in the first sense signifies the essence of 
+the thing. And because, as has been said, being in this sense is divided into 
+ten genera, essence must mean something common to all natures thanks to 
+which beings are placed in the different genera and species, such that 
+humanity is man’s essence, and similarly with other things. 
+
+
+Since that by which a thing is constituted in its proper genus or species is 
+what is signified by the definition expressing what the thing is, it can be 
+seen why philosophers changed the name essence to the name whatness, 
+and this is what the Philosopher frequently calls that-which-it-was-to-be — 
+namely, that through which a thing is some thing. It is also called form, 
+insofar as form signifies the certainty of anything whatsoever, as Avicenna 
+says in book 2 of his Metaphysics. And it is signified by yet another name, 
+nature, taking nature in the first of the four senses that Boethius gives the 
+
+
+term in his On the Two Natures [of Christ] — namely, anything the intellect 
+can in any way grasp is called a nature because a thing is only intelligible 
+through its definition and essence. The Philosopher too says in Metaphysics 
+5: that every substance is a nature. However, the term nature taken in this 
+sense seems to signify the essence of a thing insofar as it is ordered to the 
+thing’s proper activity, and nothing is without a proper activity. The name 
+quiddity however is taken from what is signified by the definition. But 
+essence means that through which and in which the thing has existence. 
+
+
+Just as being is said absolutely of substances, but only in a secondary, 
+qualified sense of accidental qualities, the same too is true of essence. Some 
+substances are simple and others complex. Essence is found in both, 
+although more truly and nobly in the simple, which are the causes of the 
+complex — at least the first simple substance, God, is. But because the 
+essences of such substances are largely hidden from us, we must begin with 
+the essences of complex substances, so that we might fittingly learn from 
+more accessible concepts. 
+
+
+CHAPTER 2 
+ESSENCE IN COMPOSITE SUBSTANCES 
+
+
+In complex substances there are form and matter, as in man there are soul 
+and body. Neither of these alone can be called essence. Plainly, matter alone 
+is not essence, because a thing is knowable and also placed in a species and 
+genus through its essence, but matter is neither a principle of knowledge nor 
+that according to which something is characterized as to genus and species: 
+that has to be what makes the thing actual. Nor can form alone be called the 
+essence of complex substance, though some have sought to maintain this. It 
+is clear from what has been said that the definition of a thing signifies its 
+essence, but the definition of natural substance contains both form and 
+matter, otherwise natural and mathematical definitions would not differ. Nor 
+can it be said that matter enters into the definition of the natural substance 
+as something added to its essence, or as outside its essence — that mode of 
+definition is peculiar to the accidental, which, having no complete essence, 
+requires that its subject, which is outside its genus, be put into its definition. 
+Clearly essence comprises both matter and form. 
+
+
+Nor can it be said that essence signifies some relation between matter and 
+form, or something superadded to them, since this would necessarily be an 
+accidental quality extraneous to the thing, and the thing could not be known 
+by means of it, as it is by its essence. It is through form, which is the act of 
+matter, that matter is made an actual being and made to be a kind of thing. 
+Therefore, whatever more is added, does not make matter actually to be 
+simply speaking, but only actually to be such-and-such, which is what 
+accidental qualities do: whiteness makes something to be actually white. 
+That is why when such a form is acquired, a thing is not said to be 
+generated simply speaking but only in a certain respect. 
+
+
+We are left, then, with this, that the word essence in the case of complex 
+substances signifies what is composed of matter and form. This agrees with 
+Boethius in his commentary on the Categories, where he says that ousia 
+signifies the complex: ousia means for the Greeks what essence means for 
+us, as he himself points out in On the Two Natures. Avicenna too says that 
+the quiddity of complex substance is the very composition of form and 
+matter. And the Commentator also says, with reference to Metaphysics 7. 
+“The nature had by the species of generable things is something in between, 
+that is, composed of matter and form.’ 
+
+
+This stands to reason, since the existence of the compound substance is 
+not of form alone nor of matter alone but of the composed thing itself; and 
+the essence is that according to which a thing is said to exist. Necessarily 
+then the essence whereby a thing is denominated a being cannot be form 
+alone, nor matter alone, but is both, even though in a way only form is the 
+cause of such existence. We see that other things constituted from several 
+principles are not denominated from one of the principles alone but from 
+that which comprises both. This is clear in tastes, because sweetness is 
+caused by the heat which digests the moist, but something is not 
+denominated sweet from heat but from taste which comprises the hot and 
+the humid. 
+
+
+It might perhaps seem to follow from the fact that matter is the principle 
+of individuation that essence cannot be defined universally, since it contains 
+matter as well as form — particular matter, that is, not universal — and 
+essence is what the definition signifies. But note that it is not matter 
+understood in just any way that is the principle of individuation, but only 
+designated matter: and I call designated matter that which is considered 
+under determinate dimensions. Matter in this sense is not put into the 
+
+
+definition of man as man but would be put into the definition of Socrates if 
+Socrates had an essence. Non-designated matter is included in the definition 
+of man, for it is not this bone and this flesh that are put into the definition of 
+man, but bone and flesh as such which are the non-designated matter of 
+man. 
+
+
+It is evident that the essence of man differs from the essence of Socrates 
+only as the designated differs from the non-designated. Hence the 
+Commentator says on Metaphysics 7, ‘Socrates is nothing else than 
+animality and rationality, which are his quiddity.’ So too the essence of 
+genus differs from that of species according to the designated and non- 
+designated, though there is a different mode of designation than in the 
+previous case, because the designation of the individual with reference to 
+species is by matter with determinate dimensions, whereas the designation 
+of species with respect to genus is by the constitutive difference taken from 
+the form of the thing. The determination or designation in the species with 
+reference to genus is not by way of something existing only in the essence 
+of the species and not in the essence of the genus; indeed, whatever is in the 
+species is also in the genus in an undetermined way. For if animal were not 
+the whole that is man, but only its part, it would not be predicated of it, 
+since no integral part is predicated of its whole. To see why this is so, 
+consider that the difference between body as a part of animal and body as a 
+genus is that body as a genus cannot be an integral part. 
+
+
+This term body has many meanings. In the genus of substance, body 
+means that which has a nature such that three dimensions can be designated 
+in it. Those three designated dimensions are body as it falls in the genus of 
+quantity. For something that already has one perfection can receive another, 
+as is evident in man who in addition to sensitive nature has intellectual 
+nature. Similarly too, over and above the perfection of having a nature in 
+which three dimensions can be designated, another perfection can be added, 
+such as life and the like. The term body, then, can signify a thing whose 
+form permits three dimensions to be designated in it but with precision, 
+such that no further perfection follows from that form. If something were 
+added, it would be outside the meaning of body in this sense. In this sense, 
+body is an integral and material part of animal and soul is not included in its 
+meaning but supervenes on it and from the two, body and soul, the animal 
+is constituted as from its parts. 
+
+
+The term body can also be taken to signify something whose form 
+permits three dimensions to be designated in it, whatever form that might be 
+and whether or not any further perfection can come from it. In this sense, 
+body is the genus of animal, because nothing should be understood in 
+animal which is not implicitly contained in its genus body. For the soul is 
+not a form other than the form thanks to which three dimensions can be 
+designated in the thing. Therefore when it was said that ‘body is that which 
+has such a form that three dimensions can be designated in it’, whatever 
+form it has is understood, whether soul, or rock, or whatever. The animal’s 
+form is implicitly contained in the form of body, insofar as body is its 
+genus. 
+
+
+This is also the way animal relates to man. For if animal meant only 
+something whose perfection enables it to sense and be moved by an internal 
+principle, prescinding from other perfections, then whatever other 
+perfection supervened would relate to animal as a co-part and not as 
+implicitly contained in the notion of animal. Animal would not be a genus. 
+As a genus it signifies something from whose form sense and motion can 
+flow, whatever that form might be, whether it is sensible soul alone or both 
+sensible and rational. 
+
+
+Thus genus signifies indeterminately everything that is in the species and 
+not just matter alone. Difference signifies the whole and not form alone and 
+the definition too signifies the whole species — but differently. For genus 
+signifies the whole by determining what is material in the thing without the 
+determination of its proper form; genus is taken from the matter although it 
+is not matter. This is clear because body means that which has a perfection 
+such that three dimensions can be designated in it, which perfection is 
+related materially to any further perfection. Difference on the other hand is 
+a denomination drawn from the determined form without any determinate 
+matter being mentioned. Take the case of a thing being called animate, 
+namely, that which has a soul; this does not tell us whether it is a body or 
+something else. Hence Avicenna says that genus is not understood in 
+difference as part of its essence, but only as being outside essence, as the 
+subject is in the understanding of properties. Therefore the genus is not 
+predicated as such of difference, the Philosopher says in Metaphysics 3 and 
+Topics 4, but in the way that a subject is predicated of its property. The 
+definition or species comprises both, namely the determinate matter that the 
+
+
+genus term signifies and the determinate form that the difference term 
+signifies. 
+
+From this it is clear why genus, species and difference relate 
+proportionally to matter, form and the natural compound, although they are 
+not the same as them, because the genus is not matter, but drawn from 
+matter as signifying the whole, nor difference form, but drawn from form as 
+signifying the whole. That is why we say that man is rational animal, and 
+not from animal and from rational as we say he is from soul and body: for 
+man is said to be from soul and body as a third thing constituted from two 
+things neither of which he is, for a man is not soul nor is he body. But if 
+man is said in some way to be constituted of animal and rational, it will not 
+be as a third thing constituted of two things, but as a third concept 
+composed of two concepts. For animal is conceived without the 
+determination of any special form and expresses the nature of the thing by 
+means of that which is material with respect to its ultimate perfection. The 
+concept of the difference ‘rational’ consists in the determination of special 
+form: from these two concepts is constituted the concept of species or 
+definition. Therefore just as the constituents of a thing are not predicated of 
+it, neither are the constituent concepts predicated of the complex concept, 
+for we do not say that the definition is the genus or the difference. 
+
+
+However although genus signifies the whole essence of species, it is not 
+necessary that there be the same essence of different species of the same 
+genus. The unity of genus stems from this very indetermination or 
+indifference. But what is signified by genus is not numerically the same in 
+the different species, in which something else supervenes — namely, the 
+difference which determines it; in much the same way numerically one 
+form determines matter. But because genus signifies some form — though 
+not determinately this one or that — it is the same form that difference 
+determinately expresses and that the genus indeterminately signifies. As the 
+Commentator says in Metaphysics 11, prime matter is called one by the 
+removal of all forms, but genus is called one by the comprehensive 
+universality of the form signified. Thus it is clear that the addition of 
+difference removes the indetermination that was the cause of the unity of 
+genus and there come into view species essentially different. 
+
+We have said that the nature of species is undetermined with respect to 
+the individual just as genus is undetermined with respect to its species. 
+When the genus is predicated of species it implies in its signification, 
+
+
+though indistinctly, everything that is determinately in the species. So too 
+species as predicated of the individual signifies all that is essential in the 
+individual, though indistinctly. In this way the essence of species is 
+signified by the name man, and man is predicated of Socrates. However if 
+the nature of species were signified as prescinding from designated matter, 
+which is the principle of individuation, then it is to take it as a part and it is 
+signified by the name humanity; humanity signifies that whereby man is 
+man. Designated matter is not that thanks to which man is man, and thus is 
+not among the things whereby man is man. Clearly then, designated matter 
+is excluded from or prescinded from in its signification. It is because the 
+part is not predicated of the whole that humanity is not predicated of man or 
+of Socrates. Avicenna says that the quiddity of the composed thing is not 
+the compound of which it is the quiddity, although the quiddity itself is 
+composed: humanity, though it is complex, is not man. Indeed, it must be 
+received in something which is designated matter. 
+
+
+Because, as has been said, the designation of species with respect to 
+genus is through form, and the designation of the individual with respect to 
+species is through matter, it is necessary that the name signifying that 
+whence the nature of genus is taken, prescinding from the determinate form 
+perfecting species, signify a material part of the whole, as body is a material 
+part of man; but the name signifying that whence the nature of species is 
+drawn, prescinding from designated matter, signifies a formal part. 
+Humanity therefore is signified as a form and is called the form of the 
+whole, not as superadded to the essential parts, namely form and matter, in 
+the way the form of house is superadded to its integral parts, but rather as 
+the form which is the whole, namely a form comprising matter as well, 
+although with precision from those things by which matter is designated. 
+
+
+Clearly then the terms ‘man’ and ‘humanity’ signify the essence of man, 
+though differently, as has been said. ‘Man’ signifies it as a whole because it 
+does not prescind from the designation of matter but implicitly and 
+indistinctly contains it, much as the genus is said to contain the difference, 
+which is why the term man is predicated of individuals. But ‘humanity’ 
+signifies the essence as a part, because it contains in its signification only 
+what is proper to man as man, and prescinds from every other designation: 
+which is why it is not predicated of individual men. Because of this, the 
+term ‘essence’ is sometimes predicated of a thing, as when we say that 
+
+
+Socrates is a certain essence, but sometimes this is denied, as when we say 
+that the essence of Socrates is not Socrates. 
+
+
+CHAPTER 3 
+ESSENCE AND UNIVERSALITY 
+
+
+Having examined what the word essence means in complex substances, we 
+go on to ask how it relates to the notions of genus and species and 
+difference. Because that to which the notions of genus and species and 
+difference belong is predicated of this designated singular, it is impossible 
+that the notion of universal — namely of genus or of species — should belong 
+to the essence as it is signified in the manner of a part, for example, 
+humanity or animality. That is why Avicenna said that rationality is not the 
+difference but the principle of the difference; for the same reason, humanity 
+is not the species nor animality the genus. Nor can it be said that the notion 
+of genus or species belongs to essence because it is something existing 
+apart from singulars, as the Platonists held. If that were so genus and 
+species could not be predicated of the individual; for we cannot say that 
+Socrates is something separated from himself or that such a separated thing 
+would contribute to knowledge of this singular thing. It remains that the 
+notion of genus or species belongs to essence insofar as it is signified in the 
+manner of a whole, as by ‘man’ or ‘animal’, which implicitly and 
+indistinctly contain everything that is in the individual. 
+
+
+The nature or essence so taken can be considered in two ways. In the 
+most absolute and proper consideration of it: nothing is true of the essence 
+except what belongs to it as such; whatever else might be attributed to it 
+would be a false attribution. For example, ‘rational’ and ‘animal’ and the 
+other qualities which fall under his definition belong to man insofar as he is 
+man. White and black and such qualities, which are not part of the concept 
+of humanity, do not belong to man as man. Can a nature so considered be 
+called one or many? Neither, because both are outside the understanding of 
+humanity, yet both can attach to it. For if plurality were of the very 
+understanding of a nature, it could never be one, yet it is one in Socrates. 
+Similarly if unity were of its notion, then it would be one and the same in 
+Socrates and Plato, nor could it be multiplied in many individuals. In 
+
+
+another way the essence can be considered as it exists in this or that, and 
+thus something can be predicated of it per accidens by reason of that in 
+which it is, as when man is said to be white because Socrates is white, 
+although this does not belong to man insofar as he is man. 
+
+
+This nature can exist in two ways, however: in one way in singulars and 
+in another way in the soul, and in both cases accidental qualities befall the 
+nature. In singulars it has multiple existence because of the different 
+singulars. None of this pertains to the nature itself in its first or absolute 
+consideration. For it is false to say that it pertains to the essence of man as 
+such to exist in this singular, for then it would never exist outside this 
+singular; similarly if it pertained to man as man not to exist in this singular, 
+it would never be in him. But it is true to say that man, although not just as 
+man, is such that it is in this singular or that, or in the soul. Therefore the 
+nature of man absolutely considered clearly abstracts from any sort of 
+existence, but in such a way that it does not prescind from either of them. 
+The nature considered absolutely is what is predicated of all individuals. 
+
+
+It cannot, however, be said that the notion of universality belongs to the 
+nature so taken. Unity and community are of the very meaning of the 
+universal and neither of these belongs to human nature as it is considered 
+absolutely. For if universality were included in the understanding of man, 
+then in whatever individual the nature were found, universality would be 
+found. This is of course false, because there is no universality in Socrates: 
+whatever is in him is individuated. Similarly it cannot be said that the 
+notion of genus or species belongs to human nature as it exists in 
+individuals. Human nature is not found in individuals as a unit common to 
+all, which the meaning of universal requires. It follows that the notion of 
+species belongs to human nature as it exists in the intellect. 
+
+
+Human nature itself exists in the intellect as abstracted from all 
+individuating characteristics; therefore it has a uniform notion in all 
+individuals outside the soul, because it is equally the similitude of all and 
+conducive to the knowledge of each insofar as they are men. Because the 
+nature has such a relation to all individuals, the intellect fashions the notion 
+of species and attributes it to the nature. Hence the Commentator says at the 
+beginning of the De anima that ‘it is intellect that causes universality in 
+things’; and Avicenna says the same in his Metaphysics. And although this 
+nature as understood has the notion of universality as it compares to things 
+outside the soul, because it is the similitude of all, none the less insofar as it 
+
+
+exists in this intellect or that it is a particular understood species. From this 
+appears the defect of the Commentator in De anima 3, who wants to 
+conclude from the universality of the form understood to the unity of the 
+faculty of understanding in all men. But the universality of the form is not 
+its existence in the intellect but only insofar as it refers to things as their 
+likeness. If there were one statue representing many men, it is clear that the 
+image or likeness of the statue has a singular and proper existence as it is in 
+this matter, but it has the notion of community insofar as it is common to 
+many things represented. 
+
+
+It pertains to human nature according to its absolute consideration to be 
+predicated of Socrates, although the notion of species does not belong to it 
+according to its absolute consideration but is one of the accidents that befall 
+it as it exists in intellect. Hence species is not predicated of Socrates, as if 
+we Said, ‘Socrates is a species.’ This would necessarily happen if the notion 
+of species belonged to man as it exists in Socrates, or according to its 
+absolute consideration: whatever belongs to man as man is predicated of 
+Socrates insofar as he is a man. 
+
+
+To be predicated belongs to genus as such, since it is part of its definition. 
+For predication is something completed by the action of intellect composing 
+and dividing, having as its basis in reality the unity of those things of which 
+one is said of another. Hence the notion of predicability can be included in 
+the notion of this intention which is the genus, which likewise is completed 
+through the act of the intellect. Nevertheless that to which the intellect 
+attributes the intention of predicability, joining it with another, is not itself 
+the intention of genus, but rather that to which the intellect attributes the 
+intention of genus, for example, to what is signified by the word animal. 
+
+
+Thus it is clear how essence or nature relates to the notion of species. The 
+notion of species is not among the things which belong to the nature 
+according to its absolute consideration, nor is it among the accidents which 
+follow on the existence it has outside the soul, like whiteness and blackness; 
+rather, it is among the accidents which follow on it according to the 
+existence it has in intellect. It is in this way too that the notions of genus 
+and difference belong to it. 
+
+
+CHAPTER 4 
+ESSENCE IN SEPARATED SUBSTANCES 
+
+
+It remains to be seen now how essence is found in separated substances— 
+namely, in the soul, in intelligences and in the first cause. However, 
+although everyone concedes the simplicity of the first cause, some seek to 
+introduce the composition of form and matter into intelligences and in the 
+soul. The author of this position seems to have been Avicebron, in his 
+Fountain of Life. But this position conflicts with the common sayings of the 
+philosophers, since they say that such substances are separated from matter 
+and prove them to be without any matter. The most powerful demonstration 
+of this is found in the faculty of understanding. For it is apparent that forms 
+are actually intelligible only insofar as they are separated from matter and 
+its conditions, and they are made actually intelligible by the power of the 
+understanding substance insofar as they are received in it and are acted 
+upon by it. Therefore every understanding substance must be wholly 
+immune from matter. It has neither a material part nor is it like the material 
+forms impressed in matter. 
+
+
+No one can say that intelligibility is impeded by corporeal matter alone. 
+For if that were the case, since matter is called corporeal only insofar as it is 
+subject to a corporeal form, it would follow that matter has the 
+characteristic of impeding intelligibility from the corporeal form. But this 
+cannot be, because the corporeal form itself is actually intelligible, like 
+other forms, insofar as it is abstracted from matter. Hence in no way is there 
+composition of matter and form in the soul or in the intelligence in such 
+wise that essence in them would be understood as it is in corporeal 
+substances. 
+
+
+But there is a composition of form and existence, hence in the comment 
+on Proposition 9 of the Book of Causes we read that intelligence has form 
+and existence: form meaning there the quiddity itself or the simple nature. 
+
+
+How this is so is easily seen. Things which are so related that one is the 
+cause of the existence of the other are such that the cause can exist without 
+the other, and not vice versa. But such is the relation of matter and form that 
+form gives existence to matter; therefore it is impossible for matter to be 
+without some form, but it is not impossible for there to besome form 
+without matter, since form as form does not have dependence on matter. But 
+if there are forms that can exist only in matter, this is true of them insofar as 
+
+
+they are distant from the first principle which is first and pure act. Those 
+forms which are closest to the first principle, accordingly, are forms as such, 
+subsisting without matter. The entire genus of form does not require matter, 
+as has been said; the forms which do not are called intelligences and it is 
+not necessary that the essences or quiddities of these substances be anything 
+other than form itself. 
+
+
+The essences of complex and simple substances differ in that the essence 
+of the complex is not form alone but is composed of form and matter, 
+whereas the essence of simple substance is form alone. Two other 
+differences flow from this. One is that the essence of complex substance 
+can be signified either as a whole or as a part, which befalls it on account of 
+the designation of matter, as has been said. Therefore it is not in just any 
+way that the essence of the complex thing is predicated of it, for it cannot 
+be said that man is his quiddity. But the essence of the simple thing, which 
+is its form, can be signified only as a whole, since there is nothing apart 
+from form that might be the recipient of form; that is why the essence of the 
+simple substance can be predicated of it. Avicenna said that ‘the quiddity of 
+the simple is the simple thing itself’ because there is nothing else receiving 
+It. 
+
+
+The second difference is that the essence of complex things, because it is 
+received in designated matter, is multiplied according to its division. Hence 
+it happens that some things are specifically the same and numerically 
+different. But the essence of the simple is not received in matter, so there 
+cannot be any multiplication of it. Nor in such substances do we find many 
+individuals of the same species. There are as many species as there are 
+individuals, as Avicenna expressly says. 
+
+
+Although they are forms alone without matter, such substances are not 
+utterly simple nor pure act. They have a tinge of potentiality, which is clear 
+from this — that whatever does not enter into the understanding of an 
+essence or quiddity comes to it from without and is composed with the 
+essence. No essence can be understood without the things that are parts of 
+the essence. But every essence or quiddity can be understood without its 
+existence being understood: for I can understand what a man or phoenix is 
+and yet not know whether they exist in reality. Therefore, it is clear that to 
+exist is other than the essence or quiddity. Unless of course there is 
+something whose quiddity is its very existence. Such a thing is first and 
+one, because it is impossible for there to be a multiplication of anything 
+
+
+except by the addition of some difference, as the nature of genus is 
+multiplied into species; either because form is received in diverse matters, 
+as the nature of species is multiplied in diverse individuals, or because one 
+is absolute and the other received in something, as if there were some 
+separated heat it would be other than a non-separated heat by its very 
+separation. If, however, there is given a thing which is existence alone, 
+subsisting existence itself, this existence would not receive the addition of a 
+difference, since it would not then be existence alone but existence along 
+with some form. Much less would it receive the addition of matter, since 
+then it would not be subsistent but material. Consequently, a thing which is 
+its own existence can only be one, and it must be said that in every other 
+thing its existence is one thing and its quiddity or nature or form other. In 
+intelligences existence must be outside form, and that is why it is said that 
+an intelligence is form and existence. 
+
+
+Whatever belongs to a thing is either caused by the principles of its 
+nature, for example, risible in man; or comes to it from some extrinsic 
+principle, as light to air from the influence of the sun. Existence cannot be 
+caused by the form or quiddity of a thing — I mean as an efficient cause — 
+because in this way a thing would be a cause of itself and produce itself in 
+existence, which is impossible. Therefore it is necessary that each thing 
+whose existence is other than its nature has its existence from another. And 
+because whatever is from another is reduced to what is per se as to its first 
+cause, there must be some thing which is the cause of the being of all things 
+by the fact that it is existence alone, otherwise there would be an infinite 
+regress in causes, since everything which is not existence alone has a cause 
+of its existence, as has been said. It is evident then that an intelligence is 
+form and existence, and that it has existence from the first being who is 
+existence alone, and that this is the first cause, God. 
+
+
+If each thing which receives something from another is in potency to it, 
+and what is received in it is its act, the quiddity or form that is the 
+intelligence is in potency to the existence it receives from God, and that 
+received existence is in the mode of an act. Thus potency and act are found 
+in intelligences, but not form and matter except equivocally. To suffer, to 
+receive, to be a subject, and all such qualities as are found in things by 
+reason of matter, belong equivocally to intellectual substances and 
+corporeal substances, as the Commentator says in De anima 3. And because 
+the quiddity of intelligence is the intelligence itself, its quiddity or essence 
+
+
+is identical with it and the existence it received from God is that whereby it 
+subsists among the things that are. Because of this some say that such 
+substances are composed of that whereby and that which, or, as Boethius 
+says, from what is and existence. 
+
+
+Since potency and act are found in intelligences, it is possible to find a 
+multitude of intelligences, as it would not be if there were no potency in 
+them. Hence the Commentator says in De anima 3 that if the nature of the 
+possible intellect were unknown, we would be unable to find a multitude in 
+separated substances. Therefore the intelligences differ from one another on 
+the basis of grade of potency and act, such that the higher intelligence, 
+which is closer to the First Being, has more act and less potency, and so on 
+accordingly with the others. 
+
+
+The human soul is the lowest level of intellectual substance and its 
+possible intellect relates to intelligible forms as prime matter — which is the 
+bottom of the scale of sensible being — relates to sensible forms, as the 
+Commentator says in De anima 3. The Philosopher compares it to a tablet 
+on which nothing has been written. Because it has more of potency than 
+other intellectual substances, making it close to material things that they 
+might be drawn to participate in its existence. The composition of soul and 
+body results in one existent composite, although that existence as it pertains 
+to soul does not depend on body. Therefore, after the soul come other forms 
+which have more of potency and are closer to matter and which cannot exist 
+apart from matter. Among them there are rank and order extending to the 
+first forms of the elements which are closest to matter; hence the only 
+operation they have follows on the demand of active and passive qualities 
+and of other things which dispose matter for form. 
+
+
+CHAPTER 5 
+DIFFERENT BEINGS, DIFFERENT ESSENCES 
+
+
+In the light of the above it is clear how essence is found in different things. 
+Essence relates to substance in three ways. First there is the one who is 
+God, whose essence is his very existence. Indeed, because his essence is not 
+different from his existence, some philosophers maintain that God has no 
+quiddity or essence. It follows from this that he is not in a genus, because 
+
+
+whatever is in a genus must have a quiddity different from its existence, 
+since the quiddity or nature of the genus and species do not differ in their 
+definitions in the things whose genera and species they are, although they 
+have diverse existence in each. 
+
+
+Though we say that God is existence alone, we ought not to fall into the 
+error of those who say that God is that universal existence whereby each 
+thing formally is. A characteristic of the existence of God is that nothing 
+can be added to it, hence it is distinct from every other existence by its own 
+purity. That is why in the comment on Proposition 9 of the Book of Causes 
+it is said that the individuation of the first cause, which is existence alone, is 
+through its pure goodness. Common existence, however, is understood as 
+neither including nor excluding addition since that would rule out the 
+possibility of understanding it as in a being which is something besides 
+existence. 
+
+
+Similarly too, although He is existence alone, He does not lack any other 
+perfections and worthy properties. Indeed, He has all the perfections which 
+are in all genera, thanks to which He is called simply perfect, as both the 
+Philosopher and the Commentator say in Metaphysics 5, but He has them in 
+a more excellent way than other things: in Him they are one, in others 
+diverse. This is because all these perfections belong to Him according to 
+His simple existence. If something through one quality could perform the 
+activities of all qualities, it would have all qualities in its one quality. That 
+is how God has all perfections in His existence. 
+
+
+In a second way, essence is found in created intelligences whose essence 
+and existence differ, though their essence is without matter. Hence their 
+existence is not absolute, but received, therefore finite and limited to the 
+capacity of the receiving nature. Their nature or quiddity is absolute, not 
+being received in any matter. Hence it is said in the Book of Causes that 
+intelligences are infinite with reference to things below and finite with 
+reference to what is above, for they are finite with respect to their existence, 
+which they receive from above, but they are not limited downward because 
+their forms are not limited to the capacity of any matter receiving them. As 
+has been said, a plurality of individuals of one species is not found in such 
+substances, except in the case of the human soul, and this because of the 
+body with which it is united. And though its individuation depends on body 
+opportunely by way of its beginning, since it only comes to be individuated 
+in the body of which it is the act, it does not follow that its individuation 
+
+
+perishes when body is subtracted. Its absolute existence is individuated by 
+being made the form of this body, but that existence remains individuated 
+for ever. Therefore Avicenna says that the individuation and multiplication 
+of souls depend on body with respect to its beginning but not with respect 
+to its end. 
+
+
+Because quiddity is not the same as existence in these substances, they 
+can be placed in a category and genus and species and difference are found 
+in them, although their proper differences are hidden from us. The essential 
+differences of sensible things are also hidden from us, so they are signified 
+through accidental differences which take their rise from the essential, as a 
+cause is signified by its effect; for example, when biped is given as man’s 
+difference. The proper accidents of immaterial substances are unknown to 
+us so we cannot signify their differences either by essential or accidental 
+differences. 
+
+
+Note too that genus and difference cannot be taken in the same way in 
+these two kinds of substances, because in sensible substance genus is taken 
+from that which is material in the thing and difference from that which is 
+formal in it. Hence Avicenna says at the beginning of his On the Soul that in 
+things composed of matter and form ‘their simple difference is constituted 
+from it’, that is, from the form. Form itself is not the difference, but the 
+principle of the difference, as he says in his Metaphysics. Such a difference 
+is called the simple difference because it is taken from that which is part of 
+the thing’s quiddity, namely its form. However, since immaterial substances 
+are simple quiddities, in them the difference cannot be taken from a part of, 
+but only from the whole of, quiddity. Therefore, at the beginning of On the 
+Soul, Avicenna says that ‘only things composed of matter and form have a 
+simple difference’. 
+
+
+So too in them the genus is drawn from the whole essence, but in a 
+different way. For one separated substance is like another in immateriality, 
+but they differ from one another in grade of perfection according to distance 
+from potentiality and closeness to pure act. In them genus is drawn from 
+what follows on their being immaterial, such as intellectuality or the like, 
+whereas difference is drawn from that which follows on grade of perfection, 
+which however is unknown to us. Nor need these differences be accidental 
+because they are according to greater or lesser perfection, which do not 
+diversify species: the grade of perfection in receiving the same form does 
+not diversify species — the more or less white share in the same nature of 
+
+
+whiteness — but the diverse grades of perfection in these participated forms 
+or natures diversify species, as nature proceeds through grades from plant to 
+animal through things which are intermediate between plant and animal, 
+according to the Philosopher in On the History of Animals 8.1. Again, it is 
+not necessary that the distinction between intellectual substances always be 
+through two true differences, since this cannot happen with anything, as the 
+Philosopher says in On the Parts of Animals 1.2. 
+
+
+In a third way essence is found in substances composed of matter and 
+form, in which existence is received and limited because they receive 
+existence from another and furthermore their nature or quiddity is received 
+in designated matter. Therefore they are finite both upward and downward, 
+and in them there can be a multiplication of individuals of the same species 
+because of the division of designated matter. How essence relates to logical 
+intentions in them has already been discussed. 
+
+
+CHAPTER 6 
+ESSENCE AND ACCIDENTS 
+
+
+Having discussed how it is found in all the kinds of substance, it remains to 
+be seen how essence is found in accidents. Because, as has been said, 
+essence is that which is signified by the definition, accidents will have 
+essence in the same way that they can be defined. But they have an 
+incomplete definition, because they can be defined only by putting their 
+subject into the definition. This is so because they do not exist themselves 
+apart from the subject. But just as substantial existence results from form 
+and matter when they are composed, so accidental existence results when 
+the accident advenes to the subject. Neither substantial form nor matter has 
+a complete essence, because in the definition of substantial form that of 
+which it is the form must be put, and thus its definition is by way of an 
+addition of something outside it, as is the case with the definition of 
+accidental form. For example, the natural philosopher who considers soul 
+only insofar as it is a form of physical body puts body in the definition of 
+soul. 
+
+
+Substantial form and accidental form differ. Substantial form does not 
+have absolute existence in itself apart from the thing that it informs, nor 
+
+
+does the matter to which it advenes. This is why from the conjunction of the 
+two an existence in which a thing subsists in itself results, and something 
+per se one is brought about as well as a certain essence. Hence form, 
+although considered in itself it does not have the complete notion of the 
+essence, is none the less part of the complete essence. 
+
+
+That to which the accident advenes is a being complete in itself, already 
+subsisting in its own existence, and this existence naturally precedes the 
+accident that comes to it. Therefore the supervenient accident accident — the 
+conjunction of itself with that to which it advenes — is not the cause of the 
+existence in which the thing subsists and by which the thing is of itself a 
+being. Rather, it causes a secondary existence without which the subsistent 
+thing can be understood to exist, as the first can be understood without the 
+second. Thus, what is brought about by the composition of accident and 
+subject is accidentally rather than per se one. Thus the accident neither has 
+the notion of a complete essence nor is it a part of a complete essence, but it 
+is essence in a certain respect just as it is a being in a certain respect. 
+
+
+Because what is especially and most truly in any genus is the cause of the 
+other things in that genus — fire, which is the limit of heat, is the cause of 
+heat in warm things, as is said in Metaphysics 2 — so substance, which is 
+first in the genus of being as especially and most truly having essence, must 
+be the cause of accidents, which secondarily and as it were in a certain 
+respect participate in the notion of being. Which occurs variously. For since 
+the parts of substance are matter and form, some accidents chiefly follow on 
+form and others on matter. There is a form whose existence does not depend 
+on matter, namely, the intellectual soul; but matter exists only through form. 
+Hence in the accidents which follow on form there are some that do not 
+share in matter, for example thinking, which is not by means of a bodily 
+organ, as the Philosopher proves in On the Soul 3, and others that do share 
+in matter, for example sensing. But there is no accident following on matter 
+that does not share in matter. 
+
+
+A certain diversity is found among the accidents which follow on matter. 
+For some accidents follow on matter according to an ordering they have to a 
+special form, such as masculine and feminine in animals, a diversity 
+reducible to matter, as is said in Metaphysics 10. Hence, the form of animal 
+being taken away, such accidents remain only equivocally. Others follow on 
+matter according to an ordering to a general form, and these remain when 
+
+
+the special form is taken away, as black pigment is in the Ethiopian from a 
+mixture of elements and not by reason of soul, and therefore after death it 
+remains. 
+
+
+Because a thing is individuated by matter and placed in a genus or 
+species because of its form, the accidents which follow on matter are 
+accidents of the individual, according to which members of the same 
+species differ among themselves. The accidents which follow on form are 
+properties of either genus or species and thus are found in everything which 
+shares in the nature of the genus or species, as risible follows on man’s 
+form, since laughter is occasioned by some awareness in man’s soul. 
+
+
+It should also be noted that accidents in full actuality are sometimes caused 
+by the essential principles, like the heat in fire which is always hot, but 
+sometimes only in aptitude such that they are completed by an external 
+agent, as the diaphaneity of air is completed by the external luminous body. 
+In the latter, the aptitude is an inseparable accident, but the completion that 
+comes from a principle outside the essence of the thing, or which does not 
+enter into the constitution of the thing, is separable, for example to be 
+moved and the like. 
+
+
+It should further be noted that genus, difference and species are 
+understood in accidents differently than they are in substances. From the 
+coming together of substantial form and matter something in itself one 
+results which is properly placed in the category of substance. In substances 
+concrete names which signify the composite are properly said to be in a 
+species or genus, for example, man or animal. Neither form nor matter is in 
+a category in this way, save by way of reduction, as principles are said to be 
+in a genus. Nothing in itself one comes to be from accident and subject; 
+hence from their conjunction no nature results to which the intention of 
+genus or species could be attributed. Hence accidental terms expressed 
+concretely, like white or musical, are not put into a category as species or 
+genera except by reduction, but only as abstractly expressed, like whiteness 
+and music. And since accidents are not composed of matter and form, in 
+them genus cannot be taken from matter or difference from form as they are 
+in composed substances. Genus must first be taken from their very mode of 
+being, insofar as being is said diversely, according to prior and posterior, of 
+the ten genera of category. Thus the definition of quantity is that it is the 
+
+
+measure of substance and quality that it is a disposition of substance, and so 
+with the rest, according to the Philosopher in Metaphysics 9. 
+
+
+Differences in them are taken from the diversity of principles from which 
+they are caused. And because properties are caused by the proper principles 
+of the subject, the subject is put in their definition in the place of difference, 
+if they are abstractly defined — which is how they are properly in a genus — 
+for example, snubness is defined as the curvature of the nose. It is otherwise 
+when they are defined as concretely expressed, for then the subject is put 
+into the definition as the genus, because they would then be defined after 
+the manner of composed substances in which the notion of genus is drawn 
+from matter, for example we say that snub is a curved nose. It is similar 
+when one accident is the principle of another, as action and passion and 
+quantity are principles of relation, and thus it is with reference to these that 
+the Philosopher subdivides relation in Metaphysics 5. However, because the 
+proper principles of accidents are not always manifest, sometimes we take 
+the differences of accidents from their effects, such as dispersion or 
+concentration produces differences of colour, insofar as there is an 
+abundance or paucity of light, from which the different species of colour are 
+caused. 
+
+
+Thus it is clear how essence is found in substance and accident and in 
+complex and simple substance, and how in all these the intentions of 
+universality are logically found — except the First, in whom there is full 
+simplicity and to whom neither the notion of genus and species nor 
+consequently definition belongs because of His simplicity. And that is the 
+end and completion of this discourse. Amen. 
