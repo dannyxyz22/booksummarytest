@@ -36,6 +36,10 @@ O fluxo preferencial é:
 
 **Preservação e retomada:** mantenha lotes, sínteses e revisões em `books/<slug>/`. Registre unidades concluídas, pendências e próxima ação em `progress.md`. A revisão de um resumo longo pode exigir várias rodadas; não reduza a entrega a uma resposta curta no chat.
 
+**Voz do autor:** combine paráfrase e citações breves entre aspas quando a formulação original acrescentar precisão ou força expressiva. Confira cada passagem na fonte, registre seu localizador e identifique traduções próprias. Não há quota por capítulo; as citações fazem parte do orçamento de palavras.
+
+**Maiúsculas reverenciais:** os pronomes que se referem a Deus seguem formas como Ele, Sua, Dele e conhecê-Lo, inclusive nas citações. Confira o referente para manter em minúsculas os pronomes relativos ao autor ou a outras pessoas.
+
 ### Novo planejador editorial
 
 Crie primeiro o mapa de linhas reais em `sections.json`, conforme o [contrato do plano](../.gemini/skills/book-summarizer/references/planning.md). Depois, execute da raiz:

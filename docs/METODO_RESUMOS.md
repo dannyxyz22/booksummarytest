@@ -55,6 +55,8 @@ Não transforme uma experiência mística em promessa universal ou uma tese de e
 
 Não complete informações históricas, citações, milagres ou aprovações eclesiásticas de memória. Se houver contextualização externa necessária, identifique-a como editorial e cite a fonte. Preserve o pensamento do autor antes de tentar harmonizá-lo com outros livros da biblioteca.
 
+Combine a paráfrase com citações breves entre aspas quando a formulação original preservar melhor uma definição, imagem ou exortação. Não há quota de citações: elas devem contribuir para o desenvolvimento, dentro do orçamento total. Confira todas na edição usada e registre os localizadores; se forem traduções próprias, identifique isso em nota editorial breve. O [método da skill](../.gemini/skills/book-summarizer/references/method.md#citações-na-síntese) detalha seleção e revisão.
+
 ## Uso prático e arquivos
 
 Exemplo de pedido:
@@ -72,3 +74,5 @@ As verificações automatizadas cobrem orçamento conservado, mapa completo, fon
 Para comparar o método antigo e o novo, use primeiro capítulos equivalentes de um tratado, uma obra espiritual e uma narrativa. Mantenha fonte, idioma, modelo e alvo iguais; alterne a ordem de apresentação ao revisor. Compare núcleos essenciais preservados, distorções verificadas, correções necessárias, fluidez, palavras e custo/tempo. Depois, teste obras completas para verificar continuidade e omissões no meio e no fim. Não use somente uma nota de outro LLM como resultado.
 
 Esta implementação inclui testes dos auxiliares; não foi realizada uma comparação de resumos integrais de 100–500 páginas. As recomendações devem ser refinadas com essa avaliação, sem prometer que uma porcentagem ou um checklist eliminam erros.
+
+Uma [amostra completa de *A Prática da Presença de Deus*](../books/pratica-presenca-deus/avaliacao-metodo/summaries/pratica-presenca-deus-avaliacao.md) aplica o fluxo à edição local: 10.979 palavras de fonte e 2.351 de resumo (21,41%), cobrindo quatro conversas e quinze cartas. Após avaliação do usuário, a segunda versão incorporou 12 citações breves em tradução própria identificada, todas conferidas na fonte; a primeira versão foi preservada para comparação. O [relatório de revisão](../books/pratica-presenca-deus/avaliacao-metodo/review.md) documenta cobertura, correções e limites. A amostra foi preparada para avaliação, preservando a versão publicada; por ser uma obra curta, não substitui os testes com livros extensos descritos acima.

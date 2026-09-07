@@ -41,11 +41,25 @@ Mantenha um glossário curto de termos técnicos, traduções adotadas e relaç�
 
 ## Voz do Summa Brevis
 
+Use maiúsculas reverenciais nos pronomes pessoais, possessivos e demonstrativos que designam Deus, Jesus Cristo ou o Espírito Santo. Inclua formas contraídas e ligadas ao verbo: Dele, Nele, por Ele, Sua vontade, Aquele, conhecê-Lo, servir-Lhe e ocultar-Se. Determine o referente antes de corrigir: em “Deus forme nele Sua imagem”, “nele” designa a pessoa e “Sua” designa Deus. Nas citações e traduções próprias, mantenha a mesma convenção; se a transcrição de uma edição exigir ajuste de caixa, registre apenas essa normalização editorial, preservando as palavras e o sentido.
+
 Consulte a abertura e seções de obras publicadas de gênero semelhante. Elas são referências de estilo, não fontes para fatos novos. Prefira uma prosa serena, formal e acessível, com H1 para o título e H2/H3 para divisões significativas. Desenvolva os conceitos em parágrafos articulados, sem repetir “o capítulo fala sobre” a cada passagem.
 
 Mantenha a densidade explicativa e a continuidade observadas em *A Síntese Tomista*; para obras espirituais, conserve o tom contemplativo sem fabricar experiências ou metáforas atribuídas ao autor. Não torne todos os livros iguais: preserve a forma argumentativa, narrativa ou epistolar de cada um.
 
 Use listas apenas quando o autor apresenta enumerações cuja estrutura seja relevante. Não crie questionários, exercícios, aplicações devocionais, “lições para hoje” ou glossários públicos se não foram pedidos. O projeto já gera o índice; não o use para inflar a contagem. Evite tabelas no resumo final, pois a exportação PDF não as reproduz integralmente.
+
+## Citações na síntese
+
+Durante a leitura, selecione passagens cuja formulação tenha valor próprio: definições, distinções delicadas, imagens centrais, exortações e conclusões que perderiam força se fossem apenas explicadas. Inclua as que contribuam para a compreensão e para a voz da obra, mantendo a síntese em prosa como estrutura principal. Não é necessário citar toda unidade ou atingir uma proporção de citações.
+
+Integre trechos breves entre aspas duplas, por exemplo: `Ao descrever sua experiência, o autor escreve: “Trecho conferido na fonte.”` Itálico dentro das aspas é opcional; preserve a consistência. Apresente a situação e o interlocutor quando isso delimitar o sentido. Evite introduzir uma frase que a citação apenas repetirá, ou explicá-la novamente sem acrescentar algo.
+
+Na edição de mesmo idioma, transcreva as palavras com fidelidade. Marque supressões internas com `[…]` e acréscimos editoriais indispensáveis com colchetes; nunca una passagens distantes como se fossem uma frase contínua. Preserve negações, condições e quem fala: a fala citada pode ser de um interlocutor ou do editor, não do autor.
+
+Quando a fonte estiver em outro idioma, uma tradução fiel pode aparecer entre aspas, identificada como tradução própria. Uma nota editorial curta no início basta quando todas as citações seguem essa condição; em fontes mistas, identifique as exceções junto aos trechos. Não apresente uma paráfrase livre nem palavras copiadas de outro resumo como tradução literal de uma edição. Se o trecho não puder ser conferido, retire as aspas e use somente uma paráfrase sustentada pela fonte.
+
+Registre em `evidence.md` cada citação escolhida, o texto correspondente da edição consultada, o localizador, a tradução usada quando houver e sua função no resumo. Na revisão final, confira todas as citações e seu contexto, inclusive após cortes e ajustes de fluidez. Elas entram no orçamento de palavras do resumo; a checagem mecânica de extensão não verifica exatidão de citações nem qualidade da tradução.
 
 ## Precisão e atribuição
 
