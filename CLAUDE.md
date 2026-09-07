@@ -1,45 +1,47 @@
-# CLAUDE.md
+# Repository guidance
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This repository maintains the Summa Brevis book-summary library. Read [README.md](README.md) for setup, [docs/CONTEUDO.md](docs/CONTEUDO.md) for editorial workflows, and [docs/OPERACAO.md](docs/OPERACAO.md) for build and deployment behavior. Keep user-facing project documentation in Portuguese.
 
-## Development Commands
+## Project skills
 
-### Web Application (in `webapp/` directory)
-- Install dependencies: `npm install`
-- Start development server: `npm run dev`
-- Build for production: `npm run build`
-- Run linting: `npm run lint`
-- Preview production build: `npm run preview`
-- Deploy to GitHub Pages: `npm run deploy`
+The editorial workflow uses the versioned skills in `.gemini/skills/`. Read the relevant local file before performing its workflow; these are instructions for the agent, not npm scripts. See [docs/SKILLS.md](docs/SKILLS.md) for the verified workflow and discrepancies.
 
-### Summary Processing Scripts
-- Aggregate diary batch summaries: `python scripts/aggregate_diary.py`
-- Build publication-ready summary: `python scripts/build_publication.py`
-- Check word count ratios per batch: `python scripts/check_ratios.py`
-- Verify total summary compression ratio: `python scripts/verify_total.py`
+- [book-summarizer](.gemini/skills/book-summarizer/SKILL.md): draft summaries in the requested language, preserve per-book batches, validate the final 18–22% word ratio, remove process labels, and look for relevant internal book links before publication.
+- [PublishSummary](.gemini/skills/PublishSummary/SKILL.md), declared name `Publicar Novo Resumo` (also called `Publish-summary`): prepare the classical leather-style cover, thumbnail, catalog entry, generated files, and global SEO. Use final Markdown in `summaries/published/`; the skill's suggested `../books/.../summaries/` catalog path differs from the current publication convention.
+- [frontend-design](.gemini/skills/frontend-design/SKILL.md): guide interface composition, typography, colors, motion, and visual refinement when changing the reading experience. It does not define summary compression or write book content.
 
-## Architecture & Structure
+The packaged Python scripts in `.gemini/skills/book-summarizer/scripts/` differ from the root `scripts/` tools. Use explicit paths and the corresponding CLI syntax. The packaged aggregator adds `## Batch N` headings: remove workflow labels in the final editorial pass and revalidate the exact final text. Never automatically delete intermediate batches or syntheses.
 
-The project is a system for summarizing long books and publishing those summaries via a web interface.
+## Commands
 
-### High-Level Flow
-`books/` (Source Text) $\rightarrow$ `summaries/` (Batch Summaries) $\rightarrow$ `scripts/` (Aggregation & Validation) $\rightarrow$ `webapp/public/data/summaries.json` (Web Data) $\rightarrow$ `webapp/` (Frontend)
+Run web commands from `webapp/`:
 
-### Key Directories
-- `books/`: Contains raw source texts and batch-split versions of books.
-- `summaries/`: Stores markdown summaries, both in batch form and final aggregated versions.
-- `scripts/`: Python utilities for aggregating summaries, formatting them for publication, and validating compression ratios.
-- `webapp/`: A React application built with Vite that renders the summaries.
-  - `public/data/summaries.json`: The central catalog of book summaries.
-  - `process_summaries.cjs`: A script used during `predeploy` to prepare data for the build.
+- `npm ci` — install locked dependencies.
+- `node process_summaries.cjs` — regenerate content before local development and after Markdown changes.
+- `npm run dev` — start Vite; it does not regenerate content.
+- `npm run build` — process content, build with Vite, then generate static book routes through `postbuild`.
+- `npm run preview` — inspect the production build locally.
+- `npm run lint` — run ESLint separately from the build.
 
-### Data Model
-The webapp relies on `webapp/public/data/summaries.json` as its database, containing metadata and paths to the summaries.
-### YouTube Video Embeds
-To add a primary header video to a book summary:
-1.  **Edit the source Markdown file** (the path is defined in `webapp/public/data/summaries.json`).
-2.  **Insert the YouTube URL** as the absolute first line of the file, followed by at least one blank line.
-3.  **Run the processing script**: `node webapp/process_summaries.cjs`.
-    - This script extracts the URL and places it in the generated JSON.
-    - The `SummaryViewer.jsx` component detects the URL at the start of the `content` field and renders the responsive player.
-4.  **Do not edit JSON files directly** in `webapp/public/data/books/`, as they are ignored by Git and will be overwritten by the script.
+Production uses the root `netlify.toml`, with base `webapp` and publish directory `dist`. `deploy` and `deploy-redirect` target legacy GitHub Pages, not Netlify.
+
+## Sources and generated files
+
+- Edit final Markdown in `summaries/published/`; keep drafts in `summaries/workspace/` or the existing per-book workspace.
+- Register books in `webapp/public/data/summaries.json`. `path` resolves relative to `webapp/`, not to the JSON directory.
+- Required catalog fields: `id`, `path`, `title`, `author`, `cover`. Preserve existing IDs because they identify routes and downloads.
+- The processor rewrites the catalog, sorts it by title, and recomputes descriptions, reading time and download paths. Review that diff and `webapp/public/sitemap.xml` after processing.
+- Do not edit generated files in `webapp/public/data/books/`, `epubs/`, `pdfs/`, or `webapp/dist/`.
+- Individual processing failures are caught and logged; the resulting catalog can omit failed books even when the command exits successfully. Compare enabled input books with generated outputs.
+- `enabled: false` hides a catalog entry and skips generation. It does not guarantee removal of previously generated files.
+- Originals belong in `webapp/source-covers/`; public thumbnails belong in `webapp/public/assets/covers/thumbs/`.
+
+## Reading and SEO
+
+`App.jsx` loads the catalog and handles browser history. `SummaryViewer.jsx` fetches each book JSON on demand. Put an optional YouTube watch or short URL on the first line of the source Markdown, followed by a blank line; the processor preserves it at the start of the generated `content` field for the viewer.
+
+Preserve the `SEO_DYNAMIC` and `SSG_CONTENT` marker pairs in `webapp/index.html`: the static-route generator relies on them. The SSG content block is hidden; it is not a JavaScript-free reader. Keep the canonical origin consistent across the files listed in the operations guide.
+
+## Editorial utilities
+
+Run Python scripts from the repository root using explicit paths. The skill's helpers and the root tools are documented separately in [docs/SKILLS.md](docs/SKILLS.md) and [docs/CONTEUDO.md](docs/CONTEUDO.md). The Faustina-specific aggregation and verification scripts contain fixed paths and assumptions; inspect them before use. AI-assisted summary creation happens through the skills before the web build, which only processes the resulting Markdown.
