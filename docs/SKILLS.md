@@ -16,27 +16,42 @@ Para usar uma delas, peça ao agente para ler o `SKILL.md` correspondente e apli
 
 ## 1. Criar o texto com book-summarizer
 
-**Entrada:** texto local da obra (ou texto obtido do Project Gutenberg), idioma desejado e slug. Para PDF/EPUB, faça antes a [extração do texto](CONTEUDO.md). A skill aceita a proporção padrão de **20%**, com tolerância de **2 pontos percentuais**: o resumo precisa ter de **18% a 22%** das palavras do original.
+A skill foi ampliada para resumos substanciais de obras de 100–500 páginas. A [pesquisa e a justificativa do método](METODO_RESUMOS.md) explicam a escolha de planejamento global, escrita por seções diretamente do original e revisão em duas direções.
+
+**Entrada:** fonte local, idioma, slug e extensão desejada. Para PDF/EPUB, faça antes a [extração do texto](CONTEUDO.md). O padrão do projeto continua sendo alvo de **20%**, com faixa de **18–22%**, mas uma meta explícita em palavras ou outra proporção prevalece. A extensão é calculada sobre a fonte limpa e identificada, não pelo número de páginas.
 
 Exemplo de pedido:
 
-> Leia `.gemini/skills/book-summarizer/SKILL.md` e resuma `books/minha-obra.txt` em pt-BR, com slug `minha-obra`. Preserve os lotes e valide o texto final na faixa de 18% a 22% antes de incorporá-lo ao catálogo.
+> Leia `.gemini/skills/book-summarizer/SKILL.md` e produza uma síntese extensa de `books/minha-obra.txt` em pt-BR. Mapeie os capítulos, distribua o alvo de 20%, escreva diretamente do original e revise cobertura, fidelidade e distinções teológicas. Preserve os intermediários e entregue o Markdown com um relatório de revisão separado.
 
-O fluxo prescrito é:
+O fluxo preferencial é:
 
-1. Contar as palavras do original e calcular a meta do resumo.
-2. Dividir obras extensas em lotes, normalmente de 3.000 palavras, em `books/<slug>/batches/`.
-3. Escrever os resumos em ordem em `books/<slug>/summaries/`, preservando cronologia e conteúdo das seções.
-4. Agregar os lotes e ajustar a extensão no trecho correspondente da obra. Se faltar conteúdo, expandir a seção pertinente e agregar novamente.
-5. Revisar o texto consolidado: retirar rótulos de lote, metas, notas de validação e comentários de processo; usar títulos editoriais formais e narrativa contínua.
-6. Procurar relações relevantes com livros já publicados e inserir links internos no formato `[Texto](book:slug)`.
-7. Validar o texto final; se estiver fora da faixa, revisá-lo antes de importar. Colocar o resultado aprovado em `summaries/published/<slug>.md` e atualizar o catálogo.
+1. Identificar edição e escopo; preservar a fonte original e registrar a limpeza em `source-map.md`.
+2. Mapear a obra inteira em `sections.json` e distribuir palavras por unidade em `plan.json`.
+3. Ler cada unidade integralmente, registrar núcleos e localizadores em `evidence.md` e manter glossário e continuidade.
+4. Redigir as seções em `books/<slug>/summaries/<id>.md`, voltando ao original para desenvolver argumentos, exemplos e distinções.
+5. Montar o texto por edição de continuidade, preservando a extensão; não resumir outra vez os resumos.
+6. Verificar o arquivo final mecanicamente e revisar fonte → cobertura e resumo → evidência. Registrar a revisão em `review.md`, vinculada ao hash do arquivo.
+7. Entregar o final em `summaries/published/<slug>.md` quando os critérios forem satisfeitos. Capa, cadastro e publicação seguem a `PublishSummary` quando incluídos no pedido.
 
-**Preservação:** a skill proíbe apagar automaticamente lotes e sínteses. Mantenha os intermediários na árvore da obra; `summaries/workspace/` pode receber rascunhos genéricos ou antigos. Para livros muito extensos, o fluxo pode exigir várias rodadas de escrita e revisão; a própria skill alerta para o consumo de tokens.
+**Preservação e retomada:** mantenha lotes, sínteses e revisões em `books/<slug>/`. Registre unidades concluídas, pendências e próxima ação em `progress.md`. A revisão de um resumo longo pode exigir várias rodadas; não reduza a entrega a uma resposta curta no chat.
 
-### Comandos dos scripts empacotados
+### Novo planejador editorial
 
-Execute da raiz do repositório. Substitua os caminhos de exemplo pelos arquivos da obra. Os scripts desta skill usam somente a biblioteca padrão do Python:
+Crie primeiro o mapa de linhas reais em `sections.json`, conforme o [contrato do plano](../.gemini/skills/book-summarizer/references/planning.md). Depois, execute da raiz:
+
+```sh
+python .gemini/skills/book-summarizer/scripts/editorial_plan.py plan books/minha-obra/source.txt --sections books/minha-obra/sections.json --output books/minha-obra/plan.json
+python .gemini/skills/book-summarizer/scripts/editorial_plan.py check books/minha-obra/plan.json --drafts books/minha-obra/summaries --final books/minha-obra/summaries/resumo-final.md
+```
+
+Execute `check` depois de redigir e montar o final. O planejador recusa mapas incompletos e sobrescrita do plano. O verificador detecta fonte alterada, seções ausentes/vazias, extensão fora do contrato e rótulos técnicos; também sinaliza desvios locais e repetições para revisão.
+
+Um resultado `mechanical_checks_passed: true` não certifica conteúdo. Siga os [critérios editoriais e de fidelidade católica](../.gemini/skills/book-summarizer/references/method.md) para conferir o original, as atribuições e as omissões. Nenhum desses scripts chama um modelo ou publica conteúdo.
+
+### Auxiliares legados dos scripts empacotados
+
+Estes comandos continuam disponíveis para trabalhos antigos. Para o fluxo novo, use o plano acima; os auxiliares legados não mantêm mapa de cobertura nem evidência. Execute da raiz do repositório. Os scripts usam somente a biblioteca padrão do Python:
 
 ```sh
 python .gemini/skills/book-summarizer/scripts/book_tools.py count books/minha-obra.txt
@@ -107,11 +122,11 @@ A interface atual usa Cormorant Garamond nos títulos, Lora no texto, Inter nos 
 
 | Ponto | O que foi encontrado e como interpretar |
 | --- | --- |
-| Destino do Markdown final | A `PublishSummary` sugere `../books/<slug>/summaries/...`; a `book-summarizer` define `summaries/published/`, destino usado pelo catálogo atual. Este guia adota o armazenamento central para publicação. |
+| Destino do Markdown final | As duas skills agora usam `summaries/published/`; a referência antiga de publicação a `books/<slug>/summaries/` foi corrigida. |
 | Agregação e acabamento editorial | O agregador empacotado adiciona rótulos `Batch`, enquanto a skill exige removê-los do resultado publicado. A revisão entre agregação e validação final é necessária. |
 | Ferramenta de imagem | A `PublishSummary` cita `generate_image`; o nome concreto da ferramenta depende do ambiente. `generate_thumbs.py` só transforma uma imagem existente. |
-| Formatos gerados | A etapa 5 da `PublishSummary` destaca EPUB; o processador também gera PDF, JSON e sitemap. |
-| SEO global | A skill descreve quatro listas em `index.html`; a `meta description` principal atual é curta, enquanto Open Graph, Twitter e JSON-LD listam títulos. Revise cada campo conforme seu formato. |
+| Formatos gerados | A `PublishSummary` foi atualizada para descrever JSON, EPUB, PDF e sitemap, além de exigir a conferência dos logs. |
+| SEO global | A skill agora distingue a descrição principal curta das listas de títulos nos outros metadados. Revise cada campo conforme seu formato. |
 | Licença da frontend-design | O frontmatter aponta para `LICENSE.txt`, mas esse arquivo não acompanha a cópia local. Não é possível verificar os termos completos por essa referência no repositório. |
 
-Existe ainda [CathSummary.md](../.gemini/skills/CathSummary.md), uma instrução editorial adicional. Ela declara 10–20% na descrição e 20–30% nas regras, com meta de 25%; não a confunda com a faixa de 18–22% da `book-summarizer`. Este guia documenta as três skills indicadas para o fluxo atual, mantendo explícitas essas diferenças.
+O arquivo [CathSummary.md](../.gemini/skills/CathSummary.md) agora encaminha ao método da `book-summarizer`, evitando duas regras concorrentes de extensão. A antiga meta de 25% pode ser usada quando explicitamente solicitada, com a faixa correspondente registrada no plano.

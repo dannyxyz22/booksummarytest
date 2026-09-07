@@ -1,37 +1,12 @@
 ---
 name: CathSummary
-description: A robust workflow for summarizing large Catholic books (100k+ words) with 10-20% compression ratio using batching and master summary aggregation.
+description: Referência de compatibilidade para pedidos antigos de resumos católicos extensos; encaminha ao método atual da book-summarizer.
 ---
 
-# CathSummary Skill
+# CathSummary — compatibilidade
 
-Use this skill for summarizing large books (>100,000 words) where a single-pass summary would lose too much detail.
+Para novos trabalhos, leia e aplique [book-summarizer/SKILL.md](book-summarizer/SKILL.md), que reúne planejamento de extensão, escrita por seções, preservação de intermediários e revisão de fidelidade católica.
 
-## Rules
-- **Compression Ratio**: 20% to 30% (Target 25%).
-- **Batch Input**: ~2,500 to 3,000 words per iteration.
-- **Batch Output**: 20% to 30% of the input batch (e.g., 500 - 900 words).
-- **Format**: Portuguese (pt-BR) with standard accents.
-- **Orthography**: 
-    - Faça o resumo e depois revise a ortografia cuidadosamente.
-    - Não invente termos.
-    - Use ortografia padrão do português brasileiro.
-- **Continuity**: Process all batches without asking for user confirmation until the final result is ready.
-- **Fluidity**: Remove all technical references to the process. No mentions of "Batch", "Lote", "Compression", or "Ratio". The final text must be a cohesive, flowing narrative.
-- **Structure**:
-    1. **Master Summary**: A high-level overview (no technical titles like "Master Summary"). Use a narrative title related to the book.
-    2. **Body**: The combined summaries from all segments, merged seamlessly without segment headers.
+Esta instrução antiga misturava 10–20% na descrição com 20–30% nas regras. O padrão atual é alvo de 20%, faixa de 18–22%, salvo extensão explícita do usuário. Se um pedido retomar expressamente a antiga meta de 25% com faixa de 20–30%, registre `--ratio 0.25 --tolerance 0.05` no novo planejador; não aplique duas metas simultaneamente.
 
-## Workflow
-1. **Estimate**: Use `scripts/book_tools.py estimate` to find the number of 3,000-word batches.
-2. **Process**: Iterate through the book. For each batch:
-    - Extract text.
-    - Summarize in pt-BR (targeting 20-30% length).
-    - Save to `summaries/batch_N.md`.
-3. **Aggregate**: Use `scripts/book_tools.py aggregate` to combine all batch summaries.
-4. **Refine**: Carefully remove all technical headers (e.g., "# Resumo de Lote X") and merge the text into a fluid narrative.
-5. **Master Summary**: Generate a high-level overview and prepend it.
-6. **Finalize**: Ensure the final document is titled appropriately and lacks any process meta-commentary.
-
-## Tools
-- `scripts/book_tools.py`: count, estimate, aggregate.
+Mantenha pt-BR revisado, fluidez narrativa e ausência de rótulos de processo no resultado público. A visão geral faz parte do orçamento total, sem repetir extensamente o corpo. Os arquivos intermediários existentes devem ser preservados.

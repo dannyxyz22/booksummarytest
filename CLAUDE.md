@@ -6,11 +6,13 @@ This repository maintains the Summa Brevis book-summary library. Read [README.md
 
 The editorial workflow uses the versioned skills in `.gemini/skills/`. Read the relevant local file before performing its workflow; these are instructions for the agent, not npm scripts. See [docs/SKILLS.md](docs/SKILLS.md) for the verified workflow and discrepancies.
 
-- [book-summarizer](.gemini/skills/book-summarizer/SKILL.md): draft summaries in the requested language, preserve per-book batches, validate the final 18–22% word ratio, remove process labels, and look for relevant internal book links before publication.
-- [PublishSummary](.gemini/skills/PublishSummary/SKILL.md), declared name `Publicar Novo Resumo` (also called `Publish-summary`): prepare the classical leather-style cover, thumbnail, catalog entry, generated files, and global SEO. Use final Markdown in `summaries/published/`; the skill's suggested `../books/.../summaries/` catalog path differs from the current publication convention.
+- [book-summarizer](.gemini/skills/book-summarizer/SKILL.md): freeze and map the source, budget words by section, draft directly from the source, and review coverage and fidelity in both directions. Default to 20% (18–22% accepted) unless the user specifies another length. Preserve Catholic distinctions and attribution, intermediate files, and a separate evidence/review trail. See [docs/METODO_RESUMOS.md](docs/METODO_RESUMOS.md).
+- [PublishSummary](.gemini/skills/PublishSummary/SKILL.md), declared name `Publicar Novo Resumo` (also called `Publish-summary`): prepare the classical leather-style cover, thumbnail, catalog entry, generated files, and global SEO. Use final Markdown in `summaries/published/` and retain the source/review files in the book workspace.
 - [frontend-design](.gemini/skills/frontend-design/SKILL.md): guide interface composition, typography, colors, motion, and visual refinement when changing the reading experience. It does not define summary compression or write book content.
 
-The packaged Python scripts in `.gemini/skills/book-summarizer/scripts/` differ from the root `scripts/` tools. Use explicit paths and the corresponding CLI syntax. The packaged aggregator adds `## Batch N` headings: remove workflow labels in the final editorial pass and revalidate the exact final text. Never automatically delete intermediate batches or syntheses.
+Use the new `.gemini/skills/book-summarizer/scripts/editorial_plan.py` to create a section budget and check the final artifact. A passing mechanical check does not certify semantic coverage or theological accuracy; document the separate review against the final file hash. Merge by editing continuity, not by summarizing the summaries again.
+
+The legacy packaged Python scripts differ from the root `scripts/` tools. Use explicit paths and the corresponding CLI syntax. The legacy packaged aggregator adds `## Batch N` headings: remove workflow labels in the final editorial pass and revalidate the exact final text. Never automatically delete intermediate batches or syntheses.
 
 ## Commands
 

@@ -20,6 +20,8 @@ Antes de começar o fluxo, você (a IA) deve pedir ao usuário:
 
 ## Política de preservação de intermediários
 
+Para um resumo produzido pela `book-summarizer`, confira a versão final e o relatório `books/<slug>/review.md`, incluindo extensão contratada, cobertura e revisão de fidelidade. Um resultado mecânico de `editorial_plan.py check` não substitui essa revisão. Se o usuário trouxer um texto final externo, respeite esse escopo e não alegue que ele passou por validações que não foram realizadas.
+
 - Nunca apagar automaticamente arquivos intermediários de batches e sínteses.
 - Manter cada obra isolada em:
     - `books/<book-name>/batches`
@@ -65,21 +67,21 @@ O arquivo `webapp/public/data/summaries.json` é a **fonte de verdade** do catá
         "cover": "assets/covers/{nome-do-arquivo-de-capa}"
     }
 ```
-Para manter consistência entre obras, prefira caminhos finais no padrão `../books/<book-name>/summaries/<arquivo-final>.md` sempre que aplicável.
+Use `path: "../summaries/published/{id-do-livro}.md"` para o resumo final. Preserve rascunhos, lotes e registros de revisão em `books/<book-name>/`. Para `cover`, prefira `assets/covers/thumbs/{id-do-livro}.webp`.
 
 Os campos `description`, `readingTime`, `epubPath` e `pdfPath` serão gerados automaticamente pelo script no passo seguinte.
 
-### 5. Processar o Banco e Gerar o EPUB
+### 5. Processar o Catálogo e Gerar os Arquivos
 Abra um terminal, certifique-se de estar no diretório `webapp/` (ex: `cd webapp`) e rode o script vital do projeto:
 `node process_summaries.cjs`
-*(Isso atualizará o arquivo summaries.json e gerará o EPUB automaticamente).*
+Isso reescreve o catálogo e gera JSON, EPUB, PDF e sitemap. Confira os logs e se todos os livros esperados foram gerados; erros individuais podem não interromper o processo.
 
 ### 6. Atualizar o Meta Description Global (SEO)
-O site mantém um `<meta name="description">` global em `webapp/index.html` e uma constante `DEFAULT_DESCRIPTION` em `webapp/src/App.jsx` que listam os títulos de **todos** os livros do catálogo. Após adicionar um novo livro, atualize essas duas listas para incluir o novo título.
+Revise as descrições globais em `webapp/index.html` e `DEFAULT_DESCRIPTION` em `webapp/src/App.jsx`. Inclua a nova obra nas listas editoriais pertinentes. A `meta description` principal atual é curta; mantenha a coerência sem transformá-la obrigatoriamente em uma lista de todos os títulos.
 
 **Locais a editar:**
 
-1. **`webapp/index.html`** — dentro do bloco `<!-- SEO_DYNAMIC_START -->`, atualize os quatro atributos que contêm a lista de títulos:
+1. **`webapp/index.html`** — dentro do bloco `<!-- SEO_DYNAMIC_START -->`, revise os quatro campos de descrição:
    - `<meta name="description" content="... {Novo Título} ...">`
    - `<meta property="og:description" content="...">`
    - `<meta name="twitter:description" content="...">`
@@ -90,7 +92,7 @@ O site mantém um `<meta name="description">` global em `webapp/index.html` e um
 > **Nota sobre SEO por página:** O script `webapp/scripts/generate-static-book-routes.cjs` gera automaticamente páginas estáticas com SEO individualizado para cada livro (título, descrição, `og:image`, `canonical`, JSON-LD `Book` schema) durante o `npm run build`. Não é necessário editá-lo ao adicionar novos livros — ele lê os dados diretamente do `summaries.json`.
 
 ### 7. Finalizar 
-Avise ao usuário que a publicação do novo volume está concluída, mostre a prévia da capa que você gerou, e oriente-o a visualizar no ambiente local (`http://localhost:5173/`).
+Execute `npm run build` em `webapp/` para gerar as rotas estáticas, confira a leitura e os downloads no preview e mostre a capa. Informe que a preparação local está concluída. Só afirme publicação remota quando um deploy autorizado tiver sido realizado e verificado; a hospedagem atual é Netlify, conforme `netlify.toml`.
 
 ### 8. Regra para ajustes de conteúdo (quando necessário)
 Se for necessário aumentar ou reduzir conteúdo do resumo, edite o trecho correlacionado dentro do arquivo/seção de origem em `books/<book-name>/summaries` (ou no batch correspondente) e regenere o resultado. Não criar seções soltas de "expansão" fora da ordem natural da obra.

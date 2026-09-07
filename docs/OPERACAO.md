@@ -6,7 +6,7 @@
 
 | Etapa | Entrada | Saída e comportamento |
 | --- | --- | --- |
-| Criação com `book-summarizer` | Obra original e idioma solicitado | Resumos escritos pelo agente, lotes preservados e final revisado com proporção de 18% a 22%. |
+| Criação com `book-summarizer` | Fonte identificada, idioma e plano de extensão | Seções escritas do original, evidência e revisão de cobertura/fidelidade; padrão de 18–22%, salvo outro contrato de extensão. |
 | Publicação com `PublishSummary` | Markdown validado, metadados e preferências da capa | Final em `summaries/published/`, capa, miniatura, cadastro e revisão do SEO global. |
 | Design com `frontend-design`, quando necessário | Requisitos de apresentação e leitura | Componentes, estilos e interações no webapp. |
 | Processamento | Catálogo e Markdown referenciado | JSON por livro, EPUB, PDF, catálogo ordenado e sitemap. |
@@ -15,6 +15,8 @@
 | Leitura | Catálogo público e rota | O navegador busca o JSON completo do livro ao abri-lo. |
 
 As skills são instruções para o agente durante a criação editorial e visual. Elas não são executadas por `npm run build`: a geração de texto e capa acontece antes do processamento Node. Consulte [SKILLS.md](SKILLS.md) para as fontes locais e diferenças verificadas entre instruções e implementação.
+
+O [método editorial](METODO_RESUMOS.md) usa `editorial_plan.py` para verificar mapa, fonte, rascunhos e extensão. Mesmo com código de saída 0, a revisão semântica continua necessária; o relatório editorial fica em `books/<slug>/review.md`, fora do conteúdo público.
 
 [process_summaries.cjs](../webapp/process_summaries.cjs) calcula tempo de leitura a 200 palavras/minuto e extrai uma descrição de até aproximadamente 400 caracteres a partir do primeiro parágrafo elegível. Ele remove arquivos órfãos das pastas de JSONs, EPUBs e PDFs comparando seus nomes com os IDs do catálogo, inclusive IDs desabilitados.
 
@@ -76,3 +78,9 @@ Antes de enviar uma mudança para a branch publicada, execute o build e confira 
 | `npm run lint` falha, mas o build passa | São verificações separadas. Inspecione as mensagens do ESLint; build bem-sucedido não implica lint limpo. |
 
 Não há script `npm test` no `package.json`. Para alterações de conteúdo, confira os artefatos esperados e os logs; para alterações da interface, execute também o lint e teste a navegação e a leitura no navegador.
+
+Os testes do planejador editorial são independentes do webapp. Execute da raiz:
+
+```sh
+python -B -m unittest discover -s .gemini/skills/book-summarizer/scripts/tests -v
+```

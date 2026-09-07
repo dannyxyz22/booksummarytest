@@ -4,7 +4,9 @@
 
 ## Criar e validar o resumo com as skills
 
-O fluxo editorial começa com a [book-summarizer](../.gemini/skills/book-summarizer/SKILL.md): o agente escreve os lotes no idioma solicitado, preserva a ordem da obra e valida o resumo consolidado entre 18% e 22% das palavras do original. Os textos divididos ficam em `books/<slug>/batches/` e os resumos intermediários em `books/<slug>/summaries/`. Preserve esses materiais após publicar.
+O fluxo editorial começa com a [book-summarizer](../.gemini/skills/book-summarizer/SKILL.md): o agente fixa a fonte, mapeia os capítulos, distribui o orçamento de palavras e escreve diretamente do original. O padrão é 20%, com faixa de 18–22%; uma extensão explicitamente solicitada prevalece. Os textos divididos ficam em `books/<slug>/batches/` e os resumos intermediários em `books/<slug>/summaries/`. Preserve esses materiais após publicar.
+
+Use o [método de resumo](METODO_RESUMOS.md) e o [planejador](../.gemini/skills/book-summarizer/references/planning.md) para preparar `source-map.md`, `sections.json` e `plan.json`. Registre os núcleos e localizadores em `evidence.md`; a revisão final em `review.md` deve verificar cobertura, fidelidade e precisão teológica, além da contagem. O build não faz essa revisão.
 
 Antes de promover o texto a `summaries/published/`, retire rótulos de lote, metas de compressão e notas de processo; revise a continuidade e procure relações relevantes com livros já publicados usando links `book:<slug>`. Ajustes de extensão devem ocorrer na seção ou lote correspondente, seguidos de nova agregação e validação.
 
@@ -16,7 +18,7 @@ O [guia das skills](SKILLS.md) detalha os papéis, exemplos de pedidos e comando
 
 Salve o texto final em UTF-8 em `summaries/published/<id>.md`. Use um identificador estável, preferencialmente em minúsculas e com hífens. O `id` determina a URL `/book/<id>/` e os nomes dos downloads; não o altere apenas para corrigir o título.
 
-A `PublishSummary` ainda sugere um caminho final em `books/<slug>/summaries/`. Para este fluxo, siga o armazenamento central definido pela `book-summarizer` e utilizado pelo catálogo atual: finais em `summaries/published/`, intermediários na árvore da obra.
+As skills de resumo e publicação usam o armazenamento central: finais em `summaries/published/`, intermediários e registros de revisão na árvore da obra.
 
 Adicione um objeto ao array de [summaries.json](../webapp/public/data/summaries.json). Exemplo para um livro novo (substitua os valores e crie os arquivos correspondentes):
 
@@ -118,13 +120,13 @@ python scripts/book_tools.py count books/meu-livro.txt
 python scripts/book_tools.py target books/meu-livro.txt --ratio 0.20
 ```
 
-Depois de escrever e revisar os resumos dos lotes, salve-os como `batch_1_resumo.md`, `batch_2_resumo.md` etc. A concatenação reconhece especificamente `batch_<numero>_resumo.md`, ordena numericamente e preserva os títulos por padrão:
+Para lotes legados, os nomes `batch_1_resumo.md`, `batch_2_resumo.md` etc. permitem usar o comando abaixo, que reconhece especificamente `batch_<numero>_resumo.md`, ordena numericamente e preserva os títulos. No novo plano, os rascunhos têm o nome do ID de cada seção, como `cap-01.md`; monte-os na ordem de `plan.json`, pois esse concatenador não reconhece tais nomes.
 
 ```sh
 python scripts/concat_batch_summaries.py books/meu-livro/summaries --output books/meu-livro/summaries/meu-livro_Resumo.md --title "Meu Livro"
 python scripts/verify_summary_ratio.py books/meu-livro.txt books/meu-livro/summaries/meu-livro_Resumo.md
 ```
 
-Use `--strip-headings` na concatenação apenas quando quiser remover o primeiro cabeçalho de cada lote. Faça a revisão editorial e valide novamente antes de colocar o final em `summaries/published/`. O verificador aceita a faixa de **18% a 22%** e retorna código 1 fora dela ou em caso de erro. Essa faixa é um critério obrigatório da `book-summarizer`; o build web não a verifica automaticamente.
+Use `--strip-headings` na concatenação apenas quando quiser remover o primeiro cabeçalho de cada lote. Faça a revisão editorial e valide novamente antes de colocar o final em `summaries/published/`. Esse verificador legado aceita a faixa fixa de **18% a 22%** e retorna código 1 fora dela ou em caso de erro. No fluxo novo, `editorial_plan.py check` usa a faixa registrada no plano; não aplique a faixa fixa a um pedido com outra extensão. O build web não executa esses verificadores.
 
 `aggregate_diary.py`, `build_publication.py`, `check_ratios.py` e `verify_total.py`, em `scripts/`, são utilitários históricos específicos do Diário de Santa Faustina. Eles contêm caminhos fixos, diretórios antigos ou pressupostos sobre a quantidade de lotes. Não são o fluxo genérico para cadastrar novos livros.

@@ -4,7 +4,7 @@
 
 Biblioteca de resumos de livros, com foco em obras católicas, filosofia e literatura. Publica textos revisados em Markdown para leitura na web e download em EPUB e PDF.
 
-[Site](https://summa.legatuschristi.org) · [Skills do projeto](docs/SKILLS.md) · [Publicar um livro](docs/CONTEUDO.md) · [Arquitetura e operação](docs/OPERACAO.md)
+[Site](https://summa.legatuschristi.org) · [Método de resumo](docs/METODO_RESUMOS.md) · [Skills do projeto](docs/SKILLS.md) · [Publicar um livro](docs/CONTEUDO.md) · [Arquitetura e operação](docs/OPERACAO.md)
 
 Os resumos são criados com assistência de IA orientada pelas skills versionadas em `.gemini/skills/`. A `book-summarizer` conduz a escrita e validação; a `PublishSummary` prepara a capa e a publicação; a `frontend-design` orienta a apresentação na interface. Depois dessa etapa, o build transforma o Markdown final em arquivos públicos, sem executar as skills automaticamente.
 
@@ -12,11 +12,13 @@ Os resumos são criados com assistência de IA orientada pelas skills versionada
 
 | Skill | Papel no fluxo |
 | --- | --- |
-| [book-summarizer](.gemini/skills/book-summarizer/SKILL.md) | Resume a obra por lotes no idioma solicitado, preserva os intermediários e exige validação de 18% a 22% das palavras originais. |
+| [book-summarizer](.gemini/skills/book-summarizer/SKILL.md) | Planeja palavras por seção, escreve do original e revisa cobertura, fidelidade e precisão católica. Usa 20% como alvo padrão, com faixa de 18–22%, salvo outra extensão solicitada. |
 | [PublishSummary — Publicar Novo Resumo](.gemini/skills/PublishSummary/SKILL.md) | Usa o resumo final para gerar capa clássica, miniatura, registro no catálogo, arquivos de leitura e atualização do SEO global. |
 | [frontend-design](.gemini/skills/frontend-design/SKILL.md) | Orienta tipografia, cores, composição e interações das páginas e componentes de leitura. |
 
 Consulte o [guia das skills](docs/SKILLS.md) para exemplos de pedidos, comandos dos scripts empacotados e diferenças entre as instruções e o código atual. `Publish-summary` corresponde à pasta `PublishSummary`, cujo nome declarado é **Publicar Novo Resumo**.
+
+Para obras de 100 a 500 páginas, o [método de resumo](docs/METODO_RESUMOS.md) explica a pesquisa, as metas de extensão e a revisão. O novo `editorial_plan.py` distribui o orçamento e verifica fonte, rascunhos e tamanho final; a avaliação do conteúdo continua sendo uma etapa editorial.
 
 ## Início rápido
 
@@ -53,7 +55,7 @@ Após editar um resumo ou o catálogo durante o desenvolvimento, execute novamen
 
 ## Como o projeto funciona
 
-1. A `book-summarizer` orienta o agente a resumir a obra, salvar lotes em `books/<slug>/` e validar o texto consolidado.
+1. A `book-summarizer` orienta o agente a mapear a obra, distribuir a extensão, redigir seções em `books/<slug>/` e revisar o texto consolidado contra o original.
 2. O resumo validado vai para `summaries/published/`; a `PublishSummary` orienta capa, cadastro em `webapp/public/data/summaries.json` e SEO global. A `frontend-design` é aplicada quando a interface precisa ser criada ou ajustada.
 3. O processador lê o catálogo, insere um índice de títulos e gera conteúdo, downloads e metadados.
 4. O React carrega o catálogo e busca o JSON completo quando o leitor abre um livro.
